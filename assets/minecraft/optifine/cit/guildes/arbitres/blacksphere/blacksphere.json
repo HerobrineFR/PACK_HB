@@ -1,0 +1,35 @@
+{
+	"parent": "assets/minecraft/mcpatcher/models/sphere",
+	"textures": {
+		"texture": "./blacksphere"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale":  [ 0.08, 0.08, 0.08 ]
+		},
+		"thirdperson_lefthand": {
+			"scale":  [ 0.08, 0.08, 0.08 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ 0, 1.3913, 0 ],
+			"scale":  [ 0.0825, 0.0825, 0.0825 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ 0, 1.3913, 0 ],
+			"scale":  [ 0.0825, 0.0825, 0.0825 ]
+		},
+		"gui": {
+			"scale":  [ 0.216, 0.216, 0.216 ]
+		},
+		"head": {
+			"translation":  [ 0, -15, 0 ],
+			"scale":  [ 1.33, 1.33, 1.33 ]
+		},
+		"ground": {
+			"scale":  [ 0.1333, 0.1333, 0.1333 ]
+		},
+		"fixed": {
+			"scale":  [ 0.1333, 0.1333, 0.1333 ]
+		}
+	}
+}

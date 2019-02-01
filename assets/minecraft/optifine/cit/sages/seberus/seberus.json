@@ -1,0 +1,40 @@
+{
+	"__comment": "Designed by Miranthir with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"texture": "./seberus"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "PlaneZ1",
+			"from": [ 0, 0, 8 ],
+			"to": [ 16, 8, 8.001 ],
+			"faces": {
+				"north": { "uv": [ 0, 8, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 8, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 90 ],
+			"translation":  [ -2, 0, -4 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 90, 0, 90 ],
+			"translation":  [ -2, 0, -4 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"translation":  [ 3.29, 1.64, -6.45 ],
+			"scale":  [ 0.2125, 0.2125, 0.2125 ]
+		},
+		"ground": {
+			"translation":  [ 0, 1.5, 0 ],
+			"scale":  [ 0.2125, 0.2125, 0.2125 ]
+		},
+		"fixed": {
+			"translation":  [ 0, 4, 0 ]
+		}
+	}
+}

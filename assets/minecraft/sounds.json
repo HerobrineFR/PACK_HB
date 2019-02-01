@@ -1,0 +1,137 @@
+{
+  "hb.laugh": {
+    "sounds": [
+      "hb/laugh"
+    ]
+  },
+  "hb.whisp": {
+    "sounds": [
+      "hb/whisp"
+    ]
+  },
+  "hb.gataca": {
+    "sounds": [
+      "hb/gataca"
+    ]
+  },
+  "hb.mange": {
+    "sounds": [
+      "hb/mange"
+    ]
+  },
+  "hb.queveuxtu": {
+    "sounds": [
+      "hb/queveuxtu"
+    ]
+  },
+  "hb.rejoinsnous": {
+    "sounds": [
+      "hb/rejoinsnous"
+    ]
+  },
+  "hb.rire": {
+    "sounds": [
+      "hb/rire"
+    ]
+  },
+  "hb.souffle": {
+    "sounds": [
+      "hb/souffle"
+    ]
+  },
+  "hb.toto": {
+    "sounds": [
+      "hb/toto"
+    ]
+  },
+  "hb.breath": {
+    "sounds": [
+      "hb/breath"
+    ]
+  },
+  "hb.scream": {
+    "sounds": [
+      "hb/scream"
+    ]
+  },
+  "hb.energy": {
+    "sounds": [
+      "hb/energy"
+    ]
+  },
+  "hb.monster": {
+    "sounds": [
+      "hb/monster"
+    ]
+  },
+  "hb.heart": {
+    "sounds": [
+      "hb/heart"
+    ]
+  },
+  "hb.moan": {
+    "sounds": [
+      "hb/moan"
+    ]
+  },
+    "notes.basedrum2": {
+    "sounds": [
+      "notes/basedrum2"
+    ]
+  },
+    "notes.basedrum6": {
+    "sounds": [
+      "notes/basedrum6"
+    ]
+  },
+    "notes.bass2": {
+    "sounds": [
+      "notes/bass2"
+    ]
+  },
+    "notes.bass6": {
+    "sounds": [
+      "notes/bass6"
+    ]
+  },
+    "notes.harp2": {
+    "sounds": [
+      "notes/harp2"
+    ]
+  },
+    "notes.harp6": {
+    "sounds": [
+      "notes/harp6"
+    ]
+  },
+    "notes.hat2": {
+    "sounds": [
+      "notes/hat2"
+    ]
+  },
+    "notes.hat6": {
+    "sounds": [
+      "notes/hat6"
+    ]
+  },
+    "notes.snare2": {
+    "sounds": [
+      "notes/snare2"
+    ]
+  },
+    "notes.snare6": {
+    "sounds": [
+      "notes/snare6"
+    ]
+  },
+    "notes.pling2": {
+    "sounds": [
+      "notes/pling2"
+    ]
+  },
+    "notes.pling6": {
+    "sounds": [
+      "notes/pling6"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./seringue_overlay",
+        "layer1": "./seringue_preparee"
+    }
+}

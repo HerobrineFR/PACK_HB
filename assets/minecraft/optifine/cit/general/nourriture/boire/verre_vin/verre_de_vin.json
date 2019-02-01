@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./verre_de_vin_liquide",
+        "layer1": "./verre_de_vin_contour"
+    }
+}
