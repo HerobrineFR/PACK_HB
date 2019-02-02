@@ -2,9 +2,9 @@
     "variants": {
         "": [
             { "model": "block/purpur_block" },
-            { "model": "models/purpur_block_mirrored" },
+            { "model": "block/purpur_block_mirrored" },
             { "model": "block/purpur_block", "y": 180 },
-            { "model": "models/purpur_block_mirrored", "y": 180 }
+            { "model": "block/purpur_block_mirrored", "y": 180 }
         ]
     }
 }
