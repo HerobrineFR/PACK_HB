@@ -3,7 +3,7 @@
 	"textures": {
 		"texture": "./seberus"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "PlaneZ1",
 			"from": [ 0, 0, 8 ],

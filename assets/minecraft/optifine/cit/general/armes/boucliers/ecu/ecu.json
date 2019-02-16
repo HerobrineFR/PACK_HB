@@ -265,8 +265,10 @@
             "translation": [ 0, 0, 0 ]
         },
         "ground": {
-            "rotation": [ 90, 90, 90 ],
-            "translation": [ 0, 2, 0]
+            "rotation": [ -90, 90, 90 ],
+            "translation": [ 0, 3, 0],
+			"scale":[ 0.6, 0.6, 0.6 ]
+			
         }
 	},
 	"groups": [
