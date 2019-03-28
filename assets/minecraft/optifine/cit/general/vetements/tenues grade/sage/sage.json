@@ -1,6 +1,5 @@
 {
 	"textures": {
-		"particle": "sage",
 		"sage": "./sage_atlas"
 	},
 	"elements": [
