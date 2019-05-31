@@ -48,24 +48,6 @@
 		},
 
 		{
-			"id" : "noleftarm",
-			"model" : "bras_gauche_vide.jpm",
-			"part": "left_arm",
-			"attach": true,
-			"rotate" : [0,0,0],
-			"translate" : [-8,0,0]
-		},
-
-		{
-			"id" : "norightarm",
-			"model" : "bras_droit_vide.jpm",
-			"part": "right_arm",
-			"attach": true,
-			"rotate" : [0,0,0],
-			"translate" : [-8,0,0]
-		},
-
-		{
 			"id" : "rightleg",
 			"model" : "jambe_droite.jpm",
 			"attach": true,
