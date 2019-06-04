@@ -6,12 +6,13 @@ Créé par BL !
 §f§l- -§r
 Découvrez aussi Hrobrin.be, le roleplay sur Minceraft !
 Maintenant en version 1.13.2 !
+Maintenant jouable en apnée !
 Maintenant sous l'eau !
 Maintenant sous l'océan !
 Maintenant présent sous l'eau !
 §3§lSOUS L'OCEAN !§r
 Poissons ! Poissons ! Poissons !
-Avec de vrais morceaux de crabe !
+Avec de véritables morceaux de crabe !
 Blblblblbl...
 Des bulles ! Des bulles !
 ROLL 100 !!
@@ -25,10 +26,7 @@ Faites moi un roll 30 s'il vous plaît.
 Découvrez aussi Epimanity.com !
 Découvrez aussi Naheulcraft.com !
 imgur.com/HeY3A4T.png
-2-2-3-2
-1-1-1-2
-1-2-3-4
-4-4-4-4 !! QUADRA !
+4-4-4-4 !! (ah ah, il n'y a plus de rolls..)
 :SAN
 /san
 :RITUEL COLLECTE
@@ -38,7 +36,7 @@ Le Mythe n'attend pas !
 La recherche n'attend pas !
 Arbitres à la Collecte !!
 Séides à la Collecte !!
-Compagnie machine à grada !!
+Compagnie machine à grada ?
 All your base are belong to us.
 Il faut suivre les yeux !
 Il faut suivre les yeux et trouver le laisser passer A-38 !
@@ -56,7 +54,7 @@ Press START to.. start !
 toto.ogg !
 gataca.ogg !
 energy.ogg !
-zombie2.png !
+drowned.png !
 elytra.png !
 Cette phrase est censée apparaître deux fois plus, étonnant, non ?
 Cette phrase est censée apparaître deux fois plus, étonnant, non ?
@@ -64,9 +62,9 @@ Cette phrase est censée apparaître deux fois plus, étonnant, non ?
 §8???§r
 §7...?§r
 §8...?§r
-Quand le Sage montre la lune brisée, l'Apprenti regarde le doigt.
-Quand le Sage montre la lune brisée, le Maître regarde le doigt.
-Quand le Maître montre la lune brisée, les Membres se tournent vers le Sage.
+Quand le Sage montre la lune bleue, l'Apprenti regarde le doigt.
+Quand le Sage montre la lune bleue, le Maître regarde le doigt.
+Quand le Maître montre la lune bleue, les Membres se tournent vers le Sage.
 Pack mis à jour par Inposa !
 §3s§r§3h§r§3y§r§3n§r§3p§r§3o§r§34§r§32§r
 §fProfane !§r
@@ -83,28 +81,25 @@ Hello there !
 Oui oui oui !
 C'est oui !
 Et c'est non !
-Pourquoi n'y a t-il pas de ballons à Question pour un Champion ?
-Parce que Julien Leperse ! 
+Pourquoi n'y a-t-il pas de ballons à Question pour un Champion ?
+Parce que Julien Leperse !
 N'oubliez pas le :2001, c'est le port du serveur !
-Les Thurges sont vraiment des gens sympas ! 
-La Harde compte vraiment des gens sympas ! 
-Les chimères, elles savent mordre !
-Les Théoriciens sont... Théoriciens ?
-Le Sacerdoce.
 Qualité Théoricienne !
 Never gonna give you up !
 Never gonna let you down !
 Supercalifragilisticexpialidocious !
 Lorem Ipsum !
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Les Théoriciens et les Arbitres ont visés la lune..
-La Garde ? Ils sont vraiment sympas !
-Les Arbitres ont tentés de viser la lune, ça a bien fonctionné.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Il faut viser la lune !
+
 §a*§r§2Apprentie§r§a se gratte l'oreille en écoutant le Maître parler*§r
 §a*§r§9Membre§r§a se décale légèrement pour écouter le Maître chuchoter*§r
 §a*§r§4Maître§r§a dit des choses à voix haute*§r
-§b**Soudainement, un espadon se jette sur les Profanes présents au bord du lac.§r
+§b**Soudainement, un poisson se jette sur les Profanes présents au bord du lac.§r
 §b**Soudainement, tout explose.§r
+§b**Soudainement, tout explose, encore.§r
+§b*Il fait beau, les oiseaux chantent.. et les Marcheurs Lunaire ne sont pas là.§r
+§f<§r§4Seberus §r§f[dit]>§r§a Cette réflexion mérite réflexion...§r
 §6TOR VIS GOM BAAL§r
 §2L§r§3e §2c§r§3a§2u§r§3c§2h§r§3e§2m§r§3a§2r§r§3 §2d§r§3e §2l§r§3'§r§2I§r§3n§2v§r§3e§2n§r§3t§2e§r§3u§2r§r§3.§r
 §4Bleu !§r
