@@ -5457,7 +5457,7 @@
 			"scale":  [ 4, 4, 4 ]
 		},
 		"ground": {
-			"translation":  [ 0, 1.2, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
 			"scale":  [ 0.1125, 0.125, 0.1125 ]
 		},
 		"fixed": {
