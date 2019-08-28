@@ -31,6 +31,7 @@ imgur.com/HeY3A4T.png
 /san
 :RITUEL COLLECTE
 /rituel collecte
+/lay !
 "Les rageux mangent du fromage tant que j'ai une quadrature !"
 Le Mythe n'attend pas !
 La recherche n'attend pas !
