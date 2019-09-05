@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "block/spruce_planks",
+        "side": "block/brown_stained_glass"
+    }
+}
