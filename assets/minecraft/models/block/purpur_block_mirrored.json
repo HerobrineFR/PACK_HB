@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_mirrored_all",
     "textures": {
-        "all": "block/purpur_block_mirrored"
+        "all": "block/purpur_block"
     }
 }
