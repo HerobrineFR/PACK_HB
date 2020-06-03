@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/mandala/facing_south_corner" },
+        "facing=west": { "model": "block/mandala/facing_west_corner" },
+        "facing=north": { "model": "block/mandala/facing_north_corner" },
+        "facing=east": { "model": "block/mandala/facing_east_corner" }
+    }
+}
