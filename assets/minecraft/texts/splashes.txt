@@ -5,12 +5,12 @@ Uniquement sur Minecraft !
 Créé par BL !
 §f§l- -§r
 Découvrez aussi Hrobrin.be, le roleplay sur Minceraft !
-La version 20w14infinite !
 Maintenant en version 1.13.2 !
 Maintenant en version 1.12.1 !
 Maintenant en version 1.14.2 !
+Maintenant en version 1.15.1 !
+Bientôt en version 20w14infinite !
 Now with bees !
-Courage !
 Courage <PLAYER_NAME>
 Allons vers l'inconnu !
 Plongeons dans l'infini !
@@ -70,6 +70,7 @@ drowned.png !
 elytra.png !
 Cette phrase est censée apparaître deux fois plus, étonnant, non ?
 Cette phrase est censée apparaître deux fois plus, étonnant, non ?
+Merci à sp614x !
 §7???§r
 §8???§r
 §7...?§r
@@ -78,6 +79,8 @@ Quand le Sage montre la lune bleue, l'Apprenti regarde le doigt.
 Quand le Sage montre la lune bleue, le Maître regarde le doigt.
 Quand le Maître montre la lune bleue, les Membres se tournent vers le Sage.
 Pack mis à jour par Inposa !
+Merci Lellion pour les modèles !
+Merci Ryder pour les textures !
 §3s§r§3h§r§3y§r§3n§r§3p§r§3o§r§34§r§32§r
 §fProfane !§r
 §8Profane !§r
@@ -118,3 +121,4 @@ Il faut viser la lune !
 §9Rouge !§r
 §2Rose !§r
 §dVert !§r
+/give @a hugs 64
