@@ -4,6 +4,7 @@
 		"apprenti": "apprenti",
 		"apprenti_atlas": "./apprenti_atlas"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"__comment": "Voxels",
