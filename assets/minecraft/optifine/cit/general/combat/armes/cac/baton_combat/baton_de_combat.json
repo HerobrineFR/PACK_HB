@@ -1,5 +1,5 @@
 {
-	"credit": "Designed by Letutout for Herobrine.fr",
+	"__comment": "Designed by Tanou with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"texture": "./baton_de_combat"
 	},
@@ -291,6 +291,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [60, 0, 90],
