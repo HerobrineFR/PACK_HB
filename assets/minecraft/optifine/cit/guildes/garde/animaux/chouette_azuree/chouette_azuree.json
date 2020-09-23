@@ -1,5 +1,5 @@
 {
-	"credit": "Designed by Letutout for Herobrine.fr",
+	"credit": "Made by Letutout for Herobrine.fr",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "./chouette_azuree",
@@ -615,19 +615,17 @@
 			"translation": [0.75, 4.25, 17.75]
 		},
 		"firstperson_righthand": {
-			"translation": [0, -1.75, 0],
-			"scale": [0, 0, 0]
+			"translation": [2, 11.5, 3.25]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 1.25, 0],
-			"scale": [0, 0, 0]
+			"translation": [2, 11.5, 3.25]
 		},
 		"ground": {
 			"translation": [0, 3.75, -1.5]
 		},
 		"gui": {
 			"rotation": [0, -180, 0],
-			"translation": [0, 1, 0],
+			"translation": [0, 1.25, 0],
 			"scale": [1.1, 1.1, 1]
 		},
 		"head": {
