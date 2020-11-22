@@ -1,6 +1,6 @@
 {
 	"__comment": "Designed by Inposa with Cubik Studio - https://cubik.studio",
-	"parent": "block/lantern",
+	"parent": "block/soul_lantern",
 	"textures": {
 		"all": "./blue_lantern"
 	},
