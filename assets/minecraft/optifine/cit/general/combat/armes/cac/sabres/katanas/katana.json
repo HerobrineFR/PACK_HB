@@ -1,5 +1,5 @@
 {
-	"credit": "Model by Letutout for Herobrine.fr",
+	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "./katana_fer"
@@ -8,13 +8,13 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [9.75, -90, 55],
-			"translation": [0, 13.25, 2],
+			"translation": [0, 11.5, 2],
 			"scale": [1.7, 1.7, 0.85]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [9.75, 90, -55],
-			"translation": [0, 13, 2],
-			"scale": [1.7, 1.7, -0.85]
+			"translation": [0, 11.5, 2],
+			"scale": [1.7, 1.7, 0.85]
 		},
 		"firstperson_righthand": {
 			"rotation": [-36, -90, 25],

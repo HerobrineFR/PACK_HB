@@ -1,5 +1,5 @@
 {
-	"credit": "Model by Letutout for Herobrine.fr",
+	"credit": "Made by Letutout for Herobrine.fr",
 	"textures": {
 		"0": "./masse_deux_mains_adamantin",
 		"particle": "./masse_deux_mains_adamantin"
@@ -585,9 +585,8 @@
 			"translation": [7.5, 5.01, -4.444]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [96.25, 0, -90],
-			"translation": [7.5, 5.01, -4.444],
-			"scale": [-1, 1, 1]
+			"rotation": [96.25, 0, 90],
+			"translation": [-7.5, 2.76, -4.444]
 		},
 		"firstperson_righthand": {
 			"rotation": [73.75, 0, -90],

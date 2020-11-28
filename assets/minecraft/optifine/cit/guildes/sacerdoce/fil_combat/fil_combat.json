@@ -1,8 +1,8 @@
 {
-	"credit": "Designed by Letutout for Herobrine.fr",
+	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "./fil_combat"
+		"layer0": "items/iron_sword"
 	},
 	"display": {
 		"thirdperson_righthand": {
@@ -13,7 +13,7 @@
 		"thirdperson_lefthand": {
 			"rotation": [0, 90, 67],
 			"translation": [0, -2.75, -1.25],
-			"scale": [-1.2, 1.2, 0.55]
+			"scale": [1.2, 1.2, 0.55]
 		},
 		"firstperson_righthand": {
 			"rotation": [-65, 90, 67],
