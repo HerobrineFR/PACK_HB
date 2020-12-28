@@ -2,7 +2,7 @@
 	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "messer/messer_2m"
+		"layer0": "./messer/messer_2m"
 	},
 	"gui_light": "front",
 	"display": {
