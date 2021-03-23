@@ -73,5 +73,25 @@
     "sounds": [
       "hb/moan"
     ]
+  },
+  "other.ambiance": {
+    "sounds": [
+      "other/ambiance"
+    ]
+  },
+  "other.cloches": {
+    "sounds": [
+      "other/cloches"
+    ]
+  },
+  "other.gc": {
+    "sounds": [
+      "other/gc"
+    ]
+  },
+  "other.wind": {
+    "sounds": [
+      "other/wind"
+    ]
   }
 }
