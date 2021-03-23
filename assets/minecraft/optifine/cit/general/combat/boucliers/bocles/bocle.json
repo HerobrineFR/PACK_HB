@@ -2,7 +2,7 @@
 	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "./bouclier_rond_bois_alt"
+		"layer0": "./bocle_bois"
 	},
 	"display": {
 		"thirdperson_righthand": {
