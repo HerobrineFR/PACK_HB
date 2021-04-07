@@ -84,14 +84,19 @@
       "other/cloches"
     ]
   },
-  "other.gc": {
-    "sounds": [
-      "other/gc"
-    ]
-  },
   "other.wind": {
     "sounds": [
       "other/wind"
+    ]
+  },
+  "other.sight": {
+    "sounds": [
+      "other/sight"
+    ]
+  },
+  "other.ether": {
+    "sounds": [
+      "other/ether"
     ]
   }
 }
