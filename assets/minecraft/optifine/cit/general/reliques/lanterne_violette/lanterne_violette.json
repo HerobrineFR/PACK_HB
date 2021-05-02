@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench by Daerhal",
 	"textures": {
-		"0": "./lanterne_violette",
+		"0": "./lanterne_violette"
 	},
 	"elements": [
 		{
