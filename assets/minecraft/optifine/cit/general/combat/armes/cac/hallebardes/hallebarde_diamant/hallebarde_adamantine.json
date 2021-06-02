@@ -2,6 +2,7 @@
 	"textures": {
 		"texture": "./hallebarde_adamantine"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Box2",

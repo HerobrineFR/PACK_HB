@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "./lanterne_violette"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [6, 2, 6],

@@ -3,7 +3,8 @@
     "textures": {
         "0": "./plaque_ardoise_atlas"
     },
-    "elements": [
+    "gui_light": "front",
+	"elements": [
         {
             "name": "Cube",
             "from": [ 4.0, 6.0, 8.0 ], 

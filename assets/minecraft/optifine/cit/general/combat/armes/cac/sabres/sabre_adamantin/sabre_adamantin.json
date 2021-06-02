@@ -4,6 +4,7 @@
 		"0": "./sabre_adamantin",
 		"particle": "./sabre_adamantin"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-2, 0, 16],

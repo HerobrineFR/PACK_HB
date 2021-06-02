@@ -3,6 +3,7 @@
 	"textures": {
 		"texture": "./espadon_en_acier"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Box2",

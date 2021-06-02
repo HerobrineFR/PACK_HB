@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "./vers_geant"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Corps_sub_0",

@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "./epee_longue_en_acier"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-4, 0, 18],

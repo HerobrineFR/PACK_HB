@@ -4,6 +4,7 @@
 		"0": "./porte_lanterne",
 		"particle": "./porte_lanterne"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-2.4, -5, -3],

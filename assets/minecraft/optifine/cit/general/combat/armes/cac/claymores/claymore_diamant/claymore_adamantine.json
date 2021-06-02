@@ -2,6 +2,7 @@
 	"textures": {
 		"0": "./claymore_adamantine"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [5, 0, 7],

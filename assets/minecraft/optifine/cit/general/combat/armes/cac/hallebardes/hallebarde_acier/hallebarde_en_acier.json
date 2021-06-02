@@ -2,6 +2,7 @@
 	"textures": {
 		"texture": "./hallebarde_en_acier"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Box2",

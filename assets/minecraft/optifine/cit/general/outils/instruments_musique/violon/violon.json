@@ -5,6 +5,7 @@
 		"0": "./violon",
 		"particle": "./violon"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [4.75, 0, 11],

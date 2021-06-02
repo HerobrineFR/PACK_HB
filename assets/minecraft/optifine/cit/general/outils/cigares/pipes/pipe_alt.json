@@ -3,7 +3,8 @@
     "textures": {
         "main": "./pipe"
     },
-    "elements": [
+    "gui_light": "front",
+	"elements": [
         {
             "from": [ 8.5, 1, 8.5 ],
             "to":   [ 9, 2, 9.5 ],

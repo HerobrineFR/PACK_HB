@@ -4,6 +4,7 @@
 		"0": "./epieux",
 		"particle": "./epieux"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Cube",

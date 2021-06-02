@@ -6,6 +6,7 @@
 		"4": "./furnace_side",
 		"5": "./stripped_oak_log"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [7, 0, 12],

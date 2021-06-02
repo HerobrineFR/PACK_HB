@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "./claymore_en_acier"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [5, 0, 7],

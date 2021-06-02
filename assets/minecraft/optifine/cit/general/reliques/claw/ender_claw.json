@@ -3,6 +3,7 @@
 	"textures": {
 		"1": "block/black_concrete"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [9.75, 7, 8.85],

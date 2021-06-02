@@ -2,6 +2,7 @@
 	"textures": {
 		"sage": "./sage_atlas"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"__comment": "Voxels",

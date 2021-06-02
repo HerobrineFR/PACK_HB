@@ -4,6 +4,7 @@
 		"0": "./rapiere_diamant",
 		"particle": "./rapiere_diamant"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-2, 0, 16],

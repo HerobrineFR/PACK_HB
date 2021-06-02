@@ -12,6 +12,7 @@
 		"9": "./bois_variante3",
 		"particle": "./spruce_planks"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-7, 2, 4],

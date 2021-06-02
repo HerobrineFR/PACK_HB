@@ -4,6 +4,7 @@
 		"0": "./masse_deux_mains_acier",
 		"particle": "./masse_deux_mains_acier"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [2, 0, 21],

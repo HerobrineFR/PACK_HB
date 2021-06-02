@@ -5,6 +5,7 @@
 		"1": "./stone_shield",
 		"particle": "block/spruce_log"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [4, 0, -6],

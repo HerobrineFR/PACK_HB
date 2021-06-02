@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "./bouclier_long"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "shield1",

@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "./marteau_a_deux_mains_acier"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 23],

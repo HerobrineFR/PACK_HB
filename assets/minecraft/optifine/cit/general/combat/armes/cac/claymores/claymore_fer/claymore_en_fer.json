@@ -2,6 +2,7 @@
 	"textures": {
 		"0": "./claymore_en_fer"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [5, 0, 7],

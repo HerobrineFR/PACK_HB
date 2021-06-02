@@ -4,6 +4,7 @@
 	"textures": {
 		"texture": "./krahmtyrr"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [ 7.75, -3, 12.5 ],

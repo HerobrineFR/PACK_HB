@@ -4,6 +4,7 @@
 		"particle": "./bougie_flamme",
 		"texture": "./bougie"
 	},
+	"gui_light": "front",
 	"elements": [ 	 
 		{
 			"from": [ 5.75, 6.5, 7.25 ],

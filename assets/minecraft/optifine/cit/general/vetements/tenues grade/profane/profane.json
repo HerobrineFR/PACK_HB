@@ -4,6 +4,7 @@
 		"profane": "profane",
 		"profane_atlas": "optifine/cit/general/vetements/tenues grade/profane/profane_atlas"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"__comment": "Voxels",

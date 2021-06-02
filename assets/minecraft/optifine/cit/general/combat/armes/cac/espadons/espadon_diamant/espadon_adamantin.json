@@ -2,6 +2,7 @@
 	"textures": {
 		"texture": "./espadon_adamantin"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Box2",

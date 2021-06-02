@@ -4,6 +4,7 @@
 		"0": "./sabre_fer",
 		"particle": "./sabre_fer"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-2, 0, 16],

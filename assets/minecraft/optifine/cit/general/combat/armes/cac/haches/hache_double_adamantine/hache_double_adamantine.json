@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "./hache_double_adamantine"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-4, 0, 19],

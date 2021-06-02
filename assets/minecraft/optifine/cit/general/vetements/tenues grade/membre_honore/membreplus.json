@@ -3,6 +3,7 @@
 	"textures": {
 		"membreplus_atlas": "./membreplus_atlas"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"__comment": "Voxels",

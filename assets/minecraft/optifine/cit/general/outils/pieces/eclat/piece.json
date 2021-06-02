@@ -3,6 +3,7 @@
 	"textures": {
 		"piece": "./piece"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"__comment": "Cube6",

@@ -4,6 +4,7 @@
 		"0": "./tenue_patrouilleur_vert",
 		"particle": "./tenue_patrouilleur_vert"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Voxels",

@@ -5,6 +5,7 @@
 		"1": "block/spruce_planks",
 		"particle": "block/gold_block"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "octagon",

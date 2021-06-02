@@ -2,6 +2,7 @@
 	"textures": {
 		"texture": "./guisarme_fer"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Cube1",

@@ -4,6 +4,7 @@
 		"0": "./rapiere_acier",
 		"particle": "./rapiere_acier"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-2, 0, 16],

@@ -4,6 +4,7 @@
 		"0": "./sabre_acier",
 		"particle": "./sabre_acier"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-2, 0, 16],

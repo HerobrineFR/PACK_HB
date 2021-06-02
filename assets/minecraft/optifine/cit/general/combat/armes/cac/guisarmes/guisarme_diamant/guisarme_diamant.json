@@ -2,6 +2,7 @@
 	"textures": {
 		"texture": "./guisarme_diamant"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Cube1",

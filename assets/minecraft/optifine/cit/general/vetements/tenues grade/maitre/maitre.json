@@ -4,6 +4,7 @@
 		"maitre": "maitre",
 		"maitre_atlas": "./maitre_atlas"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"__comment": "Voxels",

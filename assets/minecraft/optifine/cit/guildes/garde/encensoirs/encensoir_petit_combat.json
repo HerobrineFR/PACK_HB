@@ -8,6 +8,7 @@
 		"3": "./chaine",
 		"particle": "./coque_encensoir"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [7.0604, 0, 7.6868],

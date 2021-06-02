@@ -4,6 +4,7 @@
 		"0": "./rapiere_fer",
 		"particle": "./rapiere_fer"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-2, 0, 16],

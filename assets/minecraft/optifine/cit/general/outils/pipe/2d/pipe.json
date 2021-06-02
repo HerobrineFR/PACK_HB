@@ -3,6 +3,7 @@
 	"textures": {
 		"pipe": "./pipe"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"__comment": "Cube1",

@@ -3,6 +3,7 @@
 	"textures": {
 		"texture": "./baton_de_combat"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Box1",

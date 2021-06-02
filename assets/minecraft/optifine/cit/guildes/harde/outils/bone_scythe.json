@@ -3,6 +3,7 @@
 	"textures": {
 		"texture": "./bone_scythe"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"__comment": "Box1",

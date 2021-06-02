@@ -4,6 +4,7 @@
 		"0": "./cigare",
 		"particle": "./cigare"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [7, 0, 4],

@@ -5,6 +5,7 @@
 		"0": "./chouette_azuree",
 		"particle": "./chouette_azuree"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [6.3, 0, 11],

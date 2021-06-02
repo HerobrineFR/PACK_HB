@@ -4,6 +4,7 @@
 		"0": "./masse_deux_mains_adamantin",
 		"particle": "./masse_deux_mains_adamantin"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [2, 0, 21],

@@ -5,6 +5,7 @@
 		"0": "./livre_ouvert",
 		"particle": "./livre_ouvert"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"name": "book_spine",

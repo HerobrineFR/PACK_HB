@@ -4,6 +4,7 @@
 		"0": "./harpon",
 		"particle": "./harpon"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [10.4, 0, 2.6],
