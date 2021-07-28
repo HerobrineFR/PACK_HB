@@ -2,7 +2,7 @@
 	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "items/iron_sword"
+		"layer0": "item/iron_sword"
 	},
 	"display": {
 		"thirdperson_righthand": {
