@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./jarre_liquide",
+        "layer1": "./jarre_contour"
+    }
+}
