@@ -1,5 +1,5 @@
 {
-	"credit": "Fait par Saynos pour le merveilleux Yarkane :DD",
+	"credit": "Made by Saynos, fixed by Inposa",
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "./egg_bottom",
@@ -164,9 +164,40 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [71, 40, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [71, 40, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"translation": [2, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"translation": [2, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
 		"head": {
 			"translation": [0, -31, 0],
 			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [0, -3.5, 0],
+			"scale": [0.5, 0.5, 0.5]
 		}
 	}
 }
