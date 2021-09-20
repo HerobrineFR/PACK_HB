@@ -2,12 +2,11 @@
 	"textures": {
 		"lance_fer": "./lance_fer"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Cube1",
-			"from": [7.5, 8, 14],
-			"to": [9, 9, 14.5],
+			"from": [7, 8, 14.5],
+			"to": [8.5, 9, 15],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [2, 14, 0.5, 14.5], "texture": "#lance_fer"},
@@ -20,8 +19,8 @@
 		},
 		{
 			"name": "Cube2",
-			"from": [7.5, 8, 14.5],
-			"to": [8.5, 9, 15],
+			"from": [7, 8, 15],
+			"to": [8, 9, 15.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [1.5, 14.5, 0.5, 15], "texture": "#lance_fer"},
@@ -36,6 +35,20 @@
 			"name": "Cube3",
 			"from": [8, 8, 13.5],
 			"to": [9.5, 9, 14],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
+			"faces": {
+				"north": {"uv": [2.5, 13.5, 1, 14], "texture": "#lance_fer"},
+				"east": {"uv": [2.5, 14, 2, 13.5], "rotation": 270, "texture": "#lance_fer"},
+				"south": {"uv": [1, 13.5, 2.5, 14], "texture": "#lance_fer"},
+				"west": {"uv": [1, 13.5, 1.5, 14], "rotation": 270, "texture": "#lance_fer"},
+				"up": {"uv": [1, 13.5, 2.5, 14], "texture": "#lance_fer"},
+				"down": {"uv": [1, 14, 2.5, 13.5], "texture": "#lance_fer"}
+			}
+		},
+		{
+			"name": "Cube4",
+			"from": [7.5, 8, 14],
+			"to": [9, 9, 14.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [2.5, 13.5, 1, 14], "texture": "#lance_fer"},
@@ -286,6 +299,34 @@
 		},
 		{
 			"name": "Cube21",
+			"from": [18, 8, 3.5],
+			"to": [19.5, 9, 4],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
+			"faces": {
+				"north": {"uv": [11, 5, 9.5, 5.5], "texture": "#lance_fer"},
+				"east": {"uv": [11, 5.5, 10.5, 5], "rotation": 270, "texture": "#lance_fer"},
+				"south": {"uv": [9.5, 5, 11, 5.5], "texture": "#lance_fer"},
+				"west": {"uv": [9.5, 5, 10, 5.5], "rotation": 270, "texture": "#lance_fer"},
+				"up": {"uv": [9.5, 5, 11, 5.5], "texture": "#lance_fer"},
+				"down": {"uv": [9.5, 5.5, 11, 5], "texture": "#lance_fer"}
+			}
+		},
+		{
+			"name": "Cube22",
+			"from": [19.5, 8, 2],
+			"to": [21, 9, 2.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
+			"faces": {
+				"north": {"uv": [11, 5, 9.5, 5.5], "texture": "#lance_fer"},
+				"east": {"uv": [11, 5.5, 10.5, 5], "rotation": 270, "texture": "#lance_fer"},
+				"south": {"uv": [9.5, 5, 11, 5.5], "texture": "#lance_fer"},
+				"west": {"uv": [9.5, 5, 10, 5.5], "rotation": 270, "texture": "#lance_fer"},
+				"up": {"uv": [9.5, 5, 11, 5.5], "texture": "#lance_fer"},
+				"down": {"uv": [9.5, 5.5, 11, 5], "texture": "#lance_fer"}
+			}
+		},
+		{
+			"name": "Cube21",
 			"from": [17, 8, 4.5],
 			"to": [18.5, 9, 5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
@@ -300,8 +341,50 @@
 		},
 		{
 			"name": "Cube22",
-			"from": [17.5001, 8, 4],
-			"to": [19.0001, 9, 4.5],
+			"from": [17.5, 8, 4],
+			"to": [19, 9, 4.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
+			"faces": {
+				"north": {"uv": [11.5, 4.5, 10, 5], "texture": "#lance_fer"},
+				"east": {"uv": [11.5, 5, 11, 4.5], "rotation": 270, "texture": "#lance_fer"},
+				"south": {"uv": [10, 4.5, 11.5, 5], "texture": "#lance_fer"},
+				"west": {"uv": [10, 4.5, 10.5, 5], "rotation": 270, "texture": "#lance_fer"},
+				"up": {"uv": [10, 4.5, 11.5, 5], "texture": "#lance_fer"},
+				"down": {"uv": [10, 5, 11.5, 4.5], "texture": "#lance_fer"}
+			}
+		},
+		{
+			"name": "Cube23",
+			"from": [19, 8, 2.5],
+			"to": [20.5, 9, 3],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
+			"faces": {
+				"north": {"uv": [11.5, 4.5, 10, 5], "texture": "#lance_fer"},
+				"east": {"uv": [11.5, 5, 11, 4.5], "rotation": 270, "texture": "#lance_fer"},
+				"south": {"uv": [10, 4.5, 11.5, 5], "texture": "#lance_fer"},
+				"west": {"uv": [10, 4.5, 10.5, 5], "rotation": 270, "texture": "#lance_fer"},
+				"up": {"uv": [10, 4.5, 11.5, 5], "texture": "#lance_fer"},
+				"down": {"uv": [10, 5, 11.5, 4.5], "texture": "#lance_fer"}
+			}
+		},
+		{
+			"name": "Cube22",
+			"from": [18.5, 8, 3],
+			"to": [20, 9, 3.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
+			"faces": {
+				"north": {"uv": [11.5, 4.5, 10, 5], "texture": "#lance_fer"},
+				"east": {"uv": [11.5, 5, 11, 4.5], "rotation": 270, "texture": "#lance_fer"},
+				"south": {"uv": [10, 4.5, 11.5, 5], "texture": "#lance_fer"},
+				"west": {"uv": [10, 4.5, 10.5, 5], "rotation": 270, "texture": "#lance_fer"},
+				"up": {"uv": [10, 4.5, 11.5, 5], "texture": "#lance_fer"},
+				"down": {"uv": [10, 5, 11.5, 4.5], "texture": "#lance_fer"}
+			}
+		},
+		{
+			"name": "Cube22",
+			"from": [20.0001, 8, 1.5],
+			"to": [21.5001, 9, 2],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [12, 4, 10.5, 4.5], "texture": "#lance_fer"},
@@ -314,8 +397,8 @@
 		},
 		{
 			"name": "Cube23",
-			"from": [18.0001, 8, 3.5],
-			"to": [20.0001, 9, 4],
+			"from": [20.5001, 8, 1],
+			"to": [22.5001, 9, 1.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [13, 3.5, 11, 4], "texture": "#lance_fer"},
@@ -328,8 +411,8 @@
 		},
 		{
 			"name": "Cube24",
-			"from": [18.5001, 8, 2.5],
-			"to": [21.0001, 9, 3],
+			"from": [21.0001, 8, 0],
+			"to": [23.5001, 9, 0.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [11.5, 2.5, 14, 3], "rotation": 180, "texture": "#lance_fer"},
@@ -342,8 +425,8 @@
 		},
 		{
 			"name": "Cube25",
-			"from": [18.5001, 8, 3],
-			"to": [20.5001, 9, 3.5],
+			"from": [21.0001, 8, 0.5],
+			"to": [23.0001, 9, 1],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [13.5, 3, 11.5, 3.5], "texture": "#lance_fer"},
@@ -356,8 +439,8 @@
 		},
 		{
 			"name": "Cube26",
-			"from": [19.0001, 8, 2],
-			"to": [21.5001, 9, 2.5],
+			"from": [21.5001, 8, -0.5],
+			"to": [24.0001, 9, 0],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [14.5, 2, 12, 2.5], "texture": "#lance_fer"},
@@ -370,8 +453,8 @@
 		},
 		{
 			"name": "Cube27",
-			"from": [19.5001, 8, 1.5],
-			"to": [22.0001, 9, 2],
+			"from": [22.0001, 8, -1],
+			"to": [24.5001, 9, -0.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [15, 1.5, 12.5, 2], "texture": "#lance_fer"},
@@ -384,8 +467,8 @@
 		},
 		{
 			"name": "Cube28",
-			"from": [20.0001, 8, 1],
-			"to": [22.0001, 9, 1.5],
+			"from": [22.5001, 8, -1.5],
+			"to": [24.5001, 9, -1],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [15, 1, 13, 1.5], "texture": "#lance_fer"},
@@ -398,8 +481,8 @@
 		},
 		{
 			"name": "Cube29",
-			"from": [20.5001, 8, 0.5],
-			"to": [22.0001, 9, 1],
+			"from": [23.0001, 8, -2],
+			"to": [24.5001, 9, -1.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [7.5, 8, 14]},
 			"faces": {
 				"north": {"uv": [15, 0.5, 13.5, 1], "texture": "#lance_fer"},
