@@ -1,11 +1,9 @@
 {
-	"credit": "Made by Letutout for Herobrine.fr",
 	"texture_size": [64, 32],
 	"textures": {
 		"0": "./livre_ouvert",
 		"particle": "./livre_ouvert"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"name": "book_spine",
@@ -92,12 +90,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -180, -180],
-			"translation": [-4.5, 2.5, 5],
+			"translation": [-4.5, 3.25, 5],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -180, -180],
-			"translation": [-4.5, 2.5, 5],
+			"translation": [-4.5, 3.25, 5],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
