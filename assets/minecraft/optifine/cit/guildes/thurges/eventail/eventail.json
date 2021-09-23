@@ -1,10 +1,7 @@
 {
-	"credit": "Made with Blockbench by Daerhal",
-	"ambientocclusion": true,
 	"textures": {
 		"1": "./eventail"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"name": "body0",
@@ -138,11 +135,7 @@
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [5.37868, 0.95736, 6.7]},
 			"faces": {
 				"north": {"uv": [0, 10, 6, 16], "rotation": 90, "texture": "#1"},
-				"east": {"uv": [0, 0, 0, 3], "rotation": 180, "texture": "#missing"},
-				"south": {"uv": [0, 10, 6, 16], "texture": "#1"},
-				"west": {"uv": [0, 0, 0, 3], "rotation": 180, "texture": "#missing"},
-				"up": {"uv": [0, 0, 8, 0], "rotation": 180, "texture": "#missing"},
-				"down": {"uv": [0, 0, 8, 0], "rotation": 180, "texture": "#missing"}
+				"south": {"uv": [0, 10, 6, 16], "texture": "#1"}
 			}
 		},
 		{
@@ -151,14 +144,11 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [10.37868, 0.95736, 9.05]},
 			"faces": {
 				"north": {"uv": [0, 10, 6, 16], "texture": "#1"},
-				"east": {"uv": [0, 0, 8, 0], "rotation": 270, "texture": "#missing"},
-				"south": {"uv": [0, 10, 6, 16], "rotation": 90, "texture": "#1"},
-				"west": {"uv": [0, 0, 8, 0], "rotation": 270, "texture": "#missing"},
-				"up": {"uv": [0, 0, 0, 3], "rotation": 270, "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 3], "rotation": 270, "texture": "#missing"}
+				"south": {"uv": [0, 10, 6, 16], "rotation": 90, "texture": "#1"}
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [4.5, -180, 0],
