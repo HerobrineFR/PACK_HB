@@ -1,6 +1,5 @@
 {
-	"credit": "Made with Blockbench",
-	"texture_size": [24, 32],
+	"texture_size": [32, 32],
 	"textures": {
 		"1": "block/gold_block",
 		"2": "block/spruce_log",
@@ -24,7 +23,7 @@
 			"from": [2, 3.5, 8.5],
 			"to": [12, 22.5, 8.75],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"north": {"uv": [0, 0, 12, 16], "texture": "#4"},
 				"east": {"uv": [0, 0, 0, 9.5], "texture": "#missing"},
 				"south": {"uv": [4, 1.5, 15, 13.5], "texture": "#1"},
 				"west": {"uv": [6.66667, 0, 6.66667, 9.5], "texture": "#missing"},
