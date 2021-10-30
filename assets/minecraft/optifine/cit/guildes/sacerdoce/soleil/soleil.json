@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "./aureole_azur"
+		"layer0": "./soleil"
 	},
 	"gui_light": "front",
 	"display": {
