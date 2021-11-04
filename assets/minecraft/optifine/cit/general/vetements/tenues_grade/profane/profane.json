@@ -2,7 +2,7 @@
 	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"profane": "profane",
-		"profane_atlas": "optifine/cit/general/vetements/tenues grade/profane/profane_atlas"
+		"profane_atlas": "optifine/cit/general/vetements/tenues_grade/profane/profane_atlas"
 	},
 	"gui_light": "front",
 	"elements": [
