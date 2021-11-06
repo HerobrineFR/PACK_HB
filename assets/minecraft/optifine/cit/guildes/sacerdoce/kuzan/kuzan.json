@@ -8,7 +8,6 @@
 		"5": "./Soie",
 		"particle": "./Lumiere"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"from": [5.9, 4, 5.2],
@@ -702,37 +701,66 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [68.75, 90, 0],
 			"translation": [2, -1, -4.5],
 			"scale": [0.88672, 0.94531, 0.78711]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [68.75, -90, 0],
+			"translation": [-2, -1, -4.5],
+			"scale": [0.88672, 0.94531, 0.78711]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [3.5, -7, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-1.5, -7, 0]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0]
+		},
+		"gui": {
+			"translation": [0, -3, 0],
+			"scale": [0.6, 0.6, 1]
+		},
+		"fixed": {
+			"translation": [0, -6.25, 0]
 		}
 	},
 	"groups": [
 		{
 			"name": "Indéchiffrable",
 			"origin": [14, 3, 18],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 		},
 		{
 			"name": "Manche",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [22, 23, 24, 25, 26, 27, 28, 29]
 		},
 		{
 			"name": "Corde",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
 		},
 		{
 			"name": "Lanterne",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [41, 42, 43, 44, 45, 46, 47, 48]
 		},
 		{
 			"name": "Bandeau",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [49, 50, 51, 52]
 		}
 	]
