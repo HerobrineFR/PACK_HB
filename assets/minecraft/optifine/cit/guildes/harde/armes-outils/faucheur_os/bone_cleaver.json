@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "./bone_cleaver"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-78, 86, 128],
+			"translation": [-0.5, 8.5, 2.25],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [91, -90, 52],
+			"translation": [0.25, 7.75, 0.75],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 81, 64],
+			"translation": [3.13, 3.75, -2.62],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [16, -81, -25],
+			"translation": [1.25, 3.2, -0.12],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"head": {
+			"rotation": [89, 0, -51],
+			"translation": [11, -4.25, -8.5],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}
