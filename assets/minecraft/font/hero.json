@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:hero.ttf",
+            "shift": [0, -1.5],
+            "size": 22.0,
+            "oversample": 6.0
+        }
+ ]
+}
