@@ -2,7 +2,7 @@
     "credit": "Made with Blockbench by Daerhal",
     "textures": {
         "main": "./pipe",
-        "1": "~/cit/general/outils/tabac/fumee/fumee"
+        "1": "optifine/cit/general/outils/tabac/fumee/fumee"
     },
     "elements": [
         {

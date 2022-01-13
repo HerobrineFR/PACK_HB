@@ -1,5 +1,5 @@
 {
-	"parent": "assets/minecraft/optifine/models/sphere",
+	"parent": "./sphere",
 	"textures": {
 		"texture": "./blacksphere"
 	},

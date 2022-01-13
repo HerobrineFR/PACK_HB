@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./Metal",
-		"1": "./Bois",
-		"3": "./Safran",
-		"4": "./Lumiere",
-		"5": "./Soie",
-		"particle": "./Lumiere"
+		"0": "./metal",
+		"1": "./bois",
+		"3": "./safran",
+		"4": "./lumiere",
+		"5": "./soie",
+		"particle": "./lumiere"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "Made by Daerhal and modified by Letutout, on Blockbench",
 	"textures": {
 		"0": "./cigare",
-		"1": "~/cit/general/outils/tabac/fumee/fumee",
+		"1": "optifine/cit/general/outils/tabac/fumee/fumee",
 		"particle": "./cigare"
 	},
 	"elements": [
