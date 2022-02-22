@@ -98,5 +98,10 @@
     "sounds": [
       "other/ether"
     ]
+  },
+  "pnj.chant":{
+	"sounds": [
+		"pnj/chant"
+	]	
   }
 }
