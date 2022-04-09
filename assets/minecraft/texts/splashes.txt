@@ -9,20 +9,18 @@ Maintenant en version 1.13.2 !
 Maintenant en version 1.12.1 !
 Maintenant en version 1.14.2 !
 Maintenant en version 1.15.1 !
+Maintenant en version 1.16 !
+Maintenant en version 1.17.1 !
+Bientôt en version 1.18.3 !
 Bientôt en version 20w14infinite !
 Now with bees !
-Courage <PLAYER_NAME>
-Allons vers l'inconnu !
-Plongeons dans l'infini !
-Allons-y !
-Courage !
-ADDE !
-ADDE2 - La vengeance de la hache en bois !
-Maintenant jouable avec des dauphins !
+Courage <PLAYER_NAME> !
+ADDE6 - La vengeance de la hache en bois !
+Maintenant jouable sous l'eau !
+Pas disponible sur Minitel !
 Présent sous l'eau !
 §3§lSOUS L'OCEAN§r
-Poissons ! Poissons !
-Avec des morceaux de crabe !
+Avec de vrais morceaux de crabe !
 Blblbl...
 Des bulles !
 La Bulle !
@@ -50,6 +48,7 @@ Arbitres à la Collecte !!
 Séides à la Collecte !!
 Compagnie machine à grada ?
 All your base are belong to us.
+!!!
 Il faut suivre les yeux !
 Il faut suivre les yeux et trouver le laisser passer A-38 !
 §6O§6W H§6I§6M B§6O§6W§6E§r
@@ -68,9 +67,10 @@ gataca.ogg !
 energy.ogg !
 drowned.png !
 elytra.png !
-Cette phrase est censée apparaître deux fois plus, étonnant, non ?
-Cette phrase est censée apparaître deux fois plus, étonnant, non ?
-Merci à sp614x !
+Cette phrase est censée apparaître trois fois plus, étonnant, non ?
+Cette phrase est censée apparaître trois fois plus, étonnant, non ?
+Cette phrase est censée apparaître trois fois plus, étonnant, non ?
+Merci à sp614x pour Optifine !
 §7???§r
 §8???§r
 §7...?§r
@@ -79,8 +79,6 @@ Quand le Sage montre la lune bleue, l'Apprenti regarde le doigt.
 Quand le Sage montre la lune bleue, le Maître regarde le doigt.
 Quand le Maître montre la lune bleue, les Membres se tournent vers le Sage.
 Pack mis à jour par Inposa !
-Merci Lellion pour les modèles !
-Merci Ryder pour les textures !
 §3s§r§3h§r§3y§r§3n§r§3p§r§3o§r§34§r§32§r
 §fProfane !§r
 §8Profane !§r
@@ -108,7 +106,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Il faut viser la lune !
 "But first, let me talk about parallel universes."
 YAOUH YAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYA YAOUH !
-AYAYAYA
 Tactical shovel !
 (it's just work !)
 
@@ -129,3 +126,5 @@ Bonne année 2022 !
 §2Rose !§r
 §dVert !§r
 /give @a hugs 64
+/kill @e[name=Abberath,distance=..300]
+/execute as @e[distance=..300] at @s execute particle heart ~ ~ ~ 1 1 1 1 40
