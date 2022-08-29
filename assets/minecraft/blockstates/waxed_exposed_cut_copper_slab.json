@@ -1,13 +1,24 @@
 {
   "variants": {
     "type=bottom": {
+<<<<<<< HEAD
       "model": "minecraft:block/custom/obsidian_slab"
+=======
+      "model": "minecraft:block/obsidian_slab"
+>>>>>>> 7cd4ddf (monde5_2 -> add obsidian and gold stairs/slabs)
     },
     "type=double": {
       "model": "minecraft:block/obsidian"
     },
     "type=top": {
+<<<<<<< HEAD
       "model": "minecraft:block/custom/obsidian_slab_top"
     }
   }
 }
+=======
+      "model": "minecraft:block/obsidian_slab_top"
+    }
+  }
+}
+>>>>>>> 7cd4ddf (monde5_2 -> add obsidian and gold stairs/slabs)
