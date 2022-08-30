@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/lily_pad/lily_pad",
+		"2": "block/lily_pad/lily_pad_2",
+		"particle": "block/lily_pad/lily_pad"
+	},
+	"elements": [
+		{
+			"from": [3, 3, 3],
+			"to": [15, 3, 15],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 11, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"east": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 12], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, -13, 8],
+			"to": [11, 3, 8],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 11, 8]},
+			"faces": {
+				"north": {"uv": [8, 0, 13, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [8, 0, 13, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 5, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 5, 0], "texture": "#missing"}
+			}
+		}
+	]
+}
