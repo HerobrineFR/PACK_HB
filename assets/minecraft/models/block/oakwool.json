@@ -1,8 +1,7 @@
 {
-  "parent": "minecraft:block/slab",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "bottom": "minecraft:block/oakwool",
-    "top": "minecraft:block/oakwool",
+    "end": "minecraft:block/oakwool",
     "side": "minecraft:block/oakwool"
   }
 }
