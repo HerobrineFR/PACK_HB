@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/oakwool"
+    },
+    "type=double": {
+      "model": "minecraft:block/oakwool"
+    },
+    "type=top": {
+      "model": "minecraft:block/oakwool"
+    }
+  }
