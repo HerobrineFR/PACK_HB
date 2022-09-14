@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_top",
     "textures": {
-        "top": "block/spruce_planks",
+        "top": "block/oak_planks",
         "side": "block/brown_stained_glass"
     }
 }
