@@ -1,34 +1,13 @@
 {
-  "variants": {
-    "type=bottom": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "model": "minecraft:block/custom/obsidian_slab"
-=======
-      "model": "minecraft:block/obsidian_slab"
->>>>>>> 7cd4ddf (monde5_2 -> add obsidian and gold stairs/slabs)
-=======
-      "model": "minecraft:block/obsidian_slab"
->>>>>>> Lellion
-    },
-    "type=double": {
-      "model": "minecraft:block/obsidian"
-    },
-    "type=top": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "model": "minecraft:block/custom/obsidian_slab_top"
+    "variants": {
+        "type=bottom": {
+            "model": "minecraft:block/obsidian_slab"
+        },
+        "type=double": {
+            "model": "minecraft:block/obsidian"
+        },
+        "type=top": {
+            "model": "minecraft:block/obsidian_slab_top"
+        }
     }
-  }
 }
-=======
-=======
->>>>>>> Lellion
-      "model": "minecraft:block/obsidian_slab_top"
-    }
-  }
-}
-<<<<<<< HEAD
->>>>>>> 7cd4ddf (monde5_2 -> add obsidian and gold stairs/slabs)
-=======
->>>>>>> Lellion
