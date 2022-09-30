@@ -5,24 +5,22 @@ Uniquement sur Minecraft !
 Créé par BL !
 §f§l- -§r
 Découvrez aussi Hrobrin.be, le roleplay sur Minceraft !
-Maintenant en version 1.13.2 !
-Maintenant en version 1.12.1 !
-Maintenant en version 1.14.2 !
-Maintenant en version 1.15.1 !
-Maintenant en version 1.16 !
-Maintenant en version 1.17.1 !
-Bientôt en version 1.18.3 !
+Découvrez Herobrine Classic en version Indev !
+Désormais en version 1.19.2 !
 Bientôt en version 20w14infinite !
+Bientôt en version 19.3333333333333333....
 Now with bees !
+Maintenant avec des Warden ! (soon tm)
 Courage <PLAYER_NAME> !
 ADDE6 - La vengeance de la hache en bois !
 Maintenant jouable sous l'eau !
-Pas disponible sur Minitel !
+Bientôt disponible sur Minitel !
+3615 Herobrine !
 Présent sous l'eau !
+Présent sur l'eau !
 §3§lSOUS L'OCEAN§r
 Avec de vrais morceaux de crabe !
 Blblbl...
-Des bulles !
 La Bulle !
 ROLL 100 !!
 Roll 20 !
@@ -33,7 +31,7 @@ Ah ah, c'était des roll inversés.
 100/100 ! Echec critique !
 Faites moi un roll 30 s'il vous plaît.
 Découvrez aussi Epimanity.com !
-Découvrez aussi Naheulcraft.com !
+Découvrez aussi Naheulcraft.com ! (bientôt sur Hytale !)
 imgur.com/HeY3A4T.png
 4-4-4-4 !! (ah ah, il n'y a plus de rolls..)
 :SAN
@@ -94,29 +92,29 @@ Hello there !
 Oui oui oui !
 C'est oui !
 Et c'est non !
-Pourquoi n'y a-t-il pas de ballons à Question pour un Champion ?
-Parce que Julien Leperse !
+Pourquoi ?
+PARCE QUE !
 N'oubliez pas le :2001, c'est le port du serveur !
 Qualité Théoricienne !
 Never gonna give you up !
 Never gonna let you down !
-Supercalifragilisticexpialidocious !
+!!!
 Lorem Ipsum !
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Est-ce que Yarkane sait faire le Moonwalk ?
 Il faut viser la lune !
-"But first, let me talk about parallel universes."
+VISER LA LUNE CA NE ME FAIT PAS PEUR
+"But first of all, we need to talk about parallel universes."
 YAOUH YAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYA YAOUH !
 Tactical shovel !
 (it's just work !)
 
-Bonne année !
-Bonne année 2022 !
 §a*§r§2Apprentie§r§a se gratte l'oreille en écoutant le Maître parler*§r
 §a*§r§9Membre§r§a se décale légèrement pour écouter le Maître chuchoter*§r
 §a*§r§4Maître§r§a dit des choses à voix haute*§r
 §b**Soudainement, un poisson se jette sur les Profanes présents au lac.§r
 §b**Soudainement, tout explose.§r
 §b**Soudainement, tout explose, encore.§r
+§b**Soudainement... Rien ne se passe.§r
 §b*Il fait beau, les oiseaux chantent, et les Marcheurs Lunaire ne sont plus là ?§r
 §f<§r§4Seberus §r§f[dit]>§r§a Cette réflexion mérite réflexion...§r
 §6TOR VIS GOM BAAL§r
@@ -126,5 +124,5 @@ Bonne année 2022 !
 §2Rose !§r
 §dVert !§r
 /give @a hugs 64
-/kill @e[name=Abberath,distance=..300]
+/kill @e[name=Abberath,distance=..500]
 /execute as @e[distance=..300] at @s execute particle heart ~ ~ ~ 1 1 1 1 40
