@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by Cynrid",
 	"textureSize": [64, 64],
 	"models": [
 		{
@@ -32,7 +32,33 @@
 				{
 					"id": "arms",
 					"invertAxis": "xy",
-					"translate": [0, 24, 0]
+					"translate": [0, 24, 0],
+					"submodels": [
+						{
+							"id": "alt_left",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"boxes": [
+								{"coordinates": [-8, -12, -2, 4, 12, 4], "textureOffset": [0, 32]}
+							]
+						},
+						{
+							"id": "alt_right",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"boxes": [
+								{"coordinates": [4, -12, -2, 4, 12, 4], "textureOffset": [0, 48]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"alt_left.rx": "(-sin(time/ 18) / 20)",
+					"alt_left.rz": "(-sin(time/ 18) / 40)",
+					"alt_right.rx": "(sin(time/ 18) / 20)",
+					"alt_right.rz": "(sin(time/ 18) / 40)"
 				}
 			]
 		},
@@ -44,17 +70,6 @@
 			"translate": [5, -22, 0],
 			"boxes": [
 				{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [40, 16]}
-			],
-			"submodels": [
-				{
-					"id": "alt_left",
-					"invertAxis": "xy",
-					"translate": [0, 22.2, -1.9],
-					"rotate": [-80, 0, 0],
-					"boxes": [
-						{"coordinates": [-8, -12, -2, 4, 12, 4], "textureOffset": [0, 32]}
-					]
-				}
 			]
 		},
 		{
@@ -64,17 +79,6 @@
 			"translate": [-5, -22, 0],
 			"boxes": [
 				{"coordinates": [4, 12, -2, 4, 12, 4], "textureOffset": [32, 48]}
-			],
-			"submodels": [
-				{
-					"id": "alt_right",
-					"invertAxis": "xy",
-					"translate": [0, 22.2, -1.9],
-					"rotate": [-80, 0, 0],
-					"boxes": [
-						{"coordinates": [4, -12, -2, 4, 12, 4], "textureOffset": [0, 48]}
-					]
-				}
 			]
 		},
 		{
