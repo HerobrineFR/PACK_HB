@@ -9,7 +9,7 @@
 		"5": "block/polished_deepslate",
 		"6": "block/andesite",
 		"7": "block/iron_bars",
-		"particle": "basalt_side"
+		"particle": "block/basalt_side"
 	},
 	"elements": [
 		{
