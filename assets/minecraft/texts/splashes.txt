@@ -1,6 +1,7 @@
 Herobrine.fr, le roleplay sur Minecraft !
 Une communauté roliste !
-Herobrine.fr le roleplay sur Minecraft, communauté roliste autour du mythe d'herobrine !
+Communauté roliste autour du mythe d'Herobrine !
+Herobrine.fr le roleplay sur Minecraft, communauté roliste autour du mythe d'Herobrine !
 Uniquement sur Minecraft !
 Créé par BL !
 §f§l- -§r
@@ -12,16 +13,16 @@ Bientôt en version 19.3333333333333333....
 Now with bees !
 Maintenant avec des Warden ! (soon tm)
 Courage <PLAYER_NAME> !
-ADDE6 - La vengeance de la hache en bois !
+ADDE6 - La revengeance de la hache en bois !
 Maintenant jouable sous l'eau !
 Bientôt disponible sur Minitel !
 3615 Herobrine !
 Présent sous l'eau !
 Présent sur l'eau !
-§3§lSOUS L'OCEAN§r
 Avec de vrais morceaux de crabe !
 Blblbl...
 La Bulle !
+La Toile !!
 ROLL 100 !!
 Roll 20 !
 Ah ah, c'était des roll inversés.
@@ -46,7 +47,7 @@ Arbitres à la Collecte !!
 Séides à la Collecte !!
 Compagnie machine à grada ?
 All your base are belong to us.
-!!!
+!
 Il faut suivre les yeux !
 Il faut suivre les yeux et trouver le laisser passer A-38 !
 §6O§6W H§6I§6M B§6O§6W§6E§r
@@ -55,6 +56,7 @@ Avez-vous trouvé le laisser passer A-38 ?
 Trouvez le laisser passer A-38 !!
 Connaissez-vous la voie ? 
 Connaissez-vous le chemin ?
+Pas ce soir, j'ai aqua poney. 
 ↑ ↑ ↓ ↓ ← → ← → Ｂ Ａ !
 Appuyez sur START pour commencer !
 Press START to begin !
@@ -83,13 +85,16 @@ Pack mis à jour par Inposa !
 §2Apprenti !§r
 §9Membre !§r
 §bMembre Honoré !§r
+§bHonoré !§r
 §4Maître !§r
 §5Sage !§r
 §kMoi c'est Bobby§r
+Bob. did. nothing. wrong.
 Bonjour !
 Bonsoir !
+Bonsoir !!
 Hello there !
-Oui oui oui !
+Oui oui !
 C'est oui !
 Et c'est non !
 Pourquoi ?
@@ -99,12 +104,14 @@ Qualité Théoricienne !
 Never gonna give you up !
 Never gonna let you down !
 !!!
+!!
 Lorem Ipsum !
 Est-ce que Yarkane sait faire le Moonwalk ?
+Est-ce que Yarkane sait faire cuire des pâtes ?
+Est-ce que Yarkane sait comment remplir ses impôts ?
 Il faut viser la lune !
 VISER LA LUNE CA NE ME FAIT PAS PEUR
 "But first of all, we need to talk about parallel universes."
-YAOUH YAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYA YAOUH !
 Tactical shovel !
 (it's just work !)
 
@@ -115,6 +122,7 @@ Tactical shovel !
 §b**Soudainement, tout explose.§r
 §b**Soudainement, tout explose, encore.§r
 §b**Soudainement... Rien ne se passe.§r
+§b**Soudainement... Rien ne se passe. ET TOUT EXPLOSE§r
 §b*Il fait beau, les oiseaux chantent, et les Marcheurs Lunaire ne sont plus là ?§r
 §f<§r§4Seberus §r§f[dit]>§r§a Cette réflexion mérite réflexion...§r
 §6TOR VIS GOM BAAL§r
@@ -123,6 +131,7 @@ Tactical shovel !
 §9Rouge !§r
 §2Rose !§r
 §dVert !§r
-/give @a hugs 64
+/give @a minecraft:hugs 64
 /kill @e[name=Abberath,distance=..500]
 /execute as @e[distance=..300] at @s execute particle heart ~ ~ ~ 1 1 1 1 40
+/execute as @e[name=Abberath] run /ban @s
