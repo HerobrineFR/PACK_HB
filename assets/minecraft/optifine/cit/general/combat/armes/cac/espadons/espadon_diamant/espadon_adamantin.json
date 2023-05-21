@@ -1,8 +1,8 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"texture": "./espadon_adamantin"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Box2",
@@ -496,7 +496,8 @@
 		},
 		"fixed": {
 			"rotation": [90, 0, 0],
-			"translation": [2, 2, 7.75]
+			"translation": [-1.945, -0.8587, 10.2065],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }
