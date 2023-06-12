@@ -41,6 +41,9 @@
   "hb.other.energy": {
     "sounds": ["hb/other/energy"]
   },
+  "hb.other.hocy": {
+    "sounds": ["hb/other/hocy"]
+  },
   "hb.other.gataca": {
     "sounds": ["hb/other/gataca"]
   },
