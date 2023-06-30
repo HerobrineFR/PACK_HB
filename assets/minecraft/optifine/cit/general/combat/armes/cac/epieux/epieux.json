@@ -4,7 +4,6 @@
 		"0": "./epieux",
 		"particle": "./epieux"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Cube",
@@ -1255,6 +1254,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [60, 0, 90],
@@ -1291,7 +1291,8 @@
 		},
 		"fixed": {
 			"rotation": [90, 0, 0],
-			"translation": [3, 2, 8]
+			"translation": [-5.5, -4.25, 14],
+			"scale": [2, 2, 2]
 		}
 	}
 }

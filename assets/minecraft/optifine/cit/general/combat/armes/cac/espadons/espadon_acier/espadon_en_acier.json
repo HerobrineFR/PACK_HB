@@ -3,7 +3,6 @@
 	"textures": {
 		"texture": "./espadon_en_acier"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"name": "Box2",
@@ -497,7 +496,8 @@
 		},
 		"fixed": {
 			"rotation": [90, 0, 0],
-			"translation": [2, 2, 7.75]
+			"translation": [-2.25, -1.75, 10.5],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }

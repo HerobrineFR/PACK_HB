@@ -1,8 +1,8 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "./claymore_adamantine"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"from": [5, 0, 7],
@@ -405,8 +405,8 @@
 		},
 		"fixed": {
 			"rotation": [90, 0, 0],
-			"translation": [-0.945, 1.3913, 5.7065],
-			"scale": [0.9, 0.9, 0.9]
+			"translation": [-2.695, 1.6413, 10.4565],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }

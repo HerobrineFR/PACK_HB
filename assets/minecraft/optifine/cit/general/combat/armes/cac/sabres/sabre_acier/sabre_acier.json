@@ -4,7 +4,6 @@
 		"0": "./sabre_acier",
 		"particle": "./sabre_acier"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-2, 0, 16],
@@ -471,7 +470,7 @@
 		},
 		"gui": {
 			"rotation": [0, -90, 90],
-			"translation": [2.1956, 1.609, -5.5],
+			"translation": [1.4456, 1.109, -5.5],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
@@ -481,8 +480,8 @@
 		},
 		"fixed": {
 			"rotation": [90, 0, 0],
-			"translation": [0.75, 0.75, 6.5],
-			"scale": [0.9, 0.9, 0.9]
+			"translation": [1.5, 3.25, 10.25],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }
