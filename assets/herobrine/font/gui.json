@@ -1,0 +1,23 @@
+{"providers":[
+	{
+        "file":"herobrine:gui/blank_menu.png",
+        "chars":[""],
+        "height":170,
+        "ascent":47,
+        "type":"bitmap"
+    },
+    {
+        "file":"herobrine:icons/icon_right_blue.png",
+        "chars":["x"],
+        "height":16,
+        "ascent":-80,
+        "type":"bitmap"
+    },
+    {
+        "file":"herobrine:icons/icon_left_blue.png",
+        "chars":["g"],
+        "height":16,
+        "ascent":-80,
+        "type":"bitmap"
+    }
+]}
