@@ -27,12 +27,12 @@ jobs:
       
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       
       - name: Test with environment variables
         run: echo $RELEASE_NAME
         env:
-          RELEASE_NAME: HBCubemonde_${{ steps.date.outputs.date }}
+          RELEASE_NAME: HBCubemonde_$date
       
       # Runs a single command using the runners shell
       #- name: Run a one-line script
