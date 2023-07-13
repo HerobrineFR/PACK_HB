@@ -37,12 +37,13 @@ jobs:
         with:
           type: 'zip'
           filename: "${{env.RELEASE_NAME}}.zip"
-          exclusion: '*.git*'
+          exclusions: '*.git*'
       
       # Create a new release
-      - name: Create a new release
+      - name: Create Release
         uses: ncipollo/release-action@v1.12.0
         with:
+          name: ${{env.RELEASE_NAME}}
           artifacts: "${{env.RELEASE_NAME}}.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
 
