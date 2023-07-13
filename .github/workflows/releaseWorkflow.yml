@@ -32,7 +32,7 @@ jobs:
       - name: Test with environment variables
         run: echo $RELEASE_NAME
         env:
-          RELEASE_NAME: HBCubemonde_$date
+          RELEASE_NAME: HBCubemonde_${{env.date}}
       
       # Runs a single command using the runners shell
       #- name: Run a one-line script
