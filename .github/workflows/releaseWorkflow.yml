@@ -28,6 +28,10 @@ jobs:
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       
+      - name: Get current date
+        id: tag
+        run: echo "tag=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
+      
       - name: Set release name
         run: echo "RELEASE_NAME=HBCubemonde_${{env.date}}" >> $GITHUB_ENV
     
@@ -44,6 +48,7 @@ jobs:
         uses: ncipollo/release-action@v1.12.0
         with:
           name: ${{env.RELEASE_NAME}}
+          tag: ${{env.tag}}
           artifacts: "${{env.RELEASE_NAME}}.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
 
