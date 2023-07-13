@@ -17,36 +17,33 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      # Checks-out the repository on master branch
       - uses: actions/checkout@master
       
       - name: Get current date
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       
-      - name: Test with environment variables
-        run: echo $RELEASE_NAME
-        env:
-          RELEASE_NAME: HBCubemonde_${{env.date}}
+      - name: Set release name
+        run: echo "RELEASE_NAME=HBCubemonde_${{env.date}}" >> $GITHUB_ENV
+    
+      # Create a zip
+      - name: Compress the pack as zip
+        uses: TheDoctor0/zip-release@0.7.1
+        with:
+          type: 'zip'
+          filename: "${{env.RELEASE_NAME}}.zip"
+          exclusion: '*.git*'
       
-      - name: Set relase name
-        run: echo $RELEASE_NAME
-      
-      # Runs a single command using the runners shell
-      #- name: Run a one-line script
-      #  run: echo Hello, world!
-      
-      #- name: zip the pack files recursively
-      #  run: echo zip -r pack.zip . 
-      
-      #- name: Zip Release
-      #  uses: TheDoctor0/zip-release@0.7.1
-      #  with:
-      #    type: 'zip'
-      #    filename: ''
-  
+      # Create a new release
+      - name: Create a new release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          artifacts: "${{env.RELEASE_NAME}}.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+
