@@ -1,0 +1,16 @@
+{"providers":[
+	{
+        "file":"herobrine:icons/eolh.png",
+        "chars":["ᛉ"],
+        "height":8,
+        "ascent":7,
+        "type":"bitmap"
+    },
+{
+        "file":"herobrine:icons/montalum.png",
+        "chars":["ੈ"],
+        "height":11,
+        "ascent":10,
+        "type":"bitmap"
+    }
+]}
