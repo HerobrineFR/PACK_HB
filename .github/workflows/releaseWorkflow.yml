@@ -17,6 +17,7 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   build:
+    permissions: write-all
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
