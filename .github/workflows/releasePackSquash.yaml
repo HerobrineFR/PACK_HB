@@ -1,4 +1,4 @@
-name: Release Workflow
+name: Release Workflow with pack squash
 
 # Controls when the workflow will run
 on:
