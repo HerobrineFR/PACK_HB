@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/grass_path_top",
+		"0": "block/dirt_path_top",
 		"1": "./oreille1",
-		"particle": "block/grass_path_top"
+		"particle": "block/dirt_path_top"
 	},
 	"elements": [
 		{

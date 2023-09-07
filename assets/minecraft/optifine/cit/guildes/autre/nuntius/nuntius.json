@@ -4,7 +4,7 @@
 		"0": "block/quartz_block_side",
 		"2": "block/coal_block",
 		"3": "./cornes",
-		"particle": "Balance"
+		"particle": "assets/minecraft/optifine/cit/guildes/arbitres/tombe/balance.png"
 	},
 	"elements": [
 		{
