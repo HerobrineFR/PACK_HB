@@ -1,9 +1,9 @@
 {
 	"credit": "Fait par Saynos :D",
 	"textures": {
-		"0": "./Soie",
-		"2": "./Bois",
-		"particle": "./Soie"
+		"0": "./soie",
+		"2": "./bois",
+		"particle": "./soie"
 	},
 	"elements": [
 		{
