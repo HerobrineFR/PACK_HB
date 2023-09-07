@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/iron_block",
 		"1": "block/cyan_terracotta",
-		"2": "./aurDust",
+		"2": "./aurdust",
 		"3": "block/light_gray_stained_glass",
 		"particle": "block/spruce_planks"
 	},
