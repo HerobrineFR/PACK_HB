@@ -82,6 +82,7 @@ jobs:
             output_file_path = "/tmp/${{env.RELEASE_NAME}}.zip"
             
             allow_mods = ['OptiFine']
+            minify_properties = false
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
