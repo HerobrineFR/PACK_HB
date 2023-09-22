@@ -50,6 +50,12 @@
 	"instrument=harp,note=24,powered=true": { "model": "block/herobrine/cut_shale" },
 
 	"instrument=banjo,note=0,powered=false": { "model": "block/herobrine/chiseled_greenschist" },
-	"instrument=banjo,note=0,powered=true": { "model": "block/herobrine/chiseled_chert" }
+	"instrument=banjo,note=0,powered=true": { "model": "block/herobrine/chiseled_chert" },
+	"instrument=banjo,note=1,powered=false": { "model": "block/herobrine/eso_cristal" },
+	"instrument=banjo,note=1,powered=true": { "model": "block/herobrine/echo_cristal" },
+	"instrument=banjo,note=2,powered=false": { "model": "block/herobrine/blue-green_cristal" },
+	"instrument=banjo,note=2,powered=true": { "model": "block/herobrine/red_cristal" },
+	"instrument=banjo,note=3,powered=false": { "model": "block/herobrine/purple_cristal" },
+	"instrument=banjo,note=3,powered=true": { "model": "block/herobrine/neutral_cristal" }
     }
 }

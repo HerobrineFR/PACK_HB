@@ -1,7 +1,12 @@
 {
-  "parent": "minecraft:block/cube_column",
+  "parent": "minecraft:block/cube",
   "textures": {
-    "end": "minecraft:block/oakwool",
-    "side": "minecraft:block/oakwool"
+    "up": "minecraft:block/oak_planks",
+    "east": "minecraft:block/oakwool",
+    "north": "minecraft:block/oakwool",
+    "particle": "minecraft:block/oakwool",
+    "south": "minecraft:block/oakwool",
+    "down": "minecraft:block/white_wool",
+    "west": "minecraft:block/oakwool"
   }
 }
