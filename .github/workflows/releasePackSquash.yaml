@@ -82,6 +82,10 @@ jobs:
             output_file_path = "/tmp/${{env.RELEASE_NAME}}.zip"
             
             allow_mods = ['OptiFine']
+
+            # Temporary removing .properties processing because of accentued character encoding
+            ['**/?*.properties']
+            minify_properties = false
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
