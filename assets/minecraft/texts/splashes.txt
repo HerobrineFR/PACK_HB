@@ -9,7 +9,7 @@ Découvrez aussi Hrobrin.be, le roleplay sur Minceraft !
 Découvrez Herobrine Classic en version Indev !
 Désormais en version 1.19.2 !
 Bientôt en version 20w14infinite !
-Bientôt en version 19.3333333333333333....
+Bientôt en version 19.333333333333333333333....
 Now with bees !
 Maintenant avec des Warden ! (soon tm)
 Courage <PLAYER_NAME> !
@@ -79,6 +79,8 @@ Quand le Sage montre la lune bleue, l'Apprenti regarde le doigt.
 Quand le Sage montre la lune bleue, le Maître regarde le doigt.
 Quand le Maître montre la lune bleue, les Membres se tournent vers le Sage.
 Pack mis à jour par Inposa !
+Le pack est ouvert aux contributions !
+Jetez un oeil au Github !
 §3s§r§3h§r§3y§r§3n§r§3p§r§3o§r§34§r§32§r
 §fProfane !§r
 §8Profane !§r
@@ -90,9 +92,11 @@ Pack mis à jour par Inposa !
 §5Sage !§r
 §kMoi c'est Bobby§r
 Bob. did. nothing. wrong.
+But who's Bob?
 Bonjour !
 Bonsoir !
 Bonsoir !!
+Bonjour !!!
 Hello there !
 Oui oui !
 C'est oui !
@@ -108,7 +112,8 @@ Never gonna let you down !
 Lorem Ipsum !
 Est-ce que Yarkane sait faire le Moonwalk ?
 Est-ce que Yarkane sait faire cuire des pâtes ?
-Est-ce que Yarkane sait comment remplir ses impôts ?
+Est-ce que Yarkane sait bien remplir ses impôts ?
+Est-ce que Lucien sait payer ses impôts ?
 Il faut viser la lune !
 VISER LA LUNE CA NE ME FAIT PAS PEUR
 "But first of all, we need to talk about parallel universes."
