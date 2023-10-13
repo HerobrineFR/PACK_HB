@@ -70,5 +70,8 @@
   },
   "hb.whisper.whisp": {
     "sounds": ["hb/whisper/whisp"]
+  },
+  "hb.water.conquest.distorded": {
+    "sounds": ["water/distorded"]
   }
 }
