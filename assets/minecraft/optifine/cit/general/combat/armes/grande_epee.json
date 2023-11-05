@@ -1,0 +1,39 @@
+{
+	"credit": "Made by Letutout for Herobrine.fr",
+	"parent": "item/handheld",
+	"textures": {
+		"1": "./cac/marteaux/tetsubo/espadon_en_fer",
+		"particle": "./cac/marteaux/tetsubo/espadon_en_fer"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [18, -90, 62.5],
+			"translation": [0, 10.25, 1.75],
+			"scale": [1.8, 1.8, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [18, 90, -62.5],
+			"translation": [0, 10.25, 1.75],
+			"scale": [1.8, 1.8, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-36, -90, 25],
+			"translation": [0, 9.5, 1.5],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-36, 90, -25],
+			"translation": [0, 9.5, 1.5],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"translation": [2.75, 11.5, 0],
+			"scale": [1.8, 1.8, 1]
+		},
+		"fixed": {
+			"translation": [9, 9, 0],
+			"scale": [3.6, 3.6, 1.5]
+		}
+	}
+}
