@@ -2,8 +2,7 @@
 	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/handheld",
 	"textures": {
-		"1": "./cac/marteaux/tetsubo/espadon_en_fer",
-		"particle": "./cac/marteaux/tetsubo/espadon_en_fer"
+		"layer0": "./cac/marteaux/tetsubo/tetsubo_fer"
 	},
 	"gui_light": "front",
 	"display": {
