@@ -62,8 +62,8 @@
   "hb.pnj.gravity": {
     "sounds": ["hb/pnj/gravity"]
   },
-  "hb.pnj.cest-difficile": {
-    "sounds": ["hb/pnj/cest-difficile"]
+  "hb.pnj.moon": {
+    "sounds": ["hb/pnj/moon"]
   },
   "hb.whisper.queveuxtu": {
     "sounds": ["hb/whisper/queveuxtu"]
