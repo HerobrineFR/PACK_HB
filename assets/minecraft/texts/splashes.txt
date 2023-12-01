@@ -140,3 +140,5 @@ Tactical shovel !
 /kill @e[name=Abberath,distance=..500]
 /execute as @e[distance=..300] at @s execute particle heart ~ ~ ~ 1 1 1 1 40
 /execute as @e[name=Abberath] run /ban @s
+With new Funky mode !
+Featuring Dante from the Devil May Cry™ series !
