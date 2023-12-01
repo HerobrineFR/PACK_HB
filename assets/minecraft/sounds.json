@@ -62,8 +62,20 @@
   "hb.pnj.gravity": {
     "sounds": ["hb/pnj/gravity"]
   },
-  "hb.pnj.moon": {
+  "hb.pnj.moonlight": {
     "sounds": ["hb/pnj/moon"]
+  },
+  "hb.pnj.carnyx1": {
+    "sounds": ["hb/pnj/carnyx1"]
+  },
+  "hb.pnj.carnyx2": { 
+    "sounds": ["hb/pnj/carnyx2"]
+  },
+  "hb.pnj.carnyx3": {
+    "sounds": ["hb/pnj/carnyx3"]
+  },
+  "hb.pnj.carnyx4": { 
+    "sounds": ["hb/pnj/carnyx4"]
   },
   "hb.whisper.queveuxtu": {
     "sounds": ["hb/whisper/queveuxtu"]
