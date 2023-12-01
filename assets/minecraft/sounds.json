@@ -59,6 +59,12 @@
   "hb.pnj.chasse": {
     "sounds": ["hb/pnj/chasse"]
   },
+  "hb.pnj.gravity": {
+    "sounds": ["hb/pnj/gravity"]
+  },
+  "hb.pnj.moon": {
+    "sounds": ["hb/pnj/moon"]
+  },
   "hb.whisper.queveuxtu": {
     "sounds": ["hb/whisper/queveuxtu"]
   },
