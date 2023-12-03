@@ -1,5 +1,6 @@
 {
-	"texture_size": [8, 16],
+	"credit": "Made with Blockbench by Alixollo",
+	"texture_size": [16, 32],
 	"textures": {
 		"0": "./finger_top",
 		"particle": "./finger_top"
@@ -12,7 +13,7 @@
 			"faces": {
 				"north": {"uv": [0, 16, 10, 2], "rotation": 90, "texture": "#0"},
 				"east": {"uv": [0, 2.28571, 0.75, 3.03571], "texture": "#0"},
-				"south": {"uv": [0, 5.71429, 12.8, 14.85714], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 5.71429, 9.8, 14.85714], "rotation": 90, "texture": "#0"},
 				"west": {"uv": [0, 5.71429, 0.75, 6.46429], "texture": "#0"},
 				"up": {"uv": [2, 5, 4, 6], "texture": "#0"},
 				"down": {"uv": [2, 7, 10, 14], "rotation": 90, "texture": "#0"}

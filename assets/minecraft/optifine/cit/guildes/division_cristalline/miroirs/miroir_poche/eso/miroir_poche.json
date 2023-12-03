@@ -1,8 +1,9 @@
 {
+	"credit": "Made with Blockbench by Alixollo",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "block/gold_block",
-		"particle": "block/gold_block",
+		"0": "./block/gold_block",
+		"particle": "./block/gold_block",
 		"1_1": "./miroir2"
 	},
 	"elements": [
@@ -154,7 +155,7 @@
 			"from": [6, 2.25, 7.5],
 			"to": [13, 2.5, 10.5],
 			"faces": {
-				"up": {"uv": [4, 0, 10, 14], "rotation": 90, "texture": "#1_1"},
+				"up": {"uv": [2, 0, 5, 7], "rotation": 90, "texture": "#1_1"},
 				"down": {"uv": [4, 3.75, 13, 9.75], "texture": "#0"}
 			}
 		},
@@ -162,7 +163,7 @@
 			"from": [7, 2.25, 10.5],
 			"to": [12, 2.5, 11.5],
 			"faces": {
-				"up": {"uv": [10, 12, 12, 2], "rotation": 90, "texture": "#1_1"},
+				"up": {"uv": [5, 6, 6, 1], "rotation": 90, "texture": "#1_1"},
 				"down": {"uv": [5, 10.5, 12, 12], "texture": "#0"}
 			}
 		},
@@ -170,7 +171,7 @@
 			"from": [8, 2.25, 11.5],
 			"to": [11, 2.5, 12.5],
 			"faces": {
-				"up": {"uv": [12, 10, 14, 4], "rotation": 90, "texture": "#1_1"},
+				"up": {"uv": [6, 5, 7, 2], "rotation": 90, "texture": "#1_1"},
 				"down": {"uv": [5, 5.25, 11, 8.25], "texture": "#0"}
 			}
 		},
@@ -178,7 +179,7 @@
 			"from": [7, 2.25, 6.5],
 			"to": [12, 2.5, 7.5],
 			"faces": {
-				"up": {"uv": [2, 2, 4, 12], "rotation": 90, "texture": "#1_1"},
+				"up": {"uv": [1, 1, 2, 6], "rotation": 90, "texture": "#1_1"},
 				"down": {"uv": [5, 9, 12, 12], "texture": "#0"}
 			}
 		},
@@ -186,7 +187,7 @@
 			"from": [8, 2.25, 5.5],
 			"to": [11, 2.5, 6.5],
 			"faces": {
-				"up": {"uv": [0, 4, 2, 10], "rotation": 90, "texture": "#1_1"},
+				"up": {"uv": [0, 2, 1, 5], "rotation": 90, "texture": "#1_1"},
 				"down": {"uv": [5, 9, 11, 12], "texture": "#0"}
 			}
 		}
