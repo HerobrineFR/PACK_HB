@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Alixollo",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "./block/gold_block",
-		"particle": "./block/gold_block",
+		"0": "block/gold_block",
+		"particle": "block/gold_block",
 		"1_1": "./miroir2"
 	},
 	"elements": [
