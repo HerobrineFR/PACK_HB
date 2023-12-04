@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "./soie_harpe",
 		"2": "./bois_harpe",
-		"particle": "./soie"
+		"particle": "./soie_harpe"
 	},
 	"elements": [
 		{
