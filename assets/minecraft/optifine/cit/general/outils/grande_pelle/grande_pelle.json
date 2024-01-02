@@ -2,7 +2,7 @@
 	"credit": "Fait par Saynos :D",
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "./pelle_velours"
+		"layer0": "./grande_pelle"
 	},
 	"display": {
 		"thirdperson_righthand": {
