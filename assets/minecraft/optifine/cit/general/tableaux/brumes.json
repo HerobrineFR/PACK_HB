@@ -1,6 +1,7 @@
 {
-    "parent": "./tableau",
-    "textures": {
-        "layer0": "./brumes"
-    }
+	"credit": "Made with Blockbench by Alixollo",
+	"parent": "./tableau",
+	"textures": {
+		"layer0": "./brumes"
+	}
 }

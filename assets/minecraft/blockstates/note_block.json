@@ -56,6 +56,7 @@
 	"instrument=banjo,note=2,powered=false": { "model": "block/herobrine/blue-green_cristal" },
 	"instrument=banjo,note=2,powered=true": { "model": "block/herobrine/red_cristal" },
 	"instrument=banjo,note=3,powered=false": { "model": "block/herobrine/purple_cristal" },
-	"instrument=banjo,note=3,powered=true": { "model": "block/herobrine/neutral_cristal" }
+	"instrument=banjo,note=3,powered=true": { "model": "block/herobrine/neutral_cristal" },
+	"instrument=banjo,note=4,powered=false": { "model": "block/herobrine/fireflies" }
     }
 }
