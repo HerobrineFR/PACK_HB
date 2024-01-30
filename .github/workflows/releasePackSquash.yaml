@@ -53,5 +53,6 @@ jobs:
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{env.RELEASE_NAME}}
+          tag_name: ${{env.date}}
+          name: ${{env.RELEASE_NAME}}
           files: /tmp/${{env.RELEASE_NAME}}.zip
