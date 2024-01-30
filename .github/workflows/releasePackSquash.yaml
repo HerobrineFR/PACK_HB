@@ -12,42 +12,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  #  build:
-  #    permissions: write-all
-  #    runs-on: ubuntu-latest
-  #
-  #    steps:
-  #      # Checks-out the repository on master branch
-  #      - uses: actions/checkout@master
-  #
-  #      - name: Get current date
-  #        id: date
-  #        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-  #
-  #      - name: Get current date
-  #        id: tag
-  #        run: echo "tag=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
-  #
-  #      - name: Set release name
-  #        run: echo "RELEASE_NAME=HBCubemonde_${{env.date}}" >> $GITHUB_ENV
-  #
-  #      # Create a zip
-  #      - name: Compress the pack as zip
-  #        uses: TheDoctor0/zip-release@0.7.1
-  #        with:
-  #          type: 'zip'
-  #          filename: "${{env.RELEASE_NAME}}.zip"
-  #          exclusions: '*.git*'
-  #
-  #      # Create a new release
-  #      - name: Create Release
-  #        uses: ncipollo/release-action@v1.12.0
-  #        with:
-  #          name: ${{env.RELEASE_NAME}}
-  #          tag: ${{env.tag}}
-  #          artifacts: "${{env.RELEASE_NAME}}.zip"
-  #          token: ${{ secrets.GITHUB_TOKEN }}
-
   packsquash:
     name: Optimize resource pack
     permissions: write-all
@@ -89,5 +53,5 @@ jobs:
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: action-v${{ github.run_number }}
+          tag_name: ${{env.RELEASE_NAME}}
           files: /tmp/${{env.RELEASE_NAME}}.zip
