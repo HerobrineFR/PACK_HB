@@ -281,17 +281,20 @@
 		},
 		"firstperson_righthand": {
 			"rotation":  [ 42, 0, 15 ],
-			"translation":  [ 0, 1.3913, -0.694 ]
+			"translation":  [ 0, 1.3913, -0.69 ]
 		},
 		"firstperson_lefthand": {
 			"rotation":  [ 42, 0, 15 ],
-			"translation":  [ 0, 1.3913, -0.694 ]
+			"translation":  [ 0, 1.39, -0.69 ]
 		},
 		"gui": {
 			"rotation":  [ 90, 0, 0 ]
 		},
 		"fixed": {
 			"rotation":  [ 90, 0, 180 ]
+		},
+		"ground": {
+			"scale": [0.6, 0.6, 0.6]
 		}
 	}
 }
