@@ -4,7 +4,7 @@
 		"0": "./argent",
 		"1": "./rouge",
 		"2": "./balance",
-		"3": "minecraft:item/string",
+		"3": "item/string",
 		"4": "./couverture",
 		"6": "./sombre"
 	},
@@ -1370,14 +1370,33 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [68.68, 2.74, -90.59],
-			"translation": [5, 1.5, 0.5],
-			"scale": [1.14258, 1.13086, 1.28516]
+			"rotation": [0, 0, -90],
+			"translation": [5.5, -0.25, -1.25],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 90],
+			"translation": [-5.75, -0.5, -0.75],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -90],
+			"translation": [5.25, 3.75, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 90],
+			"translation": [-5.5, 4.25, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [1.25, 1.25, 1.25]
 		},
 		"gui": {
-			"rotation": [-175.91, -85.99, 94.11],
-			"translation": [2.25, 2, 0],
-			"scale": [2.48047, 1, 2.61719]
+			"rotation": [0, -90, -90],
+			"translation": [2, 2.5, 0],
+			"scale": [2.5, 2.5, 2.5]
 		},
 		"head": {
 			"rotation": [0.31, -88.76, -87.43],
@@ -1385,8 +1404,8 @@
 			"scale": [2.50781, 2.02148, 2.55664]
 		},
 		"fixed": {
-			"rotation": [90, 0, 0],
-			"translation": [-3, 3, 12.75],
+			"rotation": [-90, 0, 0],
+			"translation": [-3.25, -3, -18.25],
 			"scale": [4, 3.65039, 4]
 		}
 	},
