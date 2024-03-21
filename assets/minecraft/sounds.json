@@ -48,7 +48,7 @@
     "sounds": ["hb/other/gataca"]
   },
   "hb.pnj.chant": {
-    "sounds": ["hb/pnj/chant"]
+    "sounds": ["hb/pnj/chant_oeuvre"]
   },
   "hb.pnj.laugh": {
     "sounds": ["hb/pnj/laugh"]
