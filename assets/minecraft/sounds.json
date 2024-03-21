@@ -77,6 +77,9 @@
   "hb.pnj.carnyx4": { 
     "sounds": ["hb/pnj/carnyx4"]
   },
+  "hb.pnj.priro": { 
+    "sounds": ["hb/pnj/chant_priro"]
+  },
   "hb.whisper.queveuxtu": {
     "sounds": ["hb/whisper/queveuxtu"]
   },
