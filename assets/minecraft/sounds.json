@@ -48,7 +48,7 @@
     "sounds": ["hb/other/gataca"]
   },
   "hb.pnj.chant": {
-    "sounds": ["hb/pnj/chant"]
+    "sounds": ["hb/pnj/chant_oeuvre"]
   },
   "hb.pnj.laugh": {
     "sounds": ["hb/pnj/laugh"]
@@ -77,6 +77,9 @@
   "hb.pnj.carnyx4": { 
     "sounds": ["hb/pnj/carnyx4"]
   },
+  "hb.pnj.priro": { 
+    "sounds": ["hb/pnj/chant_priro"]
+  },
   "hb.whisper.queveuxtu": {
     "sounds": ["hb/whisper/queveuxtu"]
   },
@@ -88,8 +91,5 @@
   },
   "hb.whisper.whisp": {
     "sounds": ["hb/whisper/whisp"]
-  },
-  "hb.water.conquest.distorded": {
-    "sounds": ["water/distorded"]
   }
 }
