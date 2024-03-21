@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "concile_aa",
-		"2": "concile_omega",
-		"3": "concile_ab",
-		"4": "concile_ac",
-		"particle": "concile_aa"
+		"0": "./concile_aa",
+		"2": "./concile_omega",
+		"3": "./concile_ab",
+		"4": "./concile_ac",
+		"particle": "./concile_aa"
 	},
 	"elements": [
 		{
