@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "./wing",
-		"1": "block/gold_block",
-		"2": "block/stone",
+		"1": "./block/gold_block",
+		"2": "./block/stone",
 		"particle": "./wing"
 	},
 	"elements": [
