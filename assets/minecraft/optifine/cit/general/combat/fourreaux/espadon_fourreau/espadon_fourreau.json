@@ -2,7 +2,7 @@
 	"credit": "Retextured and enhanced by Letutout",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "./espadon_fourreau"
+		"layer0": "./espadon_fourreau_fer"
 	},
 	"gui_light": "front",
 	"display": {
