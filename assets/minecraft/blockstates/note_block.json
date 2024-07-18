@@ -53,10 +53,14 @@
 	"instrument=banjo,note=0,powered=true": { "model": "block/herobrine/chiseled_chert" },
 	"instrument=banjo,note=1,powered=false": { "model": "block/herobrine/eso_cristal" },
 	"instrument=banjo,note=1,powered=true": { "model": "block/herobrine/echo_cristal" },
-	"instrument=banjo,note=2,powered=false": { "model": "block/herobrine/blue-green_cristal" },
+	"instrument=banjo,note=2,powered=false": { "model": "block/herobrine/blue_green_cristal" },
 	"instrument=banjo,note=2,powered=true": { "model": "block/herobrine/red_cristal" },
 	"instrument=banjo,note=3,powered=false": { "model": "block/herobrine/purple_cristal" },
 	"instrument=banjo,note=3,powered=true": { "model": "block/herobrine/neutral_cristal" },
-	"instrument=banjo,note=4,powered=false": { "model": "block/herobrine/fireflies" }
+	"instrument=banjo,note=4,powered=false": { "model": "block/herobrine/fireflies" },
+	"instrument=banjo,note=5,powered=false": { "model": "block/herobrine/green_cristal" },
+	"instrument=banjo,note=5,powered=true": { "model": "block/herobrine/dark_cristal" },
+	"instrument=banjo,note=6,powered=false": { "model": "block/herobrine/white_cristal" },
+	"instrument=banjo,note=6,powered=true": { "model": "block/herobrine/silver_cristal" }
     }
 }
