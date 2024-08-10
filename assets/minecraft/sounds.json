@@ -80,6 +80,9 @@
   "hb.pnj.priro": { 
     "sounds": ["hb/pnj/chant_priro"]
   },
+  "hb.pnj.sonde": { 
+    "sounds": ["hb/pnj/sonde"]
+  },
   "hb.whisper.queveuxtu": {
     "sounds": ["hb/whisper/queveuxtu"]
   },

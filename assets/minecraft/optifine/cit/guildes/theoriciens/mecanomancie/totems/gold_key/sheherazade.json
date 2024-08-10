@@ -4,8 +4,7 @@
 	"textures": {
 		"0": "./wing",
 		"1": "block/gold_block",
-		"2": "block/stone",
-		"particle": "wing"
+		"2": "block/stone"
 	},
 	"elements": [
 		{
