@@ -97,5 +97,8 @@
   },
   "hb.whisper.whisp": {
     "sounds": ["hb/whisper/whisp"]
+  },
+  "hb.other.magsyn": {
+    "sounds": ["hb/other/magsyn"]
   }
 }
