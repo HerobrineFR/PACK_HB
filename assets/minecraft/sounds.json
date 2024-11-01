@@ -83,6 +83,9 @@
   "hb.pnj.sonde": { 
     "sounds": ["hb/pnj/sonde"]
   },
+  "hb.pnj.oblivion": { 
+    "sounds": ["hb/pnj/oblivion"]
+  },
   "hb.whisper.queveuxtu": {
     "sounds": ["hb/whisper/queveuxtu"]
   },
@@ -94,5 +97,8 @@
   },
   "hb.whisper.whisp": {
     "sounds": ["hb/whisper/whisp"]
+  },
+  "hb.other.magsyn": {
+    "sounds": ["hb/other/magsyn"]
   }
 }
