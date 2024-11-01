@@ -361,13 +361,13 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [71, 0, 0],
-			"translation": [0, 0.5, 17],
+			"rotation": [70, 0, 0],
+			"translation": [0, 0.5, 17.5],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [71, 0, 0],
-			"translation": [0, 0.5, 17],
+			"rotation": [70, 0, 0],
+			"translation": [0, 0.5, 17.5],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {
