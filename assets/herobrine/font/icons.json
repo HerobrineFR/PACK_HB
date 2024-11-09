@@ -47,5 +47,47 @@
         "height":10,
         "ascent":8,
         "type":"bitmap"
+    },
+    {
+        "file":"herobrine:icons/book.png",
+        "chars":["b"],
+        "height":10,
+        "ascent":8,
+        "type":"bitmap"
+    },
+    {
+        "file":"herobrine:icons/compass.png",
+        "chars":["1"],
+        "height":10,
+        "ascent":8,
+        "type":"bitmap"
+    },
+    {
+        "file":"herobrine:icons/seal_gray.png",
+        "chars":["2"],
+        "height":10,
+        "ascent":8,
+        "type":"bitmap"
+    },
+    {
+        "file":"herobrine:icons/seal_green.png",
+        "chars":["3"],
+        "height":10,
+        "ascent":8,
+        "type":"bitmap"
+    },
+    {
+        "file":"herobrine:icons/seal_red.png",
+        "chars":["4"],
+        "height":10,
+        "ascent":8,
+        "type":"bitmap"
+    },
+    {
+        "file":"herobrine:icons/stone.png",
+        "chars":["5"],
+        "height":10,
+        "ascent":8,
+        "type":"bitmap"
     }
 ]}
