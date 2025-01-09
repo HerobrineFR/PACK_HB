@@ -30,7 +30,7 @@ void main(){
 
     // Shake Effect refactored from: https://www.shadertoy.com/view/tdSyWz
     // Normalized pixel coordinates (from 0 to 1)
-    vec2 freq = vec2(10.,10.);
+    vec2 freq = vec2(60.,60.);
     vec2 magnitude = vec2(0.01,0.01);
 
     vec2 uv = Position.xy/OutSize.xy;
