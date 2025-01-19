@@ -46,7 +46,9 @@ jobs:
             output_file_path = "/tmp/${{env.RELEASE_NAME}}.zip"
             
             allow_mods = ['OptiFine']
-
+            
+            # prettify shaders
+            ['**/*?.{fsh,vsh,glsl}']
             shader_source_transformation_strategy = 'prettify'
             
             # Temporary removing .properties processing because of accentued character encoding
