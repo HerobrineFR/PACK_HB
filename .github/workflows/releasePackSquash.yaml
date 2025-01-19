@@ -21,6 +21,10 @@ jobs:
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
+      - name: Settup Discord Webhook
+        id: webhook
+        run: echo "WEBHOOK=https://discord.com/api/webhooks/1330677734795513990/7anp-9K5SFSP78MoiVpokXYDnlUG00y20rjNATbVbFgbh2XYoA4t1j97x3RMy0eyzj4S" >> $GITHUB_ENV
+      
       - name: Get current date
         id: tag
         run: echo "tag=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
@@ -60,3 +64,19 @@ jobs:
           tag_name: ${{env.date}}
           name: ${{env.RELEASE_NAME}}
           files: /tmp/${{env.RELEASE_NAME}}.zip
+      
+      - name: Get Current Release
+        id: get_current_release
+        uses: joutvhu/get-release@v1
+        with:
+          latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Discord notification
+        env:
+          DISCORD_WEBHOOK: ${{ env.WEBHOOK }}
+        uses: Ilshidur/action-discord@master
+        with:
+          args: 'The project ${{ steps.get_current_release.outputs.upload_url }} has been deployed.'
+          
