@@ -50,6 +50,7 @@ jobs:
             # Temporary removing .properties processing because of accentued character encoding
             ['**/?*.properties']
             minify_properties = false
+            shader_source_transformation_strategy = 'keep_as_is'
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
