@@ -1,5 +1,6 @@
 name: Release Workflow with pack squash
-
+env: 
+  WEBHOOK: 
 # Controls when the workflow will run
 on:
   #  # Triggers the workflow on push or pull request events but only for the "master" branch
@@ -23,7 +24,7 @@ jobs:
 
       - name: Settup Discord Webhook
         id: webhook
-        run: echo "WEBHOOK=https://discord.com/api/webhooks/1330677734795513990/7anp-9K5SFSP78MoiVpokXYDnlUG00y20rjNATbVbFgbh2XYoA4t1j97x3RMy0eyzj4S" >> $GITHUB_ENV
+        run: echo "WEBHOOK=${{secrets.WEBHOOK}} >> $GITHUB_ENV
       
       - name: Get current date
         id: tag
@@ -76,7 +77,9 @@ jobs:
       - name: Discord notification
         env:
           DISCORD_WEBHOOK: ${{ env.WEBHOOK }}
+          DISCORD_USERNAME: "Dakal Itorasch"
+          DISCORD_AVATAR: "https://i.imgur.com/ypTB2e8.png"
         uses: Ilshidur/action-discord@master
         with:
-          args: 'The project ${{ steps.get_current_release.outputs.upload_url }} has been deployed.'
+          args: 'The project ${{ steps.get_current_release.outputs.assets_url }}'
           
