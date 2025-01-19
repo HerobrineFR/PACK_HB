@@ -49,7 +49,7 @@ jobs:
             
             # prettify shaders
             ['**/*?.{fsh,vsh,glsl}']
-            shader_source_transformation_strategy = 'prettify'
+            shader_source_transformation_strategy = 'keep_as_is'
             
             # Temporary removing .properties processing because of accentued character encoding
             ['**/?*.properties']
