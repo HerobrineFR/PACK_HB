@@ -24,7 +24,7 @@ jobs:
 
       - name: Settup Discord Webhook
         id: webhook
-        run: echo "WEBHOOK=${{secrets.WEBHOOK}} >> $GITHUB_ENV
+        run: echo "WEBHOOK=${{secrets.WEBHOOK}}" >> $GITHUB_ENV
       
       - name: Get current date
         id: tag
