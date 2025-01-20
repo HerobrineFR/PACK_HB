@@ -77,8 +77,8 @@ jobs:
       - name: curl samère
         id: curl
         run: |
-          response = $(curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4)         
-          echo "pack_url= $response" >> $GITHUB_OUTPUT
+          response=$(curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4)         
+          echo "pack_url=$response" >> $GITHUB_OUTPUT
 
 
       #- name: Get download URL
