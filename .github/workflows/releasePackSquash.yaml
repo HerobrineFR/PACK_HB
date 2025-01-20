@@ -1,6 +1,5 @@
 name: Release Workflow with pack squash
-env: 
-  WEBHOOK: 
+
 # Controls when the workflow will run
 on:
   #  # Triggers the workflow on push or pull request events but only for the "master" branch
@@ -73,6 +72,16 @@ jobs:
           latest: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: curl samère
+        id: curl
+        run: |
+          curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4 >> $GITHUB_OUTPUT
+
+
+      #- name: Get download URL
+      #  id: test
+      #  run: TEST = curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4 >>
           
       - name: Discord notification
         env:
@@ -81,5 +90,5 @@ jobs:
           DISCORD_AVATAR: "https://i.imgur.com/ypTB2e8.png"
         uses: Ilshidur/action-discord@master
         with:
-          args: 'The project ${{ steps.get_current_release.outputs.assets_url }}'
+          args: "HELLO EVERYONE IM DAKAL AND HERE IS MY RELEASE: \n ${{ steps.curl }}"
           
