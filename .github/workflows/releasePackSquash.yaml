@@ -58,6 +58,7 @@ jobs:
             # Temporary removing .properties processing because of accentued character encoding
             ['**/?*.properties']
             minify_properties = false
+            
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
@@ -76,7 +77,8 @@ jobs:
       - name: curl samère
         id: curl
         run: |
-          curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4 >> $GITHUB_OUTPUT
+          response = $(curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4)         
+          echo "pack_url= $response" >> $GITHUB_OUTPUT
 
 
       #- name: Get download URL
@@ -87,8 +89,8 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ env.WEBHOOK }}
           DISCORD_USERNAME: "Dakal Itorasch"
-          DISCORD_AVATAR: "https://i.imgur.com/ypTB2e8.png"
+          DISCORD_AVATAR: "https://i.imgur.com/VVO51gG.png"
         uses: Ilshidur/action-discord@master
         with:
-          args: "HELLO EVERYONE IM DAKAL AND HERE IS MY RELEASE: \n ${{ steps.curl }}"
+          args: "HELLO EVERYONE IM DAKAL AND HERE IS *MY* RELEASE: \n ${{ steps.curl.outputs.pack_url }}"
           
