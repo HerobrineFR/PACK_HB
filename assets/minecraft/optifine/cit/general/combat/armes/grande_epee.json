@@ -2,7 +2,7 @@
 	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "./cac/marteaux/tetsubo/tetsubo_fer"
+		"layer0": "./cac/marteaux/tetsubo/tetsubo_fer/tetsubo_fer"
 	},
 	"gui_light": "front",
 	"display": {

@@ -2,7 +2,7 @@
 	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "./cac/epee_batarde/epee_batarde_fer"
+		"layer0": "./cac/epees/epee_batarde/epee_batarde_fer/epee_batarde_fer"
 	},
 	"gui_light": "front",
 	"display": {

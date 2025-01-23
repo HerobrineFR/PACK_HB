@@ -2,7 +2,7 @@
 	"credit": "Made by Letutout for Herobrine.fr",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "./cac/claymores/claymore_acier/claymore_acier"
+		"layer0": "./cac/epees/claymore/claymore_acier/claymore_acier"
 	},
 	"gui_light": "front",
 	"display": {
