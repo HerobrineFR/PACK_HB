@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-        "layer0": "./ecu"
+        "layer0": "./ecu_fer"
     },
 	"display": {
 		"thirdperson_righthand": {

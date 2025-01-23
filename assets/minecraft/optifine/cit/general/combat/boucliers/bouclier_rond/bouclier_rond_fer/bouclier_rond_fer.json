@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
 	"textures": {
-        "layer0": "./bouclier_rond"
+        "layer0": "./bouclier_rond_fer"
     },
     "display": {
         "thirdperson_righthand": {
