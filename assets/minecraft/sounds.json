@@ -1,104 +1,172 @@
 {
   "hb.ambiant.ambiance": {
-    "sounds": ["hb/ambiant/ambiance"]
+    "sounds": [
+      "hb/ambiant/ambiance"
+    ]
   },
   "hb.ambiant.ether": {
-    "sounds": ["hb/ambiant/ether"]
+    "sounds": [
+      "hb/ambiant/ether"
+    ]
   },
   "hb.ambiant.sight": {
-    "sounds": ["hb/ambiant/sight"]
+    "sounds": [
+      "hb/ambiant/sight"
+    ]
   },
   "hb.ambiant.wind": {
-    "sounds": ["hb/ambiant/wind"]
+    "sounds": [
+      "hb/ambiant/wind"
+    ]
   },
   "hb.human.breath": {
-    "sounds": ["hb/human/breath"]
+    "sounds": [
+      "hb/human/breath"
+    ]
   },
   "hb.human.heart": {
-    "sounds": ["hb/human/heart"]
+    "sounds": [
+      "hb/human/heart"
+    ]
   },
   "hb.human.rire": {
-    "sounds": ["hb/human/rire"]
+    "sounds": [
+      "hb/human/rire"
+    ]
   },
   "hb.human.scream": {
-    "sounds": ["hb/human/scream"]
+    "sounds": [
+      "hb/human/scream"
+    ]
   },
   "hb.human.souffle": {
-    "sounds": ["hb/human/souffle"]
+    "sounds": [
+      "hb/human/souffle"
+    ]
   },
   "hb.creature.mange": {
-    "sounds": ["hb/creature/mange"]
+    "sounds": [
+      "hb/creature/mange"
+    ]
   },
   "hb.creature.moan": {
-    "sounds": ["hb/creature/moan"]
+    "sounds": [
+      "hb/creature/moan"
+    ]
   },
   "hb.creature.monster": {
-    "sounds": ["hb/creature/monster"]
+    "sounds": [
+      "hb/creature/monster"
+    ]
   },
   "hb.other.bells": {
-    "sounds": ["hb/other/bells"]
+    "sounds": [
+      "hb/other/bells"
+    ]
   },
   "hb.other.energy": {
-    "sounds": ["hb/other/energy"]
+    "sounds": [
+      "hb/other/energy"
+    ]
   },
   "hb.other.hocy": {
-    "sounds": ["hb/other/hocy"]
+    "sounds": [
+      "hb/other/hocy"
+    ]
   },
   "hb.other.gataca": {
-    "sounds": ["hb/other/gataca"]
+    "sounds": [
+      "hb/other/gataca"
+    ]
   },
   "hb.pnj.chant": {
-    "sounds": ["hb/pnj/chant_oeuvre"]
+    "sounds": [
+      "hb/pnj/chant"
+    ]
   },
   "hb.pnj.laugh": {
-    "sounds": ["hb/pnj/laugh"]
+    "sounds": [
+      "hb/pnj/laugh"
+    ]
   },
   "hb.pnj.priere": {
-    "sounds": ["hb/pnj/priere"]
+    "sounds": [
+      "hb/pnj/priere"
+    ]
   },
   "hb.pnj.chasse": {
-    "sounds": ["hb/pnj/chasse"]
+    "sounds": [
+      "hb/pnj/chasse"
+    ]
   },
   "hb.pnj.gravity": {
-    "sounds": ["hb/pnj/gravity"]
+    "sounds": [
+      "hb/pnj/gravity"
+    ]
   },
   "hb.pnj.moonlight": {
-    "sounds": ["hb/pnj/moon"]
+    "sounds": [
+      "hb/pnj/moon"
+    ]
   },
   "hb.pnj.carnyx1": {
-    "sounds": ["hb/pnj/carnyx1"]
+    "sounds": [
+      "hb/pnj/carnyx1"
+    ]
   },
-  "hb.pnj.carnyx2": { 
-    "sounds": ["hb/pnj/carnyx2"]
+  "hb.pnj.carnyx2": {
+    "sounds": [
+      "hb/pnj/carnyx2"
+    ]
   },
   "hb.pnj.carnyx3": {
-    "sounds": ["hb/pnj/carnyx3"]
+    "sounds": [
+      "hb/pnj/carnyx3"
+    ]
   },
-  "hb.pnj.carnyx4": { 
-    "sounds": ["hb/pnj/carnyx4"]
+  "hb.pnj.carnyx4": {
+    "sounds": [
+      "hb/pnj/carnyx4"
+    ]
   },
-  "hb.pnj.priro": { 
-    "sounds": ["hb/pnj/chant_priro"]
+  "hb.pnj.priro": {
+    "sounds": [
+      "hb/pnj/chant_priro"
+    ]
   },
-  "hb.pnj.sonde": { 
-    "sounds": ["hb/pnj/sonde"]
+  "hb.pnj.sonde": {
+    "sounds": [
+      "hb/pnj/sonde"
+    ]
   },
-  "hb.pnj.oblivion": { 
-    "sounds": ["hb/pnj/oblivion"]
+  "hb.pnj.oblivion": {
+    "sounds": [
+      "hb/pnj/oblivion"
+    ]
   },
   "hb.whisper.queveuxtu": {
-    "sounds": ["hb/whisper/queveuxtu"]
+    "sounds": [
+      "hb/whisper/queveuxtu"
+    ]
   },
   "hb.whisper.rejoinsnous": {
-    "sounds": ["hb/whisper/rejoinsnous"]
+    "sounds": [
+      "hb/whisper/rejoinsnous"
+    ]
   },
   "hb.whisper.toto": {
-    "sounds": ["hb/whisper/toto"]
+    "sounds": [
+      "hb/whisper/toto"
+    ]
   },
   "hb.whisper.whisp": {
-    "sounds": ["hb/whisper/whisp"]
+    "sounds": [
+      "hb/whisper/whisp"
+    ]
   },
   "hb.other.magsyn": {
-    "sounds": ["hb/other/magsyn"]
+    "sounds": [
+      "hb/other/magsyn"
+    ]
   }
 }

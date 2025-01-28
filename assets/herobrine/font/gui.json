@@ -1,30 +1,58 @@
-{"providers":[
-	{
-        "file":"herobrine:gui/blank_menu.png",
-        "chars":[""],
-        "height":170,
-        "ascent":47,
-        "type":"bitmap"
-    },
-    {
-        "file":"herobrine:icons/icon_right_blue.png",
-        "chars":["x"],
-        "height":16,
-        "ascent":-80,
-        "type":"bitmap"
-    },
-    {
-        "file":"herobrine:icons/icon_left_blue.png",
-        "chars":["g"],
-        "height":16,
-        "ascent":-80,
-        "type":"bitmap"
-    },
-    {
-        "file":"herobrine:icons/hb_logo.png",
-        "chars":["l"],
-        "height":16,
-        "ascent":-80,
-        "type":"bitmap"
-    }
-]}
+{
+    "providers": [
+        {
+            "file": "herobrine:gui/blank_menu.png",
+            "chars": [
+                ""
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "herobrine:gui/crafting.png",
+            "chars": [
+                "c"
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "herobrine:gui/cooking.png",
+            "chars": [
+                "s"
+            ],
+            "height": 170,
+            "ascent": 47,
+            "type": "bitmap"
+        },
+        {
+            "file": "herobrine:icons/icon_right_blue.png",
+            "chars": [
+                "x"
+            ],
+            "height": 16,
+            "ascent": -80,
+            "type": "bitmap"
+        },
+        {
+            "file": "herobrine:icons/icon_left_blue.png",
+            "chars": [
+                "g"
+            ],
+            "height": 16,
+            "ascent": -80,
+            "type": "bitmap"
+        },
+        {
+            "file": "herobrine:icons/hb_logo.png",
+            "chars": [
+                "l"
+            ],
+            "height": 16,
+            "ascent": -80,
+            "type": "bitmap"
+        }
+    ]
+}
