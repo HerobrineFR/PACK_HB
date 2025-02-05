@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/stripped_dark_oak_log",
-		"1": "../bandeolh/eolh",
+		"1": "./eolh",
 		"particle": "block/stripped_dark_oak_log"
 	},
 	"elements": [
