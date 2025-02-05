@@ -5,3 +5,4 @@
 *.xcf
 .vscode/
 .github/
+*.bbmodel
