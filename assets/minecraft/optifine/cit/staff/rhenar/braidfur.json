@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, model by moscowmaniac, edit by Beedibee",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "fur_2",
-		"particle": "fur_2"
+		"2": "./fur",
+		"particle": "./fur"
 	},
 	"elements": [
 		{
