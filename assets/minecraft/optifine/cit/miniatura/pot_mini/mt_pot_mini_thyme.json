@@ -1,0 +1,6 @@
+{
+    "parent": "./mt_pot_mini_parent",
+    "textures": {
+      "cross": "block/miniaturia_mod/pot_mini_thyme"
+    }
+  }
