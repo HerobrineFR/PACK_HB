@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "./mgsword"
+		"layer0": "./clair_de_lune"
 	},
 	"gui_light": "front",
 	"display": {
