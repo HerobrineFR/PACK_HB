@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "cocricot:block/display_height2",
+	"ambientocclusion": false,
+	"render_type": "minecraft:translucent",
+	"textures": {
+		"0": "cocricot:block/steam_food",
+		"particle": "cocricot:block/steam_food"
+	},
+	"elements": [
+		{
+			"from": [0.8, -10.5, 8],
+			"to": [15.2, 5.5, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.5, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 15.9, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -10.5, 0.8],
+			"to": [8, 5.5, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, -2.5, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 15.9, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 13.75, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 13.75, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 13.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 13.75, 0]
+		},
+		"gui": {
+			"translation": [0, -4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
