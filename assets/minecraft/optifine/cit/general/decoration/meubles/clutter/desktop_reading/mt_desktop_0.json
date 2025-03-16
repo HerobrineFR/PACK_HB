@@ -1,0 +1,51 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "miniaturia_mod:mt_desktop_reading_a",
+		"textures": {
+				"1": "miniaturia_mod:blocks/shelf_book",
+				"2": "miniaturia_mod:blocks/lantern_steel_frame_silver",
+				"3": "miniaturia_mod:blocks/paper_1",
+				"4": "miniaturia_mod:blocks/desk1",
+				"5": "miniaturia_mod:blocks/moviecamera2"
+			}
+	},
+
+    "variants": {
+
+    	"click": {
+	    		"0": { },
+			 	"1": { "model": "miniaturia_mod:mt_desktop_reading_b" },
+	    		"2": {
+	    			"model": "miniaturia_mod:mt_desktop_writing_a",
+	    			"textures": {
+	    				"3": "miniaturia_mod:blocks/paper_1",
+						"4": "miniaturia_mod:blocks/desk1",
+						"5": "miniaturia_mod:blocks/moviecamera2",
+						"6": "miniaturia_mod:blocks/bottle_b",
+						"7": "miniaturia_mod:blocks/bunkerslamp0",
+						"8": "miniaturia_mod:blocks/dish_wood"
+						}
+				},
+	    		"3": {
+	    			"model": "miniaturia_mod:mt_desktop_writing_b",
+	    			"textures": {
+	    				"3": "miniaturia_mod:blocks/paper_1",
+						"4": "miniaturia_mod:blocks/desk1",
+						"5": "miniaturia_mod:blocks/moviecamera2",
+						"6": "miniaturia_mod:blocks/street_clock_face",
+						"7": "miniaturia_mod:blocks/streetlamp_gold",
+						"9": "miniaturia_mod:blocks/telephone_a_parts_wood",
+						"10": "miniaturia_mod:blocks/desk2"
+						}
+				}
+    	},
+
+    	"facing": {
+    		"north":	{ "y": 0 },
+    		"east":		{ "y": 90 },
+    		"south":	{ "y": 180 },
+    		"west":		{ "y": 270 }
+		}
+    }
+}
