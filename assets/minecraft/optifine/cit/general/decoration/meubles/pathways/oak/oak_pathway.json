@@ -1,0 +1,7 @@
+{
+    "parent": "cocricot:block/pathway_wood_brown",
+    "textures": {
+        "0": "cocricot:block/signpost_wood_bleached",
+        "particle": "cocricot:block/planks_bleached"
+    }
+}

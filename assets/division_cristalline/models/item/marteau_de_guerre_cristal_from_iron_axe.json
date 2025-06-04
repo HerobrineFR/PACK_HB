@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_axe",
-  "textures": {
-    "layer0": "division_cristalline:item/marteau_de_guerre_cristal"
-  }
-}

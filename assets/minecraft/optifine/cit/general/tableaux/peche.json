@@ -1,0 +1,6 @@
+{
+    "parent": "./tableau.json",
+    "textures": {
+        "layer0": "./peche.png"
+    }
+}

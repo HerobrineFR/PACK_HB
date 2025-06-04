@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/rotten_flesh",
-  "textures": {
-    "layer0": "harde:item/pigman_brain"
-  }
-}

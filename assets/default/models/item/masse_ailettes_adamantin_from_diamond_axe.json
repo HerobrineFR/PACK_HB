@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/diamond_axe",
-  "textures": {
-    "layer0": "default:item/masse_ailettes_adamantin"
-  }
-}

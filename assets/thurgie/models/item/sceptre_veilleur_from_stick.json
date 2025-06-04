@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/stick",
-  "textures": {
-    "layer0": "thurgie:item/sceptre_veilleur"
-  }
-}

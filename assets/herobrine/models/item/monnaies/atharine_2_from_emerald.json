@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/emerald",
-  "textures": {
-    "layer0": "herobrine:item/monnaies/atharine_2"
-  }
-}

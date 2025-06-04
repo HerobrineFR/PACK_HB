@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/flint_and_steel",
-  "textures": {
-    "layer0": "thurgie:item/briquet_pyromancien"
-  }
-}

@@ -1,0 +1,6 @@
+{
+    "parent": "./tableau",
+    "textures": {
+        "layer0": "./ailleurs"
+    }
+}

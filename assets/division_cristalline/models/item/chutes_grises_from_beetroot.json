@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/beetroot",
-  "textures": {
-    "layer0": "division_cristalline:item/chutes_grises"
-  }
-}

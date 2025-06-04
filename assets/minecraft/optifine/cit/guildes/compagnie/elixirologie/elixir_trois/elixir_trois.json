@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./elixir_trois_liquide",
+        "layer1": "./elixir_trois_contour"
+    }
+}

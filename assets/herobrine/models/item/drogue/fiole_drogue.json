@@ -1,8 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "herobrine:item/drogue/fiole_drogue_liquide",
-    "layer1": "herobrine:item/drogue/fiole_drogue",
-    "particle": "#layer0"
-  }
-}

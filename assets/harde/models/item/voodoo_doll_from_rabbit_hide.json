@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/rabbit_hide",
-  "textures": {
-    "layer0": "harde:item/voodoo_doll"
-  }
-}

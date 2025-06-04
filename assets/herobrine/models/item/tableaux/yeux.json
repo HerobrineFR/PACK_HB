@@ -1,7 +1,0 @@
-{
-  "parent": "herobrine:item/tableaux/tableau",
-  "textures": {
-    "layer0": "herobrine:item/tableaux/yeux",
-    "particle": "#layer0"
-  }
-}

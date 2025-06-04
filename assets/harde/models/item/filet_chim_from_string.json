@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/string",
-  "textures": {
-    "layer0": "harde:item/filet_chim"
-  }
-}

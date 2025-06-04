@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "division_cristalline:item/arc_cristal"
-  }
-}

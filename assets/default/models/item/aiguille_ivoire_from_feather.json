@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/feather",
-  "textures": {
-    "layer0": "default:item/aiguille_ivoire"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/paper",
-  "textures": {
-    "layer0": "thurgie:item/parchemin_aquamancien"
-  }
-}
