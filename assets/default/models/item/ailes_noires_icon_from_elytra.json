@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/elytra",
+  "textures": {
+    "layer0": "default:item/ailes_noires_icon"
+  }
+}

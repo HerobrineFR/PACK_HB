@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_leggings",
+  "textures": {
+    "layer0": "default:item/harnois_jambieres_icon"
+  }
+}

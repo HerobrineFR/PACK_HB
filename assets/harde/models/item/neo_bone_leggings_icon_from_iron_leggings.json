@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_leggings",
+  "textures": {
+    "layer0": "harde:item/neo_bone_leggings_icon"
+  }
+}

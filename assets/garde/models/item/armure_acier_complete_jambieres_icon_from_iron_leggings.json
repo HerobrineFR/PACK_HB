@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_leggings",
+  "textures": {
+    "layer0": "garde:item/armure_acier_complete_jambieres_icon"
+  }
+}

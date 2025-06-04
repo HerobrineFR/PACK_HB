@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_chestplate",
+  "textures": {
+    "layer0": "default:item/armure_de_fer_lourde_plastron_icon"
+  }
+}

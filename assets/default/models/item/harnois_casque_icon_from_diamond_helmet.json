@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_helmet",
+  "textures": {
+    "layer0": "default:item/harnois_casque_icon"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_helmet",
+  "textures": {
+    "layer0": "default:item/armure_de_fer_lourde_casque_icon"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_helmet",
+  "textures": {
+    "layer0": "harde:item/bone_helmet_icon"
+  }
+}

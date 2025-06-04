@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/elytra",
+  "textures": {
+    "layer0": "default:item/white_wings_2_icon"
+  }
+}

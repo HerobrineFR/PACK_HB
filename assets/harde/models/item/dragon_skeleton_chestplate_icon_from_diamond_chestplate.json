@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_chestplate",
+  "textures": {
+    "layer0": "harde:item/dragon_skeleton_chestplate"
+  }
+}
