@@ -1,0 +1,7 @@
+{
+  "parent": "cocricot_TOREVIEW:item/pathway_wood_brown",
+  "textures": {
+    "0": "cocricot_TOREVIEW:item/signpost_wood_white",
+    "particle": "cocricot_TOREVIEW:item/planks_white"
+  }
+}

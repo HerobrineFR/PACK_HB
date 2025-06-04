@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "./gourde_liquide",
-        "layer1": "./gourde_contour"
-    }
-}

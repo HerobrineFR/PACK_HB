@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/feather",
+  "textures": {
+    "layer0": "thurgie:item/plume_celeste-1"
+  }
+}

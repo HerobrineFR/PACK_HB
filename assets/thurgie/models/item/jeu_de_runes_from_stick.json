@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stick",
+  "textures": {
+    "layer0": "thurgie:item/jeu_de_runes"
+  }
+}

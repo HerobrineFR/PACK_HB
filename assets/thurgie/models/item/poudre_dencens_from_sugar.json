@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/sugar",
+  "textures": {
+    "layer0": "thurgie:item/poudre_dencens"
+  }
+}

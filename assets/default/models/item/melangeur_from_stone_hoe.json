@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stone_hoe",
+  "textures": {
+    "layer0": "default:item/melangeur"
+  }
+}

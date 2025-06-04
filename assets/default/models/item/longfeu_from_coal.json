@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/coal",
+  "textures": {
+    "layer0": "default:item/longfeu"
+  }
+}

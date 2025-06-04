@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/written_book",
+  "textures": {
+    "layer0": "thurgie:item/manuscrit_demeraude"
+  }
+}

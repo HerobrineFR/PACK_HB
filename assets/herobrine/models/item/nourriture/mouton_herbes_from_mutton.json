@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/mutton",
+  "textures": {
+    "layer0": "herobrine:item/nourriture/mouton_herbes"
+  }
+}

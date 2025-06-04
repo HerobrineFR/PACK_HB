@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/gold_nugget",
+  "textures": {
+    "layer0": "default:item/poudre_or"
+  }
+}

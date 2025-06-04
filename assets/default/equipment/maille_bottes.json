@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "default:chainmail_layer_2"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "default:chainmail_layer_1"
+      }
+    ]
+  }
+}

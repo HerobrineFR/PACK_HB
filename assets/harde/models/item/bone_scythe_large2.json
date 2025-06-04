@@ -1,0 +1,142 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "harde:item/bone_scythe_large2",
+    "particle": "#layer0"
+  },
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        115,
+        90,
+        -14
+      ],
+      "translation": [
+        0.25,
+        11.25,
+        20.25
+      ],
+      "scale": [
+        3.2,
+        3.2,
+        1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        66,
+        1,
+        -19
+      ],
+      "translation": [
+        -17.25,
+        0,
+        21.5
+      ],
+      "scale": [
+        3.2,
+        3.2,
+        1.1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -97,
+        77.57,
+        150.32
+      ],
+      "translation": [
+        4.88,
+        24.25,
+        -4.37
+      ],
+      "scale": [
+        4,
+        4,
+        1.08
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        16,
+        -81,
+        -25
+      ],
+      "translation": [
+        1.25,
+        3.2,
+        -0.12
+      ],
+      "scale": [
+        0,
+        0,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        4.75,
+        4.5,
+        0.5
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        0.6
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        6.25
+      ],
+      "translation": [
+        4,
+        7.25,
+        0
+      ],
+      "scale": [
+        1.6,
+        1.6,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        65,
+        0,
+        -44
+      ],
+      "translation": [
+        0.25,
+        -5.25,
+        -7
+      ],
+      "scale": [
+        2,
+        2,
+        1.69
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -91.67,
+        -1.06,
+        -78.37
+      ],
+      "translation": [
+        13,
+        -0.25,
+        -4
+      ],
+      "scale": [
+        4,
+        4,
+        1.6
+      ]
+    }
+  }
+}

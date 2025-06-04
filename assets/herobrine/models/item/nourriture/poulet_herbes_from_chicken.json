@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chicken",
+  "textures": {
+    "layer0": "herobrine:item/nourriture/poulet_herbes"
+  }
+}

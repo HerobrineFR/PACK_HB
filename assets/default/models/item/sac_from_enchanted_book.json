@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/enchanted_book",
+  "textures": {
+    "layer0": "default:item/sac"
+  }
+}

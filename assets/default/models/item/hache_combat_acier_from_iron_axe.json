@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_axe",
+  "textures": {
+    "layer0": "default:item/hache_combat_acier"
+  }
+}

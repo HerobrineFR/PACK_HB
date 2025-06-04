@@ -1,0 +1,8 @@
+{
+  "credit": "Made with Blockbench by Alixollo",
+  "parent": "herobrine:item/tableaux/tableau",
+  "textures": {
+    "layer0": "herobrine:item/tableaux/brumes",
+    "particle": "#layer0"
+  }
+}

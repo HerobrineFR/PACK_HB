@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/mutton",
+  "textures": {
+    "layer0": "harde:item/sheep_tongue"
+  }
+}

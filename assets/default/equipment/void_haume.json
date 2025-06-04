@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "default:vide2"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "default:vide1"
+      }
+    ]
+  }
+}

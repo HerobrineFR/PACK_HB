@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cooked_porkchop",
+  "textures": {
+    "layer0": "herobrine:item/nourriture/porc_cuistot"
+  }
+}

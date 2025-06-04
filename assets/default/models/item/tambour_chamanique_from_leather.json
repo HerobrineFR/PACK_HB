@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather",
+  "textures": {
+    "layer0": "default:item/tambour_chamanique"
+  }
+}

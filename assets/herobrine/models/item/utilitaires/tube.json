@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "herobrine:item/utilitaires/tube_liquide",
+    "layer1": "herobrine:item/utilitaires/tube_contour",
+    "particle": "#layer0"
+  }
+}
