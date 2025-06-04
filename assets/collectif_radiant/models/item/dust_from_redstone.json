@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/redstone",
+  "textures": {
+    "layer0": "collectif_radiant:item/dust"
+  }
+}

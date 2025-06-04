@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_ingot",
+  "textures": {
+    "layer0": "default:item/copper_ingot"
+  }
+}

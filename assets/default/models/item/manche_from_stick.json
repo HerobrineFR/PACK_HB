@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stick",
+  "textures": {
+    "layer0": "default:item/manche"
+  }
+}

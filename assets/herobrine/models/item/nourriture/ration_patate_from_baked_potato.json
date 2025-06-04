@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/baked_potato",
+  "textures": {
+    "layer0": "herobrine:item/nourriture/ration_patate"
+  }
+}

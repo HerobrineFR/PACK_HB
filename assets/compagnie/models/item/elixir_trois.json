@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "compagnie:item/elixir_trois_liquide",
+    "layer1": "compagnie:item/elixir_trois_contour",
+    "particle": "#layer0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/book",
+  "textures": {
+    "layer0": "compagnie:item/necro"
+  }
+}

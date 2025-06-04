@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/writable_book",
+  "textures": {
+    "layer0": "sacerdoce:item/livre_blanc"
+  }
+}

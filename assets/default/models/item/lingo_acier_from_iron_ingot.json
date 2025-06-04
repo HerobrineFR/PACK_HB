@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_ingot",
+  "textures": {
+    "layer0": "default:item/lingot_acier"
+  }
+}

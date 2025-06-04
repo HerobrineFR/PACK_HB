@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_sword",
+  "textures": {
+    "layer0": "harde:item/dague_or"
+  }
+}

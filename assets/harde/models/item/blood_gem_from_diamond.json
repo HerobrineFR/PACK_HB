@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond",
+  "textures": {
+    "layer0": "harde:item/blood_gem"
+  }
+}

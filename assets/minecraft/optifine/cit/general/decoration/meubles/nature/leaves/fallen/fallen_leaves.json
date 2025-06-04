@@ -1,6 +1,0 @@
-{
-    "parent": "cocricot:block/base_placed",
-    "textures": {
-        "0": "cocricot:block/leaves_fallen"
-    }
-}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cooked_chicken",
+  "textures": {
+    "layer0": "herobrine:item/nourriture/poulet_cuistot"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/clay_ball",
+  "textures": {
+    "layer0": "thurgie:item/fg"
+  }
+}

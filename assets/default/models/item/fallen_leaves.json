@@ -1,0 +1,7 @@
+{
+  "parent": "cocricot_TOREVIEW:item/base_placed",
+  "textures": {
+    "0": "cocricot_TOREVIEW:item/leaves_fallen",
+    "particle": "#0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_hoe",
+  "textures": {
+    "layer0": "thurgie:item/serpe_or"
+  }
+}

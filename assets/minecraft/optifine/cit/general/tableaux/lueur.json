@@ -1,7 +1,0 @@
-{
-    "parent": "./tableau",
-    "textures": 
-    {
-        "layer0": "./lueur"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "./flute_liquide",
-        "layer1": "./flute_contour"
-    }
-}

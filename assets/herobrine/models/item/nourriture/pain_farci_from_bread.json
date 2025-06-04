@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bread",
+  "textures": {
+    "layer0": "herobrine:item/nourriture/pain_farci"
+  }
+}

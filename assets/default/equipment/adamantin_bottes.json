@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "default:adamantin_2"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "default:adamantin_1"
+      }
+    ]
+  }
+}

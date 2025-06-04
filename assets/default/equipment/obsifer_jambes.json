@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "default:obsifer_2"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "default:obsifer_1"
+      }
+    ]
+  }
+}

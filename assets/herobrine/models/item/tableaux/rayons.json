@@ -1,0 +1,7 @@
+{
+  "parent": "herobrine:item/tableaux/tableau",
+  "textures": {
+    "layer0": "herobrine:item/tableaux/rayons",
+    "particle": "#layer0"
+  }
+}

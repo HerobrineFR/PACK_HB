@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/lily_of_the_valley",
+  "textures": {
+    "layer0": "default:item/lys"
+  }
+}

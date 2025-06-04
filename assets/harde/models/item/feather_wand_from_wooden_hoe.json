@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/wooden_hoe",
+  "textures": {
+    "layer0": "harde:item/feather_wand"
+  }
+}

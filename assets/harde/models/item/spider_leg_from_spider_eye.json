@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spider_eye",
+  "textures": {
+    "layer0": "harde:item/spider_leg"
+  }
+}

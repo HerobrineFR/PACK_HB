@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/redstone_torch",
+  "textures": {
+    "layer0": "default:item/red_torch_void"
+  }
+}

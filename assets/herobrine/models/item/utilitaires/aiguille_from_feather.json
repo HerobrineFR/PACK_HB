@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/feather",
+  "textures": {
+    "layer0": "herobrine:item/utilitaires/aiguille_fil"
+  }
+}

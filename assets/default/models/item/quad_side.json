@@ -1,0 +1,22 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "default:item/quad_side",
+    "particle": "#layer0"
+  },
+  "display": {
+    "fixed": {
+      "translation": [
+        0,
+        0,
+        -0.5
+      ],
+      "scale": [
+        2,
+        2,
+        0.54
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "default:item/mangrove_crate",
+    "particle": "#all"
+  }
+}

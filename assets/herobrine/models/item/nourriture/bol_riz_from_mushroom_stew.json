@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/mushroom_stew",
+  "textures": {
+    "layer0": "herobrine:item/nourriture/bol_riz"
+  }
+}

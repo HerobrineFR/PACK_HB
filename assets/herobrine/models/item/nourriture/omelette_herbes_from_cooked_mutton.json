@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cooked_mutton",
+  "textures": {
+    "layer0": "herobrine:item/nourriture/omelette"
+  }
+}

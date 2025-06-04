@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_axe",
+  "textures": {
+    "layer0": "default:item/marteau_une_main_adamantin"
+  }
+}

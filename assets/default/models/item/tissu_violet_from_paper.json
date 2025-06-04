@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/paper",
+  "textures": {
+    "layer0": "default:item/tissu_violet"
+  }
+}
