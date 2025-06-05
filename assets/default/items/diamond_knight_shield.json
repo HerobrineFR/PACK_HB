@@ -2,18 +2,12 @@
   "model": {
     "type": "minecraft:condition",
     "on_false": {
-      "type": "minecraft:special",
-      "base": "default:item/diamond_knight_shield",
-      "model": {
-        "type": "minecraft:shield"
-      }
+      "type": "minecraft:model",
+      "model": "default:item/diamond_knight_shield"
     },
     "on_true": {
-      "type": "minecraft:special",
-      "base": "default:item/diamond_knight_shield_block_shield_blocking",
-      "model": {
-        "type": "minecraft:shield"
-      }
+      "type": "minecraft:model",
+      "model": "default:item/diamond_knight_shield_block_shield_blocking"
     },
     "property": "minecraft:using_item"
   }

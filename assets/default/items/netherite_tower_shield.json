@@ -2,18 +2,12 @@
   "model": {
     "type": "minecraft:condition",
     "on_false": {
-      "type": "minecraft:special",
-      "base": "default:item/netherite_tower_shield",
-      "model": {
-        "type": "minecraft:shield"
-      }
+      "type": "minecraft:model",
+      "model": "default:item/netherite_tower_shield"
     },
     "on_true": {
-      "type": "minecraft:special",
-      "base": "default:item/netherite_tower_shield_block_shield_blocking",
-      "model": {
-        "type": "minecraft:shield"
-      }
+      "type": "minecraft:model",
+      "model": "default:item/netherite_tower_shield_block_shield_blocking"
     },
     "property": "minecraft:using_item"
   }
