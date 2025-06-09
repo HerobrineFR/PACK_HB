@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_leggings",
-  "textures": {
-    "layer0": "garde:item/pretorien_jambieres_icon"
-  }
-}

@@ -1,0 +1,7 @@
+{
+  "parent": "herobrine:item/decoration/base_wall_ornament",
+  "textures": {
+    "0": "herobrine:item/decoration/walldecor_paper_antique3",
+    "particle": "#0"
+  }
+}

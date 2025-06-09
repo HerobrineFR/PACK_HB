@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "default:item/polished_limestone",
+    "all": "minecraft:item/textures/block/polished_limestone",
     "particle": "#all"
   }
 }

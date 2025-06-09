@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/beetroot",
+  "textures": {
+    "layer0": "reverence:item/objets/sighrnahr"
+  }
+}

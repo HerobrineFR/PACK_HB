@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "default:item/greenschist_bricks",
+    "all": "minecraft:item/textures/block/greenschist_bricks",
     "particle": "#all"
   }
 }

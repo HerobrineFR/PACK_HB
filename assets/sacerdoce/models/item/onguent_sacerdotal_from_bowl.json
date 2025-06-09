@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bowl",
-  "textures": {
-    "layer0": "sacerdoce:item/onguent_sacerdotal"
-  }
-}

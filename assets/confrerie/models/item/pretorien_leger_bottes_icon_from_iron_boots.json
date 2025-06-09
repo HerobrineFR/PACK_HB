@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_boots",
+  "textures": {
+    "layer0": "confrerie:item/pretorien_leger_bottes_icon"
+  }
+}

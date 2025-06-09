@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "default:item/shale_bricks",
+    "all": "minecraft:item/textures/block/shale_bricks",
     "particle": "#all"
   }
 }

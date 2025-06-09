@@ -2,7 +2,7 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "collectif_radiant:scaphandre1"
+        "texture": "collectif_radiant:scaphandre_base"
       }
     ]
   }

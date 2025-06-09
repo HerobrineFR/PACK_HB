@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_chestplate",
-  "textures": {
-    "layer0": "garde:item/pretorien_leger_plastron_icon"
-  }
-}

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "default:item/chiseled_packed_ice",
+    "all": "minecraft:item/textures/block/chiseled_packed_ice",
     "particle": "#all"
   }
 }

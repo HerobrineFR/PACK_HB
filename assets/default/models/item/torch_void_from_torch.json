@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/torch",
-  "textures": {
-    "layer0": "default:item/torch_void"
-  }
-}

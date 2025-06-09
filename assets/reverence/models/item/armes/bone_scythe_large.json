@@ -1,0 +1,108 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "reverence:item/armes/bone_scythe_large",
+    "particle": "#layer0"
+  },
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        91,
+        50
+      ],
+      "translation": [
+        0.25,
+        1.75,
+        1.75
+      ],
+      "scale": [
+        1.6,
+        1.6,
+        1.1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        71,
+        1,
+        112
+      ],
+      "translation": [
+        -2.75,
+        -6,
+        11.5
+      ],
+      "scale": [
+        1.6,
+        1.6,
+        1.1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        81,
+        64
+      ],
+      "translation": [
+        6.38,
+        5.25,
+        -4.37
+      ],
+      "scale": [
+        1.6,
+        1.6,
+        1.08
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        16,
+        -81,
+        -25
+      ],
+      "translation": [
+        1.25,
+        3.2,
+        -0.12
+      ],
+      "scale": [
+        0,
+        0,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        4.5,
+        0
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        0.6
+      ]
+    },
+    "head": {
+      "rotation": [
+        65,
+        0,
+        -44
+      ],
+      "translation": [
+        0.25,
+        -5.25,
+        -7
+      ],
+      "scale": [
+        2,
+        2,
+        1.69
+      ]
+    }
+  }
+}

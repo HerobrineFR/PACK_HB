@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/lapis_lazuli",
-  "textures": {
-    "layer0": "default:item/aiguille_lapis"
-  }
-}

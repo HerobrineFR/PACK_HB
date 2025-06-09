@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_helmet",
+  "textures": {
+    "layer0": "confrerie:item/paladin_casque_icon"
+  }
+}

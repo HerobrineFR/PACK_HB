@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "default:item/copper_block",
-    "1": "default:item/cut_copper",
+    "0": "minecraft:item/textures/block/copper_block",
+    "1": "minecraft:item/textures/block/cut_copper",
     "2": "block/polished_andesite",
     "particle": "#0"
   },

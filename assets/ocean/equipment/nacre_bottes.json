@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "ocean:nacre2"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "ocean:nacre1"
+      }
+    ]
+  }
+}

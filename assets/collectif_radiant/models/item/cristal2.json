@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench by Alixollo",
   "textures": {
-    "0": "default:item/magenta_glazed_terracotta",
-    "particle": "default:item/magenta_glazed_terracotta"
+    "0": "minecraft:item/textures/block/magenta_glazed_terracotta",
+    "particle": "minecraft:item/textures/block/magenta_glazed_terracotta"
   },
   "elements": [
     {

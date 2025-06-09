@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_chestplate",
-  "textures": {
-    "layer0": "garde:item/ecuyer_plastron_icon"
-  }
-}

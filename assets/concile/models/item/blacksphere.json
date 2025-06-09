@@ -1,5 +1,5 @@
 {
-  "parent": "default:item/sphere",
+  "parent": "minecraft:item/models/item/sphere",
   "textures": {
     "texture": "concile:item/blacksphere",
     "particle": "#texture"

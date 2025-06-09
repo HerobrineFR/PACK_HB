@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_chestplate",
+  "textures": {
+    "layer0": "reverence:item/armures/bone_chestplate_icon"
+  }
+}

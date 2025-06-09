@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_leggings",
-  "textures": {
-    "layer0": "default:item/armure_de_fer_legere_jambieres_icon"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/diamond_chestplate",
-  "textures": {
-    "layer0": "default:item/harnois_plastron_icon"
-  }
-}

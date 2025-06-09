@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/brick",
+  "textures": {
+    "layer0": "reverence:item/objets/umreilite"
+  }
+}

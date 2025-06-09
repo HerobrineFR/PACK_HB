@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "herobrine:combat/armures/adamantin_2"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "herobrine:combat/armures/adamantin_1"
+      }
+    ]
+  }
+}

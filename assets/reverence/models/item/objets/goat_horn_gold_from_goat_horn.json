@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/goat_horn",
+  "textures": {
+    "layer0": "reverence:item/objets/goat_horn_gold"
+  }
+}

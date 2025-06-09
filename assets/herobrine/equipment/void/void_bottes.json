@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "herobrine:void/vide2"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "herobrine:void/vide1"
+      }
+    ]
+  }
+}

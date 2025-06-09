@@ -2,9 +2,9 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:block/iron_block",
   "textures": {
-    "0": "default:item/chiseled_greenschist_side",
-    "2": "default:item/chiseled_greenschist_top",
-    "particle": "default:item/chiseled_greenschist_side"
+    "0": "minecraft:item/textures/block/chiseled_greenschist_side",
+    "2": "minecraft:item/textures/block/chiseled_greenschist_top",
+    "particle": "minecraft:item/textures/block/chiseled_greenschist_side"
   },
   "elements": [
     {

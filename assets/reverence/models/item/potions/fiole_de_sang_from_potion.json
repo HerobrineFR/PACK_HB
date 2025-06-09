@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/potion",
+  "textures": {
+    "layer0": "reverence:item/potions/fiole_de_sang"
+  }
+}

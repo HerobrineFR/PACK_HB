@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "default:item/birch_crate",
+    "all": "minecraft:item/textures/block/birch_crate",
     "particle": "#all"
   }
 }

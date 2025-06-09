@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/elytra",
+  "textures": {
+    "layer0": "ocean:item/ailes_mutees_icone"
+  }
+}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_boots",
-  "textures": {
-    "layer0": "garde:item/paladin_bottes_icon"
-  }
-}
