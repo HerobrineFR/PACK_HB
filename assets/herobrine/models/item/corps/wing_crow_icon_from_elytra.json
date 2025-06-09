@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/elytra",
+  "textures": {
+    "layer0": "herobrine:item/corps/ailes_corbeau_icon"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_boots",
+  "textures": {
+    "layer0": "confrerie:item/paladin_bottes_icon"
+  }
+}

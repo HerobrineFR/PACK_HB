@@ -1,7 +1,7 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "default:item/iron_block",
+    "0": "minecraft:item/textures/block/iron_block",
     "1": "block/cyan_terracotta",
     "2": "collectif_radiant:item/aur_dust",
     "3": "block/light_gray_stained_glass",

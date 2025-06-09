@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/emerald",
-  "textures": {
-    "layer0": "default:item/emeraudepure"
-  }
-}

@@ -1,0 +1,110 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "reverence:item/armes/bone_greatbow_2",
+    "particle": "#layer0"
+  },
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -80,
+        260,
+        -40
+      ],
+      "translation": [
+        -0.25,
+        -2,
+        5.5
+      ],
+      "scale": [
+        1.7,
+        1.7,
+        1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        69,
+        -3,
+        16
+      ],
+      "translation": [
+        -8.5,
+        -7.25,
+        4.5
+      ],
+      "scale": [
+        1.7,
+        1.7,
+        1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        1.13,
+        2.5,
+        2.88
+      ],
+      "scale": [
+        1.78,
+        1.78,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -25
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0,
+        0,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        4.5,
+        0
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        0.6
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0.25,
+        0
+      ]
+    },
+    "fixed": {
+      "translation": [
+        -1.25,
+        1.25,
+        0
+      ],
+      "scale": [
+        1.1,
+        1.1,
+        1.29922
+      ]
+    }
+  }
+}

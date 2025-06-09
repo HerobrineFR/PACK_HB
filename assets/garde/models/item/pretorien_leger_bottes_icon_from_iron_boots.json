@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_boots",
-  "textures": {
-    "layer0": "garde:item/pretorien_leger_bottes_icon"
-  }
-}

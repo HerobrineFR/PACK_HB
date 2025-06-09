@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "default:item/cut_shale",
+    "all": "minecraft:item/textures/block/cut_shale",
     "particle": "#all"
   }
 }

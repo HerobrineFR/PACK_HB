@@ -1,7 +1,0 @@
-{
-  "parent": "default:item/base_wall_ornament",
-  "textures": {
-    "0": "default:item/walldecor_paper_antique2",
-    "particle": "#0"
-  }
-}

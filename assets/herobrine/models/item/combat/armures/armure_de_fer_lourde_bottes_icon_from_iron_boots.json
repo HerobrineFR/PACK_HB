@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_boots",
+  "textures": {
+    "layer0": "herobrine:item/combat/armures/armure_de_fer_lourde_bottes_icon"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "default:item/dark_cristal",
+    "all": "minecraft:item/textures/block/dark_cristal",
     "particle": "#all"
   }
 }

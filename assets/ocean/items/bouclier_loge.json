@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "ocean:item/bouclier_loge"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "ocean:item/bouclier_loge_blocking_shield_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

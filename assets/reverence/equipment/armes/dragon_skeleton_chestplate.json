@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "reverence:armes/dragon_skeleton_armor_layer_2"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "reverence:armes/dragon_skeleton_armor_layer_1"
+      }
+    ]
+  }
+}

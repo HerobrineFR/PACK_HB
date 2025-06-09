@@ -2,9 +2,9 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:block/iron_block",
   "textures": {
-    "0": "default:item/arkose_pillar_side",
-    "2": "default:item/arkose_pillar_top",
-    "particle": "default:item/arkose_pillar_side"
+    "0": "minecraft:item/textures/block/arkose_pillar_side",
+    "2": "minecraft:item/textures/block/arkose_pillar_top",
+    "particle": "minecraft:item/textures/block/arkose_pillar_side"
   },
   "elements": [
     {

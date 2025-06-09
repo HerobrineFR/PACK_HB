@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench by Alixollo",
   "textures": {
     "0": "block/basalt_side",
-    "1": "default:item/anvil",
+    "1": "minecraft:item/textures/block/anvil",
     "2": "block/polished_andesite",
     "3": "collectif_radiant:item/redstone_block",
     "4": "block/netherite_block",

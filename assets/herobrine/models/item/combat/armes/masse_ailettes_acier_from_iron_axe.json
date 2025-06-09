@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_axe",
+  "textures": {
+    "layer0": "herobrine:item/combat/armes/masse_ailettes_acier"
+  }
+}

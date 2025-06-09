@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_helmet",
-  "textures": {
-    "layer0": "garde:item/pretorien_casque_icon"
-  }
-}

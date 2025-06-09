@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/flint",
-  "textures": {
-    "layer0": "default:item/carbonite"
-  }
-}

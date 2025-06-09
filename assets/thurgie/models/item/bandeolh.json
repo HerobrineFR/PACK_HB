@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "textures": {
     "0": "block/stripped_dark_oak_log",
-    "1": "thurgie:item/eolh",
+    "1": "thurgie:item/bande_eolh",
     "particle": "block/stripped_dark_oak_log"
   },
   "elements": [

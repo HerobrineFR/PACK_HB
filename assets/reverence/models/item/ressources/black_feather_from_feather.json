@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/feather",
+  "textures": {
+    "layer0": "reverence:item/ressources/black_feather"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_leggings",
+  "textures": {
+    "layer0": "reverence:item/armes/dragon_skeleton_leggings"
+  }
+}

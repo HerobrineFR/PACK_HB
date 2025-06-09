@@ -1,8 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "compagnie:item/elixir_deux_liquide",
-    "layer1": "compagnie:item/elixir_deux_contour",
-    "particle": "#layer0"
-  }
-}

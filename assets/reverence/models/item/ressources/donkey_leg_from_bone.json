@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bone",
+  "textures": {
+    "layer0": "reverence:item/ressources/donkey_leg"
+  }
+}

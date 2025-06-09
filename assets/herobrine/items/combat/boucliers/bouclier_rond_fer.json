@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "herobrine:item/combat/boucliers/bouclier_rond_fer"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "herobrine:item/combat/boucliers/bouclier_rond_fer_shield_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

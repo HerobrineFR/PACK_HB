@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/diamond_axe",
-  "textures": {
-    "layer0": "harde:item/marteau_obsi"
-  }
-}

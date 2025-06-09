@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/shears",
-  "textures": {
-    "layer0": "default:item/ciseaux_couture"
-  }
-}
