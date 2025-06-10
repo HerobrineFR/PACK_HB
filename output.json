@@ -7964,7 +7964,7 @@
         "value": "green_check"
       }
     },
-    "target_item_def": "herobrine:gui/green_check"
+    "target_item_def": "herobrine:ui/green_check"
   },
   {
     "item": "coal",
