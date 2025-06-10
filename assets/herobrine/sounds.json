@@ -109,26 +109,6 @@
       "minecraft:hb/pnj/moon"
     ]
   },
-  "pnj.carnyx1": {
-    "sounds": [
-      "minecraft:hb/pnj/carnyx1"
-    ]
-  },
-  "pnj.carnyx2": {
-    "sounds": [
-      "minecraft:hb/pnj/carnyx2"
-    ]
-  },
-  "pnj.carnyx3": {
-    "sounds": [
-      "minecraft:hb/pnj/carnyx3"
-    ]
-  },
-  "pnj.carnyx4": {
-    "sounds": [
-      "minecraft:hb/pnj/carnyx4"
-    ]
-  },
   "pnj.priro": {
     "sounds": [
       "minecraft:hb/pnj/chant_priro"

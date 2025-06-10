@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "herobrine:item/verre_bois_from_bowl",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": 16448250
+      }
+    ]
+  }
+}
