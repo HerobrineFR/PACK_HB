@@ -165,7 +165,7 @@
         "value": "void"
       }
     },
-    "target_item_def": "herobrine:void/red_torch_void"
+    "target_item_def": "herobrine:blank_item"
   },
   {
     "item": "torch",
@@ -175,7 +175,7 @@
         "value": "void"
       }
     },
-    "target_item_def": "herobrine:void/torch_void"
+    "target_item_def": "herobrine:blank_item"
   },
   {
     "item": "gold_nugget",
@@ -185,7 +185,7 @@
         "value": "bague_or"
       }
     },
-    "target_item_def": "herobrine:bague_or"
+    "target_item_def": "herobrine:golden_ring"
   },
   {
     "item": "gold_nugget",
@@ -195,7 +195,7 @@
         "value": "pendentif_or"
       }
     },
-    "target_item_def": "herobrine:pendentif_or"
+    "target_item_def": "herobrine:golden_necklace"
   },
   {
     "item": "iron_ingot",
@@ -205,7 +205,7 @@
         "value": "broyeur"
       }
     },
-    "target_item_def": "herobrine:broyeur"
+    "target_item_def": "herobrine:stone_grinder"
   },
   {
     "item": "lapis_lazuli",
@@ -215,7 +215,7 @@
         "value": "broyeur_diamant"
       }
     },
-    "target_item_def": "herobrine:broyeur_diamant"
+    "target_item_def": "herobrine:diamond_grinder"
   },
   {
     "item": "diamond",
@@ -225,7 +225,7 @@
         "value": "diamanttaille"
       }
     },
-    "target_item_def": "herobrine:diamantaille"
+    "target_item_def": "herobrine:cut_diamond"
   },
   {
     "item": "diamond",
@@ -235,7 +235,7 @@
         "value": "diamantpur"
       }
     },
-    "target_item_def": "herobrine:diamantpur"
+    "target_item_def": "herobrine:pure_diamond"
   },
   {
     "item": "emerald",
@@ -245,7 +245,7 @@
         "value": "emeraudepure"
       }
     },
-    "target_item_def": "herobrine:emeraudepure"
+    "target_item_def": "herobrine:pure_emerald"
   },
   {
     "item": "diamond",
@@ -255,7 +255,7 @@
         "value": "rubis"
       }
     },
-    "target_item_def": "herobrine:rubis"
+    "target_item_def": "herobrine:ruby_gem"
   },
   {
     "item": "diamond",
@@ -265,7 +265,7 @@
         "value": "saphir"
       }
     },
-    "target_item_def": "herobrine:saphir"
+    "target_item_def": "herobrine:sapphire_gem"
   },
   {
     "item": "diamond",
@@ -275,7 +275,7 @@
         "value": "agate_violette"
       }
     },
-    "target_item_def": "herobrine:agate_violette"
+    "target_item_def": "herobrine:purple_agate_gem"
   },
   {
     "item": "diamond",
@@ -285,7 +285,7 @@
         "value": "aiguemarine"
       }
     },
-    "target_item_def": "herobrine:aiguemarine"
+    "target_item_def": "herobrine:aquamarine_gem"
   },
   {
     "item": "diamond",
@@ -295,7 +295,7 @@
         "value": "ambre"
       }
     },
-    "target_item_def": "herobrine:ambre"
+    "target_item_def": "herobrine:amber_gem"
   },
   {
     "item": "diamond",
@@ -305,7 +305,7 @@
         "value": "amethyste"
       }
     },
-    "target_item_def": "herobrine:amethyste"
+    "target_item_def": "herobrine:polished_amethyst"
   },
   {
     "item": "diamond",
@@ -315,7 +315,7 @@
         "value": "citrine"
       }
     },
-    "target_item_def": "herobrine:citrine"
+    "target_item_def": "herobrine:citrine_gem"
   },
   {
     "item": "diamond",
@@ -325,7 +325,7 @@
         "value": "cornaline"
       }
     },
-    "target_item_def": "herobrine:cornaline"
+    "target_item_def": "herobrine:carnelian_gem"
   },
   {
     "item": "diamond",
@@ -335,7 +335,7 @@
         "value": "grenat"
       }
     },
-    "target_item_def": "herobrine:grenat"
+    "target_item_def": "herobrine:garnet_gem"
   },
   {
     "item": "diamond",
@@ -345,7 +345,7 @@
         "value": "heliodore"
       }
     },
-    "target_item_def": "herobrine:heliodore"
+    "target_item_def": "herobrine:heliodore_gem"
   },
   {
     "item": "diamond",
@@ -355,7 +355,7 @@
         "value": "hematite"
       }
     },
-    "target_item_def": "herobrine:hematite"
+    "target_item_def": "herobrine:hematite_gem"
   },
   {
     "item": "diamond",
@@ -365,7 +365,7 @@
         "value": "howlite"
       }
     },
-    "target_item_def": "herobrine:howlite"
+    "target_item_def": "herobrine:howlite_gem"
   },
   {
     "item": "diamond",
@@ -375,7 +375,7 @@
         "value": "jade"
       }
     },
-    "target_item_def": "herobrine:jade"
+    "target_item_def": "herobrine:jade_gem"
   },
   {
     "item": "diamond",
@@ -385,7 +385,7 @@
         "value": "jaspe_rouge"
       }
     },
-    "target_item_def": "herobrine:jaspe_rouge"
+    "target_item_def": "herobrine:red_jasper_jem"
   },
   {
     "item": "lapis_lazuli",
@@ -395,7 +395,7 @@
         "value": "lapis_lazuli_pur"
       }
     },
-    "target_item_def": "herobrine:lapis_lazuli_pur"
+    "target_item_def": "herobrine:pure_lapis_lazuli"
   },
   {
     "item": "diamond",
@@ -405,7 +405,7 @@
         "value": "malachite"
       }
     },
-    "target_item_def": "herobrine:malachite"
+    "target_item_def": "herobrine:malachite_gem"
   },
   {
     "item": "diamond",
@@ -415,7 +415,7 @@
         "value": "morganite"
       }
     },
-    "target_item_def": "herobrine:morganite"
+    "target_item_def": "herobrine:morganite_gem"
   },
   {
     "item": "diamond",
@@ -425,7 +425,7 @@
         "value": "onyx"
       }
     },
-    "target_item_def": "herobrine:onyx"
+    "target_item_def": "herobrine:onyx_gem"
   },
   {
     "item": "diamond",
@@ -435,7 +435,7 @@
         "value": "quartz_hematoide"
       }
     },
-    "target_item_def": "herobrine:quartz_hematoide"
+    "target_item_def": "herobrine:hematoid_quartz"
   },
   {
     "item": "diamond",
@@ -445,7 +445,7 @@
         "value": "quartz_rose"
       }
     },
-    "target_item_def": "herobrine:quartz_rose"
+    "target_item_def": "herobrine:pink_quartz"
   },
   {
     "item": "diamond",
@@ -455,7 +455,7 @@
         "value": "rodochrosite"
       }
     },
-    "target_item_def": "herobrine:rodochrosite"
+    "target_item_def": "herobrine:rodochrosite_gem"
   },
   {
     "item": "diamond",
@@ -465,7 +465,7 @@
         "value": "selenite"
       }
     },
-    "target_item_def": "herobrine:selenite"
+    "target_item_def": "herobrine:selenite_gem"
   },
   {
     "item": "diamond",
@@ -475,7 +475,7 @@
         "value": "septaria"
       }
     },
-    "target_item_def": "herobrine:septaria"
+    "target_item_def": "herobrine:septaria_gem"
   },
   {
     "item": "diamond",
@@ -485,7 +485,7 @@
         "value": "sphalerite"
       }
     },
-    "target_item_def": "herobrine:sphalerite"
+    "target_item_def": "herobrine:sphalerite_gem"
   },
   {
     "item": "diamond",
@@ -495,7 +495,7 @@
         "value": "sphalerite_verte"
       }
     },
-    "target_item_def": "herobrine:sphalerite_verte"
+    "target_item_def": "herobrine:green_sphalerite_gem"
   },
   {
     "item": "diamond",
@@ -505,7 +505,7 @@
         "value": "topaze"
       }
     },
-    "target_item_def": "herobrine:topaze"
+    "target_item_def": "herobrine:orange_topaz_gem"
   },
   {
     "item": "diamond",
@@ -515,7 +515,7 @@
         "value": "topazebleu"
       }
     },
-    "target_item_def": "herobrine:topazebleu"
+    "target_item_def": "herobrine:blue_topaz_gem"
   },
   {
     "item": "diamond",
@@ -525,7 +525,7 @@
         "value": "tourmaline"
       }
     },
-    "target_item_def": "herobrine:tourmaline"
+    "target_item_def": "herobrine:tourmaline_gem"
   },
   {
     "item": "diamond",
@@ -535,7 +535,7 @@
         "value": "tourmaline_violette"
       }
     },
-    "target_item_def": "herobrine:tourmaline_violette"
+    "target_item_def": "herobrine:purple_tourmaline_gem"
   },
   {
     "item": "flint",
@@ -565,7 +565,7 @@
         "value": "poudre_diamant"
       }
     },
-    "target_item_def": "herobrine:poudre_diamant"
+    "target_item_def": "herobrine:diamond_dust"
   },
   {
     "item": "lapis_lazuli",
@@ -575,7 +575,7 @@
         "value": "poudre_obsi"
       }
     },
-    "target_item_def": "herobrine:poudre_obsi"
+    "target_item_def": "herobrine:obsidian_dust"
   },
   {
     "item": "gold_nugget",
@@ -585,7 +585,7 @@
         "value": "poudre_or"
       }
     },
-    "target_item_def": "herobrine:poudre_or"
+    "target_item_def": "herobrine:gold_dust"
   },
   {
     "item": "shears",
@@ -595,7 +595,7 @@
         "value": "*ciseaux*"
       }
     },
-    "target_item_def": "herobrine:ciseaux_couture"
+    "target_item_def": "herobrine:sewing_scissors"
   },
   {
     "item": "paper",
@@ -605,7 +605,7 @@
         "value": "tissu_blanc"
       }
     },
-    "target_item_def": "herobrine:tissu_blanc"
+    "target_item_def": "herobrine:white_cloth"
   },
   {
     "item": "paper",
@@ -615,7 +615,7 @@
         "value": "tissu_bleu"
       }
     },
-    "target_item_def": "herobrine:tissu_bleu"
+    "target_item_def": "herobrine:blue_cloth"
   },
   {
     "item": "paper",
@@ -625,7 +625,7 @@
         "value": "tissu_jaune"
       }
     },
-    "target_item_def": "herobrine:tissu_jaune"
+    "target_item_def": "herobrine:yellow_cloth"
   },
   {
     "item": "paper",
@@ -635,7 +635,7 @@
         "value": "tissu_orange"
       }
     },
-    "target_item_def": "herobrine:tissu_orange"
+    "target_item_def": "herobrine:orange_cloth"
   },
   {
     "item": "paper",
@@ -645,7 +645,7 @@
         "value": "tissu_rose"
       }
     },
-    "target_item_def": "herobrine:tissu_rose"
+    "target_item_def": "herobrine:pink_cloth"
   },
   {
     "item": "paper",
@@ -655,7 +655,7 @@
         "value": "tissu_rouge"
       }
     },
-    "target_item_def": "herobrine:tissu_rouge"
+    "target_item_def": "herobrine:red_cloth"
   },
   {
     "item": "paper",
@@ -665,7 +665,7 @@
         "value": "tissu_vert"
       }
     },
-    "target_item_def": "herobrine:tissu_vert"
+    "target_item_def": "herobrine:green_cloth"
   },
   {
     "item": "paper",
@@ -675,7 +675,7 @@
         "value": "tissu_violet"
       }
     },
-    "target_item_def": "herobrine:tissu_violet"
+    "target_item_def": "herobrine:purple_cloth"
   },
   {
     "item": "bowl",
@@ -685,7 +685,7 @@
         "value": "epices"
       }
     },
-    "target_item_def": "herobrine:epices"
+    "target_item_def": "herobrine:spices"
   },
   {
     "item": "iron_shovel",
@@ -695,7 +695,7 @@
         "value": "*casserole*"
       }
     },
-    "target_item_def": "herobrine:casserole"
+    "target_item_def": "herobrine:kitchen_wok"
   },
   {
     "item": "iron_shovel",
@@ -705,7 +705,7 @@
         "value": "casserole"
       }
     },
-    "target_item_def": "herobrine:casserole"
+    "target_item_def": "herobrine:kitchen_wok"
   },
   {
     "item": "iron_sword",
@@ -715,7 +715,7 @@
         "value": "*couteau*cuisine*"
       }
     },
-    "target_item_def": "herobrine:couteau_cuisine"
+    "target_item_def": "herobrine:kitchen_knife"
   },
   {
     "item": "iron_sword",
@@ -725,7 +725,7 @@
         "value": "couteau_cuisine"
       }
     },
-    "target_item_def": "herobrine:couteau_cuisine"
+    "target_item_def": "herobrine:kitchen_knife"
   },
   {
     "item": "iron_sword",
@@ -735,7 +735,7 @@
         "value": "*fourchette*"
       }
     },
-    "target_item_def": "herobrine:fourchette"
+    "target_item_def": "herobrine:fork"
   },
   {
     "item": "iron_sword",
@@ -745,27 +745,7 @@
         "value": "fourchette"
       }
     },
-    "target_item_def": "herobrine:fourchette"
-  },
-  {
-    "item": "stone_hoe",
-    "original_components": {
-      "components.custom_name": {
-        "method": "regex",
-        "value": ".*?m[\\u00e9e]langeur.*"
-      }
-    },
-    "target_item_def": "herobrine:melangeur"
-  },
-  {
-    "item": "stone_hoe",
-    "original_components": {
-      "components.custom_data.artisanat_cuisine": {
-        "method": "exact",
-        "value": "melangeur"
-      }
-    },
-    "target_item_def": "herobrine:melangeur"
+    "target_item_def": "herobrine:fork"
   },
   {
     "item": "iron_shovel",
@@ -775,7 +755,7 @@
         "value": ".*?po[\\u00eae]le.*"
       }
     },
-    "target_item_def": "herobrine:poele"
+    "target_item_def": "herobrine:kitchen_pan"
   },
   {
     "item": "iron_shovel",
@@ -785,7 +765,7 @@
         "value": "poele"
       }
     },
-    "target_item_def": "herobrine:poele"
+    "target_item_def": "herobrine:kitchen_pan"
   },
   {
     "item": "iron_ingot",
@@ -795,7 +775,7 @@
         "value": "lingot_acier"
       }
     },
-    "target_item_def": "herobrine:lingo_acier"
+    "target_item_def": "herobrine:steel_ingot"
   },
   {
     "item": "iron_ingot",
@@ -805,7 +785,7 @@
         "value": "lingot_adamantin"
       }
     },
-    "target_item_def": "herobrine:lingot_adamantin"
+    "target_item_def": "herobrine:adamantine_ingot"
   },
   {
     "item": "iron_ingot",
@@ -815,7 +795,7 @@
         "value": "lingot_cuivre"
       }
     },
-    "target_item_def": "herobrine:copper_ingot"
+    "target_item_def": "minecraft:copper_ingot"
   },
   {
     "item": "iron_ingot",
@@ -825,7 +805,7 @@
         "value": "*cuivre*"
       }
     },
-    "target_item_def": "herobrine:copper_ingot_rename"
+    "target_item_def": "minecraft:copper_ingot"
   },
   {
     "item": "iron_ingot",
@@ -835,7 +815,7 @@
         "value": "lingot_obsifer"
       }
     },
-    "target_item_def": "herobrine:lingot_obsifer"
+    "target_item_def": "herobrine:obsifer_ingot"
   },
   {
     "item": "iron_ingot",
@@ -845,7 +825,7 @@
         "value": "lingot_vifargent"
       }
     },
-    "target_item_def": "herobrine:lingot_vifargent"
+    "target_item_def": "herobrine:vifargent_ingot"
   },
   {
     "item": "stone_sword",
@@ -855,7 +835,7 @@
         "value": "*marteau*"
       }
     },
-    "target_item_def": "herobrine:marteau_forgeron"
+    "target_item_def": "herobrine:blacksmith_hammer"
   },
   {
     "item": "stone_sword",
@@ -865,7 +845,7 @@
         "value": "marteau"
       }
     },
-    "target_item_def": "herobrine:marteau_forgeron"
+    "target_item_def": "herobrine:blacksmith_hammer"
   },
   {
     "item": "iron_shovel",
@@ -875,7 +855,7 @@
         "value": "*pinces*"
       }
     },
-    "target_item_def": "herobrine:pinces_de_forgeron"
+    "target_item_def": "herobrine:blacksmith_tongs"
   },
   {
     "item": "iron_shovel",
@@ -885,7 +865,7 @@
         "value": "pinces"
       }
     },
-    "target_item_def": "herobrine:pinces_de_forgeron"
+    "target_item_def": "herobrine:blacksmith_tongs"
   },
   {
     "item": "leather",
@@ -895,7 +875,7 @@
         "value": "bande_cuir"
       }
     },
-    "target_item_def": "herobrine:bande_cuir"
+    "target_item_def": "herobrine:leather_strip"
   },
   {
     "item": "enchanted_book",
@@ -915,7 +895,7 @@
         "value": "cuir_renfort"
       }
     },
-    "target_item_def": "herobrine:cuir_renfort"
+    "target_item_def": "herobrine:reinforced_leather"
   },
   {
     "item": "wooden_sword",
@@ -925,7 +905,7 @@
         "value": "(?!.*(?:b[\\u00e2a]tarde|longue)).*?fourreau.*?[\\u00e9e]p[\\u00e9e]e.*"
       }
     },
-    "target_item_def": "herobrine:fourreau"
+    "target_item_def": "herobrine:sword_fourreau"
   },
   {
     "item": "wooden_sword",
@@ -935,7 +915,7 @@
         "value": "fourreau"
       }
     },
-    "target_item_def": "herobrine:fourreau_tag"
+    "target_item_def": "herobrine:sword_fourreau"
   },
   {
     "item": "leather",
@@ -945,7 +925,7 @@
         "value": "gourde"
       }
     },
-    "target_item_def": "herobrine:gourde"
+    "target_item_def": "herobrine:empty_gourd"
   },
   {
     "item": "enchanted_book",
@@ -955,7 +935,7 @@
         "value": "sac"
       }
     },
-    "target_item_def": "herobrine:sac"
+    "target_item_def": "herobrine:leather_bag"
   },
   {
     "item": "stick",
@@ -965,7 +945,7 @@
         "value": "manche"
       }
     },
-    "target_item_def": "herobrine:manche"
+    "target_item_def": "herobrine:tool_handle"
   },
   {
     "item": "stick",
@@ -975,7 +955,7 @@
         "value": "planche"
       }
     },
-    "target_item_def": "herobrine:planche"
+    "target_item_def": "herobrine:wood_plank"
   },
   {
     "item": "structure_void",
@@ -5011,7 +4991,7 @@
         "value": "corbeau"
       }
     },
-    "target_item_def": "herobrine:cosmetics/ailes_corbeau",
+    "target_item_def": "herobrine:cosmetics/crow_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5022,7 +5002,7 @@
         "value": "crow"
       }
     },
-    "target_item_def": "herobrine:cosmetics/wing_crow",
+    "target_item_def": "herobrine:cosmetics/crow_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5033,7 +5013,7 @@
         "value": "ailes_blanches"
       }
     },
-    "target_item_def": "herobrine:cosmetics/ailes_blanches",
+    "target_item_def": "herobrine:cosmetics/white_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5044,7 +5024,7 @@
         "value": "wings_white"
       }
     },
-    "target_item_def": "herobrine:cosmetics/wings_white",
+    "target_item_def": "herobrine:cosmetics/white_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5055,7 +5035,7 @@
         "value": "ailes_noires"
       }
     },
-    "target_item_def": "herobrine:cosmetics/ailes_noires",
+    "target_item_def": "herobrine:cosmetics/black_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5066,7 +5046,7 @@
         "value": "wings_black"
       }
     },
-    "target_item_def": "herobrine:cosmetics/wings_black",
+    "target_item_def": "herobrine:cosmetics/black_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5077,7 +5057,7 @@
         "value": "blanches_1"
       }
     },
-    "target_item_def": "herobrine:cosmetics/ailes_blanches_1",
+    "target_item_def": "herobrine:cosmetics/white_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5088,7 +5068,7 @@
         "value": "white"
       }
     },
-    "target_item_def": "herobrine:cosmetics/white_wings_1",
+    "target_item_def": "herobrine:cosmetics/white_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5099,7 +5079,7 @@
         "value": "blanches_2"
       }
     },
-    "target_item_def": "herobrine:cosmetics/ailes_blanches_2",
+    "target_item_def": "herobrine:cosmetics/white_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5110,7 +5090,7 @@
         "value": "white2"
       }
     },
-    "target_item_def": "herobrine:cosmetics/white_wings_2",
+    "target_item_def": "herobrine:cosmetics/white_wings",
     "target_armor_slot": "chest"
   },
   {
@@ -5121,7 +5101,7 @@
         "value": "white2"
       }
     },
-    "target_item_def": "herobrine:cosmetics/white_wings_2"
+    "target_item_def": "herobrine:cosmetics/white_wings"
   },
   {
     "item": "bone",
@@ -5131,7 +5111,7 @@
         "value": "bois_cerf"
       }
     },
-    "target_item_def": "herobrine:cosmetics/bois_cerf"
+    "target_item_def": "herobrine:cosmetics/deer_antlers"
   },
   {
     "item": "bone",
@@ -5141,7 +5121,7 @@
         "value": "cornes"
       }
     },
-    "target_item_def": "herobrine:cosmetics/cornes_classiques"
+    "target_item_def": "herobrine:cosmetics/classic_horns"
   },
   {
     "item": "bone",
@@ -5151,7 +5131,7 @@
         "value": "cornesObsi"
       }
     },
-    "target_item_def": "herobrine:cosmetics/cornes_obsi"
+    "target_item_def": "herobrine:cosmetics/obsidian_horns"
   },
   {
     "item": "bone",
@@ -5161,7 +5141,7 @@
         "value": "cornes_obsidienne"
       }
     },
-    "target_item_def": "herobrine:cosmetics/cornes_obsidienne"
+    "target_item_def": "herobrine:cosmetics/obsidian_horns"
   },
   {
     "item": "bone",
@@ -5171,7 +5151,7 @@
         "value": "petites_cornes_bois"
       }
     },
-    "target_item_def": "herobrine:cosmetics/petites_cornes_bois"
+    "target_item_def": "herobrine:cosmetics/small_wooden_horns"
   },
   {
     "item": "bone",
@@ -5181,7 +5161,7 @@
         "value": "cornes_small_bois"
       }
     },
-    "target_item_def": "herobrine:cosmetics/small_cornes_bois"
+    "target_item_def": "herobrine:cosmetics/small_wooden_horns"
   },
   {
     "item": "bone",
@@ -5191,7 +5171,7 @@
         "value": "petites_cornes_noires"
       }
     },
-    "target_item_def": "herobrine:cosmetics/petites_cornes_noires"
+    "target_item_def": "herobrine:cosmetics/small_black_horns"
   },
   {
     "item": "bone",
@@ -5201,7 +5181,7 @@
         "value": "cornes_small_noir"
       }
     },
-    "target_item_def": "herobrine:cosmetics/small_cornes_noir"
+    "target_item_def": "herobrine:cosmetics/small_black_horns"
   },
   {
     "item": "bone",
@@ -5211,7 +5191,7 @@
         "value": "petites_cornes_os"
       }
     },
-    "target_item_def": "herobrine:cosmetics/petites_cornes_os"
+    "target_item_def": "herobrine:cosmetics/small_bone_horns"
   },
   {
     "item": "bone",
@@ -5221,7 +5201,7 @@
         "value": "cornes_small_os"
       }
     },
-    "target_item_def": "herobrine:cosmetics/small_cornes_os"
+    "target_item_def": "herobrine:cosmetics/small_bone_horns"
   },
   {
     "item": "amethyst_cluster",
@@ -5231,7 +5211,7 @@
         "value": "epines_dos"
       }
     },
-    "target_item_def": "herobrine:cosmetics/epines_dos"
+    "target_item_def": "herobrine:cosmetics/back_spikes"
   },
   {
     "item": "amethyst_cluster",
@@ -5241,7 +5221,7 @@
         "value": "epines_tete"
       }
     },
-    "target_item_def": "herobrine:cosmetics/epines_tete"
+    "target_item_def": "herobrine:cosmetics/head_spikes"
   },
   {
     "item": "stick",
@@ -5251,7 +5231,7 @@
         "value": "corbeau"
       }
     },
-    "target_item_def": "herobrine:mobs/corbeau"
+    "target_item_def": "herobrine:mobs/crow"
   },
   {
     "item": "stick",
@@ -5271,7 +5251,7 @@
         "value": "moineau_f"
       }
     },
-    "target_item_def": "herobrine:mobs/moineau_f"
+    "target_item_def": "herobrine:mobs/sparrow_female"
   },
   {
     "item": "feather",
@@ -5281,7 +5261,7 @@
         "value": "moineau_femelle"
       }
     },
-    "target_item_def": "herobrine:mobs/moineau_femelle"
+    "target_item_def": "herobrine:mobs/sparrow_female"
   },
   {
     "item": "feather",
@@ -5291,7 +5271,7 @@
         "value": "moineau_m"
       }
     },
-    "target_item_def": "herobrine:mobs/moineau_m"
+    "target_item_def": "herobrine:mobs/sparrow_male"
   },
   {
     "item": "feather",
@@ -5301,7 +5281,7 @@
         "value": "moineau_male"
       }
     },
-    "target_item_def": "herobrine:mobs/moineau_male"
+    "target_item_def": "herobrine:mobs/sparrow_male"
   },
   {
     "item": "feather",
@@ -5311,7 +5291,7 @@
         "value": "pie"
       }
     },
-    "target_item_def": "herobrine:mobs/pie"
+    "target_item_def": "herobrine:mobs/magpie"
   },
   {
     "item": "feather",
@@ -5321,7 +5301,7 @@
         "value": "rouge_gorge"
       }
     },
-    "target_item_def": "herobrine:mobs/rouge_gorge"
+    "target_item_def": "herobrine:mobs/robin_redbreast"
   },
   {
     "item": "rabbit_foot",
@@ -5331,7 +5311,7 @@
         "value": "ecureuil_cristal"
       }
     },
-    "target_item_def": "herobrine:mobs/ecureuil_cristal"
+    "target_item_def": "herobrine:mobs/crystal_squirrel"
   },
   {
     "item": "feather",
@@ -5341,7 +5321,7 @@
         "value": "oiseau_cristal"
       }
     },
-    "target_item_def": "herobrine:mobs/oiseau_cristal"
+    "target_item_def": "herobrine:mobs/crystal_bird"
   },
   {
     "item": "leather",
@@ -5601,7 +5581,7 @@
         "value": "peau_ours"
       }
     },
-    "target_item_def": "herobrine:decoration/ours"
+    "target_item_def": "herobrine:decoration/bear_skin"
   },
   {
     "item": "leather",
@@ -5611,7 +5591,7 @@
         "value": "peau_vache"
       }
     },
-    "target_item_def": "herobrine:decoration/vache"
+    "target_item_def": "herobrine:decoration/cow_skin"
   },
   {
     "item": "clock",
@@ -5701,7 +5681,7 @@
         "value": "fiole"
       }
     },
-    "target_item_def": "herobrine:fiole_drogue"
+    "target_item_def": "herobrine:filled_drug_flask"
   },
   {
     "item": "glass_bottle",
@@ -5711,7 +5691,7 @@
         "value": "fiole"
       }
     },
-    "target_item_def": "herobrine:fiole_drogue_vide"
+    "target_item_def": "herobrine:empty_drug_flask"
   },
   {
     "item": "bowl",
@@ -5731,7 +5711,7 @@
         "value": ".*Bouteille.*"
       }
     },
-    "target_item_def": "herobrine:bouteille"
+    "target_item_def": "herobrine:filled_bottle"
   },
   {
     "item": "potion",
@@ -5741,7 +5721,7 @@
         "value": "bouteille"
       }
     },
-    "target_item_def": "herobrine:bouteille"
+    "target_item_def": "herobrine:filled_bottle"
   },
   {
     "item": "glass_bottle",
@@ -5751,7 +5731,7 @@
         "value": ".*Bouteille.*"
       }
     },
-    "target_item_def": "herobrine:bouteille_vide"
+    "target_item_def": "herobrine:empty_bottle"
   },
   {
     "item": "glass_bottle",
@@ -5771,7 +5751,7 @@
         "value": "(?!.*(Biï¿½re|biï¿½re|Biere|biere).*)(.*Chope.*)"
       }
     },
-    "target_item_def": "herobrine:chope"
+    "target_item_def": "herobrine:filled_mug"
   },
   {
     "item": "potion",
@@ -5781,7 +5761,7 @@
         "value": "chope"
       }
     },
-    "target_item_def": "herobrine:chope"
+    "target_item_def": "herobrine:filled_mug"
   },
   {
     "item": "glass_bottle",
@@ -5791,7 +5771,7 @@
         "value": "(?!.*(Biï¿½re|biï¿½re|Biere|biere).*)(.*Chope.*)"
       }
     },
-    "target_item_def": "herobrine:chope_vide"
+    "target_item_def": "herobrine:empty_mug"
   },
   {
     "item": "glass_bottle",
@@ -5801,7 +5781,7 @@
         "value": "chope"
       }
     },
-    "target_item_def": "herobrine:chope_vide"
+    "target_item_def": "herobrine:empty_mug"
   },
   {
     "item": "potion",
@@ -5811,7 +5791,7 @@
         "value": ".*Chope.*(Biï¿½re|biï¿½re|Biere|biere).*"
       }
     },
-    "target_item_def": "herobrine:chope_biere"
+    "target_item_def": "herobrine:beer_mug"
   },
   {
     "item": "potion",
@@ -5821,7 +5801,7 @@
         "value": "chope_biere"
       }
     },
-    "target_item_def": "herobrine:chope_biere"
+    "target_item_def": "herobrine:beer_mug"
   },
   {
     "item": "potion",
@@ -5831,7 +5811,7 @@
         "value": ".*Flasque.*"
       }
     },
-    "target_item_def": "herobrine:flasque"
+    "target_item_def": "herobrine:empty_flask"
   },
   {
     "item": "potion",
@@ -5841,7 +5821,7 @@
         "value": "flasque"
       }
     },
-    "target_item_def": "herobrine:flasque"
+    "target_item_def": "herobrine:empty_flask"
   },
   {
     "item": "glass_bottle",
@@ -5851,7 +5831,7 @@
         "value": ".*Flasque.*"
       }
     },
-    "target_item_def": "herobrine:flasque_vide"
+    "target_item_def": "herobrine:empty_flask"
   },
   {
     "item": "glass_bottle",
@@ -5861,7 +5841,7 @@
         "value": "flasque"
       }
     },
-    "target_item_def": "herobrine:flasque_vide"
+    "target_item_def": "herobrine:empty_flask"
   },
   {
     "item": "potion",
@@ -5871,7 +5851,7 @@
         "value": ".*Flute.*"
       }
     },
-    "target_item_def": "herobrine:glass_flute"
+    "target_item_def": "herobrine:filled_glass_flute"
   },
   {
     "item": "potion",
@@ -5881,7 +5861,7 @@
         "value": "flute"
       }
     },
-    "target_item_def": "herobrine:glass_flute"
+    "target_item_def": "herobrine:filled_glass_flute"
   },
   {
     "item": "glass_bottle",
@@ -5891,7 +5871,7 @@
         "value": ".*Flute.*"
       }
     },
-    "target_item_def": "herobrine:glass_flute_vide"
+    "target_item_def": "herobrine:empty_glass_flute"
   },
   {
     "item": "glass_bottle",
@@ -5901,7 +5881,7 @@
         "value": "flute"
       }
     },
-    "target_item_def": "herobrine:glass_flute_vide"
+    "target_item_def": "herobrine:empty_glass_flute"
   },
   {
     "item": "potion",
@@ -5911,7 +5891,7 @@
         "value": ".*Gourde.*"
       }
     },
-    "target_item_def": "herobrine:gourde"
+    "target_item_def": "herobrine:filled_gourd"
   },
   {
     "item": "potion",
@@ -5921,7 +5901,7 @@
         "value": "gourde"
       }
     },
-    "target_item_def": "herobrine:gourde"
+    "target_item_def": "herobrine:filled_gourd"
   },
   {
     "item": "glass_bottle",
@@ -5931,7 +5911,7 @@
         "value": ".*Gourde.*"
       }
     },
-    "target_item_def": "herobrine:gourde_vide"
+    "target_item_def": "herobrine:empty_gourd"
   },
   {
     "item": "glass_bottle",
@@ -5941,7 +5921,7 @@
         "value": "gourde"
       }
     },
-    "target_item_def": "herobrine:gourde_vide"
+    "target_item_def": "herobrine:empty_gourd"
   },
   {
     "item": "potion",
@@ -5951,7 +5931,7 @@
         "value": ".*Carafe de f\\u00e9e.*"
       }
     },
-    "target_item_def": "herobrine:bouteille_fee"
+    "target_item_def": "herobrine:filled_fairy_bottle"
   },
   {
     "item": "potion",
@@ -5961,7 +5941,7 @@
         "value": "bouteille_fee"
       }
     },
-    "target_item_def": "herobrine:bouteille_fee"
+    "target_item_def": "herobrine:filled_fairy_bottle"
   },
   {
     "item": "glass_bottle",
@@ -5971,7 +5951,7 @@
         "value": ".*Carafe de f\\u00e9e.*"
       }
     },
-    "target_item_def": "herobrine:bouteille_fee_vide"
+    "target_item_def": "herobrine:empty_fairy_bottle"
   },
   {
     "item": "glass_bottle",
@@ -5981,7 +5961,7 @@
         "value": "bouteille_fee"
       }
     },
-    "target_item_def": "herobrine:bouteille_fee_vide"
+    "target_item_def": "herobrine:empty_fairy_bottle"
   },
   {
     "item": "potion",
@@ -5991,7 +5971,7 @@
         "value": ".*Jarre.*"
       }
     },
-    "target_item_def": "herobrine:jarre"
+    "target_item_def": "herobrine:filled_jar"
   },
   {
     "item": "potion",
@@ -6001,7 +5981,7 @@
         "value": "jarre"
       }
     },
-    "target_item_def": "herobrine:jarre"
+    "target_item_def": "herobrine:filled_jar"
   },
   {
     "item": "glass_bottle",
@@ -6011,7 +5991,7 @@
         "value": ".*Jarre.*"
       }
     },
-    "target_item_def": "herobrine:jarre_vide"
+    "target_item_def": "herobrine:empty_jar"
   },
   {
     "item": "glass_bottle",
@@ -6021,7 +6001,7 @@
         "value": "jarre"
       }
     },
-    "target_item_def": "herobrine:jarre_vide"
+    "target_item_def": "herobrine:empty_jar"
   },
   {
     "item": "potion",
@@ -6031,7 +6011,7 @@
         "value": ".*Outre.*"
       }
     },
-    "target_item_def": "herobrine:outre"
+    "target_item_def": "herobrine:filled_wineskin"
   },
   {
     "item": "potion",
@@ -6041,7 +6021,7 @@
         "value": "outre"
       }
     },
-    "target_item_def": "herobrine:outre"
+    "target_item_def": "herobrine:filled_wineskin"
   },
   {
     "item": "glass_bottle",
@@ -6051,7 +6031,7 @@
         "value": ".*Outre.*"
       }
     },
-    "target_item_def": "herobrine:outre_vide"
+    "target_item_def": "herobrine:empty_wineskin"
   },
   {
     "item": "glass_bottle",
@@ -6061,7 +6041,7 @@
         "value": "outre"
       }
     },
-    "target_item_def": "herobrine:outre_vide"
+    "target_item_def": "herobrine:empty_wineskin"
   },
   {
     "item": "potion",
@@ -6071,7 +6051,7 @@
         "value": "(?!.*(Vin|vin).*)(.*\\\\\\\\b(Verre|verre)\\\\\\\\b.*)"
       }
     },
-    "target_item_def": "herobrine:verre"
+    "target_item_def": "herobrine:filled_glass"
   },
   {
     "item": "potion",
@@ -6081,7 +6061,7 @@
         "value": "verre"
       }
     },
-    "target_item_def": "herobrine:verre"
+    "target_item_def": "herobrine:filled_glass"
   },
   {
     "item": "glass_bottle",
@@ -6091,7 +6071,7 @@
         "value": "(?!.*Vin.*) (.*Verre.*)"
       }
     },
-    "target_item_def": "herobrine:verre_vide"
+    "target_item_def": "herobrine:empty_glass"
   },
   {
     "item": "glass_bottle",
@@ -6101,7 +6081,7 @@
         "value": "verre"
       }
     },
-    "target_item_def": "herobrine:verre_vide"
+    "target_item_def": "herobrine:empty_glass"
   },
   {
     "item": "bowl",
@@ -6111,7 +6091,7 @@
         "value": ".*Verre.*"
       }
     },
-    "target_item_def": "herobrine:verre_bois"
+    "target_item_def": "herobrine:filled_wooden_glass"
   },
   {
     "item": "bowl",
@@ -6121,7 +6101,7 @@
         "value": "verre_bois"
       }
     },
-    "target_item_def": "herobrine:verre_bois"
+    "target_item_def": "herobrine:filled_wooden_glass"
   },
   {
     "item": "potion",
@@ -6131,7 +6111,7 @@
         "value": ".*Verre.*vin.*"
       }
     },
-    "target_item_def": "herobrine:verre_de_vin"
+    "target_item_def": "herobrine:filled_wine_glass"
   },
   {
     "item": "potion",
@@ -6141,7 +6121,7 @@
         "value": "verre_vin"
       }
     },
-    "target_item_def": "herobrine:verre_de_vin"
+    "target_item_def": "herobrine:filled_wine_glass"
   },
   {
     "item": "glass_bottle",
@@ -6151,7 +6131,7 @@
         "value": ".*Coupe.*vin.*"
       }
     },
-    "target_item_def": "herobrine:verre_de_vin_vide"
+    "target_item_def": "herobrine:empty_wine_glass"
   },
   {
     "item": "glass_bottle",
@@ -6161,7 +6141,7 @@
         "value": "verre_vin"
       }
     },
-    "target_item_def": "herobrine:verre_de_vin_vide"
+    "target_item_def": "herobrine:empty_wine_glass"
   },
   {
     "item": "baked_potato",
@@ -6171,7 +6151,7 @@
         "value": "pattern:*Omelette"
       }
     },
-    "target_item_def": "herobrine:omelette"
+    "target_item_def": "herobrine:omelet"
   },
   {
     "item": "cooked_mutton",
@@ -6181,7 +6161,7 @@
         "value": "pattern:*Omelette.*herbes*"
       }
     },
-    "target_item_def": "herobrine:omelette_herbes"
+    "target_item_def": "herobrine:herb_omelet"
   },
   {
     "item": "bread",
@@ -6231,7 +6211,7 @@
         "value": ".*Citrouille aux braises.*"
       }
     },
-    "target_item_def": "herobrine:citrouillebraise"
+    "target_item_def": "herobrine:braised_pumpkin"
   },
   {
     "item": "bread",
@@ -6241,7 +6221,7 @@
         "value": "citrouillebraise"
       }
     },
-    "target_item_def": "herobrine:citrouillebraise"
+    "target_item_def": "herobrine:braised_pumpkin"
   },
   {
     "item": "melon",
@@ -6251,7 +6231,7 @@
         "value": ".*Tranche.*citrouille.*"
       }
     },
-    "target_item_def": "herobrine:tranchecitrouille"
+    "target_item_def": "herobrine:pumpkin_slice"
   },
   {
     "item": "melon",
@@ -6261,7 +6241,7 @@
         "value": "tranchecitrouille"
       }
     },
-    "target_item_def": "herobrine:tranchecitrouille"
+    "target_item_def": "herobrine:pumpkin_slice"
   },
   {
     "item": "cookie",
@@ -6291,7 +6271,7 @@
         "value": ".*Bol.*lï¿½gumes.*"
       }
     },
-    "target_item_def": "herobrine:bol_legumes"
+    "target_item_def": "herobrine:vegetable_bowl"
   },
   {
     "item": "mushroom_stew",
@@ -6301,7 +6281,7 @@
         "value": "bol_legumes"
       }
     },
-    "target_item_def": "herobrine:bol_legumes"
+    "target_item_def": "herobrine:vegetable_bowl"
   },
   {
     "item": "mushroom_stew",
@@ -6311,7 +6291,7 @@
         "value": ".*Bol.*salade.*"
       }
     },
-    "target_item_def": "herobrine:bol_salade"
+    "target_item_def": "herobrine:salad_bowl"
   },
   {
     "item": "mushroom_stew",
@@ -6321,7 +6301,7 @@
         "value": "bol_salade"
       }
     },
-    "target_item_def": "herobrine:bol_salade"
+    "target_item_def": "herobrine:salad_bowl"
   },
   {
     "item": "bread",
@@ -6331,7 +6311,7 @@
         "value": ".*Pain.*farci.*"
       }
     },
-    "target_item_def": "herobrine:pain_farci"
+    "target_item_def": "herobrine:stuffed_bread"
   },
   {
     "item": "bread",
@@ -6341,7 +6321,7 @@
         "value": "pain_farci"
       }
     },
-    "target_item_def": "herobrine:pain_farci"
+    "target_item_def": "herobrine:stuffed_bread"
   },
   {
     "item": "bread",
@@ -6351,7 +6331,7 @@
         "value": ".*Pain noir.*"
       }
     },
-    "target_item_def": "herobrine:painnoir"
+    "target_item_def": "herobrine:black_bread"
   },
   {
     "item": "bread",
@@ -6361,7 +6341,7 @@
         "value": "painnoir"
       }
     },
-    "target_item_def": "herobrine:painnoir"
+    "target_item_def": "herobrine:black_bread"
   },
   {
     "item": "baked_potato",
@@ -6371,7 +6351,7 @@
         "value": ".*Ration.*betteraves.*"
       }
     },
-    "target_item_def": "herobrine:ration_betteraves"
+    "target_item_def": "herobrine:beetroot_ration"
   },
   {
     "item": "baked_potato",
@@ -6381,7 +6361,7 @@
         "value": "ration_betteraves"
       }
     },
-    "target_item_def": "herobrine:ration_betteraves"
+    "target_item_def": "herobrine:beetroot_ration"
   },
   {
     "item": "golden_carrot",
@@ -6391,7 +6371,7 @@
         "value": ".*Ration.*carottes.*"
       }
     },
-    "target_item_def": "herobrine:ration_carottes"
+    "target_item_def": "herobrine:carrot_ration"
   },
   {
     "item": "golden_carrot",
@@ -6401,27 +6381,7 @@
         "value": "ration_carottes"
       }
     },
-    "target_item_def": "herobrine:ration_carottes"
-  },
-  {
-    "item": "cooked_porkchop",
-    "original_components": {
-      "components.custom_name": {
-        "method": "regex",
-        "value": ".*Ration nourrissante.*"
-      }
-    },
-    "target_item_def": "herobrine:ration_nourrissante"
-  },
-  {
-    "item": "cooked_porkchop",
-    "original_components": {
-      "components.custom_data.artisanat_cuisine": {
-        "method": "exact",
-        "value": "ration_nourrissante"
-      }
-    },
-    "target_item_def": "herobrine:ration_nourrissante"
+    "target_item_def": "herobrine:carrot_ration"
   },
   {
     "item": "baked_potato",
@@ -6431,7 +6391,7 @@
         "value": ".*Ration.*patates.*"
       }
     },
-    "target_item_def": "herobrine:ration_patate"
+    "target_item_def": "herobrine:potato_ration"
   },
   {
     "item": "baked_potato",
@@ -6441,7 +6401,7 @@
         "value": "ration_patate"
       }
     },
-    "target_item_def": "herobrine:ration_patate"
+    "target_item_def": "herobrine:potato_ration"
   },
   {
     "item": "mushroom_stew",
@@ -6451,7 +6411,7 @@
         "value": ".*Bol.*riz.*"
       }
     },
-    "target_item_def": "herobrine:bol_riz"
+    "target_item_def": "herobrine:rice_bowl"
   },
   {
     "item": "mushroom_stew",
@@ -6461,7 +6421,7 @@
         "value": "bol_riz"
       }
     },
-    "target_item_def": "herobrine:bol_riz"
+    "target_item_def": "herobrine:rice_bowl"
   },
   {
     "item": "rabbit_stew",
@@ -6471,7 +6431,7 @@
         "value": ".*Potage.*"
       }
     },
-    "target_item_def": "herobrine:potage"
+    "target_item_def": "herobrine:meat_stew"
   },
   {
     "item": "rabbit_stew",
@@ -6481,7 +6441,7 @@
         "value": "potage"
       }
     },
-    "target_item_def": "herobrine:potage"
+    "target_item_def": "herobrine:meat_stew"
   },
   {
     "item": "mushroom_stew",
@@ -6491,7 +6451,7 @@
         "value": ".*Soupe bleue.*"
       }
     },
-    "target_item_def": "herobrine:soupebleue"
+    "target_item_def": "herobrine:blue_soup"
   },
   {
     "item": "mushroom_stew",
@@ -6501,7 +6461,7 @@
         "value": "soupebleue"
       }
     },
-    "target_item_def": "herobrine:soupebleue"
+    "target_item_def": "herobrine:blue_soup"
   },
   {
     "item": "rabbit_stew",
@@ -6511,7 +6471,7 @@
         "value": ".*Soupe.*pain.*"
       }
     },
-    "target_item_def": "herobrine:soupepain"
+    "target_item_def": "herobrine:bread_soup"
   },
   {
     "item": "rabbit_stew",
@@ -6521,7 +6481,7 @@
         "value": "soupepain"
       }
     },
-    "target_item_def": "herobrine:soupepain"
+    "target_item_def": "herobrine:bread_soup"
   },
   {
     "item": "mushroom_stew",
@@ -6531,7 +6491,7 @@
         "value": ".*Soupe rouge.*"
       }
     },
-    "target_item_def": "herobrine:souperouge"
+    "target_item_def": "herobrine:red_soup"
   },
   {
     "item": "mushroom_stew",
@@ -6541,7 +6501,7 @@
         "value": "souperouge"
       }
     },
-    "target_item_def": "herobrine:souperouge"
+    "target_item_def": "herobrine:red_soup"
   },
   {
     "item": "mushroom_stew",
@@ -6551,7 +6511,7 @@
         "value": ".*Soupe verte.*"
       }
     },
-    "target_item_def": "herobrine:soupeverte"
+    "target_item_def": "herobrine:green_soup"
   },
   {
     "item": "mushroom_stew",
@@ -6561,7 +6521,7 @@
         "value": "soupeverte"
       }
     },
-    "target_item_def": "herobrine:soupeverte"
+    "target_item_def": "herobrine:green_soup"
   },
   {
     "item": "cooked_beef",
@@ -6571,7 +6531,7 @@
         "value": ".*Boeuf cuistot.*"
       }
     },
-    "target_item_def": "herobrine:boeuf_cuistot"
+    "target_item_def": "herobrine:cooked_herb_haunch"
   },
   {
     "item": "cooked_beef",
@@ -6581,7 +6541,7 @@
         "value": "boeuf_cuistot"
       }
     },
-    "target_item_def": "herobrine:boeuf_cuistot"
+    "target_item_def": "herobrine:cooked_herb_beef"
   },
   {
     "item": "beef",
@@ -6591,7 +6551,7 @@
         "value": ".*Boeuf.*herbes.*"
       }
     },
-    "target_item_def": "herobrine:boeuf_herbes"
+    "target_item_def": "herobrine:herb_beef"
   },
   {
     "item": "beef",
@@ -6601,7 +6561,7 @@
         "value": "boeuf_herbes"
       }
     },
-    "target_item_def": "herobrine:boeuf_herbes"
+    "target_item_def": "herobrine:herb_beef"
   },
   {
     "item": "baked_potato",
@@ -6611,7 +6571,7 @@
         "value": ".*Brochette.*l\\u00e9gumes.*"
       }
     },
-    "target_item_def": "herobrine:brochettelegume"
+    "target_item_def": "herobrine:vegetable_skewer"
   },
   {
     "item": "baked_potato",
@@ -6621,7 +6581,7 @@
         "value": "brochettelegume"
       }
     },
-    "target_item_def": "herobrine:brochettelegume"
+    "target_item_def": "herobrine:vegetable_skewer"
   },
   {
     "item": "cooked_mutton",
@@ -6631,7 +6591,7 @@
         "value": ".*Brochette.*mouton.*"
       }
     },
-    "target_item_def": "herobrine:brochette"
+    "target_item_def": "herobrine:meat_skewer"
   },
   {
     "item": "cooked_mutton",
@@ -6641,7 +6601,7 @@
         "value": "brochettemouton"
       }
     },
-    "target_item_def": "herobrine:brochette"
+    "target_item_def": "herobrine:meat_skewer"
   },
   {
     "item": "cooked_mutton",
@@ -6651,7 +6611,7 @@
         "value": ".*Brochette.*mouton.*herbes.*"
       }
     },
-    "target_item_def": "herobrine:brochetteverte"
+    "target_item_def": "herobrine:green_skewer"
   },
   {
     "item": "cooked_mutton",
@@ -6661,7 +6621,7 @@
         "value": "brochetteverte"
       }
     },
-    "target_item_def": "herobrine:brochetteverte"
+    "target_item_def": "herobrine:green_skewer"
   },
   {
     "item": "cooked_cod",
@@ -6671,7 +6631,7 @@
         "value": ".*Brochette.*poisson.*"
       }
     },
-    "target_item_def": "herobrine:brochettepoisson"
+    "target_item_def": "herobrine:fish_skewer"
   },
   {
     "item": "cooked_cod",
@@ -6681,7 +6641,7 @@
         "value": "brochettepoisson"
       }
     },
-    "target_item_def": "herobrine:brochettepoisson"
+    "target_item_def": "herobrine:fish_skewer"
   },
   {
     "item": "cooked_mutton",
@@ -6691,7 +6651,7 @@
         "value": ".*Brochette.*viande.*"
       }
     },
-    "target_item_def": "herobrine:brochetteviande"
+    "target_item_def": "herobrine:meat_skewer"
   },
   {
     "item": "cooked_mutton",
@@ -6701,7 +6661,7 @@
         "value": "brochetteviande"
       }
     },
-    "target_item_def": "herobrine:brochetteviande"
+    "target_item_def": "herobrine:meat_skewer"
   },
   {
     "item": "beef",
@@ -6711,7 +6671,7 @@
         "value": ".*Cuissot.*cru"
       }
     },
-    "target_item_def": "herobrine:cuissot_cru"
+    "target_item_def": "herobrine:raw_haunch"
   },
   {
     "item": "beef",
@@ -6721,7 +6681,7 @@
         "value": "cuissot_cru"
       }
     },
-    "target_item_def": "herobrine:cuissot_cru"
+    "target_item_def": "herobrine:raw_haunch"
   },
   {
     "item": "cooked_beef",
@@ -6731,7 +6691,7 @@
         "value": ".*Cuissot.*cuit"
       }
     },
-    "target_item_def": "herobrine:cuissot_cuit"
+    "target_item_def": "herobrine:cooked_haunch"
   },
   {
     "item": "cooked_beef",
@@ -6741,7 +6701,7 @@
         "value": "cuissot_cuit"
       }
     },
-    "target_item_def": "herobrine:cuissot_cuit"
+    "target_item_def": "herobrine:cooked_haunch"
   },
   {
     "item": "cooked_mutton",
@@ -6751,7 +6711,7 @@
         "value": ".*Mouton cuistot.*"
       }
     },
-    "target_item_def": "herobrine:mouton_cuistot"
+    "target_item_def": "herobrine:cooked_herb_mutton"
   },
   {
     "item": "cooked_mutton",
@@ -6761,7 +6721,7 @@
         "value": "mouton_cuistot"
       }
     },
-    "target_item_def": "herobrine:mouton_cuistot"
+    "target_item_def": "herobrine:cooked_herb_mutton"
   },
   {
     "item": "mutton",
@@ -6771,7 +6731,7 @@
         "value": ".*Mouton.*herbes.*"
       }
     },
-    "target_item_def": "herobrine:mouton_herbes"
+    "target_item_def": "herobrine:herb_mutton"
   },
   {
     "item": "mutton",
@@ -6781,7 +6741,7 @@
         "value": "mouton_herbes"
       }
     },
-    "target_item_def": "herobrine:mouton_herbes"
+    "target_item_def": "herobrine:herb_mutton"
   },
   {
     "item": "cooked_porkchop",
@@ -6791,7 +6751,7 @@
         "value": ".*Porc cuistot.*"
       }
     },
-    "target_item_def": "herobrine:porc_cuistot"
+    "target_item_def": "herobrine:cooked_herb_porkchop"
   },
   {
     "item": "cooked_porkchop",
@@ -6801,7 +6761,7 @@
         "value": "porc_cuistot"
       }
     },
-    "target_item_def": "herobrine:porc_cuistot"
+    "target_item_def": "herobrine:herb_porkchop"
   },
   {
     "item": "porkchop",
@@ -6811,7 +6771,7 @@
         "value": ".*Porc.*herbes.*"
       }
     },
-    "target_item_def": "herobrine:porc_herbes"
+    "target_item_def": "herobrine:herb_porkchop"
   },
   {
     "item": "porkchop",
@@ -6821,7 +6781,7 @@
         "value": "porc_herbes"
       }
     },
-    "target_item_def": "herobrine:porc_herbes"
+    "target_item_def": "herobrine:herb_porkchop"
   },
   {
     "item": "cooked_chicken",
@@ -6831,7 +6791,7 @@
         "value": ".*Poulet cuistot.*"
       }
     },
-    "target_item_def": "herobrine:poulet_cuistot"
+    "target_item_def": "herobrine:cooked_herb_chicken"
   },
   {
     "item": "cooked_chicken",
@@ -6841,7 +6801,7 @@
         "value": "poulet_cuistot"
       }
     },
-    "target_item_def": "herobrine:poulet_cuistot"
+    "target_item_def": "herobrine:cooked_herb_chicken"
   },
   {
     "item": "chicken",
@@ -6851,7 +6811,7 @@
         "value": ".*Poulet.*herbes.*"
       }
     },
-    "target_item_def": "herobrine:poulet_herbes"
+    "target_item_def": "herobrine:herb_chicken"
   },
   {
     "item": "chicken",
@@ -6861,7 +6821,7 @@
         "value": "poulet_herbes"
       }
     },
-    "target_item_def": "herobrine:poulet_herbes"
+    "target_item_def": "herobrine:herb_chicken"
   },
   {
     "item": "turtle_scute",
@@ -6881,7 +6841,7 @@
         "value": ".*Craie.*"
       }
     },
-    "target_item_def": "herobrine:craie"
+    "target_item_def": "herobrine:chalk"
   },
   {
     "item": "coal_block",
@@ -6911,7 +6871,7 @@
         "value": ".*Canne.*"
       }
     },
-    "target_item_def": "herobrine:canne"
+    "target_item_def": "herobrine:wooden_cane"
   },
   {
     "item": "golden_hoe",
@@ -6921,7 +6881,7 @@
         "value": ".*Canne.*"
       }
     },
-    "target_item_def": "herobrine:canne_or"
+    "target_item_def": "herobrine:golden_cane"
   },
   {
     "item": "tripwire_hook",
@@ -6931,7 +6891,7 @@
         "value": ".*(cl\\u00e9|clef).*"
       }
     },
-    "target_item_def": "herobrine:clef"
+    "target_item_def": "herobrine:key"
   },
   {
     "item": "tripwire_hook",
@@ -6941,7 +6901,7 @@
         "value": "Crochets.*"
       }
     },
-    "target_item_def": "herobrine:crochet"
+    "target_item_def": "herobrine:lockpick"
   },
   {
     "item": "iron_shovel",
@@ -6951,7 +6911,7 @@
         "value": "grande_pelle"
       }
     },
-    "target_item_def": "herobrine:grande_pelle"
+    "target_item_def": "herobrine:tall_iron_shovel"
   },
   {
     "item": "torch",
@@ -6961,7 +6921,7 @@
         "value": ".*Grande.*torche.*"
       }
     },
-    "target_item_def": "herobrine:grande_torche"
+    "target_item_def": "herobrine:tall_torch"
   },
   {
     "item": "stick",
@@ -6971,7 +6931,7 @@
         "value": ".*Cor.*bois.*"
       }
     },
-    "target_item_def": "herobrine:cor"
+    "target_item_def": "herobrine:wooden_horn"
   },
   {
     "item": "bone",
@@ -6981,7 +6941,7 @@
         "value": ".*Cor.*os.*"
       }
     },
-    "target_item_def": "herobrine:cor_d_os"
+    "target_item_def": "herobrine:bone_horn"
   },
   {
     "item": "stick",
@@ -7001,7 +6961,7 @@
         "value": ".*Harpe.*"
       }
     },
-    "target_item_def": "herobrine:harpe"
+    "target_item_def": "herobrine:harp"
   },
   {
     "item": "stick",
@@ -7031,7 +6991,7 @@
         "value": ".*Archet.*"
       }
     },
-    "target_item_def": "herobrine:archet"
+    "target_item_def": "herobrine:violin_bow"
   },
   {
     "item": "stick",
@@ -7041,7 +7001,7 @@
         "value": ".*Violon.*"
       }
     },
-    "target_item_def": "herobrine:violon"
+    "target_item_def": "herobrine:violin"
   },
   {
     "item": "book",
@@ -7101,7 +7061,7 @@
         "value": ".*Burin.*"
       }
     },
-    "target_item_def": "herobrine:burin"
+    "target_item_def": "herobrine:chisel"
   },
   {
     "item": "iron_axe",
@@ -7111,7 +7071,7 @@
         "value": "burin"
       }
     },
-    "target_item_def": "herobrine:burin"
+    "target_item_def": "herobrine:chisel"
   },
   {
     "item": "iron_axe",
@@ -7121,7 +7081,7 @@
         "value": "(?=.*acier.*)(.*Hache.*)"
       }
     },
-    "target_item_def": "herobrine:hache_acier"
+    "target_item_def": "herobrine:steel_axe"
   },
   {
     "item": "iron_hoe",
@@ -7131,7 +7091,7 @@
         "value": "(?=.*acier.*)(.*Houe.*)"
       }
     },
-    "target_item_def": "herobrine:houe_acier"
+    "target_item_def": "herobrine:steel_hoe"
   },
   {
     "item": "iron_shovel",
@@ -7141,7 +7101,7 @@
         "value": "(?=.*acier.*)(.*Pelle.*)"
       }
     },
-    "target_item_def": "herobrine:pelle_acier"
+    "target_item_def": "herobrine:steel_shovel"
   },
   {
     "item": "iron_pickaxe",
@@ -7151,7 +7111,7 @@
         "value": "(?=.*acier.*)(.*Pioche.*)"
       }
     },
-    "target_item_def": "herobrine:pioche_acier"
+    "target_item_def": "herobrine:steel_pickaxe"
   },
   {
     "item": "iron_pickaxe",
@@ -7161,7 +7121,7 @@
         "value": ".*Piolet.*"
       }
     },
-    "target_item_def": "herobrine:piolet"
+    "target_item_def": "herobrine:ice_axe"
   },
   {
     "item": "iron_axe",
@@ -7171,7 +7131,7 @@
         "value": ".*Scie.*"
       }
     },
-    "target_item_def": "herobrine:scie"
+    "target_item_def": "herobrine:iron_saw"
   },
   {
     "item": "emerald",
@@ -7181,7 +7141,7 @@
         "value": "atharine"
       }
     },
-    "target_item_def": "herobrine:atharine"
+    "target_item_def": "herobrine:atharine_coin"
   },
   {
     "item": "nautilus_shell",
@@ -7191,7 +7151,7 @@
         "value": "piece"
       }
     },
-    "target_item_def": "herobrine:piece"
+    "target_item_def": "herobrine:eclat_coin"
   },
   {
     "item": "gold_nugget",
@@ -7211,7 +7171,7 @@
         "value": "plume_encre"
       }
     },
-    "target_item_def": "herobrine:plume_encre"
+    "target_item_def": "herobrine:inked_feather"
   },
   {
     "item": "potion",
@@ -7221,7 +7181,7 @@
         "value": ".*Elixir.*"
       }
     },
-    "target_item_def": "herobrine:elixir"
+    "target_item_def": "herobrine:filled_elixir"
   },
   {
     "item": "glass_bottle",
@@ -7231,7 +7191,7 @@
         "value": ".*Elixir.*"
       }
     },
-    "target_item_def": "herobrine:elixir_vide"
+    "target_item_def": "herobrine:empty_elixir"
   },
   {
     "item": "potion",
@@ -7241,27 +7201,7 @@
         "value": "erlenmeyer"
       }
     },
-    "target_item_def": "herobrine:erlenmeyer"
-  },
-  {
-    "item": "potion",
-    "original_components": {
-      "components.custom_name": {
-        "method": "regex",
-        "value": ".*Rosat.*"
-      }
-    },
-    "target_item_def": "herobrine:rosat"
-  },
-  {
-    "item": "glass_bottle",
-    "original_components": {
-      "components.custom_name": {
-        "method": "regex",
-        "value": ".*Rosat.*"
-      }
-    },
-    "target_item_def": "herobrine:rosat_vide"
+    "target_item_def": "herobrine:filled_erlenmeyer"
   },
   {
     "item": "potion",
@@ -7271,7 +7211,7 @@
         "value": ".*Seringue.*"
       }
     },
-    "target_item_def": "herobrine:seringue"
+    "target_item_def": "herobrine:filled_seringue"
   },
   {
     "item": "potion",
@@ -7281,7 +7221,7 @@
         "value": "tube"
       }
     },
-    "target_item_def": "herobrine:tube"
+    "target_item_def": "herobrine:filled_glass_tube"
   },
   {
     "item": "feather",
@@ -7291,7 +7231,7 @@
         "value": ".*Aiguille.*"
       }
     },
-    "target_item_def": "herobrine:aiguille"
+    "target_item_def": "herobrine:needle"
   },
   {
     "item": "white_carpet",
@@ -7311,7 +7251,7 @@
         "value": ".*Cigare.*"
       }
     },
-    "target_item_def": "herobrine:cigare"
+    "target_item_def": "herobrine:cigar"
   },
   {
     "item": "stick",
@@ -7325,7 +7265,7 @@
         "value": ".*\\\\b(bas|basse)\\\\b.*"
       }
     },
-    "target_item_def": "herobrine:cigare_alt"
+    "target_item_def": "herobrine:cigar"
   },
   {
     "item": "stick",
@@ -7349,7 +7289,7 @@
         "value": ".*\\\\b(bas|basse)\\\\b.*"
       }
     },
-    "target_item_def": "herobrine:cigarillo_alt"
+    "target_item_def": "herobrine:cigarillo"
   },
   {
     "item": "stick",
@@ -7403,7 +7343,7 @@
         "value": "aiguille_ivoire"
       }
     },
-    "target_item_def": "herobrine:aiguille_ivoire"
+    "target_item_def": "herobrine:ivory_needle"
   },
   {
     "item": "lapis_lazuli",
@@ -7413,7 +7353,7 @@
         "value": "aiguille_lapis"
       }
     },
-    "target_item_def": "herobrine:aiguille_lapis"
+    "target_item_def": "herobrine:lapis_needle"
   },
   {
     "item": "bone",
@@ -7476,16 +7416,6 @@
     "target_item_def": "concile:aureole_or_anim"
   },
   {
-    "item": "glowstone_dust",
-    "original_components": {
-      "components.custom_data.relique": {
-        "method": "exact",
-        "value": "bobine"
-      }
-    },
-    "target_item_def": "herobrine:bob"
-  },
-  {
     "item": "diamond_sword",
     "original_components": {
       "components.custom_data.relique": {
@@ -7496,16 +7426,6 @@
     "target_item_def": "herobrine:ender_claw"
   },
   {
-    "item": "crying_obsidian",
-    "original_components": {
-      "components.custom_name": {
-        "method": "regex",
-        "value": ".*echarde.*"
-      }
-    },
-    "target_item_def": "herobrine:echarde"
-  },
-  {
     "item": "diamond_sword",
     "original_components": {
       "components.custom_data.relique": {
@@ -7513,7 +7433,7 @@
         "value": "epee_ivoire"
       }
     },
-    "target_item_def": "herobrine:epee_ivoire"
+    "target_item_def": "herobrine:ivory_sword"
   },
   {
     "item": "feather",
@@ -7533,7 +7453,7 @@
         "value": "purple"
       }
     },
-    "target_item_def": "herobrine:lanterne_violette"
+    "target_item_def": "herobrine:purple_lantern"
   },
   {
     "item": "book",
@@ -7553,7 +7473,7 @@
         "value": "livre_reve"
       }
     },
-    "target_item_def": "herobrine:livre_reve_shulker"
+    "target_item_def": "herobrine:livre_reve"
   },
   {
     "item": "leather",
@@ -7567,7 +7487,7 @@
         "value": "tambour"
       }
     },
-    "target_item_def": "herobrine:tambour_chamanique"
+    "target_item_def": "herobrine:chamanic_drum"
   },
   {
     "item": "leather",
@@ -7577,7 +7497,7 @@
         "value": "tambour_model"
       }
     },
-    "target_item_def": "herobrine:tambour_chamanique_model"
+    "target_item_def": "herobrine:chamanic_drum_model"
   },
   {
     "item": "paper",
@@ -7941,7 +7861,7 @@
         "value": "Lunettes"
       }
     },
-    "target_item_def": "herobrine:lunette"
+    "target_item_def": "herobrine:glasses"
   },
   {
     "item": "leather_chestplate",
@@ -7951,7 +7871,7 @@
         "value": ".*(Petite Cape).*"
       }
     },
-    "target_item_def": "herobrine:petite_cape",
+    "target_item_def": "herobrine:small_cape",
     "target_armor_def": "herobrine:petite_cape",
     "target_armor_slot": "chest",
     "is_elytra": false
@@ -7964,7 +7884,7 @@
         "value": ".*(tunique|tenue).*apprenti.*"
       }
     },
-    "target_item_def": "herobrine:apprenti"
+    "target_item_def": "herobrine:dress_apprenti"
   },
   {
     "item": "green_wool",
@@ -7994,7 +7914,7 @@
         "value": ".*(tunique|tenue).*maitre.*"
       }
     },
-    "target_item_def": "herobrine:maitre"
+    "target_item_def": "herobrine:dress_maitre"
   },
   {
     "item": "blue_wool",
@@ -8004,7 +7924,7 @@
         "value": ".*(tunique|tenue).*membre.*"
       }
     },
-    "target_item_def": "herobrine:membre"
+    "target_item_def": "herobrine:dress_membre"
   },
   {
     "item": "red_carpet",
@@ -8014,7 +7934,7 @@
         "value": ".*(tunique|tenue|cape).*(honore|honor\\u00E9).*"
       }
     },
-    "target_item_def": "herobrine:membreplus"
+    "target_item_def": "herobrine:dress_honore"
   },
   {
     "item": "gray_wool",
@@ -8024,7 +7944,7 @@
         "value": ".*(tunique|tenue).*profane.*"
       }
     },
-    "target_item_def": "herobrine:profane"
+    "target_item_def": "herobrine:dress_profane"
   },
   {
     "item": "purple_wool",
@@ -8034,7 +7954,7 @@
         "value": ".*(tunique|tenue).*sage.*"
       }
     },
-    "target_item_def": "herobrine:sage"
+    "target_item_def": "herobrine:dress_sage"
   },
   {
     "item": "feather",
