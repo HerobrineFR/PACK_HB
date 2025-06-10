@@ -2,7 +2,10 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "herobrine:vetements/petite_cape_1"
+        "texture": "herobrine:vetements/petite_cape_1",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
       }
     ]
   }

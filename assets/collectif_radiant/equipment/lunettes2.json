@@ -2,7 +2,10 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "collectif_radiant:lunettes2_var"
+        "texture": "collectif_radiant:lunettes2_var",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
       }
     ]
   }
