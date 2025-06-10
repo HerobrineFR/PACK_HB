@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "herobrine:item/jarre",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": 16448250
+      }
+    ]
+  }
+}

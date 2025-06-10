@@ -7,7 +7,7 @@
         "value": "clapclap"
       }
     },
-    "target_item_def": "herobrine:animations/clapclap"
+    "target_item_def": "herobrine:ui/animations/clapclap"
   },
   {
     "item": "paper",
@@ -17,7 +17,7 @@
         "value": "kneel"
       }
     },
-    "target_item_def": "herobrine:animations/kneel"
+    "target_item_def": "herobrine:ui/animations/kneel"
   },
   {
     "item": "diamond_sword",
@@ -945,7 +945,7 @@
         "value": "gourde"
       }
     },
-    "target_item_def": "herobrine:gourde_maroquinerie"
+    "target_item_def": "herobrine:gourde"
   },
   {
     "item": "enchanted_book",
@@ -5011,7 +5011,7 @@
         "value": "corbeau"
       }
     },
-    "target_item_def": "herobrine:corps/ailes_corbeau",
+    "target_item_def": "herobrine:cosmetics/ailes_corbeau",
     "target_armor_slot": "chest"
   },
   {
@@ -5022,7 +5022,7 @@
         "value": "crow"
       }
     },
-    "target_item_def": "herobrine:corps/wing_crow",
+    "target_item_def": "herobrine:cosmetics/wing_crow",
     "target_armor_slot": "chest"
   },
   {
@@ -5033,7 +5033,7 @@
         "value": "ailes_blanches"
       }
     },
-    "target_item_def": "herobrine:corps/ailes_blanches",
+    "target_item_def": "herobrine:cosmetics/ailes_blanches",
     "target_armor_slot": "chest"
   },
   {
@@ -5044,7 +5044,7 @@
         "value": "wings_white"
       }
     },
-    "target_item_def": "herobrine:corps/wings_white",
+    "target_item_def": "herobrine:cosmetics/wings_white",
     "target_armor_slot": "chest"
   },
   {
@@ -5055,7 +5055,7 @@
         "value": "ailes_noires"
       }
     },
-    "target_item_def": "herobrine:corps/ailes_noires",
+    "target_item_def": "herobrine:cosmetics/ailes_noires",
     "target_armor_slot": "chest"
   },
   {
@@ -5066,7 +5066,7 @@
         "value": "wings_black"
       }
     },
-    "target_item_def": "herobrine:corps/wings_black",
+    "target_item_def": "herobrine:cosmetics/wings_black",
     "target_armor_slot": "chest"
   },
   {
@@ -5077,7 +5077,7 @@
         "value": "blanches_1"
       }
     },
-    "target_item_def": "herobrine:corps/ailes_blanches_1",
+    "target_item_def": "herobrine:cosmetics/ailes_blanches_1",
     "target_armor_slot": "chest"
   },
   {
@@ -5088,7 +5088,7 @@
         "value": "white"
       }
     },
-    "target_item_def": "herobrine:corps/white_wings_1",
+    "target_item_def": "herobrine:cosmetics/white_wings_1",
     "target_armor_slot": "chest"
   },
   {
@@ -5099,7 +5099,7 @@
         "value": "blanches_2"
       }
     },
-    "target_item_def": "herobrine:corps/ailes_blanches_2",
+    "target_item_def": "herobrine:cosmetics/ailes_blanches_2",
     "target_armor_slot": "chest"
   },
   {
@@ -5110,7 +5110,7 @@
         "value": "white2"
       }
     },
-    "target_item_def": "herobrine:corps/white_wings_2",
+    "target_item_def": "herobrine:cosmetics/white_wings_2",
     "target_armor_slot": "chest"
   },
   {
@@ -5121,7 +5121,7 @@
         "value": "white2"
       }
     },
-    "target_item_def": "herobrine:corps/white_wings_2"
+    "target_item_def": "herobrine:cosmetics/white_wings_2"
   },
   {
     "item": "bone",
@@ -5131,7 +5131,7 @@
         "value": "bois_cerf"
       }
     },
-    "target_item_def": "herobrine:corps/bois_cerf"
+    "target_item_def": "herobrine:cosmetics/bois_cerf"
   },
   {
     "item": "bone",
@@ -5141,7 +5141,7 @@
         "value": "cornes"
       }
     },
-    "target_item_def": "herobrine:corps/cornes_classiques"
+    "target_item_def": "herobrine:cosmetics/cornes_classiques"
   },
   {
     "item": "bone",
@@ -5151,7 +5151,7 @@
         "value": "cornesObsi"
       }
     },
-    "target_item_def": "herobrine:corps/cornes_obsi"
+    "target_item_def": "herobrine:cosmetics/cornes_obsi"
   },
   {
     "item": "bone",
@@ -5161,7 +5161,7 @@
         "value": "cornes_obsidienne"
       }
     },
-    "target_item_def": "herobrine:corps/cornes_obsidienne"
+    "target_item_def": "herobrine:cosmetics/cornes_obsidienne"
   },
   {
     "item": "bone",
@@ -5171,7 +5171,7 @@
         "value": "petites_cornes_bois"
       }
     },
-    "target_item_def": "herobrine:corps/petites_cornes_bois"
+    "target_item_def": "herobrine:cosmetics/petites_cornes_bois"
   },
   {
     "item": "bone",
@@ -5181,7 +5181,7 @@
         "value": "cornes_small_bois"
       }
     },
-    "target_item_def": "herobrine:corps/small_cornes_bois"
+    "target_item_def": "herobrine:cosmetics/small_cornes_bois"
   },
   {
     "item": "bone",
@@ -5191,7 +5191,7 @@
         "value": "petites_cornes_noires"
       }
     },
-    "target_item_def": "herobrine:corps/petites_cornes_noires"
+    "target_item_def": "herobrine:cosmetics/petites_cornes_noires"
   },
   {
     "item": "bone",
@@ -5201,7 +5201,7 @@
         "value": "cornes_small_noir"
       }
     },
-    "target_item_def": "herobrine:corps/small_cornes_noir"
+    "target_item_def": "herobrine:cosmetics/small_cornes_noir"
   },
   {
     "item": "bone",
@@ -5211,7 +5211,7 @@
         "value": "petites_cornes_os"
       }
     },
-    "target_item_def": "herobrine:corps/petites_cornes_os"
+    "target_item_def": "herobrine:cosmetics/petites_cornes_os"
   },
   {
     "item": "bone",
@@ -5221,7 +5221,7 @@
         "value": "cornes_small_os"
       }
     },
-    "target_item_def": "herobrine:corps/small_cornes_os"
+    "target_item_def": "herobrine:cosmetics/small_cornes_os"
   },
   {
     "item": "amethyst_cluster",
@@ -5231,7 +5231,7 @@
         "value": "epines_dos"
       }
     },
-    "target_item_def": "herobrine:corps/epines_dos"
+    "target_item_def": "herobrine:cosmetics/epines_dos"
   },
   {
     "item": "amethyst_cluster",
@@ -5241,7 +5241,7 @@
         "value": "epines_tete"
       }
     },
-    "target_item_def": "herobrine:corps/epines_tete"
+    "target_item_def": "herobrine:cosmetics/epines_tete"
   },
   {
     "item": "stick",
@@ -5251,7 +5251,7 @@
         "value": "corbeau"
       }
     },
-    "target_item_def": "herobrine:creatures/corbeau"
+    "target_item_def": "herobrine:mobs/corbeau"
   },
   {
     "item": "stick",
@@ -5261,7 +5261,7 @@
         "value": "raven"
       }
     },
-    "target_item_def": "herobrine:creatures/raven"
+    "target_item_def": "herobrine:mobs/raven"
   },
   {
     "item": "feather",
@@ -5271,7 +5271,7 @@
         "value": "moineau_f"
       }
     },
-    "target_item_def": "herobrine:creatures/moineau_f"
+    "target_item_def": "herobrine:mobs/moineau_f"
   },
   {
     "item": "feather",
@@ -5281,7 +5281,7 @@
         "value": "moineau_femelle"
       }
     },
-    "target_item_def": "herobrine:creatures/moineau_femelle"
+    "target_item_def": "herobrine:mobs/moineau_femelle"
   },
   {
     "item": "feather",
@@ -5291,7 +5291,7 @@
         "value": "moineau_m"
       }
     },
-    "target_item_def": "herobrine:creatures/moineau_m"
+    "target_item_def": "herobrine:mobs/moineau_m"
   },
   {
     "item": "feather",
@@ -5301,7 +5301,7 @@
         "value": "moineau_male"
       }
     },
-    "target_item_def": "herobrine:creatures/moineau_male"
+    "target_item_def": "herobrine:mobs/moineau_male"
   },
   {
     "item": "feather",
@@ -5311,7 +5311,7 @@
         "value": "pie"
       }
     },
-    "target_item_def": "herobrine:creatures/pie"
+    "target_item_def": "herobrine:mobs/pie"
   },
   {
     "item": "feather",
@@ -5321,7 +5321,7 @@
         "value": "rouge_gorge"
       }
     },
-    "target_item_def": "herobrine:creatures/rouge_gorge"
+    "target_item_def": "herobrine:mobs/rouge_gorge"
   },
   {
     "item": "rabbit_foot",
@@ -5331,7 +5331,7 @@
         "value": "ecureuil_cristal"
       }
     },
-    "target_item_def": "herobrine:creatures/ecureuil_cristal"
+    "target_item_def": "herobrine:mobs/ecureuil_cristal"
   },
   {
     "item": "feather",
@@ -5341,7 +5341,7 @@
         "value": "oiseau_cristal"
       }
     },
-    "target_item_def": "herobrine:creatures/oiseau_cristal"
+    "target_item_def": "herobrine:mobs/oiseau_cristal"
   },
   {
     "item": "leather",
@@ -5351,7 +5351,7 @@
         "value": "spiderman"
       }
     },
-    "target_item_def": "herobrine:creatures/spiderman"
+    "target_item_def": "herobrine:mobs/spiderman"
   },
   {
     "item": "clock",
@@ -7051,7 +7051,7 @@
         "value": ".*Livre.*Ouvert.*"
       }
     },
-    "target_item_def": "herobrine:livre_ouvert"
+    "target_item_def": "herobrine:open_book"
   },
   {
     "item": "writable_book",
@@ -7061,7 +7061,7 @@
         "value": ".*Livre.*Ouvert.*"
       }
     },
-    "target_item_def": "herobrine:livre_ouvert_inscrivable"
+    "target_item_def": "herobrine:open_book"
   },
   {
     "item": "writable_book",
@@ -7071,7 +7071,7 @@
         "value": "livre_ouvert"
       }
     },
-    "target_item_def": "herobrine:livre_ouvert_inscrivable_tag"
+    "target_item_def": "herobrine:open_book"
   },
   {
     "item": "written_book",
@@ -7081,7 +7081,7 @@
         "value": "livre_ouvert"
       }
     },
-    "target_item_def": "herobrine:livre_ouvert_lisible_tag"
+    "target_item_def": "herobrine:open_book"
   },
   {
     "item": "book",
@@ -7091,7 +7091,7 @@
         "value": "livre_ouvert"
       }
     },
-    "target_item_def": "herobrine:livre_ouvert_tag"
+    "target_item_def": "herobrine:open_book"
   },
   {
     "item": "iron_axe",
@@ -7383,7 +7383,7 @@
         "value": ".*\\\\b(bas|basse)\\\\b.*"
       }
     },
-    "target_item_def": "herobrine:pipe_alt"
+    "target_item_def": "herobrine:pipe"
   },
   {
     "item": "stick",
@@ -7393,7 +7393,7 @@
         "value": ".*Pipe((?!bois).)*$"
       }
     },
-    "target_item_def": "herobrine:pipe_2d"
+    "target_item_def": "herobrine:pipe"
   },
   {
     "item": "feather",
@@ -7423,7 +7423,7 @@
         "value": "epine"
       }
     },
-    "target_item_def": "herobrine:aureole_epine"
+    "target_item_def": "concile:aureole_epine"
   },
   {
     "item": "bone",
@@ -7433,7 +7433,7 @@
         "value": "epine_anim"
       }
     },
-    "target_item_def": "herobrine:aureole_epine_anim"
+    "target_item_def": "concile:aureole_epine_anim"
   },
   {
     "item": "bone",
@@ -7443,7 +7443,7 @@
         "value": "metal"
       }
     },
-    "target_item_def": "herobrine:aureole_metal"
+    "target_item_def": "concile:aureole_metal"
   },
   {
     "item": "bone",
@@ -7453,7 +7453,7 @@
         "value": "metal_anim"
       }
     },
-    "target_item_def": "herobrine:aureole_metal_anim"
+    "target_item_def": "concile:aureole_metal_anim"
   },
   {
     "item": "bone",
@@ -7463,7 +7463,7 @@
         "value": "or"
       }
     },
-    "target_item_def": "herobrine:aureole_or"
+    "target_item_def": "concile:aureole_or"
   },
   {
     "item": "bone",
@@ -7473,7 +7473,7 @@
         "value": "or_anim"
       }
     },
-    "target_item_def": "herobrine:aureole_or_anim"
+    "target_item_def": "concile:aureole_or_anim"
   },
   {
     "item": "glowstone_dust",
