@@ -1,0 +1,82 @@
+name: Test Release with random response message
+
+# Controls when the workflow will run
+on:
+  #  # Triggers the workflow on push or pull request events but only for the "master" branch
+  #  push:
+  #    branches: [ "master" ]
+  #  pull_request:
+  #    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  packsquash:
+    name: Optimize resource pack
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Settup Discord Webhook
+        id: webhook
+        run: echo "WEBHOOK=${{secrets.WEBHOOK}}" >> $GITHUB_ENV
+      
+      - name: Get current date
+        id: tag
+        run: echo "tag=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
+
+      - name: Set release name
+        run: echo "RELEASE_NAME=HBCubemonde_${{env.date}}" >> $GITHUB_ENV
+
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # A non-shallow repository clone is required
+          
+      - name: Get Current Release
+        id: get_current_release
+        uses: joutvhu/get-release@v1
+        with:
+          latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: curl samère for download URL
+        id: curl
+        run: |
+          response=$(curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4)         
+          echo "pack_url=$response" >> $GITHUB_OUTPUT
+      
+      - name: Set random responses
+        id: responses
+        run: |
+          array[0]="Tralala Response 0"
+          array[1]="Trololo Response 1"
+          array[2]="Trululu Response 2"
+          array[3]="Trilili Response 3"
+          role="<@&1381969147176423525>"
+          size=${#array[@]}
+          index=$(($RANDOM % $size))
+          echo "message=${array[$index]}" >> $GITHUB_OUTPUT
+          echo "role=$role" >> $GITHUB_OUTPUT
+          
+
+
+
+      #- name: Get download URL
+      #  id: test
+      #  run: TEST = curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4 >>
+          
+      - name: Discord notification
+        env:
+          DISCORD_WEBHOOK: ${{ env.WEBHOOK }}
+          DISCORD_USERNAME: "Dakal Itorasch"
+          DISCORD_AVATAR: "https://i.imgur.com/VVO51gG.png"
+        uses: Ilshidur/action-discord@master
+        with:
+          args: " ${{ steps.responses.outputs.role }} Hiiii o/ i'm DAKAL And i'm currently doing some testings: ${{ steps.responses.outputs.message }} \n ${{ steps.curl.outputs.pack_url }}"
+          
