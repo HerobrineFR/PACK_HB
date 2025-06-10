@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bone",
+  "textures": {
+    "layer0": "herobrine:item/cor_d_os"
+  }
+}

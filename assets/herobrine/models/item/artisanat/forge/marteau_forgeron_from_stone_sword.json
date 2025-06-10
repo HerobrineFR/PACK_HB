@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/stone_sword",
-  "textures": {
-    "layer0": "herobrine:item/artisanat/forge/marteau_de_forgeron"
-  }
-}

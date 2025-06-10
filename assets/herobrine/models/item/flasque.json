@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "herobrine:item/flasque_liquide",
+    "layer1": "herobrine:item/flasque_contour",
+    "particle": "#layer0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/beef",
+  "textures": {
+    "layer0": "herobrine:item/cuissot_cru"
+  }
+}

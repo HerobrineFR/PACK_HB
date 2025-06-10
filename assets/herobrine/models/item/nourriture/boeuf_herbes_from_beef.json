@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/beef",
-  "textures": {
-    "layer0": "herobrine:item/nourriture/boeuf_herbes"
-  }
-}

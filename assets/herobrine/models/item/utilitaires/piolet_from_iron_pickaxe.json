@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_pickaxe",
-  "textures": {
-    "layer0": "herobrine:item/utilitaires/piolet"
-  }
-}

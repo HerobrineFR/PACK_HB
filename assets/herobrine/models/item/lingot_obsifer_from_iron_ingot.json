@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_ingot",
+  "textures": {
+    "layer0": "herobrine:item/lingot_obsifer"
+  }
+}
