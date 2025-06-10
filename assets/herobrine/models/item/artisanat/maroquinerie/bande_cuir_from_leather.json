@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/leather",
-  "textures": {
-    "layer0": "herobrine:item/artisanat/maroquinerie/bande_cuir"
-  }
-}

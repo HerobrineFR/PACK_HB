@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/tripwire_hook",
+  "textures": {
+    "layer0": "herobrine:item/crochet"
+  }
+}

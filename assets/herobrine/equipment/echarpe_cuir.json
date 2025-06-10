@@ -1,0 +1,12 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "herobrine:echarpe_cuir",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      }
+    ]
+  }
+}

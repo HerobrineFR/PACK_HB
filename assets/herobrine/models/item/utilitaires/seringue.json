@@ -1,8 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "herobrine:item/utilitaires/seringue_overlay",
-    "layer1": "herobrine:item/utilitaires/seringue_preparee",
-    "particle": "#layer0"
-  }
-}

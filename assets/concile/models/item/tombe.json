@@ -6,7 +6,7 @@
     "4": "minecraft:block/netherite_block",
     "5": "concile:item/balance",
     "6": "concile:item/bois",
-    "8": "herobrine:item/vetements/tenues_grade/membreplus_atlas",
+    "8": "herobrine:item/membreplus_atlas",
     "particle": "#2"
   },
   "elements": [

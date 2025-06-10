@@ -1,8 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "herobrine:item/nourriture/verre_liquide",
-    "layer1": "herobrine:item/nourriture/verre_contour",
-    "particle": "#layer0"
-  }
-}

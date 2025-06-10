@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "textures": {
     "0": "concile:item/argent",
-    "1": "herobrine:item/vetements/tenues_grade/membreplus_atlas",
+    "1": "herobrine:item/membreplus_atlas",
     "2": "concile:item/balance",
     "3": "item/string",
     "4": "concile:item/collecteur_couverture",

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/paper",
-  "textures": {
-    "layer0": "herobrine:item/artisanat/couturier/tissu_rouge"
-  }
-}

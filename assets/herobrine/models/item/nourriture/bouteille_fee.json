@@ -1,8 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "herobrine:item/nourriture/bouteille_fee_liquide",
-    "layer1": "herobrine:item/nourriture/bouteille_fee_contour",
-    "particle": "#layer0"
-  }
-}

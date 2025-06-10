@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/melon",
-  "textures": {
-    "layer0": "herobrine:item/nourriture/tranchecitrouille"
-  }
-}
