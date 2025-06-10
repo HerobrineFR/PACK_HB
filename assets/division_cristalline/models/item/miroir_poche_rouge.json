@@ -7,7 +7,7 @@
   "textures": {
     "0": "minecraft:item/textures/block/gold_block",
     "particle": "minecraft:item/textures/block/gold_block",
-    "1_1": "division_cristalline:item/miroir2_poche_rouge"
+    "1_1": "division_cristalline:item/miroir2_poche"
   },
   "elements": [
     {

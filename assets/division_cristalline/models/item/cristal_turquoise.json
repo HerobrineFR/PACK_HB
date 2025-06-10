@@ -128,8 +128,8 @@
     }
   },
   "textures": {
-    "0": "division_cristalline:item/turquoise",
-    "particle": "division_cristalline:item/turquoise"
+    "0": "division_cristalline:item/cristal",
+    "particle": "division_cristalline:item/cristal"
   },
   "elements": [
     {

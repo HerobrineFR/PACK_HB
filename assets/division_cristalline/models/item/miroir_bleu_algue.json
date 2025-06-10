@@ -6,7 +6,7 @@
   "textures": {
     "1": "minecraft:item/textures/block/gold_block",
     "2": "block/spruce_log",
-    "4": "division_cristalline:item/miroir2_bleu_algue",
+    "4": "division_cristalline:item/miroir2",
     "particle": "minecraft:item/textures/block/gold_block"
   },
   "elements": [
