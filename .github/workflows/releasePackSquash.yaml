@@ -74,11 +74,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: curl samère
+      - name: curl samère for download URL
         id: curl
         run: |
           response=$(curl -s "${{ steps.get_current_release.outputs.assets_url }}" | grep browser_download_url | cut -d '"' -f 4)         
           echo "pack_url=$response" >> $GITHUB_OUTPUT
+      
+      - name: Set random responses
+        id: responses
+        run: |
+          array[0]="<@&1381969147176423525> Response 0"
+          array[1]="<@&1381969147176423525> Response 1"
+          array[2]="<@&1381969147176423525> Response 2"
+          array[3]="<@&1381969147176423525> Response 3"
+          size=${#array[@]}
+          index=$(($RANDOM % $size))
+          echo "message=${array[$index]}" >> $GITHUB_OUTPUT
+
 
 
       #- name: Get download URL
