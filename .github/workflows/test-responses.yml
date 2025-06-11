@@ -86,7 +86,7 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ env.WEBHOOK }}
           DISCORD_USERNAME: "Dakal Itorasch"
-          DISCORD_AVATAR: {{ steps.responses.outputs.images }}
+          DISCORD_AVATAR: ${{ steps.responses.outputs.images }}
         uses: Ilshidur/action-discord@master
         with:
           args: "${{ steps.responses.outputs.role }} ${{ steps.responses.outputs.message }} \n ${{ steps.curl.outputs.pack_url }}"
