@@ -83,15 +83,32 @@ jobs:
       - name: Set random responses
         id: responses
         run: |
-          array[0]="<@&1381969147176423525> Response 0"
-          array[1]="<@&1381969147176423525> Response 1"
-          array[2]="<@&1381969147176423525> Response 2"
-          array[3]="<@&1381969147176423525> Response 3"
-          size=${#array[@]}
-          index=$(($RANDOM % $size))
-          echo "message=${array[$index]}" >> $GITHUB_OUTPUT
-
-
+          array[0]='Hello all ! This is you local ✨***Drak***✨ and this is your pack release !!'
+          array[1]='Hey hey hey everybody ! Time for another release !!'
+          array[2]='You wanna be a [[BIG SHOT]]? Just use this new release!'
+          array[3]='Wake up samourai! A new release has come!'
+          array[4]="Heyooo! I'm Dakal and i've made a brand new release!"
+          array[5]='✨Heyyyy!✨ There is a new release on the resource pack repository!'
+          array[6]="I don't know what to talk about now, maybe i'm burn-out from all of this, eh.. I just have to keep going. Here, your release."
+          array[7]="HELLO EVERYONE o/ \nIM DAKAL AND HERE IS *MY* RELEASE"
+          sizeArray=${#array[@]}
+          indexArray=$(($RANDOM % $sizeArray))
+          echo "message=${array[$indexArray]}" >> $GITHUB_OUTPUT
+          
+          images[0]='https://i.imgur.com/o03RC0w.png'
+          images[1]='https://i.imgur.com/VVO51gG.png'
+          images[2]='https://i.imgur.com/dApkCCw.png'
+          images[3]='https://i.imgur.com/uzSm9Wv.png'
+          sizeImages=${#images[@]}
+          indexImages=$(($RANDOM % $sizeImages))
+          echo "images=${images[$indexImages]}" >> $GITHUB_OUTPUT
+          
+          role="<@&1381969147176423525>"
+          echo "role=$role" >> $GITHUB_OUTPUT
+          
+          usage='Run the `/pack set global ${{ steps.curl.outputs.pack_url }}` command to update it !'
+          echo "usage=$usage" >> $GITHUB_OUTPUT
+      
 
       #- name: Get download URL
       #  id: test
@@ -101,8 +118,8 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ env.WEBHOOK }}
           DISCORD_USERNAME: "Dakal Itorasch"
-          DISCORD_AVATAR: "https://i.imgur.com/VVO51gG.png"
+          DISCORD_AVATAR: ${{ steps.responses.outputs.images }}
         uses: Ilshidur/action-discord@master
         with:
-          args: "HELLO EVERYONE IM DAKAL AND HERE IS *MY* RELEASE: \n ${{ steps.curl.outputs.pack_url }}"
+          args: "${{ steps.responses.outputs.role }} ${{ steps.responses.outputs.message }} \n ${{ steps.curl.outputs.pack_url }}\n\n ${{ steps.responses.outputs.usage }}"
           
