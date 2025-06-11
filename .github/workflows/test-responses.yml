@@ -91,5 +91,4 @@ jobs:
           DISCORD_AVATAR: ${{ steps.responses.outputs.images }}
         uses: Ilshidur/action-discord@master
         with:
-          args: "${{ steps.responses.outputs.role }} ${{ steps.responses.outputs.message }} \n ${{ steps.curl.outputs.pack_url }}\n\n${{ steps.curl.outputs.usage }}"
-          
+          args: "${{ steps.responses.outputs.role }} ${{ steps.responses.outputs.message }} \n ${{ steps.curl.outputs.pack_url }}\n\n ${{ steps.responses.outputs.usage }}"
