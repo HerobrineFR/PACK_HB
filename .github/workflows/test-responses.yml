@@ -73,7 +73,8 @@ jobs:
           echo "images=${array[$indexImages]}" >> $GITHUB_OUTPUT
           role="<@&1381969147176423525>"
           echo "role=$role" >> $GITHUB_OUTPUT
-          echo "usage="\n\n\nRun the ```/pack set global ${{ steps.curl.outputs.pack_url }}``` command to update it !"
+          usage="\n\n\nRun the ```\/pack set global ${{ steps.curl.outputs.pack_url }}``` command to update it !"
+          echo "usage=$usage" >> $GITHUB_OUTPUT
       
 
 
@@ -88,5 +89,5 @@ jobs:
           DISCORD_AVATAR: "{{ steps.responses.outputs.images }}"
         uses: Ilshidur/action-discord@master
         with:
-          args: "${{ steps.responses.outputs.role }} ${{ steps.responses.outputs.message }} \n ${{ steps.curl.outputs.pack_url }}"
+          args: "${{ steps.responses.outputs.role }} ${{ steps.responses.outputs.message }} \n ${{ steps.curl.outputs.pack_url }} ${{ steps.responses.outputs.usage }}"
           
