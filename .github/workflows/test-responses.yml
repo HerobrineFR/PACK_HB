@@ -58,7 +58,7 @@ jobs:
           array[1]='Hey hey hey everybody ! Time for another release !!'
           array[2]='You wanna be a [[BIG SHOT]]? Just use this new release!'
           array[3]='Wake up samourai! A new release has come!'
-          array[4]='Heyooo! I\'m Dakal and i've made a brand new release!'
+          array[4]="Heyooo! I'm Dakal and i've made a brand new release!"
           array[5]='✨Heyyyy!✨ There is a new release on the resource pack repository!'
           array[6]='I don't know what to talk about now, maybe i'm burn-out from all of this, eh.. I just have to keep going. Here, your release.'
           sizeArray=${#array[@]}
