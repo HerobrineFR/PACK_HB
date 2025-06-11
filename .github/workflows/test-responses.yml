@@ -63,14 +63,16 @@ jobs:
           array[6]="I don't know what to talk about now, maybe i'm burn-out from all of this, eh.. I just have to keep going. Here, your release."
           sizeArray=${#array[@]}
           indexArray=$(($RANDOM % $sizeArray))
-          echo "message=${array[$indexArray]}" >> $GITHUB_OUTPUT         
+          echo "message=${array[$indexArray]}" >> $GITHUB_OUTPUT
+          
           images[0]='https://i.imgur.com/o03RC0w.png'
           images[1]='https://i.imgur.com/VVO51gG.png'
           images[2]='https://i.imgur.com/dApkCCw.png'
           images[3]='https://i.imgur.com/uzSm9Wv.png'
           sizeImages=${#images[@]}
           indexImages=$(($RANDOM % $sizeImages))
-          echo "images=${array[$indexImages]}" >> $GITHUB_OUTPUT
+          echo "images=${images[$indexImages]}" >> $GITHUB_OUTPUT
+          
           role="<@&1381969147176423525>"
           echo "role=$role" >> $GITHUB_OUTPUT
           
