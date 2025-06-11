@@ -7872,7 +7872,7 @@
       }
     },
     "target_item_def": "herobrine:small_cape",
-    "target_armor_def": "herobrine:petite_cape",
+    "target_armor_def": "herobrine:small_cape",
     "target_armor_slot": "chest",
     "is_elytra": false
   },
@@ -11314,7 +11314,7 @@
         "value": "bandeolh"
       }
     },
-    "target_item_def": "thurgie:bandeolh"
+    "target_item_def": "thurgie:eolh_headband"
   },
   {
     "item": "stick",
@@ -11324,7 +11324,7 @@
         "value": "batonbranche"
       }
     },
-    "target_item_def": "thurgie:batonbranche"
+    "target_item_def": "thurgie:branch_staff"
   },
   {
     "item": "stick",
@@ -11334,7 +11334,7 @@
         "value": "sceptre_eau"
       }
     },
-    "target_item_def": "thurgie:baton_aquamancien"
+    "target_item_def": "thurgie:water_staff"
   },
   {
     "item": "stick",
@@ -11344,7 +11344,7 @@
         "value": "baton_vent"
       }
     },
-    "target_item_def": "thurgie:baton_vent"
+    "target_item_def": "thurgie:wind_staff"
   },
   {
     "item": "flint_and_steel",
@@ -11354,7 +11354,7 @@
         "value": ".*Briquet Pyromancien"
       }
     },
-    "target_item_def": "thurgie:briquet_pyromancien"
+    "target_item_def": "thurgie:fire_lighter"
   },
   {
     "item": "brown_mushroom",
@@ -11364,7 +11364,7 @@
         "value": "champibras"
       }
     },
-    "target_item_def": "thurgie:champibras"
+    "target_item_def": "thurgie:mushroom_arm"
   },
   {
     "item": "brown_mushroom",
@@ -11374,7 +11374,7 @@
         "value": "champibraspetit"
       }
     },
-    "target_item_def": "thurgie:champibraspetit"
+    "target_item_def": "thurgie:small_mushroom_arm"
   },
   {
     "item": "glass_bottle",
@@ -11384,7 +11384,7 @@
         "value": "\\u00a73Eau de Jouvence\\u00a7r"
       }
     },
-    "target_item_def": "thurgie:eau_de_jouvence"
+    "target_item_def": "thurgie:primordial_water"
   },
   {
     "item": "glass_bottle",
@@ -11394,7 +11394,7 @@
         "value": "eau_primo"
       }
     },
-    "target_item_def": "thurgie:eau_primo"
+    "target_item_def": "thurgie:eau_primordial_waterprimo"
   },
   {
     "item": "feather",
@@ -11404,7 +11404,7 @@
         "value": "eventail"
       }
     },
-    "target_item_def": "thurgie:eventail"
+    "target_item_def": "thurgie:wind_fan"
   },
   {
     "item": "spore_blossom",
@@ -11424,7 +11424,7 @@
         "value": "grimoire"
       }
     },
-    "target_item_def": "thurgie:grimoire"
+    "target_item_def": "thurgie:witch_grimory"
   },
   {
     "item": "clay_ball",
@@ -11434,7 +11434,7 @@
         "value": "fg"
       }
     },
-    "target_item_def": "thurgie:fg"
+    "target_item_def": "thurgie:fire_gem"
   },
   {
     "item": "stick",
@@ -11444,7 +11444,7 @@
         "value": ".*Jeu de (Runes|R\\u00fbnes)"
       }
     },
-    "target_item_def": "thurgie:jeu_de_runes"
+    "target_item_def": "thurgie:runes_set"
   },
   {
     "item": "torch",
@@ -11454,7 +11454,7 @@
         "value": "lantern"
       }
     },
-    "target_item_def": "thurgie:lantern"
+    "target_item_def": "thurgie:eolh_lantern"
   },
   {
     "item": "ghast_tear",
@@ -11464,7 +11464,7 @@
         "value": "larme_celeste"
       }
     },
-    "target_item_def": "thurgie:larme_celeste"
+    "target_item_def": "thurgie:celestial_tear"
   },
   {
     "item": "written_book",
@@ -11474,7 +11474,7 @@
         "value": "manuscrit_emeraude"
       }
     },
-    "target_item_def": "thurgie:manuscrit_demeraude"
+    "target_item_def": "thurgie:emerald_manuscript"
   },
   {
     "item": "sea_pickle",
@@ -11494,7 +11494,7 @@
         "value": "ocarina_eolh"
       }
     },
-    "target_item_def": "thurgie:ocarina_eolh"
+    "target_item_def": "thurgie:eolh_ocarina"
   },
   {
     "item": "paper",
@@ -11504,7 +11504,7 @@
         "value": "\\u00a7bParchemin aquamancien\\u00a7r"
       }
     },
-    "target_item_def": "thurgie:parchemin_aquamancien"
+    "target_item_def": "thurgie:water_scroll"
   },
   {
     "item": "iron_shovel",
@@ -11514,7 +11514,7 @@
         "value": ".*Pelle en Pierre Thurge"
       }
     },
-    "target_item_def": "thurgie:pelle_pierre"
+    "target_item_def": "thurgie:stone_shovel"
   },
   {
     "item": "iron_shovel",
@@ -11524,7 +11524,7 @@
         "value": "pellemystique"
       }
     },
-    "target_item_def": "thurgie:pelle_pierrebandage"
+    "target_item_def": "thurgie:bandaged_stone_shovel"
   },
   {
     "item": "iron_shovel",
@@ -11534,7 +11534,7 @@
         "value": ".*Pelle Thurge"
       }
     },
-    "target_item_def": "thurgie:pelle_thurge"
+    "target_item_def": "thurgie:iron_shovel"
   },
   {
     "item": "feather",
@@ -11544,7 +11544,7 @@
         "value": "plume_celeste"
       }
     },
-    "target_item_def": "thurgie:plume_celeste"
+    "target_item_def": "thurgie:celestial_feather"
   },
   {
     "item": "sugar",
@@ -11554,7 +11554,7 @@
         "value": "poudre_encens"
       }
     },
-    "target_item_def": "thurgie:poudre_dencens"
+    "target_item_def": "thurgie:incense_dust"
   },
   {
     "item": "diamond_hoe",
@@ -11564,7 +11564,7 @@
         "value": "serpe_diamant"
       }
     },
-    "target_item_def": "thurgie:serpe_diamant"
+    "target_item_def": "thurgie:diamond_billhook"
   },
   {
     "item": "golden_hoe",
@@ -11574,7 +11574,7 @@
         "value": "serpe_emeraude"
       }
     },
-    "target_item_def": "thurgie:serpe_emeraude"
+    "target_item_def": "thurgie:emerald_billhook"
   },
   {
     "item": "golden_hoe",
@@ -11584,7 +11584,7 @@
         "value": " .*Serpe.*"
       }
     },
-    "target_item_def": "thurgie:serpe_or"
+    "target_item_def": "thurgie:golden_billhook"
   },
   {
     "item": "apple",
@@ -11594,7 +11594,7 @@
         "value": "fruit_veilleur"
       }
     },
-    "target_item_def": "thurgie:fruit_veilleur"
+    "target_item_def": "thurgie:veyer_fruit"
   },
   {
     "item": "stick",
@@ -11604,7 +11604,7 @@
         "value": "sceptre_veilleur"
       }
     },
-    "target_item_def": "thurgie:sceptre_veilleur"
+    "target_item_def": "thurgie:veyer_staff"
   },
   {
     "item": "wooden_sword",
@@ -11614,7 +11614,7 @@
         "value": "wand"
       }
     },
-    "target_item_def": "thurgie:yaz_wand"
+    "target_item_def": "thurgie:uhweiz_staff"
   },
   {
     "item": "elytra",
