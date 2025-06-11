@@ -54,7 +54,7 @@ jobs:
       - name: Set random responses
         id: responses
         run: |
-          array[0]="Hello all ! This is you local Drak and this is your pack release !\n\n\nRun the /"pack set global <$> to update it !"
+          array[0]="Hello all ! This is you local ✨***Drak***✨ and this is your pack release !!"
           array[1]="Hey hey hey everybody ! Time for another release !\n<$>\n\nRun the /pack set global <$> "to update it !"
           array[2]="You wanna be a [[BIG SHOT]]? Just use this new release!"
           array[3]="Wake up samourai! A new release has come!"
