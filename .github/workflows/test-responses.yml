@@ -76,7 +76,7 @@ jobs:
           role="<@&1381969147176423525>"
           echo "role=$role" >> $GITHUB_OUTPUT
           
-          usage="Run the ```\/pack set global ${{ steps.curl.outputs.pack_url }}``` command to update it !"
+          usage='Run the ```/pack set global ${{ steps.curl.outputs.pack_url }}``` command to update it !'
           echo "usage=$usage" >> $GITHUB_OUTPUT
       
 
