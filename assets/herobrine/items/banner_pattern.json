@@ -10,6 +10,76 @@
           "type": "minecraft:model",
           "model": "herobrine:item/banner_pattern/dormitories"
         }
+      },
+      {
+        "when": "#minecraft:pattern_item/globe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/globe_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/flow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/flow_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/bordure_indented",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/bordure_indented_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/guster",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/guster_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/field_masoned",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/field_masoned_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/mojang",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mojang_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/skull",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/skull_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/creeper",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/creeper_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/piglin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/piglin_banner_pattern"
+        }
+      },
+      {
+        "when": "#minecraft:pattern_item/flower",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/flower_banner_pattern"
+        }
       }
     ],
     "fallback": {
