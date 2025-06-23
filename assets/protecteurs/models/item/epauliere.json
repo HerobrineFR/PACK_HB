@@ -5,9 +5,9 @@
     4
   ],
   "textures": {
-    "0": "herobrine:item/epauliere",
-    "1": "herobrine:item/lotus",
-    "particle": "herobrine:item/epauliere"
+    "0": "protecteurs:item/epauliere",
+    "1": "protecteurs:item/lotus",
+    "particle": "protecteurs:item/epauliere"
   },
   "elements": [
     {

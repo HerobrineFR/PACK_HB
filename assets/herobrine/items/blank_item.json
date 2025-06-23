@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "model",
-    "model": "herobrine:item/void/red_torch_void_from_redstone_torch"
+    "model": "herobrine:item/void/torch_void_from_torch"
   }
 }

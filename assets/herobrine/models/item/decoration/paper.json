@@ -2,9 +2,9 @@
   "credit": "Made with Blockbench",
   "parent": "block/block",
   "textures": {
-    "paper": "miniaturia:item/paper_1",
-    "envelope": "miniaturia:item/paper_2",
-    "particle": "miniaturia:item/paper_1"
+    "paper": "herobrine:item/miniaturia/paper_1",
+    "envelope": "herobrine:item/miniaturia/paper_2",
+    "particle": "herobrine:item/miniaturia/paper_1"
   },
   "elements": [
     {

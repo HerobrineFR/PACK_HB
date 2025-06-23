@@ -3,11 +3,11 @@
   "parent": "block/block",
   "textures": {
     "particle": "#1",
-    "1": "miniaturia:item/shelf_book",
-    "2": "miniaturia:item/lantern_steel_frame_silver",
-    "3": "miniaturia:item/paper_1",
-    "4": "miniaturia:item/desk1",
-    "5": "miniaturia:item/moviecamera2"
+    "1": "herobrine:item/miniaturia/shelf_book",
+    "2": "herobrine:item/miniaturia/lantern_steel_frame_silver",
+    "3": "herobrine:item/miniaturia/paper_1",
+    "4": "herobrine:item/miniaturia/desk1",
+    "5": "herobrine:item/miniaturia/moviecamera2"
   },
   "elements": [
     {

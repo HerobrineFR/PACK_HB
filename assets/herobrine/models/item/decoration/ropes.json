@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "miniaturia:item/net_brown",
-    "particle": "miniaturia:item/net_brown"
+    "0": "herobrine:item/miniaturia/net_brown",
+    "particle": "herobrine:item/miniaturia/net_brown"
   },
   "elements": [
     {

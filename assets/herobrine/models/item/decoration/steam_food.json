@@ -1,6 +1,6 @@
 {
   "credit": "Made with Blockbench",
-  "parent": "cocricot:item/display_height2",
+  "parent": "herobrine:parent/cocricot/display_height2",
   "ambientocclusion": false,
   "render_type": "minecraft:translucent",
   "textures": {

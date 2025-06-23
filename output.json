@@ -7851,7 +7851,7 @@
         "value": "epauliere_protecteur"
       }
     },
-    "target_item_def": "herobrine:epauliere_protecteur"
+    "target_item_def": "protecteurs:epauliere"
   },
   {
     "item": "amethyst_shard",
@@ -11407,16 +11407,6 @@
     "target_item_def": "thurgie:wind_fan"
   },
   {
-    "item": "spore_blossom",
-    "original_components": {
-      "components.custom_data.thurge": {
-        "method": "exact",
-        "value": "flower_eye"
-      }
-    },
-    "target_item_def": "thurgie:flower_eye"
-  },
-  {
     "item": "book",
     "original_components": {
       "components.custom_data.thurge": {
@@ -11678,7 +11668,7 @@
         "value": "braidfur"
       }
     },
-    "target_item_def": "herobrine:persos/rhenar"
+    "target_item_def": "herobrine:cosmetics/characters/rhenar"
   },
   {
     "item": "stone_button",
@@ -11688,6 +11678,6 @@
         "value": "Seberus"
       }
     },
-    "target_item_def": "herobrine:persos/seberus"
+    "target_item_def": "herobrine:cosmetics/characters/seberus"
   }
 ]

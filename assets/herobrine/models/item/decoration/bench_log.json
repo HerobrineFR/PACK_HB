@@ -1,10 +1,10 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "miniaturia:item/log_oak_side",
-    "1": "miniaturia:item/log_oak",
-    "2": "miniaturia:item/log_oak_top",
-    "3": "miniaturia:item/log_oak_inner",
+    "0": "herobrine:item/miniaturia/log_oak_side",
+    "1": "herobrine:item/miniaturia/log_oak",
+    "2": "herobrine:item/miniaturia/log_oak_top",
+    "3": "herobrine:item/miniaturia/log_oak_inner",
     "particle": "#0"
   },
   "elements": [

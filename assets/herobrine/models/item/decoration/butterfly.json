@@ -6,8 +6,8 @@
     8
   ],
   "textures": {
-    "0": "miniaturia:item/animal_butterfly",
-    "particle": "miniaturia:item/animal_butterfly"
+    "0": "herobrine:item/miniaturia/animal_butterfly",
+    "particle": "herobrine:item/miniaturia/animal_butterfly"
   },
   "elements": [
     {

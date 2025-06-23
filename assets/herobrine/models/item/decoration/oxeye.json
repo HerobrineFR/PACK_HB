@@ -3,10 +3,10 @@
   "parent": "block/block",
   "ambientocclusion": false,
   "textures": {
-    "1": "miniaturia:item/pot_rattan",
-    "2": "miniaturia:item/pot_soil_a",
-    "particle": "miniaturia:item/pot_rattan",
-    "cross": "miniaturia:item/pot_mini_chamomile"
+    "1": "herobrine:item/miniaturia/pot_rattan",
+    "2": "herobrine:item/miniaturia/pot_soil_a",
+    "particle": "herobrine:item/miniaturia/pot_rattan",
+    "cross": "herobrine:item/miniaturia/pot_mini_chamomile"
   },
   "elements": [
     {

@@ -2,13 +2,13 @@
   "credit": "Made with Blockbench",
   "ambientocclusion": false,
   "textures": {
-    "0": "miniaturia:item/hanging_plant_a",
-    "1": "miniaturia:item/hanging_rope_upper",
-    "2": "miniaturia:item/hanging_rope_1",
-    "3": "miniaturia:item/hanging_planter_b",
-    "5": "miniaturia:item/hanging_planter_top_b",
-    "6": "miniaturia:item/c",
-    "particle": "miniaturia:item/hanging_plant_a"
+    "0": "herobrine:item/miniaturia/hanging_plant_a",
+    "1": "herobrine:item/miniaturia/hanging_rope_upper",
+    "2": "herobrine:item/miniaturia/hanging_rope_1",
+    "3": "herobrine:item/miniaturia/hanging_planter_b",
+    "5": "herobrine:item/miniaturia/hanging_planter_top_b",
+    "6": "herobrine:item/miniaturia/c",
+    "particle": "herobrine:item/miniaturia/hanging_plant_a"
   },
   "elements": [
     {

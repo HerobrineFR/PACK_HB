@@ -3,7 +3,7 @@
   "parent": "block/block",
   "textures": {
     "frame": "herobrine:item/decoration/piano_chair_red_brown",
-    "parts": "miniaturia:item/moviecamera2",
+    "parts": "herobrine:item/miniaturia/moviecamera2",
     "particle": "#frame"
   },
   "elements": [

@@ -2,15 +2,15 @@
   "credit": "Made with Blockbench",
   "ambientocclusion": false,
   "textures": {
-    "particle": "miniaturia:item/pot_rattan",
-    "basket": "miniaturia:item/pot_rattan",
-    "soil": "miniaturia:item/pot_soil_a",
-    "rope": "miniaturia:item/hanging_rope",
-    "main": "miniaturia:item/plant_a1",
-    "middle1": "miniaturia:item/tallgrass_basil_top",
-    "middle2": "miniaturia:item/tallgrass_chamomile_top",
-    "under": "miniaturia:item/leaves_ivy_a_block",
-    "long": "miniaturia:item/hanging_plant_b_1"
+    "particle": "herobrine:item/miniaturia/pot_rattan",
+    "basket": "herobrine:item/miniaturia/pot_rattan",
+    "soil": "herobrine:item/miniaturia/pot_soil_a",
+    "rope": "herobrine:item/miniaturia/hanging_rope",
+    "main": "herobrine:item/miniaturia/plant_a1",
+    "middle1": "herobrine:item/miniaturia/tallgrass_basil_top",
+    "middle2": "herobrine:item/miniaturia/tallgrass_chamomile_top",
+    "under": "herobrine:item/miniaturia/leaves_ivy_a_block",
+    "long": "herobrine:item/miniaturia/hanging_plant_b_1"
   },
   "elements": [
     {

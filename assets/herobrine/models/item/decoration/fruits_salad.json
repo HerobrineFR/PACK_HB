@@ -2,12 +2,12 @@
   "credit": "Made with Blockbench",
   "ambientocclusion": false,
   "textures": {
-    "2": "miniaturia:item/box_vege2",
-    "3": "miniaturia:item/c",
-    "4": "miniaturia:item/rattan_closet_side",
-    "5": "miniaturia:item/fluits",
-    "7": "miniaturia:item/box_vege5",
-    "particle": "miniaturia:item/rattan_closet_side"
+    "2": "herobrine:item/miniaturia/box_vege2",
+    "3": "herobrine:item/miniaturia/c",
+    "4": "herobrine:item/miniaturia/rattan_closet_side",
+    "5": "herobrine:item/miniaturia/fluits",
+    "7": "herobrine:item/miniaturia/box_vege5",
+    "particle": "herobrine:item/miniaturia/rattan_closet_side"
   },
   "elements": [
     {

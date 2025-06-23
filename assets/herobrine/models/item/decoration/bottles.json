@@ -1,10 +1,10 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "particle": "miniaturia:item/bottle_f",
-    "a": "miniaturia:item/bottle_f",
-    "b": "miniaturia:item/bottle_f2",
-    "c": "miniaturia:item/bottle_f3"
+    "particle": "herobrine:item/miniaturia/bottle_f",
+    "a": "herobrine:item/miniaturia/bottle_f",
+    "b": "herobrine:item/miniaturia/bottle_f2",
+    "c": "herobrine:item/miniaturia/bottle_f3"
   },
   "elements": [
     {
