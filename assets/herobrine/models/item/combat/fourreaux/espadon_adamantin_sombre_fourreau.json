@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 16:59:36",
+  "parent": "herobrine:item/combat/fourreaux/espadon_fourreau",
+  "textures": {
+    "layer0": "herobrine:item/combat/fourreaux/espadon_adamantin_sombre_fourreau"
+  }
+}

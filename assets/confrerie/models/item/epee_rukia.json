@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 16:50:23",
+  "parent": "herobrine:item/combat/armes/epee_longue",
+  "textures": {
+    "layer0": "confrerie:item/epee_rukia"
+  }
+}

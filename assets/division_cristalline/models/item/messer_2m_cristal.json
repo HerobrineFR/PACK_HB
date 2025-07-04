@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 16:58:03",
+  "parent": "herobrine:item/combat/armes/epee_longue",
+  "textures": {
+    "layer0": "division_cristalline:item/messer_2m_cristal"
+  }
+}

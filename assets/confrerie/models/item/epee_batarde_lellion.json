@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 16:39:16",
+  "parent": "herobrine:item/combat/armes/epee_batarde",
+  "textures": {
+    "layer0": "confrerie:item/epee_batarde_lellion"
+  }
+}

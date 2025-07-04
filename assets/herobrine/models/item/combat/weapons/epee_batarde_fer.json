@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 17:38:46",
+  "parent": "herobrine:item/combat/armes/epee_batarde",
+  "textures": {
+    "layer0": "herobrine:item/combat/weapons/epee_batarde_fer"
+  }
+}
