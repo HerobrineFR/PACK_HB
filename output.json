@@ -57,7 +57,7 @@
         "value": "npc_s"
       }
     },
-    "target_armor_def": "herobrine:npc/npc_s/npc_s",
+    "target_armor_def": "herobrine:cosmetics/npc_s",
     "target_armor_slot": "chest",
     "is_elytra": true
   },
@@ -69,7 +69,7 @@
         "value": "armure_maille"
       }
     },
-    "target_armor_def": "herobrine:vanilla/maille_bottes",
+    "target_armor_def": "herobrine:chainmail",
     "target_armor_slot": "feet",
     "is_elytra": false
   },
@@ -81,7 +81,7 @@
         "value": "armure_maille"
       }
     },
-    "target_armor_def": "herobrine:vanilla/maille_haume",
+    "target_armor_def": "herobrine:chainmail",
     "target_armor_slot": "head",
     "is_elytra": false
   },
@@ -93,7 +93,7 @@
         "value": "armure_maille"
       }
     },
-    "target_armor_def": "herobrine:vanilla/maille_jambes",
+    "target_armor_def": "herobrine:chainmail",
     "target_armor_slot": "legs",
     "is_elytra": false
   },
@@ -105,7 +105,7 @@
         "value": "armure_maille"
       }
     },
-    "target_armor_def": "herobrine:vanilla/maille_plaston",
+    "target_armor_def": "herobrine:chainmail",
     "target_armor_slot": "chest",
     "is_elytra": false
   },
@@ -117,7 +117,7 @@
         "value": "void"
       }
     },
-    "target_armor_def": "herobrine:void/void_bottes",
+    "target_armor_def": "herobrine:void",
     "target_armor_slot": "feet",
     "is_elytra": false
   },
@@ -129,7 +129,7 @@
         "value": "void"
       }
     },
-    "target_armor_def": "herobrine:void/void_haume",
+    "target_armor_def": "herobrine:void",
     "target_armor_slot": "head",
     "is_elytra": false
   },
@@ -141,7 +141,7 @@
         "value": "void"
       }
     },
-    "target_armor_def": "herobrine:void/void_jambes",
+    "target_armor_def": "herobrine:void",
     "target_armor_slot": "legs",
     "is_elytra": false
   },
@@ -153,7 +153,7 @@
         "value": "void"
       }
     },
-    "target_armor_def": "herobrine:void/void_plaston",
+    "target_armor_def": "herobrine:void",
     "target_armor_slot": "chest",
     "is_elytra": false
   },
@@ -4305,7 +4305,7 @@
         "value": "acier"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/acier_bottes",
+    "target_armor_def": "herobrine:steel",
     "target_armor_slot": "feet",
     "is_elytra": false
   },
@@ -4317,7 +4317,7 @@
         "value": "acier"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/acier_haume",
+    "target_armor_def": "herobrine:steel",
     "target_armor_slot": "head",
     "is_elytra": false
   },
@@ -4329,7 +4329,7 @@
         "value": "acier"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/acier_jambes",
+    "target_armor_def": "herobrine:steel",
     "target_armor_slot": "legs",
     "is_elytra": false
   },
@@ -4341,7 +4341,7 @@
         "value": "acier"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/acier_plaston",
+    "target_armor_def": "herobrine:steel",
     "target_armor_slot": "chest",
     "is_elytra": false
   },
@@ -4354,7 +4354,7 @@
       }
     },
     "target_item_def": "herobrine:steel_boots",
-    "target_armor_def": "herobrine:combat/armures/armure_acier_complete_bottes",
+    "target_armor_def": "herobrine:full_steel",
     "target_armor_slot": "feet"
   },
   {
@@ -4376,7 +4376,7 @@
       }
     },
     "target_item_def": "herobrine:steel_helmet",
-    "target_armor_def": "herobrine:combat/armures/armure_acier_complete_casque",
+    "target_armor_def": "herobrine:full_steel",
     "target_armor_slot": "head"
   },
   {
@@ -4398,7 +4398,7 @@
       }
     },
     "target_item_def": "herobrine:steel_leggings",
-    "target_armor_def": "herobrine:combat/armures/armure_acier_complete_jambieres",
+    "target_armor_def": "herobrine:full_steel",
     "target_armor_slot": "legs"
   },
   {
@@ -4420,7 +4420,7 @@
       }
     },
     "target_item_def": "herobrine:steel_chestplate",
-    "target_armor_def": "herobrine:combat/armures/armure_acier_complete_plastron",
+    "target_armor_def": "herobrine:full_steel",
     "target_armor_slot": "chest"
   },
   {
@@ -4481,7 +4481,7 @@
         "value": "adamantin"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/adamantin_bottes",
+    "target_armor_def": "herobrine:adamantine",
     "target_armor_slot": "feet",
     "is_elytra": false
   },
@@ -4493,7 +4493,7 @@
         "value": "adamantin"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/adamantin_haume",
+    "target_armor_def": "herobrine:adamantine",
     "target_armor_slot": "head",
     "is_elytra": false
   },
@@ -4505,7 +4505,7 @@
         "value": "adamantin"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/adamantin_jambes",
+    "target_armor_def": "herobrine:adamantine",
     "target_armor_slot": "legs",
     "is_elytra": false
   },
@@ -4517,7 +4517,7 @@
         "value": "adamantin"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/adamantin_plaston",
+    "target_armor_def": "herobrine:adamantine",
     "target_armor_slot": "chest",
     "is_elytra": false
   },
@@ -4530,7 +4530,7 @@
       }
     },
     "target_item_def": "herobrine:light_iron_boots",
-    "target_armor_def": "herobrine:combat/armures/armure_de_fer_legere_bottes",
+    "target_armor_def": "herobrine:light_iron",
     "target_armor_slot": "feet"
   },
   {
@@ -4542,7 +4542,7 @@
       }
     },
     "target_item_def": "herobrine:light_iron_helmet",
-    "target_armor_def": "herobrine:combat/armures/armure_de_fer_legere_casque",
+    "target_armor_def": "herobrine:light_iron",
     "target_armor_slot": "head"
   },
   {
@@ -4554,7 +4554,7 @@
       }
     },
     "target_item_def": "herobrine:light_iron_leggings",
-    "target_armor_def": "herobrine:combat/armures/armure_de_fer_legere_jambieres",
+    "target_armor_def": "herobrine:light_iron",
     "target_armor_slot": "legs"
   },
   {
@@ -4566,7 +4566,7 @@
       }
     },
     "target_item_def": "herobrine:light_iron_chestplate",
-    "target_armor_def": "herobrine:combat/armures/armure_de_fer_legere_plastron",
+    "target_armor_def": "herobrine:light_iron",
     "target_armor_slot": "chest"
   },
   {
@@ -4578,7 +4578,7 @@
       }
     },
     "target_item_def": "herobrine:harnois_boots",
-    "target_armor_def": "herobrine:combat/armures/harnois_bottes",
+    "target_armor_def": "herobrine:harnois",
     "target_armor_slot": "feet"
   },
   {
@@ -4590,7 +4590,7 @@
       }
     },
     "target_item_def": "herobrine:harnois_helmet",
-    "target_armor_def": "herobrine:combat/armures/harnois_casque",
+    "target_armor_def": "herobrine:harnois",
     "target_armor_slot": "head"
   },
   {
@@ -4602,7 +4602,7 @@
       }
     },
     "target_item_def": "herobrine:harnois_leggings",
-    "target_armor_def": "herobrine:combat/armures/harnois_jambieres",
+    "target_armor_def": "herobrine:harnois",
     "target_armor_slot": "legs"
   },
   {
@@ -4614,7 +4614,7 @@
       }
     },
     "target_item_def": "herobrine:harnois_chestplate",
-    "target_armor_def": "herobrine:combat/armures/harnois_plastron",
+    "target_armor_def": "herobrine:harnois",
     "target_armor_slot": "chest"
   },
   {
@@ -4626,7 +4626,7 @@
       }
     },
     "target_item_def": "herobrine:heavy_iron_boots",
-    "target_armor_def": "herobrine:combat/armures/armure_de_fer_lourde_bottes",
+    "target_armor_def": "herobrine:heavy_iron",
     "target_armor_slot": "feet"
   },
   {
@@ -4638,7 +4638,7 @@
       }
     },
     "target_item_def": "herobrine:heavy_iron_helmet",
-    "target_armor_def": "herobrine:combat/armures/armure_de_fer_lourde_casque",
+    "target_armor_def": "herobrine:heavy_iron",
     "target_armor_slot": "head"
   },
   {
@@ -4650,7 +4650,7 @@
       }
     },
     "target_item_def": "herobrine:heavy_iron_leggings",
-    "target_armor_def": "herobrine:combat/armures/armure_de_fer_lourde_jambieres",
+    "target_armor_def": "herobrine:heavy_iron",
     "target_armor_slot": "legs"
   },
   {
@@ -4662,7 +4662,7 @@
       }
     },
     "target_item_def": "herobrine:heavy_iron_chestplate",
-    "target_armor_def": "herobrine:combat/armures/armure_de_fer_lourde_plastron",
+    "target_armor_def": "herobrine:heavy_iron",
     "target_armor_slot": "chest"
   },
   {
@@ -4673,7 +4673,7 @@
         "value": "obsifer"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/obsifer_bottes",
+    "target_armor_def": "herobrine:obsifer",
     "target_armor_slot": "feet",
     "is_elytra": false
   },
@@ -4685,7 +4685,7 @@
         "value": "obsifer"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/obsifer_haume",
+    "target_armor_def": "herobrine:obsifer",
     "target_armor_slot": "head",
     "is_elytra": false
   },
@@ -4697,7 +4697,7 @@
         "value": "obsifer"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/obsifer_jambes",
+    "target_armor_def": "herobrine:obsifer",
     "target_armor_slot": "legs",
     "is_elytra": false
   },
@@ -4709,7 +4709,7 @@
         "value": "obsifer"
       }
     },
-    "target_armor_def": "herobrine:combat/armures/obsifer_plaston",
+    "target_armor_def": "herobrine:obsifer",
     "target_armor_slot": "chest",
     "is_elytra": false
   },
@@ -7827,7 +7827,7 @@
         "value": ".*Echarpe.*"
       }
     },
-    "target_armor_def": "herobrine:echarpe_cuir",
+    "target_armor_def": "herobrine:leather_scarf",
     "target_armor_slot": "head",
     "is_elytra": false
   },
@@ -7839,7 +7839,7 @@
         "value": ".*Echarpe de Juge.*"
       }
     },
-    "target_armor_def": "herobrine:echarpe_juge",
+    "target_armor_def": "herobrine:judge_scarf",
     "target_armor_slot": "legs",
     "is_elytra": false
   },
@@ -11626,7 +11626,7 @@
         "value": "ailes"
       }
     },
-    "target_armor_def": "herobrine:persos/ailes_vistra",
+    "target_armor_def": "herobrine:cosmetics/vistra",
     "target_armor_slot": "chest",
     "is_elytra": true
   },

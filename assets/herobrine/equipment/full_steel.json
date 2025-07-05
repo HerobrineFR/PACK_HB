@@ -4,6 +4,11 @@
       {
         "texture": "herobrine:combat/armures/armure_acier_complete_1"
       }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "herobrine:combat/armures/armure_acier_complete_2"
+      }
     ]
   }
 }
