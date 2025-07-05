@@ -4353,7 +4353,7 @@
         "value": "acier_legere"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_bottes",
+    "target_item_def": "herobrine:steel_boots",
     "target_armor_def": "herobrine:combat/armures/armure_acier_complete_bottes",
     "target_armor_slot": "feet"
   },
@@ -4365,7 +4365,7 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_bottes_icon"
+    "target_item_def": "herobrine:steel_boots"
   },
   {
     "item": "iron_helmet",
@@ -4375,7 +4375,7 @@
         "value": "acier_legere"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_casque",
+    "target_item_def": "herobrine:steel_helmet",
     "target_armor_def": "herobrine:combat/armures/armure_acier_complete_casque",
     "target_armor_slot": "head"
   },
@@ -4387,7 +4387,7 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_casque_icon"
+    "target_item_def": "herobrine:steel_helmet"
   },
   {
     "item": "iron_leggings",
@@ -4397,7 +4397,7 @@
         "value": "acier_legere"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_jambieres",
+    "target_item_def": "herobrine:steel_leggings",
     "target_armor_def": "herobrine:combat/armures/armure_acier_complete_jambieres",
     "target_armor_slot": "legs"
   },
@@ -4409,7 +4409,7 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_jambieres_icon"
+    "target_item_def": "herobrine:steel_leggings"
   },
   {
     "item": "iron_chestplate",
@@ -4419,7 +4419,7 @@
         "value": "acier_legere"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_plastron",
+    "target_item_def": "herobrine:steel_chestplate",
     "target_armor_def": "herobrine:combat/armures/armure_acier_complete_plastron",
     "target_armor_slot": "chest"
   },
@@ -4431,7 +4431,7 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_plastron_icon"
+    "target_item_def": "herobrine:steel_chestplate"
   },
   {
     "item": "iron_boots",
@@ -4441,7 +4441,7 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_bottes"
+    "target_item_def": "herobrine:steel_boots"
   },
   {
     "item": "iron_helmet",
@@ -4451,7 +4451,7 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_casque"
+    "target_item_def": "herobrine:steel_helmet"
   },
   {
     "item": "iron_leggings",
@@ -4461,7 +4461,7 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_jambieres"
+    "target_item_def": "herobrine:steel_leggings"
   },
   {
     "item": "iron_chestplate",
@@ -4471,7 +4471,7 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_acier_complete_plastron"
+    "target_item_def": "herobrine:steel_chestplate"
   },
   {
     "item": "diamond_boots",
@@ -4529,7 +4529,7 @@
         "value": ".*?(?:bottes.*?fer.*?l[\\u00e9e]g[\\u00e8e]res|armure.*?fer.*?l[\\u00e9e]g[\\u00e8e]re).*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_de_fer_legere_bottes",
+    "target_item_def": "herobrine:light_iron_boots",
     "target_armor_def": "herobrine:combat/armures/armure_de_fer_legere_bottes",
     "target_armor_slot": "feet"
   },
@@ -4541,7 +4541,7 @@
         "value": ".*?(?:casque.*?fer.*?l[\\u00e9e]ger|armure.*?fer.*?l[\\u00e9e]g[\\u00e8e]re).*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_de_fer_legere_casque",
+    "target_item_def": "herobrine:light_iron_helmet",
     "target_armor_def": "herobrine:combat/armures/armure_de_fer_legere_casque",
     "target_armor_slot": "head"
   },
@@ -4553,7 +4553,7 @@
         "value": ".*?(?:jambi[\\u00e8e]res.*?fer.*?l[\\u00e9e]g[\\u00e8e]res|armure.*?fer.*?l[\\u00e9e]g[\\u00e8e]re).*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_de_fer_legere_jambieres",
+    "target_item_def": "herobrine:light_iron_leggings",
     "target_armor_def": "herobrine:combat/armures/armure_de_fer_legere_jambieres",
     "target_armor_slot": "legs"
   },
@@ -4565,7 +4565,7 @@
         "value": ".*?(?:plastron.*?fer.*?l[\\u00e9e]ger|armure.*?fer.*?l[\\u00e9e]g[\\u00e8e]re).*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_de_fer_legere_plastron",
+    "target_item_def": "herobrine:light_iron_chestplate",
     "target_armor_def": "herobrine:combat/armures/armure_de_fer_legere_plastron",
     "target_armor_slot": "chest"
   },
@@ -4577,7 +4577,7 @@
         "value": "*harnois*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/harnois_bottes",
+    "target_item_def": "herobrine:harnois_boots",
     "target_armor_def": "herobrine:combat/armures/harnois_bottes",
     "target_armor_slot": "feet"
   },
@@ -4589,7 +4589,7 @@
         "value": "*harnois*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/harnois_casque",
+    "target_item_def": "herobrine:harnois_helmet",
     "target_armor_def": "herobrine:combat/armures/harnois_casque",
     "target_armor_slot": "head"
   },
@@ -4601,7 +4601,7 @@
         "value": "*harnois*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/harnois_jambieres",
+    "target_item_def": "herobrine:harnois_leggings",
     "target_armor_def": "herobrine:combat/armures/harnois_jambieres",
     "target_armor_slot": "legs"
   },
@@ -4613,7 +4613,7 @@
         "value": "*harnois*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/harnois_plastron",
+    "target_item_def": "herobrine:harnois_chestplate",
     "target_armor_def": "herobrine:combat/armures/harnois_plastron",
     "target_armor_slot": "chest"
   },
@@ -4625,7 +4625,7 @@
         "value": ".*?(?:bottes.*?fer.*?lourdes|armure.*?fer.*?lourde).*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_de_fer_lourde_bottes",
+    "target_item_def": "herobrine:heavy_iron_boots",
     "target_armor_def": "herobrine:combat/armures/armure_de_fer_lourde_bottes",
     "target_armor_slot": "feet"
   },
@@ -4637,7 +4637,7 @@
         "value": ".*?(?:casque.*?fer.*?lourd|armure.*?fer.*?lourde).*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_de_fer_lourde_casque",
+    "target_item_def": "herobrine:heavy_iron_helmet",
     "target_armor_def": "herobrine:combat/armures/armure_de_fer_lourde_casque",
     "target_armor_slot": "head"
   },
@@ -4649,7 +4649,7 @@
         "value": ".*?(?:jambi[\\u00e8e]res.*?fer.*?lourdes|armure.*?fer.*?lourde).*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_de_fer_lourde_jambieres",
+    "target_item_def": "herobrine:heavy_iron_leggings",
     "target_armor_def": "herobrine:combat/armures/armure_de_fer_lourde_jambieres",
     "target_armor_slot": "legs"
   },
@@ -4661,7 +4661,7 @@
         "value": ".*?(?:plastron.*?fer.*?lourd|armure.*?fer.*?lourde).*"
       }
     },
-    "target_item_def": "herobrine:combat/armures/armure_de_fer_lourde_plastron",
+    "target_item_def": "herobrine:heavy_iron_chestplate",
     "target_armor_def": "herobrine:combat/armures/armure_de_fer_lourde_plastron",
     "target_armor_slot": "chest"
   },
@@ -4721,7 +4721,7 @@
         "value": "*bocle*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/bocle_acier"
+    "target_item_def": "herobrine:steel_buckle"
   },
   {
     "item": "shield",
@@ -4731,7 +4731,7 @@
         "value": "*bocle*bois*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/bocle_bois"
+    "target_item_def": "herobrine:wooden_buckle"
   },
   {
     "item": "shield",
@@ -4741,7 +4741,7 @@
         "value": "*bocle*fer*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/bocle_fer"
+    "target_item_def": "herobrine:iron_buckle"
   },
   {
     "item": "shield",
@@ -4751,7 +4751,7 @@
         "value": "*bouclier*long*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/bouclier_long"
+    "target_item_def": "herobrine:long_shield"
   },
   {
     "item": "shield",
@@ -4761,7 +4761,7 @@
         "value": "*bouclier*ovale*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/bouclier_ovale"
+    "target_item_def": "herobrine:oval_shield"
   },
   {
     "item": "shield",
@@ -4771,7 +4771,7 @@
         "value": "rond_bois"
       }
     },
-    "target_item_def": "herobrine:combat/shields/bouclier_rond_bois"
+    "target_item_def": "herobrine:wooden_round_shield"
   },
   {
     "item": "shield",
@@ -4781,7 +4781,7 @@
         "value": "*bouclier*rond*bois*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/bouclier_rond_bois_alt"
+    "target_item_def": "herobrine:wooden_round_shield_alt"
   },
   {
     "item": "shield",
@@ -4791,7 +4791,7 @@
         "value": "(?!.*bois).*?bouclier.*?rond.*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/bouclier_rond_fer"
+    "target_item_def": "herobrine:iron_round_shield"
   },
   {
     "item": "shield",
@@ -4801,7 +4801,7 @@
         "value": "(?!.*(?:fer|m[\\u00e9e]tal)).*?[\\u00e9e]cu.*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/ecu_bois"
+    "target_item_def": "herobrine:wooden_shield"
   },
   {
     "item": "shield",
@@ -4811,7 +4811,7 @@
         "value": ".*?[\\u00e9e]cu.*?(?:fer|m[\\u00e9e]tal(?:lique)?).*"
       }
     },
-    "target_item_def": "herobrine:combat/shields/ecu_fer"
+    "target_item_def": "herobrine:iron_shield"
   },
   {
     "item": "leather",
@@ -4831,7 +4831,7 @@
         "value": "*fourreau*coutelas*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/coutelas_fourreau"
+    "target_item_def": "herobrine:cutlass_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4841,7 +4841,7 @@
         "value": "*fourreau*claymore*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/claymore_fourreau"
+    "target_item_def": "herobrine:claymore_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4851,7 +4851,7 @@
         "value": ".*?fourreau.*?[\\u00e9e]p[\\u00e9e]e.*?b[\\u00e2a]tarde.*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/epee_batarde_fourreau"
+    "target_item_def": "herobrine:bastard_sword_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4861,7 +4861,7 @@
         "value": ".*?fourreau.*?[\\u00e9e]p[\\u00e9e]e.*?longue.*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/epee_longue_fourreau"
+    "target_item_def": "herobrine:long_sword_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4871,7 +4871,7 @@
         "value": "*fourreau*espadon*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/espadon_acier_fourreau"
+    "target_item_def": "herobrine:steel_swordfish_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4881,7 +4881,7 @@
         "value": "*fourreau*espadon*adamantin*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/espadon_adamantin_fourreau"
+    "target_item_def": "herobrine:adamantine_swordfish_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4891,7 +4891,7 @@
         "value": "*fourreau*espadon*adamantin*sombre"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/espadon_adamantin_sombre_fourreau"
+    "target_item_def": "herobrine:adamantine_swordfish_dark_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4901,7 +4901,7 @@
         "value": "espadon_adamantin_sombre"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/espadon_adamantin_sombre_fourreau"
+    "target_item_def": "herobrine:adamantine_swordfish_dark_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4911,7 +4911,7 @@
         "value": "*fourreau*espadon*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/espadon_fer_fourreau"
+    "target_item_def": "herobrine:iron_swordfish_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4921,7 +4921,7 @@
         "value": "*fourreau*glaive*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/glaive_fourreau"
+    "target_item_def": "herobrine:broadsword_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4931,7 +4931,7 @@
         "value": ".*?fourreau.*?rapi[\\u00e8e]re.*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/rapiere_fourreau"
+    "target_item_def": "herobrine:rapier_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4941,7 +4941,7 @@
         "value": "*fourreau*katana*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/katana_fourreau"
+    "target_item_def": "herobrine:katana_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4951,7 +4951,7 @@
         "value": "(?!.*grand).*?fourreau.*?messer.*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/messer_1m_fourreau"
+    "target_item_def": "herobrine:messer_1m_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4961,7 +4961,7 @@
         "value": "*fourreau*grand*messer*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/messer_2m_fourreau"
+    "target_item_def": "herobrine:messer_2m_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4971,7 +4971,7 @@
         "value": "*fourreau*nodachi*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/nodachi_fourreau"
+    "target_item_def": "herobrine:nodachi_sheath"
   },
   {
     "item": "wooden_sword",
@@ -4981,7 +4981,7 @@
         "value": "*fourreau*sabre*"
       }
     },
-    "target_item_def": "herobrine:combat/fourreaux/sabre_fourreau"
+    "target_item_def": "herobrine:saber_sheath"
   },
   {
     "item": "elytra",
