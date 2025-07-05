@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "block/verdant_froglight_side",
+    "1": "minecraft:block/verdant_froglight_side",
     "3": "thurgie:item/eolh",
-    "particle": "block/warped_door_bottom"
+    "particle": "minecraft:block/verdant_froglight_side"
   },
   "elements": [
     {
