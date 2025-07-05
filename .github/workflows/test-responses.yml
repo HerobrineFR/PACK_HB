@@ -1,4 +1,4 @@
-name: Release Workflow with pack squash
+name: Test Release with random response message
 
 # Controls when the workflow will run
 on:
@@ -24,9 +24,6 @@ jobs:
       - name: Settup Discord Webhook
         id: webhook
         run: echo "WEBHOOK=${{secrets.WEBHOOK}}" >> $GITHUB_ENV
-
-      - name: Delete unused sound
-        run: rm -rf **/hocy.ogg
       
       - name: Get current date
         id: tag
@@ -39,32 +36,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
-      - name: Run PackSquash
-        uses: ComunidadAylas/PackSquash-action@v4
-        with:
-          packsquash_version: latest
-          options: |
-            # Optimize the pack in the root repository directory.
-            # This is the default value for pack_directory when no PackSquash options are defined
-            pack_directory = '.'
-
-            # Set a custom output file path to work with the generated ZIP file
-            # without needing to download its artifact in a separate step
-            output_file_path = "/tmp/${{env.RELEASE_NAME}}.zip"
-            
-            allow_mods = ['OptiFine']
-            
-            # prettify shaders
-            ['**/*?.{fsh,vsh,glsl}']
-            shader_source_transformation_strategy = 'keep_as_is'
-            
-      - name: Tag and create release
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: ${{env.date}}
-          name: ${{env.RELEASE_NAME}}
-          files: /tmp/${{env.RELEASE_NAME}}.zip
-      
+          
       - name: Get Current Release
         id: get_current_release
         uses: joutvhu/get-release@v1
@@ -89,7 +61,6 @@ jobs:
           array[4]="Heyooo! I'm Dakal and i've made a brand new release!"
           array[5]='✨Heyyyy!✨ There is a new release on the resource pack repository!'
           array[6]="I don't know what to talk about now, maybe i'm burn-out from all of this, eh.. I just have to keep going. Here, your release."
-          array[7]="HELLO EVERYONE o/ \nIM DAKAL AND HERE IS *MY* RELEASE"
           sizeArray=${#array[@]}
           indexArray=$(($RANDOM % $sizeArray))
           echo "message=${array[$indexArray]}" >> $GITHUB_OUTPUT
@@ -121,4 +92,3 @@ jobs:
         uses: Ilshidur/action-discord@master
         with:
           args: "${{ steps.responses.outputs.role }} ${{ steps.responses.outputs.message }} \n ${{ steps.curl.outputs.pack_url }}\n\n ${{ steps.responses.outputs.usage }}"
-          
