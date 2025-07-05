@@ -4992,6 +4992,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/crow_wings",
+    "target_armor_def": "herobrine:wings/crow",
     "target_armor_slot": "chest"
   },
   {
@@ -5003,6 +5004,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/crow_wings",
+    "target_armor_def": "herobrine:wings/crow",
     "target_armor_slot": "chest"
   },
   {
@@ -5014,6 +5016,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/white_wings",
+    "target_armor_def": "herobrine:wings/drak_white",
     "target_armor_slot": "chest"
   },
   {
@@ -5025,6 +5028,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/white_wings",
+    "target_armor_def": "herobrine:wings/drak_white",
     "target_armor_slot": "chest"
   },
   {
@@ -5036,6 +5040,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/black_wings",
+    "target_armor_def": "herobrine:wings/drak_black",
     "target_armor_slot": "chest"
   },
   {
@@ -5047,6 +5052,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/black_wings",
+    "target_armor_def": "herobrine:wings/drak_black",
     "target_armor_slot": "chest"
   },
   {
@@ -5058,6 +5064,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/white_wings",
+    "target_armor_def": "herobrine:wings/white_1",
     "target_armor_slot": "chest"
   },
   {
@@ -5069,6 +5076,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/white_wings",
+    "target_armor_def": "herobrine:wings/white_1",
     "target_armor_slot": "chest"
   },
   {
@@ -5080,6 +5088,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/white_wings",
+    "target_armor_def": "herobrine:wings/white_2",
     "target_armor_slot": "chest"
   },
   {
@@ -5091,6 +5100,7 @@
       }
     },
     "target_item_def": "herobrine:cosmetics/white_wings",
+    "target_armor_def": "herobrine:wings/white_2",
     "target_armor_slot": "chest"
   },
   {
@@ -5101,7 +5111,9 @@
         "value": "white2"
       }
     },
-    "target_item_def": "herobrine:cosmetics/white_wings"
+    "target_item_def": "herobrine:cosmetics/white_wings",
+    "target_armor_def": "herobrine:wings/white_2",
+    "target_armor_slot": "chest"
   },
   {
     "item": "bone",
@@ -6761,7 +6773,7 @@
         "value": "porc_cuistot"
       }
     },
-    "target_item_def": "herobrine:herb_porkchop"
+    "target_item_def": "herobrine:cooked_herb_porkchop"
   },
   {
     "item": "porkchop",
