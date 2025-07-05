@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "division_cristalline:item/bouclier_rond_cristal_alt"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "division_cristalline:item/bouclier_rond_cristal_alt_shield_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

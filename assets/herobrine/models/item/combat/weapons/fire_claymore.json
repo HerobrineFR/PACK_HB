@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 17:40:09",
+  "parent": "herobrine:item/common/2xhand",
+  "textures": {
+    "layer0": "herobrine:item/combat/weapons/fire_claymore"
+  }
+}

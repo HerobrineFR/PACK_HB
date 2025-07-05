@@ -1,6 +1,0 @@
-{
-    "parent": "./base_wall_ornament",
-    "textures": {
-      "0": "./walldecor_paper_antique1"
-    }
-}

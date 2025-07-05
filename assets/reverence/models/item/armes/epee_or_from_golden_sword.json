@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_sword",
+  "textures": {
+    "layer0": "reverence:item/armes/epee_or"
+  }
+}

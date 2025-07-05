@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "division_cristalline:item/ecu_cristal"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "division_cristalline:item/ecu_cristal_shield_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

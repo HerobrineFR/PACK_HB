@@ -1,0 +1,7 @@
+{
+  "parent": "herobrine:parent/cocricot/base_placed",
+  "textures": {
+    "0": "cocricot:item/leaves_fallen",
+    "particle": "#0"
+  }
+}

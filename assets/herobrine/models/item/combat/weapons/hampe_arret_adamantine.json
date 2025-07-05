@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 17:42:11",
+  "parent": "herobrine:item/combat/armes/arme_hast",
+  "textures": {
+    "layer0": "herobrine:item/combat/weapons/hampe_arret_adamantine"
+  }
+}

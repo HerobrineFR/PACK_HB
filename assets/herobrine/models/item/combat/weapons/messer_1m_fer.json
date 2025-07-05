@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 17:44:35",
+  "parent": "herobrine:item/combat/armes/epee_longue",
+  "textures": {
+    "layer0": "herobrine:item/combat/weapons/messer_1m_fer"
+  }
+}

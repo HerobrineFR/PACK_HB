@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 16:47:48",
+  "parent": "herobrine:item/combat/fourreaux/fourreau",
+  "textures": {
+    "layer0": "confrerie:item/epee_batarde_lellion_fourreau"
+  }
+}

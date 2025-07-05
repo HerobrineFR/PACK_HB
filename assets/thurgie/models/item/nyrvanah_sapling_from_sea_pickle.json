@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/sea_pickle",
+  "textures": {
+    "layer0": "thurgie:item/nyrvanah_sapling"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "block/block",
+  "textures": {
+    "paper": "herobrine:item/miniaturia/paper_1",
+    "envelope": "herobrine:item/miniaturia/paper_2",
+    "particle": "herobrine:item/miniaturia/paper_1"
+  },
+  "elements": [
+    {
+      "from": [
+        4.8,
+        0.125,
+        4
+      ],
+      "to": [
+        11.2,
+        2.125,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0.125,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            13,
+            8,
+            16
+          ],
+          "texture": "#paper"
+        },
+        "east": {
+          "uv": [
+            0,
+            13,
+            12.5,
+            16
+          ],
+          "texture": "#paper"
+        },
+        "south": {
+          "uv": [
+            0,
+            13,
+            8,
+            16
+          ],
+          "texture": "#paper"
+        },
+        "west": {
+          "uv": [
+            0,
+            13,
+            12.5,
+            16
+          ],
+          "texture": "#paper"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            16,
+            12.5
+          ],
+          "rotation": 180,
+          "texture": "#paper"
+        }
+      }
+    },
+    {
+      "from": [
+        4.8,
+        2.375,
+        3.6
+      ],
+      "to": [
+        11.2,
+        2.375,
+        13.6
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [
+          8,
+          2.375,
+          8.6
+        ]
+      },
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            8,
+            12.5
+          ],
+          "rotation": 180,
+          "texture": "#paper"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            8,
+            12.5
+          ],
+          "texture": "#paper"
+        }
+      }
+    },
+    {
+      "from": [
+        5.2,
+        0.875,
+        3.6
+      ],
+      "to": [
+        11.6,
+        0.875,
+        13.6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8.4,
+          0.875,
+          8.6
+        ]
+      },
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            8,
+            12.5
+          ],
+          "texture": "#paper"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            8,
+            12.5
+          ],
+          "texture": "#paper"
+        }
+      }
+    },
+    {
+      "from": [
+        4.4,
+        1.375,
+        3.6
+      ],
+      "to": [
+        10.8,
+        1.375,
+        13.6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          7.6,
+          1.375,
+          8.6
+        ]
+      },
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            8,
+            12.5
+          ],
+          "texture": "#paper"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            8,
+            12.5
+          ],
+          "texture": "#paper"
+        }
+      }
+    }
+  ]
+}

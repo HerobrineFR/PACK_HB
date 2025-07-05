@@ -1,0 +1,7 @@
+{
+  "parent": "herobrine:parent/cocricot/wooden_pathway",
+  "textures": {
+    "0": "cocricot:item/signpost_wood_brown",
+    "particle": "cocricot:item/planks_brown"
+  }
+}

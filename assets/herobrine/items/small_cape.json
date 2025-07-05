@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "herobrine:item/small_cape",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -6265536
+      }
+    ]
+  }
+}

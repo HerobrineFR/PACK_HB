@@ -24,6 +24,9 @@ jobs:
       - name: Settup Discord Webhook
         id: webhook
         run: echo "WEBHOOK=${{secrets.WEBHOOK}}" >> $GITHUB_ENV
+
+      - name: Delete unused sound
+        run: rm -rf **/hocy.ogg
       
       - name: Get current date
         id: tag
@@ -54,10 +57,6 @@ jobs:
             # prettify shaders
             ['**/*?.{fsh,vsh,glsl}']
             shader_source_transformation_strategy = 'keep_as_is'
-            
-            # Temporary removing .properties processing because of accentued character encoding
-            ['**/?*.properties']
-            minify_properties = false
             
       - name: Tag and create release
         uses: softprops/action-gh-release@v1

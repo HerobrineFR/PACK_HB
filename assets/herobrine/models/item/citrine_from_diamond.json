@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond",
+  "textures": {
+    "layer0": "herobrine:item/citrine"
+  }
+}

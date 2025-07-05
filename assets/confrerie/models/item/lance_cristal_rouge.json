@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 16:55:32",
+  "parent": "herobrine:item/combat/armes/arme_hast",
+  "textures": {
+    "layer0": "confrerie:item/lance_cristal_rouge"
+  }
+}

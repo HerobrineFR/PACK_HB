@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "herobrine:combat/armures/harnois_1"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "herobrine:combat/armures/harnois_2"
+      }
+    ]
+  }
+}

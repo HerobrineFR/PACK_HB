@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/prismarine_shard",
+  "textures": {
+    "layer0": "ocean:item/ecaille_marine"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/feather",
+  "textures": {
+    "layer0": "herobrine:item/gui/green_check"
+  }
+}

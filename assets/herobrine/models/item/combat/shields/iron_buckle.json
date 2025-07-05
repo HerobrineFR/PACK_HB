@@ -1,0 +1,7 @@
+{
+  "credit": "Généré par Raconteur/Aehrin/Cynrid le 2025-07-04 17:35:17",
+  "parent": "herobrine:item/combat/boucliers/bocle",
+  "textures": {
+    "layer0": "herobrine:item/combat/shields/iron_buckle"
+  }
+}

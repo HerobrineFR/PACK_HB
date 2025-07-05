@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bowl",
+  "textures": {
+    "layer0": "phalanstere:item/onguent_sacerdotal"
+  }
+}

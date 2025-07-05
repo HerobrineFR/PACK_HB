@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:item/textures/block/chiseled_arkose",
+    "particle": "#all"
+  }
+}

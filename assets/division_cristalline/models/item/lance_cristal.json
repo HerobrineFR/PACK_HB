@@ -1,0 +1,2449 @@
+{
+  "textures": {
+    "lance_cristal": "division_cristalline:item/lance_cristal",
+    "particle": "#lance_cristal"
+  },
+  "gui_light": "front",
+  "elements": [
+    {
+      "name": "Cube1",
+      "from": [
+        7.5,
+        8,
+        14
+      ],
+      "to": [
+        9,
+        9,
+        14.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            14,
+            0.5,
+            14.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            2,
+            14.5,
+            1.5,
+            14
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            14,
+            2,
+            14.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            14,
+            1,
+            14.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            0.5,
+            14,
+            2,
+            14.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            0.5,
+            14.5,
+            2,
+            14
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube2",
+      "from": [
+        7.5,
+        8,
+        14.5
+      ],
+      "to": [
+        8.5,
+        9,
+        15
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.5,
+            14.5,
+            0.5,
+            15
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            15,
+            1,
+            14.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            14.5,
+            1.5,
+            15
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            14.5,
+            1,
+            15
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            0.5,
+            14.5,
+            1.5,
+            15
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            0.5,
+            15,
+            1.5,
+            14.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube3",
+      "from": [
+        8,
+        8,
+        13.5
+      ],
+      "to": [
+        9.5,
+        9,
+        14
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2.5,
+            13.5,
+            1,
+            14
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            2.5,
+            14,
+            2,
+            13.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            1,
+            13.5,
+            2.5,
+            14
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            1,
+            13.5,
+            1.5,
+            14
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            1,
+            13.5,
+            2.5,
+            14
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            1,
+            14,
+            2.5,
+            13.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube4",
+      "from": [
+        8.5,
+        8,
+        13
+      ],
+      "to": [
+        10,
+        9,
+        13.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            13,
+            1.5,
+            13.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            3,
+            13.5,
+            2.5,
+            13
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            13,
+            3,
+            13.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            13,
+            2,
+            13.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            13,
+            3,
+            13.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            1.5,
+            13.5,
+            3,
+            13
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube5",
+      "from": [
+        9,
+        8,
+        12.5
+      ],
+      "to": [
+        10.5,
+        9,
+        13
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3.5,
+            12.5,
+            2,
+            13
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            13,
+            3,
+            12.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            2,
+            12.5,
+            3.5,
+            13
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            2,
+            12.5,
+            2.5,
+            13
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            2,
+            12.5,
+            3.5,
+            13
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            2,
+            13,
+            3.5,
+            12.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube6",
+      "from": [
+        9.5,
+        8,
+        12
+      ],
+      "to": [
+        11,
+        9,
+        12.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            12,
+            2.5,
+            12.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            4,
+            12.5,
+            3.5,
+            12
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            2.5,
+            12,
+            4,
+            12.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            2.5,
+            12,
+            3,
+            12.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            12,
+            4,
+            12.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            2.5,
+            12.5,
+            4,
+            12
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube7",
+      "from": [
+        10,
+        8,
+        11.5
+      ],
+      "to": [
+        11.5,
+        9,
+        12
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4.5,
+            11.5,
+            3,
+            12
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            4.5,
+            12,
+            4,
+            11.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            3,
+            11.5,
+            4.5,
+            12
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            3,
+            11.5,
+            3.5,
+            12
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            3,
+            11.5,
+            4.5,
+            12
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            3,
+            12,
+            4.5,
+            11.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube8",
+      "from": [
+        10.5,
+        8,
+        11
+      ],
+      "to": [
+        12,
+        9,
+        11.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            11,
+            3.5,
+            11.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            5,
+            11.5,
+            4.5,
+            11
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            11,
+            5,
+            11.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            11,
+            4,
+            11.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            11,
+            5,
+            11.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            3.5,
+            11.5,
+            5,
+            11
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube9",
+      "from": [
+        11,
+        8,
+        10.5
+      ],
+      "to": [
+        12.5,
+        9,
+        11
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            10.5,
+            4,
+            11
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            11,
+            5,
+            10.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            4,
+            10.5,
+            5.5,
+            11
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            4,
+            10.5,
+            4.5,
+            11
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            4,
+            10.5,
+            5.5,
+            11
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            4,
+            11,
+            5.5,
+            10.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube10",
+      "from": [
+        11.5,
+        8,
+        10
+      ],
+      "to": [
+        13,
+        9,
+        10.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            10,
+            4.5,
+            10.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            6,
+            10.5,
+            5.5,
+            10
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            10,
+            6,
+            10.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            10,
+            5,
+            10.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            10,
+            6,
+            10.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            4.5,
+            10.5,
+            6,
+            10
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube11",
+      "from": [
+        12,
+        8,
+        9.5
+      ],
+      "to": [
+        13.5,
+        9,
+        10
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            6.5,
+            9.5,
+            5,
+            10
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            10,
+            6,
+            9.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            5,
+            9.5,
+            6.5,
+            10
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            5,
+            9.5,
+            5.5,
+            10
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            5,
+            9.5,
+            6.5,
+            10
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            5,
+            10,
+            6.5,
+            9.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube12",
+      "from": [
+        12.5,
+        8,
+        9
+      ],
+      "to": [
+        14,
+        9,
+        9.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            7,
+            9,
+            5.5,
+            9.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            7,
+            9.5,
+            6.5,
+            9
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            5.5,
+            9,
+            7,
+            9.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            9,
+            6,
+            9.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            9,
+            7,
+            9.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            5.5,
+            9.5,
+            7,
+            9
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube13",
+      "from": [
+        13,
+        8,
+        8.5
+      ],
+      "to": [
+        14.5,
+        9,
+        9
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            7.5,
+            8.5,
+            6,
+            9
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            9,
+            7,
+            8.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            6,
+            8.5,
+            7.5,
+            9
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            6,
+            8.5,
+            6.5,
+            9
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            6,
+            8.5,
+            7.5,
+            9
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            6,
+            9,
+            7.5,
+            8.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube14",
+      "from": [
+        13.5,
+        8,
+        8
+      ],
+      "to": [
+        15,
+        9,
+        8.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            8,
+            6.5,
+            8.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            8,
+            8.5,
+            7.5,
+            8
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            8,
+            8,
+            8.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            6.5,
+            8,
+            7,
+            8.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            8,
+            8,
+            8.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            6.5,
+            8.5,
+            8,
+            8
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube15",
+      "from": [
+        14,
+        8,
+        7.5
+      ],
+      "to": [
+        15.5,
+        9,
+        8
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.5,
+            7.5,
+            7,
+            8
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            8,
+            8,
+            7.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            7,
+            7.5,
+            8.5,
+            8
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            7,
+            7.5,
+            7.5,
+            8
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            7,
+            7.5,
+            8.5,
+            8
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            7,
+            8,
+            8.5,
+            7.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube16",
+      "from": [
+        14.5,
+        8,
+        7
+      ],
+      "to": [
+        16,
+        9,
+        7.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            9,
+            7,
+            7.5,
+            7.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            9,
+            7.5,
+            8.5,
+            7
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            7,
+            9,
+            7.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            7,
+            8,
+            7.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            7,
+            9,
+            7.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            7.5,
+            7.5,
+            9,
+            7
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube17",
+      "from": [
+        15,
+        8,
+        6.5
+      ],
+      "to": [
+        16.5,
+        9,
+        7
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            9.5,
+            6.5,
+            8,
+            7
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            7,
+            9,
+            6.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            8,
+            6.5,
+            9.5,
+            7
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            8,
+            6.5,
+            8.5,
+            7
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            8,
+            6.5,
+            9.5,
+            7
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            8,
+            7,
+            9.5,
+            6.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube18",
+      "from": [
+        15.5,
+        8,
+        6
+      ],
+      "to": [
+        17,
+        9,
+        6.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            6,
+            8.5,
+            6.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            10,
+            6.5,
+            9.5,
+            6
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            6,
+            10,
+            6.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            6,
+            9,
+            6.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            6,
+            10,
+            6.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            8.5,
+            6.5,
+            10,
+            6
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube19",
+      "from": [
+        16,
+        8,
+        5.5
+      ],
+      "to": [
+        17.5,
+        9,
+        6
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10.5,
+            5.5,
+            9,
+            6
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            10.5,
+            6,
+            10,
+            5.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            9,
+            5.5,
+            10.5,
+            6
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            9,
+            5.5,
+            9.5,
+            6
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            9,
+            5.5,
+            10.5,
+            6
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            9,
+            6,
+            10.5,
+            5.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube20",
+      "from": [
+        16.5,
+        8,
+        5
+      ],
+      "to": [
+        18,
+        9,
+        5.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            11,
+            5,
+            9.5,
+            5.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            11,
+            5.5,
+            10.5,
+            5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            5,
+            11,
+            5.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            9.5,
+            5,
+            10,
+            5.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            5,
+            11,
+            5.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            9.5,
+            5.5,
+            11,
+            5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube21",
+      "from": [
+        17,
+        8,
+        4.5
+      ],
+      "to": [
+        18.5,
+        9,
+        5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            11.5,
+            4.5,
+            10,
+            5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            5,
+            11,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            10,
+            4.5,
+            11.5,
+            5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            10,
+            4.5,
+            10.5,
+            5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            10,
+            4.5,
+            11.5,
+            5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            10,
+            5,
+            11.5,
+            4.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube22",
+      "from": [
+        17.5001,
+        8,
+        4
+      ],
+      "to": [
+        19.0001,
+        9,
+        4.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            4,
+            10.5,
+            4.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            12,
+            4.5,
+            11.5,
+            4
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            10.5,
+            4,
+            12,
+            4.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            10.5,
+            4,
+            11,
+            4.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            10.5,
+            4,
+            12,
+            4.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            10.5,
+            4.5,
+            12,
+            4
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube23",
+      "from": [
+        18.0001,
+        8,
+        3.5
+      ],
+      "to": [
+        20.0001,
+        9,
+        4
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            13,
+            3.5,
+            11,
+            4
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            13,
+            4,
+            12.5,
+            3.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            11,
+            3.5,
+            13,
+            4
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            11,
+            3.5,
+            11.5,
+            4
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            11,
+            3.5,
+            13,
+            4
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            11,
+            4,
+            13,
+            3.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube24",
+      "from": [
+        18.5001,
+        8,
+        2.5
+      ],
+      "to": [
+        21.0001,
+        9,
+        3
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            11.5,
+            2.5,
+            14,
+            3
+          ],
+          "rotation": 180,
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            13.5,
+            2.5,
+            14,
+            3
+          ],
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            11.5,
+            2.5,
+            14,
+            3
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            11.5,
+            2.5,
+            12,
+            3
+          ],
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            11.5,
+            2.5,
+            14,
+            3
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            11.5,
+            2.5,
+            14,
+            3
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube25",
+      "from": [
+        18.5001,
+        8,
+        3
+      ],
+      "to": [
+        20.5001,
+        9,
+        3.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            13.5,
+            3,
+            11.5,
+            3.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            13.5,
+            3.5,
+            13,
+            3
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            11.5,
+            3,
+            13.5,
+            3.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            11.5,
+            3,
+            12,
+            3.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            11.5,
+            3,
+            13.5,
+            3.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            11.5,
+            3.5,
+            13.5,
+            3
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube26",
+      "from": [
+        19.0001,
+        8,
+        2
+      ],
+      "to": [
+        21.5001,
+        9,
+        2.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            14.5,
+            2,
+            12,
+            2.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            14.5,
+            2.5,
+            14,
+            2
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            12,
+            2,
+            14.5,
+            2.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            12,
+            2,
+            12.5,
+            2.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            12,
+            2,
+            14.5,
+            2.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            12,
+            2.5,
+            14.5,
+            2
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube27",
+      "from": [
+        19.5001,
+        8,
+        1.5
+      ],
+      "to": [
+        22.0001,
+        9,
+        2
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            15,
+            1.5,
+            12.5,
+            2
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            15,
+            2,
+            14.5,
+            1.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            12.5,
+            1.5,
+            15,
+            2
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            12.5,
+            1.5,
+            13,
+            2
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            12.5,
+            1.5,
+            15,
+            2
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            12.5,
+            2,
+            15,
+            1.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube28",
+      "from": [
+        20.0001,
+        8,
+        1
+      ],
+      "to": [
+        22.0001,
+        9,
+        1.5
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            15,
+            1,
+            13,
+            1.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            15,
+            1.5,
+            14.5,
+            1
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            13,
+            1,
+            15,
+            1.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            13,
+            1,
+            13.5,
+            1.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            13,
+            1,
+            15,
+            1.5
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            13,
+            1.5,
+            15,
+            1
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    },
+    {
+      "name": "Cube29",
+      "from": [
+        20.5001,
+        8,
+        0.5
+      ],
+      "to": [
+        22.0001,
+        9,
+        1
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          7.5,
+          8,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            15,
+            0.5,
+            13.5,
+            1
+          ],
+          "texture": "#lance_cristal"
+        },
+        "east": {
+          "uv": [
+            15,
+            1,
+            14.5,
+            0.5
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "south": {
+          "uv": [
+            13.5,
+            0.5,
+            15,
+            1
+          ],
+          "texture": "#lance_cristal"
+        },
+        "west": {
+          "uv": [
+            13.5,
+            0.5,
+            14,
+            1
+          ],
+          "rotation": 270,
+          "texture": "#lance_cristal"
+        },
+        "up": {
+          "uv": [
+            13.5,
+            0.5,
+            15,
+            1
+          ],
+          "texture": "#lance_cristal"
+        },
+        "down": {
+          "uv": [
+            13.5,
+            1,
+            15,
+            0.5
+          ],
+          "texture": "#lance_cristal"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        124,
+        0,
+        90
+      ],
+      "translation": [
+        0.555,
+        -2.782,
+        0
+      ],
+      "scale": [
+        1.5,
+        1,
+        1.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        124,
+        0,
+        -90
+      ],
+      "translation": [
+        -0.445,
+        -2.782,
+        0
+      ],
+      "scale": [
+        1.5,
+        1,
+        1.5
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        81,
+        -2,
+        90
+      ],
+      "translation": [
+        3.4782,
+        -2.086,
+        0
+      ],
+      "scale": [
+        1.5,
+        1,
+        1.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        81,
+        -2,
+        90
+      ],
+      "translation": [
+        3.4782,
+        -2.086,
+        0
+      ],
+      "scale": [
+        1.5,
+        1,
+        1.5
+      ]
+    },
+    "ground": {
+      "rotation": [
+        47,
+        0,
+        90
+      ],
+      "translation": [
+        0.75,
+        1.75,
+        0
+      ],
+      "scale": [
+        1.1,
+        0.7,
+        1.1
+      ]
+    },
+    "gui": {
+      "rotation": [
+        90,
+        -45,
+        0
+      ],
+      "translation": [
+        -2.781,
+        -2.086,
+        0
+      ],
+      "scale": [
+        0.95,
+        0.8,
+        0.95
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -0.695,
+        -3.45,
+        -0.5
+      ],
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "herobrine:item/gourde",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": 16448250
+      }
+    ]
+  }
+}

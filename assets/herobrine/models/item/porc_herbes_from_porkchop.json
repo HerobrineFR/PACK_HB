@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/porkchop",
+  "textures": {
+    "layer0": "herobrine:item/porc_herbes"
+  }
+}

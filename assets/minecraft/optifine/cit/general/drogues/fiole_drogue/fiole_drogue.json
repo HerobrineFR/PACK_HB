@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "./fiole_drogue_liquide",
-        "layer1": "./fiole_drogue"
-    }
-}

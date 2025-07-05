@@ -1,0 +1,12 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "collectif_radiant:scaphandre_base",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bone",
+  "textures": {
+    "layer0": "ocean:item/os_marin"
+  }
+}
