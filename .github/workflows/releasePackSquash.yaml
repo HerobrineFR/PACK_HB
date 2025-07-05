@@ -53,7 +53,10 @@ jobs:
             output_file_path = "/tmp/${{env.RELEASE_NAME}}.zip"
             
             allow_mods = ['OptiFine']
-            
+
+            ['assets/nuit/sky/overworld/stars.png']
+            force_include = true
+                        
             # prettify shaders
             ['**/*?.{fsh,vsh,glsl}']
             shader_source_transformation_strategy = 'keep_as_is'
