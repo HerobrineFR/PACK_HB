@@ -27,7 +27,7 @@
         "value": "broken_fire_claymore"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/broken_fire_claymore"
+    "target_item_def": "herobrine:weapons/broken_fire_claymore"
   },
   {
     "item": "diamond_sword",
@@ -37,7 +37,7 @@
         "value": "dead_fire_claymore"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dead_fire_claymore"
+    "target_item_def": "herobrine:weapons/dead_fire_claymore"
   },
   {
     "item": "diamond_sword",
@@ -47,7 +47,7 @@
         "value": "fire_claymore"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/fire_claymore"
+    "target_item_def": "herobrine:weapons/fire_claymore"
   },
   {
     "item": "elytra",
@@ -1595,7 +1595,7 @@
         "value": ".*?b[\\u00e2a]ton.*?combat.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/baton_combat"
+    "target_item_def": "herobrine:weapons/baton_combat"
   },
   {
     "item": "wooden_sword",
@@ -1605,7 +1605,7 @@
         "value": "baton_combat"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/baton_combat"
+    "target_item_def": "herobrine:weapons/baton_combat"
   },
   {
     "item": "wooden_sword",
@@ -1615,7 +1615,7 @@
         "value": ".*?[\\u00e9e]pieu.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epieu"
+    "target_item_def": "herobrine:weapons/epieu"
   },
   {
     "item": "wooden_sword",
@@ -1625,7 +1625,7 @@
         "value": "epieu"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epieu"
+    "target_item_def": "herobrine:weapons/epieu"
   },
   {
     "item": "wooden_sword",
@@ -1635,7 +1635,7 @@
         "value": "epieux"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epieu"
+    "target_item_def": "herobrine:weapons/epieu"
   },
   {
     "item": "iron_axe",
@@ -1645,7 +1645,7 @@
         "value": "*guisarme*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/guisarme_acier"
+    "target_item_def": "herobrine:weapons/guisarme_acier"
   },
   {
     "item": "iron_axe",
@@ -1655,7 +1655,7 @@
         "value": "guisarme_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/guisarme_acier"
+    "target_item_def": "herobrine:weapons/guisarme_acier"
   },
   {
     "item": "diamond_axe",
@@ -1665,7 +1665,7 @@
         "value": "*guisarme*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/guisarme_adamantine"
+    "target_item_def": "herobrine:weapons/guisarme_adamantine"
   },
   {
     "item": "diamond_axe",
@@ -1675,7 +1675,7 @@
         "value": "guisarme_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/guisarme_adamantine"
+    "target_item_def": "herobrine:weapons/guisarme_adamantine"
   },
   {
     "item": "iron_axe",
@@ -1685,7 +1685,7 @@
         "value": "(?!.*acier).*?guisarme.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/guisarme_fer"
+    "target_item_def": "herobrine:weapons/guisarme_fer"
   },
   {
     "item": "iron_axe",
@@ -1695,7 +1695,7 @@
         "value": "guisarme_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/guisarme_fer"
+    "target_item_def": "herobrine:weapons/guisarme_fer"
   },
   {
     "item": "iron_axe",
@@ -1705,7 +1705,7 @@
         "value": "*hallebarde*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hallebarde_acier"
+    "target_item_def": "herobrine:weapons/hallebarde_acier"
   },
   {
     "item": "iron_axe",
@@ -1715,7 +1715,7 @@
         "value": "hallebarde_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hallebarde_acier"
+    "target_item_def": "herobrine:weapons/hallebarde_acier"
   },
   {
     "item": "diamond_axe",
@@ -1725,7 +1725,7 @@
         "value": "*hallebarde*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hallebarde_adamantine"
+    "target_item_def": "herobrine:weapons/hallebarde_adamantine"
   },
   {
     "item": "diamond_axe",
@@ -1735,7 +1735,7 @@
         "value": "hallebarde_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hallebarde_adamantine"
+    "target_item_def": "herobrine:weapons/hallebarde_adamantine"
   },
   {
     "item": "iron_axe",
@@ -1745,7 +1745,7 @@
         "value": "(?!.*acier).*?hallebarde.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hallebarde_fer"
+    "target_item_def": "herobrine:weapons/hallebarde_fer"
   },
   {
     "item": "iron_axe",
@@ -1755,7 +1755,7 @@
         "value": "hallebarde_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hallebarde_fer"
+    "target_item_def": "herobrine:weapons/hallebarde_fer"
   },
   {
     "item": "iron_axe",
@@ -1765,7 +1765,7 @@
         "value": ".*?hampe.*?arr[\\u00eae]t.*?acier.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hampe_arret_acier"
+    "target_item_def": "herobrine:weapons/hampe_arret_acier"
   },
   {
     "item": "iron_axe",
@@ -1775,7 +1775,7 @@
         "value": "hampe_arret_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hampe_arret_acier"
+    "target_item_def": "herobrine:weapons/hampe_arret_acier"
   },
   {
     "item": "diamond_axe",
@@ -1785,7 +1785,7 @@
         "value": ".*?hampe.*?arr[\\u00eae]t.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hampe_arret_adamantine"
+    "target_item_def": "herobrine:weapons/hampe_arret_adamantine"
   },
   {
     "item": "diamond_axe",
@@ -1795,7 +1795,7 @@
         "value": "hampe_arret_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hampe_arret_adamantine"
+    "target_item_def": "herobrine:weapons/hampe_arret_adamantine"
   },
   {
     "item": "iron_axe",
@@ -1805,7 +1805,7 @@
         "value": "(?!.*acier).*?hampe.*?arr[\\u00eae]t.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hampe_arret_fer"
+    "target_item_def": "herobrine:weapons/hampe_arret_fer"
   },
   {
     "item": "iron_axe",
@@ -1815,7 +1815,7 @@
         "value": "hampe_arret_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hampe_arret_fer"
+    "target_item_def": "herobrine:weapons/hampe_arret_fer"
   },
   {
     "item": "iron_axe",
@@ -1825,7 +1825,7 @@
         "value": "hampe_arret"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hampe_arret_fer"
+    "target_item_def": "herobrine:weapons/hampe_arret_fer"
   },
   {
     "item": "iron_axe",
@@ -1835,7 +1835,7 @@
         "value": "*lance*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/lance_acier"
+    "target_item_def": "herobrine:weapons/lance_acier"
   },
   {
     "item": "iron_axe",
@@ -1845,7 +1845,7 @@
         "value": "lance_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/lance_acier"
+    "target_item_def": "herobrine:weapons/lance_acier"
   },
   {
     "item": "diamond_axe",
@@ -1855,7 +1855,7 @@
         "value": "*lance*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/lance_adamantine"
+    "target_item_def": "herobrine:weapons/lance_adamantine"
   },
   {
     "item": "diamond_axe",
@@ -1865,7 +1865,7 @@
         "value": "lance_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/lance_adamantine"
+    "target_item_def": "herobrine:weapons/lance_adamantine"
   },
   {
     "item": "iron_axe",
@@ -1875,7 +1875,7 @@
         "value": "(?!.*acier).*?lance.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/lance_fer"
+    "target_item_def": "herobrine:weapons/lance_fer"
   },
   {
     "item": "iron_axe",
@@ -1885,7 +1885,7 @@
         "value": "lance_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/lance_fer"
+    "target_item_def": "herobrine:weapons/lance_fer"
   },
   {
     "item": "iron_axe",
@@ -1895,7 +1895,7 @@
         "value": "*naginata*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/naginata_acier"
+    "target_item_def": "herobrine:weapons/naginata_acier"
   },
   {
     "item": "iron_axe",
@@ -1905,7 +1905,7 @@
         "value": "naginata_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/naginata_acier"
+    "target_item_def": "herobrine:weapons/naginata_acier"
   },
   {
     "item": "diamond_axe",
@@ -1915,7 +1915,7 @@
         "value": "*naginata*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/naginata_adamantine"
+    "target_item_def": "herobrine:weapons/naginata_adamantine"
   },
   {
     "item": "diamond_axe",
@@ -1925,7 +1925,7 @@
         "value": "naginata_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/naginata_adamantine"
+    "target_item_def": "herobrine:weapons/naginata_adamantine"
   },
   {
     "item": "iron_axe",
@@ -1935,7 +1935,7 @@
         "value": "(?!.*acier).*?naginata.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/naginata_fer"
+    "target_item_def": "herobrine:weapons/naginata_fer"
   },
   {
     "item": "iron_axe",
@@ -1945,7 +1945,7 @@
         "value": "naginata_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/naginata_fer"
+    "target_item_def": "herobrine:weapons/naginata_fer"
   },
   {
     "item": "iron_axe",
@@ -1955,7 +1955,7 @@
         "value": "*pertuisane*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/pertuisane_acier"
+    "target_item_def": "herobrine:weapons/pertuisane_acier"
   },
   {
     "item": "iron_axe",
@@ -1965,7 +1965,7 @@
         "value": "pertuisane_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/pertuisane_acier"
+    "target_item_def": "herobrine:weapons/pertuisane_acier"
   },
   {
     "item": "diamond_axe",
@@ -1975,7 +1975,7 @@
         "value": "*pertuisane*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/pertuisane_adamantine"
+    "target_item_def": "herobrine:weapons/pertuisane_adamantine"
   },
   {
     "item": "diamond_axe",
@@ -1985,7 +1985,7 @@
         "value": "pertuisane_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/pertuisane_adamantine"
+    "target_item_def": "herobrine:weapons/pertuisane_adamantine"
   },
   {
     "item": "iron_axe",
@@ -1995,7 +1995,7 @@
         "value": "(?!.*acier).*?pertuisane.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/pertuisane_fer"
+    "target_item_def": "herobrine:weapons/pertuisane_fer"
   },
   {
     "item": "iron_axe",
@@ -2005,7 +2005,7 @@
         "value": "pertuisane_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/pertuisane_fer"
+    "target_item_def": "herobrine:weapons/pertuisane_fer"
   },
   {
     "item": "iron_sword",
@@ -2015,7 +2015,7 @@
         "value": "*couperet*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/couperet_acier"
+    "target_item_def": "herobrine:weapons/couperet_acier"
   },
   {
     "item": "iron_sword",
@@ -2025,7 +2025,7 @@
         "value": "couperet_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/couperet_acier"
+    "target_item_def": "herobrine:weapons/couperet_acier"
   },
   {
     "item": "diamond_sword",
@@ -2035,7 +2035,7 @@
         "value": "*couperet*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/couperet_adamantin"
+    "target_item_def": "herobrine:weapons/couperet_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -2045,7 +2045,7 @@
         "value": "couperet_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/couperet_adamantin"
+    "target_item_def": "herobrine:weapons/couperet_adamantin"
   },
   {
     "item": "iron_sword",
@@ -2055,7 +2055,7 @@
         "value": "(?!.*acier).*?couperet.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/couperet_fer"
+    "target_item_def": "herobrine:weapons/couperet_fer"
   },
   {
     "item": "iron_sword",
@@ -2065,7 +2065,7 @@
         "value": "couperet_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/couperet_fer"
+    "target_item_def": "herobrine:weapons/couperet_fer"
   },
   {
     "item": "iron_sword",
@@ -2075,7 +2075,7 @@
         "value": "*coutelas*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/coutelas_acier"
+    "target_item_def": "herobrine:weapons/coutelas_acier"
   },
   {
     "item": "iron_sword",
@@ -2085,7 +2085,7 @@
         "value": "coutelas_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/coutelas_acier"
+    "target_item_def": "herobrine:weapons/coutelas_acier"
   },
   {
     "item": "diamond_sword",
@@ -2095,7 +2095,7 @@
         "value": "*coutelas*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/coutelas_adamantin"
+    "target_item_def": "herobrine:weapons/coutelas_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -2105,7 +2105,7 @@
         "value": "coutelas_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/coutelas_adamantin"
+    "target_item_def": "herobrine:weapons/coutelas_adamantin"
   },
   {
     "item": "iron_sword",
@@ -2115,7 +2115,7 @@
         "value": "(?!.*acier).*?coutelas.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/coutelas_fer"
+    "target_item_def": "herobrine:weapons/coutelas_fer"
   },
   {
     "item": "iron_sword",
@@ -2125,7 +2125,7 @@
         "value": "coutelas_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/coutelas_fer"
+    "target_item_def": "herobrine:weapons/coutelas_fer"
   },
   {
     "item": "iron_sword",
@@ -2135,7 +2135,7 @@
         "value": "(?=.*acier.*)(.*stylet.*)"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/stylet_acier"
+    "target_item_def": "herobrine:weapons/stylet_acier"
   },
   {
     "item": "iron_sword",
@@ -2145,7 +2145,7 @@
         "value": "stylet_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/stylet_acier"
+    "target_item_def": "herobrine:weapons/stylet_acier"
   },
   {
     "item": "diamond_sword",
@@ -2155,7 +2155,7 @@
         "value": ".*stylet.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/stylet_adamantin"
+    "target_item_def": "herobrine:weapons/stylet_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -2165,7 +2165,7 @@
         "value": "stylet_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/stylet_adamantin"
+    "target_item_def": "herobrine:weapons/stylet_adamantin"
   },
   {
     "item": "iron_sword",
@@ -2175,7 +2175,7 @@
         "value": "(?!acier|acier)(.*stylet.*)"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/stylet_fer"
+    "target_item_def": "herobrine:weapons/stylet_fer"
   },
   {
     "item": "iron_sword",
@@ -2185,7 +2185,7 @@
         "value": "stylet_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/stylet_fer"
+    "target_item_def": "herobrine:weapons/stylet_fer"
   },
   {
     "item": "iron_sword",
@@ -2195,7 +2195,7 @@
         "value": "(?!.*(?:noire|sombre|c[\\u00e9e]r[\\u00e9e]monielle)).*?dague.*?acier.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_acier"
+    "target_item_def": "herobrine:weapons/dague_acier"
   },
   {
     "item": "iron_sword",
@@ -2205,7 +2205,7 @@
         "value": "dague_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_acier"
+    "target_item_def": "herobrine:weapons/dague_acier"
   },
   {
     "item": "iron_sword",
@@ -2215,7 +2215,7 @@
         "value": ".*?dague.*?c[\\u00e9e]r[\\u00e9e]monielle.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_ceremonielle"
+    "target_item_def": "herobrine:weapons/dague_ceremonielle"
   },
   {
     "item": "iron_sword",
@@ -2225,7 +2225,7 @@
         "value": "dague_ceremonielle"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_ceremonielle"
+    "target_item_def": "herobrine:weapons/dague_ceremonielle"
   },
   {
     "item": "diamond_sword",
@@ -2235,7 +2235,7 @@
         "value": "(?!.*(?:noire|sombre|c[\\u00e9e]r[\\u00e9e]monielle)).*?dague.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_adamantine"
+    "target_item_def": "herobrine:weapons/dague_adamantine"
   },
   {
     "item": "diamond_sword",
@@ -2245,7 +2245,7 @@
         "value": "dague_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_adamantine"
+    "target_item_def": "herobrine:weapons/dague_adamantine"
   },
   {
     "item": "iron_sword",
@@ -2255,7 +2255,7 @@
         "value": "(?!.*(?:acier|noire|sombre|c[\\u00e9e]r[\\u00e9e]monielle)).*?dague.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_fer"
+    "target_item_def": "herobrine:weapons/dague_fer"
   },
   {
     "item": "iron_sword",
@@ -2265,7 +2265,7 @@
         "value": "dague_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_fer"
+    "target_item_def": "herobrine:weapons/dague_fer"
   },
   {
     "item": "iron_sword",
@@ -2275,7 +2275,7 @@
         "value": "dague"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_fer"
+    "target_item_def": "herobrine:weapons/dague_fer"
   },
   {
     "item": "iron_sword",
@@ -2285,7 +2285,7 @@
         "value": ".*?dague.*?(?:noire|sombre).*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_noire"
+    "target_item_def": "herobrine:weapons/dague_noire"
   },
   {
     "item": "iron_sword",
@@ -2295,7 +2295,7 @@
         "value": "dague_noire"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/dague_noire"
+    "target_item_def": "herobrine:weapons/dague_noire"
   },
   {
     "item": "iron_sword",
@@ -2305,7 +2305,7 @@
         "value": "*claymore*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/claymore_acier"
+    "target_item_def": "herobrine:weapons/claymore_acier"
   },
   {
     "item": "iron_sword",
@@ -2315,7 +2315,7 @@
         "value": "claymore_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/claymore_acier"
+    "target_item_def": "herobrine:weapons/claymore_acier"
   },
   {
     "item": "diamond_sword",
@@ -2325,7 +2325,7 @@
         "value": "*claymore*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/claymore_adamantine"
+    "target_item_def": "herobrine:weapons/claymore_adamantine"
   },
   {
     "item": "diamond_sword",
@@ -2335,7 +2335,7 @@
         "value": "claymore_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/claymore_adamantine"
+    "target_item_def": "herobrine:weapons/claymore_adamantine"
   },
   {
     "item": "iron_sword",
@@ -2345,7 +2345,7 @@
         "value": "(?!.*acier).*?claymore.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/claymore_fer"
+    "target_item_def": "herobrine:weapons/claymore_fer"
   },
   {
     "item": "iron_sword",
@@ -2355,7 +2355,7 @@
         "value": "claymore_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/claymore_fer"
+    "target_item_def": "herobrine:weapons/claymore_fer"
   },
   {
     "item": "iron_sword",
@@ -2365,7 +2365,7 @@
         "value": "(?!.*(?:b[\\u00e2a]tarde|longue)).*?[\\u00e9e]p[\\u00e9e]e.*?acier.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_1m_acier"
+    "target_item_def": "herobrine:weapons/epee_1m_acier"
   },
   {
     "item": "iron_sword",
@@ -2375,7 +2375,7 @@
         "value": "epee_1m_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_1m_acier"
+    "target_item_def": "herobrine:weapons/epee_1m_acier"
   },
   {
     "item": "iron_sword",
@@ -2385,7 +2385,7 @@
         "value": ".*?[\\u00e9e]p[\\u00e9e]e.*?b[\\u00e2a]tarde.*?acier.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_batarde_acier"
+    "target_item_def": "herobrine:weapons/epee_batarde_acier"
   },
   {
     "item": "iron_sword",
@@ -2395,7 +2395,7 @@
         "value": "epee_batarde_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_batarde_acier"
+    "target_item_def": "herobrine:weapons/epee_batarde_acier"
   },
   {
     "item": "diamond_sword",
@@ -2405,7 +2405,7 @@
         "value": ".*?[\\u00e9e]p[\\u00e9e]e.*?b[\\u00e2a]tarde.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_batarde_adamantine"
+    "target_item_def": "herobrine:weapons/epee_batarde_adamantine"
   },
   {
     "item": "diamond_sword",
@@ -2415,7 +2415,7 @@
         "value": "epee_batarde_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_batarde_adamantine"
+    "target_item_def": "herobrine:weapons/epee_batarde_adamantine"
   },
   {
     "item": "iron_sword",
@@ -2425,7 +2425,7 @@
         "value": "(?!.*acier).*?[\\u00e9e]p[\\u00e9e]e.*?b[\\u00e2a]tarde.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_batarde_fer"
+    "target_item_def": "herobrine:weapons/epee_batarde_fer"
   },
   {
     "item": "iron_sword",
@@ -2435,7 +2435,7 @@
         "value": "epee_batarde_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_batarde_fer"
+    "target_item_def": "herobrine:weapons/epee_batarde_fer"
   },
   {
     "item": "wooden_sword",
@@ -2445,7 +2445,7 @@
         "value": ".*?[\\u00e9e]p[\\u00e9e]e.*?entra[\\u00eei]nement.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_entrainement"
+    "target_item_def": "herobrine:weapons/epee_entrainement"
   },
   {
     "item": "wooden_sword",
@@ -2455,7 +2455,7 @@
         "value": "epee_entrainement"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_entrainement"
+    "target_item_def": "herobrine:weapons/epee_entrainement"
   },
   {
     "item": "iron_sword",
@@ -2465,7 +2465,7 @@
         "value": ".*?[\\u00e9e]p[\\u00e9e]e.*?longue.*?acier.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_longue_acier"
+    "target_item_def": "herobrine:weapons/epee_longue_acier"
   },
   {
     "item": "iron_sword",
@@ -2475,7 +2475,7 @@
         "value": "epee_longue_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_longue_acier"
+    "target_item_def": "herobrine:weapons/epee_longue_acier"
   },
   {
     "item": "diamond_sword",
@@ -2485,7 +2485,7 @@
         "value": ".*?[\\u00e9e]p[\\u00e9e]e.*?longue.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_longue_adamantine"
+    "target_item_def": "herobrine:weapons/epee_longue_adamantine"
   },
   {
     "item": "diamond_sword",
@@ -2495,7 +2495,7 @@
         "value": "epee_longue_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_longue_adamantine"
+    "target_item_def": "herobrine:weapons/epee_longue_adamantine"
   },
   {
     "item": "iron_sword",
@@ -2505,7 +2505,7 @@
         "value": "(?!.*acier).*?[\\u00e9e]p[\\u00e9e]e.*?longue.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_longue_fer"
+    "target_item_def": "herobrine:weapons/epee_longue_fer"
   },
   {
     "item": "iron_sword",
@@ -2515,7 +2515,7 @@
         "value": "epee_longue_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/epee_longue_fer"
+    "target_item_def": "herobrine:weapons/epee_longue_fer"
   },
   {
     "item": "iron_sword",
@@ -2525,7 +2525,7 @@
         "value": "*espadon*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/espadon_acier"
+    "target_item_def": "herobrine:weapons/espadon_acier"
   },
   {
     "item": "iron_sword",
@@ -2535,7 +2535,7 @@
         "value": "espadon_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/espadon_acier"
+    "target_item_def": "herobrine:weapons/espadon_acier"
   },
   {
     "item": "diamond_sword",
@@ -2545,7 +2545,7 @@
         "value": "*espadon*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/espadon_adamantin"
+    "target_item_def": "herobrine:weapons/espadon_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -2555,7 +2555,7 @@
         "value": "espadon_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/espadon_adamantin"
+    "target_item_def": "herobrine:weapons/espadon_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -2565,7 +2565,7 @@
         "value": "*espadon*sombre*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/espadon_adamantin_sombre"
+    "target_item_def": "herobrine:weapons/espadon_adamantin_sombre"
   },
   {
     "item": "diamond_sword",
@@ -2575,7 +2575,7 @@
         "value": "espadon_adamantin_sombre"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/espadon_adamantin_sombre"
+    "target_item_def": "herobrine:weapons/espadon_adamantin_sombre"
   },
   {
     "item": "iron_sword",
@@ -2585,7 +2585,7 @@
         "value": "(?!.*acier).*?espadon.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/espadon_fer"
+    "target_item_def": "herobrine:weapons/espadon_fer"
   },
   {
     "item": "iron_sword",
@@ -2595,7 +2595,7 @@
         "value": "espadon_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/espadon_fer"
+    "target_item_def": "herobrine:weapons/espadon_fer"
   },
   {
     "item": "iron_sword",
@@ -2605,7 +2605,7 @@
         "value": "*glaive*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/glaive_acier"
+    "target_item_def": "herobrine:weapons/glaive_acier"
   },
   {
     "item": "iron_sword",
@@ -2615,7 +2615,7 @@
         "value": "glaive_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/glaive_acier"
+    "target_item_def": "herobrine:weapons/glaive_acier"
   },
   {
     "item": "diamond_sword",
@@ -2625,7 +2625,7 @@
         "value": "*glaive*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/glaive_adamantin"
+    "target_item_def": "herobrine:weapons/glaive_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -2635,7 +2635,7 @@
         "value": "glaive_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/glaive_adamantin"
+    "target_item_def": "herobrine:weapons/glaive_adamantin"
   },
   {
     "item": "iron_sword",
@@ -2645,7 +2645,7 @@
         "value": "(?!.*acier).*?glaive.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/glaive_fer"
+    "target_item_def": "herobrine:weapons/glaive_fer"
   },
   {
     "item": "iron_sword",
@@ -2655,7 +2655,7 @@
         "value": "glaive_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/glaive_fer"
+    "target_item_def": "herobrine:weapons/glaive_fer"
   },
   {
     "item": "iron_sword",
@@ -2665,7 +2665,7 @@
         "value": ".*?rapi[\\u00e8e]re.*?acier.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/rapiere_acier"
+    "target_item_def": "herobrine:weapons/rapiere_acier"
   },
   {
     "item": "iron_sword",
@@ -2675,7 +2675,7 @@
         "value": "rapiere_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/rapiere_acier"
+    "target_item_def": "herobrine:weapons/rapiere_acier"
   },
   {
     "item": "diamond_sword",
@@ -2685,7 +2685,7 @@
         "value": ".*?rapi[\\u00e8e]re.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/rapiere_adamantine"
+    "target_item_def": "herobrine:weapons/rapiere_adamantine"
   },
   {
     "item": "diamond_sword",
@@ -2695,7 +2695,7 @@
         "value": "rapiere_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/rapiere_adamantine"
+    "target_item_def": "herobrine:weapons/rapiere_adamantine"
   },
   {
     "item": "iron_sword",
@@ -2705,7 +2705,7 @@
         "value": "(?!.*acier).*?rapi[\\u00e8e]re.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/rapiere_fer"
+    "target_item_def": "herobrine:weapons/rapiere_fer"
   },
   {
     "item": "iron_sword",
@@ -2715,7 +2715,7 @@
         "value": "rapiere_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/rapiere_fer"
+    "target_item_def": "herobrine:weapons/rapiere_fer"
   },
   {
     "item": "iron_axe",
@@ -2725,7 +2725,7 @@
         "value": "*grande*hache*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/grande_hache_acier"
+    "target_item_def": "herobrine:weapons/grande_hache_acier"
   },
   {
     "item": "iron_axe",
@@ -2735,7 +2735,7 @@
         "value": "grande_hache_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/grande_hache_acier"
+    "target_item_def": "herobrine:weapons/grande_hache_acier"
   },
   {
     "item": "diamond_axe",
@@ -2745,7 +2745,7 @@
         "value": "*grande*hache*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/grande_hache_adamantine"
+    "target_item_def": "herobrine:weapons/grande_hache_adamantine"
   },
   {
     "item": "diamond_axe",
@@ -2755,7 +2755,7 @@
         "value": "grande_hache_adamantine"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/grande_hache_adamantine"
+    "target_item_def": "herobrine:weapons/grande_hache_adamantine"
   },
   {
     "item": "iron_axe",
@@ -2765,7 +2765,7 @@
         "value": "(?!.*acier|acier).*?grande.*?hache.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/grande_hache_fer"
+    "target_item_def": "herobrine:weapons/grande_hache_fer"
   },
   {
     "item": "iron_axe",
@@ -2775,7 +2775,7 @@
         "value": "grande_hache_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/grande_hache_fer"
+    "target_item_def": "herobrine:weapons/grande_hache_fer"
   },
   {
     "item": "iron_axe",
@@ -2785,7 +2785,7 @@
         "value": "(?!.*acier).*?hache.*?bataille.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_bataille_fer"
+    "target_item_def": "herobrine:weapons/hache_bataille_fer"
   },
   {
     "item": "iron_axe",
@@ -2795,7 +2795,7 @@
         "value": "hache_bataille_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_bataille_fer"
+    "target_item_def": "herobrine:weapons/hache_bataille_fer"
   },
   {
     "item": "iron_axe",
@@ -2805,7 +2805,7 @@
         "value": "iron_battle_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_bataille_fer"
+    "target_item_def": "herobrine:weapons/hache_bataille_fer"
   },
   {
     "item": "iron_axe",
@@ -2815,7 +2815,7 @@
         "value": "*hache*combat*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_combat_acier"
+    "target_item_def": "herobrine:weapons/hache_combat_acier"
   },
   {
     "item": "iron_axe",
@@ -2825,7 +2825,7 @@
         "value": "hache_combat_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_combat_acier"
+    "target_item_def": "herobrine:weapons/hache_combat_acier"
   },
   {
     "item": "diamond_axe",
@@ -2835,7 +2835,7 @@
         "value": "*hache*combat*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_combat_adamantin"
+    "target_item_def": "herobrine:weapons/hache_combat_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -2845,7 +2845,7 @@
         "value": "hache_combat_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_combat_adamantin"
+    "target_item_def": "herobrine:weapons/hache_combat_adamantin"
   },
   {
     "item": "iron_axe",
@@ -2855,7 +2855,7 @@
         "value": "(?!.*acier).*?hache.*?combat.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_combat_fer"
+    "target_item_def": "herobrine:weapons/hache_combat_fer"
   },
   {
     "item": "iron_axe",
@@ -2865,7 +2865,7 @@
         "value": "hache_combat_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/hache_combat_fer"
+    "target_item_def": "herobrine:weapons/hache_combat_fer"
   },
   {
     "item": "diamond_axe",
@@ -2875,7 +2875,7 @@
         "value": "diamond_battle_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_battle_axe"
+    "target_item_def": "herobrine:weapons/diamond_battle_axe"
   },
   {
     "item": "diamond_axe",
@@ -2885,7 +2885,7 @@
         "value": "diamond_club"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_club"
+    "target_item_def": "herobrine:weapons/diamond_club"
   },
   {
     "item": "diamond_axe",
@@ -2895,7 +2895,7 @@
         "value": "diamond_flail"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_flail"
+    "target_item_def": "herobrine:weapons/diamond_flail"
   },
   {
     "item": "diamond_sword",
@@ -2905,7 +2905,7 @@
         "value": "diamond_glaive"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_glaive"
+    "target_item_def": "herobrine:weapons/diamond_glaive"
   },
   {
     "item": "diamond_sword",
@@ -2915,7 +2915,7 @@
         "value": "diamond_halbert"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_halbert"
+    "target_item_def": "herobrine:weapons/diamond_halbert"
   },
   {
     "item": "diamond_axe",
@@ -2925,7 +2925,7 @@
         "value": "diamond_horseman_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_horseman_axe"
+    "target_item_def": "herobrine:weapons/diamond_horseman_axe"
   },
   {
     "item": "shield",
@@ -2935,7 +2935,7 @@
         "value": "diamond_knight_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_knight_shield"
+    "target_item_def": "herobrine:weapons/diamond_knight_shield"
   },
   {
     "item": "diamond_sword",
@@ -2945,7 +2945,7 @@
         "value": "diamond_lance"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_lance"
+    "target_item_def": "herobrine:weapons/diamond_lance"
   },
   {
     "item": "diamond_axe",
@@ -2955,7 +2955,7 @@
         "value": "diamond_mace"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_mace"
+    "target_item_def": "herobrine:weapons/diamond_mace"
   },
   {
     "item": "diamond_axe",
@@ -2965,7 +2965,7 @@
         "value": "diamond_morningstar"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_morningstar"
+    "target_item_def": "herobrine:weapons/diamond_morningstar"
   },
   {
     "item": "diamond_sword",
@@ -2975,7 +2975,7 @@
         "value": "diamond_pike"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_pike"
+    "target_item_def": "herobrine:weapons/diamond_pike"
   },
   {
     "item": "shield",
@@ -2985,7 +2985,7 @@
         "value": "diamond_round_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_round_shield"
+    "target_item_def": "herobrine:weapons/diamond_round_shield"
   },
   {
     "item": "diamond_sword",
@@ -2995,7 +2995,7 @@
         "value": "diamond_spear"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_spear"
+    "target_item_def": "herobrine:weapons/diamond_spear"
   },
   {
     "item": "shield",
@@ -3005,7 +3005,7 @@
         "value": "diamond_tower_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_tower_shield"
+    "target_item_def": "herobrine:weapons/diamond_tower_shield"
   },
   {
     "item": "diamond_axe",
@@ -3015,7 +3015,7 @@
         "value": "diamond_warhammer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/diamond_warhammer"
+    "target_item_def": "herobrine:weapons/diamond_warhammer"
   },
   {
     "item": "golden_axe",
@@ -3025,7 +3025,7 @@
         "value": "gold_battle_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_battle_axe"
+    "target_item_def": "herobrine:weapons/gold_battle_axe"
   },
   {
     "item": "golden_axe",
@@ -3035,7 +3035,7 @@
         "value": "gold_club"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_club"
+    "target_item_def": "herobrine:weapons/gold_club"
   },
   {
     "item": "golden_axe",
@@ -3045,7 +3045,7 @@
         "value": "gold_flail"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_flail"
+    "target_item_def": "herobrine:weapons/gold_flail"
   },
   {
     "item": "golden_sword",
@@ -3055,7 +3055,7 @@
         "value": "gold_glaive"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_glaive"
+    "target_item_def": "herobrine:weapons/gold_glaive"
   },
   {
     "item": "golden_sword",
@@ -3065,7 +3065,7 @@
         "value": "gold_halbert"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_halbert"
+    "target_item_def": "herobrine:weapons/gold_halbert"
   },
   {
     "item": "golden_axe",
@@ -3075,7 +3075,7 @@
         "value": "gold_horseman_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_horseman_axe"
+    "target_item_def": "herobrine:weapons/gold_horseman_axe"
   },
   {
     "item": "shield",
@@ -3085,7 +3085,7 @@
         "value": "gold_knight_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_knight_shield"
+    "target_item_def": "herobrine:weapons/gold_knight_shield"
   },
   {
     "item": "golden_sword",
@@ -3095,7 +3095,7 @@
         "value": "gold_lance"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_lance"
+    "target_item_def": "herobrine:weapons/gold_lance"
   },
   {
     "item": "golden_axe",
@@ -3105,7 +3105,7 @@
         "value": "gold_mace"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_mace"
+    "target_item_def": "herobrine:weapons/gold_mace"
   },
   {
     "item": "golden_axe",
@@ -3115,7 +3115,7 @@
         "value": "gold_morningstar"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_morningstar"
+    "target_item_def": "herobrine:weapons/gold_morningstar"
   },
   {
     "item": "golden_sword",
@@ -3125,7 +3125,7 @@
         "value": "gold_pike"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_pike"
+    "target_item_def": "herobrine:weapons/gold_pike"
   },
   {
     "item": "shield",
@@ -3135,7 +3135,7 @@
         "value": "gold_round_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_round_shield"
+    "target_item_def": "herobrine:weapons/gold_round_shield"
   },
   {
     "item": "golden_sword",
@@ -3145,7 +3145,7 @@
         "value": "gold_spear"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_spear"
+    "target_item_def": "herobrine:weapons/gold_spear"
   },
   {
     "item": "shield",
@@ -3155,7 +3155,7 @@
         "value": "gold_tower_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_tower_shield"
+    "target_item_def": "herobrine:weapons/gold_tower_shield"
   },
   {
     "item": "golden_axe",
@@ -3165,7 +3165,7 @@
         "value": "gold_warhammer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/gold_warhammer"
+    "target_item_def": "herobrine:weapons/gold_warhammer"
   },
   {
     "item": "iron_axe",
@@ -3175,7 +3175,7 @@
         "value": "iron_battle_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_battle_axe"
+    "target_item_def": "herobrine:weapons/iron_battle_axe"
   },
   {
     "item": "iron_axe",
@@ -3185,7 +3185,7 @@
         "value": "iron_club"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_club"
+    "target_item_def": "herobrine:weapons/iron_club"
   },
   {
     "item": "iron_axe",
@@ -3195,7 +3195,7 @@
         "value": "iron_flail"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_flail"
+    "target_item_def": "herobrine:weapons/iron_flail"
   },
   {
     "item": "iron_sword",
@@ -3205,7 +3205,7 @@
         "value": "iron_glaive"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_glaive"
+    "target_item_def": "herobrine:weapons/iron_glaive"
   },
   {
     "item": "iron_sword",
@@ -3215,7 +3215,7 @@
         "value": "iron_halbert"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_halbert"
+    "target_item_def": "herobrine:weapons/iron_halbert"
   },
   {
     "item": "iron_axe",
@@ -3225,7 +3225,7 @@
         "value": "iron_horseman_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_horseman_axe"
+    "target_item_def": "herobrine:weapons/iron_horseman_axe"
   },
   {
     "item": "shield",
@@ -3235,7 +3235,7 @@
         "value": "iron_knight_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_knight_shield"
+    "target_item_def": "herobrine:weapons/iron_knight_shield"
   },
   {
     "item": "iron_sword",
@@ -3245,7 +3245,7 @@
         "value": "iron_lance"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_lance"
+    "target_item_def": "herobrine:weapons/iron_lance"
   },
   {
     "item": "iron_axe",
@@ -3255,7 +3255,7 @@
         "value": "iron_mace"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_mace"
+    "target_item_def": "herobrine:weapons/iron_mace"
   },
   {
     "item": "iron_axe",
@@ -3265,7 +3265,7 @@
         "value": "iron_morningstar"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_morningstar"
+    "target_item_def": "herobrine:weapons/iron_morningstar"
   },
   {
     "item": "iron_sword",
@@ -3275,7 +3275,7 @@
         "value": "iron_pike"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_pike"
+    "target_item_def": "herobrine:weapons/iron_pike"
   },
   {
     "item": "shield",
@@ -3285,7 +3285,7 @@
         "value": "iron_round_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_round_shield"
+    "target_item_def": "herobrine:weapons/iron_round_shield"
   },
   {
     "item": "iron_sword",
@@ -3295,7 +3295,7 @@
         "value": "iron_spear"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_spear"
+    "target_item_def": "herobrine:weapons/iron_spear"
   },
   {
     "item": "shield",
@@ -3305,7 +3305,7 @@
         "value": "iron_tower_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_tower_shield"
+    "target_item_def": "herobrine:weapons/iron_tower_shield"
   },
   {
     "item": "iron_axe",
@@ -3315,7 +3315,7 @@
         "value": "iron_warhammer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/iron_warhammer"
+    "target_item_def": "herobrine:weapons/iron_warhammer"
   },
   {
     "item": "netherite_axe",
@@ -3325,7 +3325,7 @@
         "value": "netherite_battle_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_battle_axe"
+    "target_item_def": "herobrine:weapons/netherite_battle_axe"
   },
   {
     "item": "netherite_axe",
@@ -3335,7 +3335,7 @@
         "value": "netherite_club"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_club"
+    "target_item_def": "herobrine:weapons/netherite_club"
   },
   {
     "item": "netherite_axe",
@@ -3345,7 +3345,7 @@
         "value": "netherite_flail"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_flail"
+    "target_item_def": "herobrine:weapons/netherite_flail"
   },
   {
     "item": "netherite_sword",
@@ -3355,7 +3355,7 @@
         "value": "netherite_glaive"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_glaive"
+    "target_item_def": "herobrine:weapons/netherite_glaive"
   },
   {
     "item": "netherite_sword",
@@ -3365,7 +3365,7 @@
         "value": "netherite_halbert"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_halbert"
+    "target_item_def": "herobrine:weapons/netherite_halbert"
   },
   {
     "item": "netherite_axe",
@@ -3375,7 +3375,7 @@
         "value": "netherite_horseman_axe"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_horseman_axe"
+    "target_item_def": "herobrine:weapons/netherite_horseman_axe"
   },
   {
     "item": "shield",
@@ -3385,7 +3385,7 @@
         "value": "netherite_knight_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_knight_shield"
+    "target_item_def": "herobrine:weapons/netherite_knight_shield"
   },
   {
     "item": "netherite_sword",
@@ -3395,7 +3395,7 @@
         "value": "netherite_lance"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_lance"
+    "target_item_def": "herobrine:weapons/netherite_lance"
   },
   {
     "item": "netherite_axe",
@@ -3405,7 +3405,7 @@
         "value": "netherite_mace"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_mace"
+    "target_item_def": "herobrine:weapons/netherite_mace"
   },
   {
     "item": "netherite_axe",
@@ -3415,7 +3415,7 @@
         "value": "netherite_morningstar"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_morningstar"
+    "target_item_def": "herobrine:weapons/netherite_morningstar"
   },
   {
     "item": "netherite_sword",
@@ -3425,7 +3425,7 @@
         "value": "netherite_pike"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_pike"
+    "target_item_def": "herobrine:weapons/netherite_pike"
   },
   {
     "item": "shield",
@@ -3435,7 +3435,7 @@
         "value": "netherite_round_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_round_shield"
+    "target_item_def": "herobrine:weapons/netherite_round_shield"
   },
   {
     "item": "netherite_sword",
@@ -3445,7 +3445,7 @@
         "value": "netherite_spear"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_spear"
+    "target_item_def": "herobrine:weapons/netherite_spear"
   },
   {
     "item": "shield",
@@ -3455,7 +3455,7 @@
         "value": "netherite_tower_shield"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_tower_shield"
+    "target_item_def": "herobrine:weapons/netherite_tower_shield"
   },
   {
     "item": "netherite_axe",
@@ -3465,7 +3465,7 @@
         "value": "netherite_warhammer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/netherite_warhammer"
+    "target_item_def": "herobrine:weapons/netherite_warhammer"
   },
   {
     "item": "iron_axe",
@@ -3475,7 +3475,7 @@
         "value": "*bec*corbin*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_acier"
+    "target_item_def": "herobrine:weapons/bec_corbin_acier"
   },
   {
     "item": "iron_axe",
@@ -3485,7 +3485,7 @@
         "value": "bec_corbin_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_acier"
+    "target_item_def": "herobrine:weapons/bec_corbin_acier"
   },
   {
     "item": "iron_axe",
@@ -3495,7 +3495,7 @@
         "value": "corbin_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_acier"
+    "target_item_def": "herobrine:weapons/bec_corbin_acier"
   },
   {
     "item": "diamond_axe",
@@ -3505,7 +3505,7 @@
         "value": "*bec*corbin*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_adamantin"
+    "target_item_def": "herobrine:weapons/bec_corbin_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -3515,7 +3515,7 @@
         "value": "bec_corbin_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_adamantin"
+    "target_item_def": "herobrine:weapons/bec_corbin_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -3525,7 +3525,7 @@
         "value": "corbin_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_adamantin"
+    "target_item_def": "herobrine:weapons/bec_corbin_adamantin"
   },
   {
     "item": "iron_axe",
@@ -3535,7 +3535,7 @@
         "value": "(?!.*acier).*?bec.*?corbin.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_fer"
+    "target_item_def": "herobrine:weapons/bec_corbin_fer"
   },
   {
     "item": "iron_axe",
@@ -3545,7 +3545,7 @@
         "value": "bec_corbin_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_fer"
+    "target_item_def": "herobrine:weapons/bec_corbin_fer"
   },
   {
     "item": "iron_axe",
@@ -3555,7 +3555,7 @@
         "value": "corbin_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/bec_corbin_fer"
+    "target_item_def": "herobrine:weapons/bec_corbin_fer"
   },
   {
     "item": "iron_axe",
@@ -3565,7 +3565,7 @@
         "value": "*kanabo*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/kanabo"
+    "target_item_def": "herobrine:weapons/kanabo"
   },
   {
     "item": "iron_axe",
@@ -3575,7 +3575,7 @@
         "value": "kanabo"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/kanabo"
+    "target_item_def": "herobrine:weapons/kanabo"
   },
   {
     "item": "iron_axe",
@@ -3585,7 +3585,7 @@
         "value": "*marteau*deux*mains*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_deux_mains_acier"
+    "target_item_def": "herobrine:weapons/marteau_deux_mains_acier"
   },
   {
     "item": "iron_axe",
@@ -3595,7 +3595,7 @@
         "value": "marteau_deux_mains_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_deux_mains_acier"
+    "target_item_def": "herobrine:weapons/marteau_deux_mains_acier"
   },
   {
     "item": "diamond_axe",
@@ -3605,7 +3605,7 @@
         "value": "*marteau*deux*mains*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_deux_mains_adamantin"
+    "target_item_def": "herobrine:weapons/marteau_deux_mains_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -3615,7 +3615,7 @@
         "value": "marteau_deux_mains_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_deux_mains_adamantin"
+    "target_item_def": "herobrine:weapons/marteau_deux_mains_adamantin"
   },
   {
     "item": "iron_axe",
@@ -3625,7 +3625,7 @@
         "value": "(?!.*acier).*?marteau.*?deux.*?mains.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_deux_mains_fer"
+    "target_item_def": "herobrine:weapons/marteau_deux_mains_fer"
   },
   {
     "item": "iron_axe",
@@ -3635,7 +3635,7 @@
         "value": "marteau_deux_mains_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_deux_mains_fer"
+    "target_item_def": "herobrine:weapons/marteau_deux_mains_fer"
   },
   {
     "item": "stone_axe",
@@ -3645,7 +3645,7 @@
         "value": "*marteau*guerre*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_guerre"
+    "target_item_def": "herobrine:weapons/marteau_guerre"
   },
   {
     "item": "stone_axe",
@@ -3655,7 +3655,7 @@
         "value": "marteau_guerre"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_guerre"
+    "target_item_def": "herobrine:weapons/marteau_guerre"
   },
   {
     "item": "iron_axe",
@@ -3665,7 +3665,7 @@
         "value": "*marteau*une*main*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_une_main_acier"
+    "target_item_def": "herobrine:weapons/marteau_une_main_acier"
   },
   {
     "item": "iron_axe",
@@ -3675,7 +3675,7 @@
         "value": "marteau_une_main_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_une_main_acier"
+    "target_item_def": "herobrine:weapons/marteau_une_main_acier"
   },
   {
     "item": "diamond_axe",
@@ -3685,7 +3685,7 @@
         "value": "*marteau*une*main*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_une_main_adamantin"
+    "target_item_def": "herobrine:weapons/marteau_une_main_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -3695,7 +3695,7 @@
         "value": "marteau_une_main_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_une_main_adamantin"
+    "target_item_def": "herobrine:weapons/marteau_une_main_adamantin"
   },
   {
     "item": "iron_axe",
@@ -3705,7 +3705,7 @@
         "value": "(?!.*acier).*?marteau.*?une.*?main.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_une_main_fer"
+    "target_item_def": "herobrine:weapons/marteau_une_main_fer"
   },
   {
     "item": "iron_axe",
@@ -3715,7 +3715,7 @@
         "value": "marteau_une_main_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/marteau_une_main_fer"
+    "target_item_def": "herobrine:weapons/marteau_une_main_fer"
   },
   {
     "item": "iron_axe",
@@ -3725,7 +3725,7 @@
         "value": "*masse*ailettes*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_ailettes_acier"
+    "target_item_def": "herobrine:weapons/masse_ailettes_acier"
   },
   {
     "item": "iron_axe",
@@ -3735,7 +3735,7 @@
         "value": "masse_ailettes_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_ailettes_acier"
+    "target_item_def": "herobrine:weapons/masse_ailettes_acier"
   },
   {
     "item": "diamond_axe",
@@ -3745,7 +3745,7 @@
         "value": "*masse*ailettes*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_ailettes_adamantin"
+    "target_item_def": "herobrine:weapons/masse_ailettes_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -3755,7 +3755,7 @@
         "value": "masse_ailettes_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_ailettes_adamantin"
+    "target_item_def": "herobrine:weapons/masse_ailettes_adamantin"
   },
   {
     "item": "iron_axe",
@@ -3765,7 +3765,7 @@
         "value": "(?!.*acier).*?masse.*?ailettes.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_ailettes_fer"
+    "target_item_def": "herobrine:weapons/masse_ailettes_fer"
   },
   {
     "item": "iron_axe",
@@ -3775,7 +3775,7 @@
         "value": "masse_ailettes_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_ailettes_fer"
+    "target_item_def": "herobrine:weapons/masse_ailettes_fer"
   },
   {
     "item": "iron_axe",
@@ -3785,7 +3785,7 @@
         "value": "*masse*deux*main*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_deux_mains_acier"
+    "target_item_def": "herobrine:weapons/masse_deux_mains_acier"
   },
   {
     "item": "iron_axe",
@@ -3795,7 +3795,7 @@
         "value": "masse_deux_mains_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_deux_mains_acier"
+    "target_item_def": "herobrine:weapons/masse_deux_mains_acier"
   },
   {
     "item": "diamond_axe",
@@ -3805,7 +3805,7 @@
         "value": "*masse*deux*main*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_deux_mains_adamantin"
+    "target_item_def": "herobrine:weapons/masse_deux_mains_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -3815,7 +3815,7 @@
         "value": "masse_deux_mains_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_deux_mains_adamantin"
+    "target_item_def": "herobrine:weapons/masse_deux_mains_adamantin"
   },
   {
     "item": "iron_axe",
@@ -3825,7 +3825,7 @@
         "value": "(?!.*acier).*?masse.*?deux.*?main.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_deux_mains_fer"
+    "target_item_def": "herobrine:weapons/masse_deux_mains_fer"
   },
   {
     "item": "iron_axe",
@@ -3835,7 +3835,7 @@
         "value": "masse_deux_mains_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/masse_deux_mains_fer"
+    "target_item_def": "herobrine:weapons/masse_deux_mains_fer"
   },
   {
     "item": "iron_axe",
@@ -3845,7 +3845,7 @@
         "value": "*tetsubo*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/tetsubo_acier"
+    "target_item_def": "herobrine:weapons/tetsubo_acier"
   },
   {
     "item": "iron_axe",
@@ -3855,7 +3855,7 @@
         "value": "tetsubo_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/tetsubo_acier"
+    "target_item_def": "herobrine:weapons/tetsubo_acier"
   },
   {
     "item": "diamond_axe",
@@ -3865,7 +3865,7 @@
         "value": "*tetsubo*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/tetsubo_adamantin"
+    "target_item_def": "herobrine:weapons/tetsubo_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -3875,7 +3875,7 @@
         "value": "tetsubo_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/tetsubo_adamantin"
+    "target_item_def": "herobrine:weapons/tetsubo_adamantin"
   },
   {
     "item": "iron_axe",
@@ -3885,7 +3885,7 @@
         "value": "(?!.*acier).*?tetsubo.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/tetsubo_fer"
+    "target_item_def": "herobrine:weapons/tetsubo_fer"
   },
   {
     "item": "iron_axe",
@@ -3895,7 +3895,7 @@
         "value": "tetsubo_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/tetsubo_fer"
+    "target_item_def": "herobrine:weapons/tetsubo_fer"
   },
   {
     "item": "iron_sword",
@@ -3905,7 +3905,7 @@
         "value": "*katana*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/katana_acier"
+    "target_item_def": "herobrine:weapons/katana_acier"
   },
   {
     "item": "iron_sword",
@@ -3915,7 +3915,7 @@
         "value": "katana_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/katana_acier"
+    "target_item_def": "herobrine:weapons/katana_acier"
   },
   {
     "item": "diamond_sword",
@@ -3925,7 +3925,7 @@
         "value": "*katana*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/katana_adamantin"
+    "target_item_def": "herobrine:weapons/katana_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -3935,7 +3935,7 @@
         "value": "katana_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/katana_adamantin"
+    "target_item_def": "herobrine:weapons/katana_adamantin"
   },
   {
     "item": "iron_sword",
@@ -3945,7 +3945,7 @@
         "value": "(?!.*acier).*?katana.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/katana_fer"
+    "target_item_def": "herobrine:weapons/katana_fer"
   },
   {
     "item": "iron_sword",
@@ -3955,7 +3955,7 @@
         "value": "katana_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/katana_fer"
+    "target_item_def": "herobrine:weapons/katana_fer"
   },
   {
     "item": "iron_sword",
@@ -3965,7 +3965,7 @@
         "value": "(?!.*grand).*?messer.*?acier.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_1m_acier"
+    "target_item_def": "herobrine:weapons/messer_1m_acier"
   },
   {
     "item": "iron_sword",
@@ -3975,7 +3975,7 @@
         "value": "messer_1m_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_1m_acier"
+    "target_item_def": "herobrine:weapons/messer_1m_acier"
   },
   {
     "item": "iron_sword",
@@ -3985,7 +3985,7 @@
         "value": "messer_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_1m_acier"
+    "target_item_def": "herobrine:weapons/messer_1m_acier"
   },
   {
     "item": "diamond_sword",
@@ -3995,7 +3995,7 @@
         "value": "(?!.*grand).*?messer.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_1m_adamantin"
+    "target_item_def": "herobrine:weapons/messer_1m_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -4005,7 +4005,7 @@
         "value": "messer_1m_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_1m_adamantin"
+    "target_item_def": "herobrine:weapons/messer_1m_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -4015,7 +4015,7 @@
         "value": "messer_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_1m_adamantin"
+    "target_item_def": "herobrine:weapons/messer_1m_adamantin"
   },
   {
     "item": "iron_sword",
@@ -4025,7 +4025,7 @@
         "value": "(?!.*(?:grand|acier)).*?messer.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_1m_fer"
+    "target_item_def": "herobrine:weapons/messer_1m_fer"
   },
   {
     "item": "iron_sword",
@@ -4035,7 +4035,7 @@
         "value": "messer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_1m_fer"
+    "target_item_def": "herobrine:weapons/messer_1m_fer"
   },
   {
     "item": "iron_sword",
@@ -4045,7 +4045,7 @@
         "value": "*grand*messer*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_2m_acier"
+    "target_item_def": "herobrine:weapons/messer_2m_acier"
   },
   {
     "item": "iron_sword",
@@ -4055,7 +4055,7 @@
         "value": "messer_2m_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_2m_acier"
+    "target_item_def": "herobrine:weapons/messer_2m_acier"
   },
   {
     "item": "diamond_sword",
@@ -4065,7 +4065,7 @@
         "value": "*grand*messer*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_2m_adamantin"
+    "target_item_def": "herobrine:weapons/messer_2m_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -4075,7 +4075,7 @@
         "value": "messer_2m_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_2m_adamantin"
+    "target_item_def": "herobrine:weapons/messer_2m_adamantin"
   },
   {
     "item": "iron_sword",
@@ -4085,7 +4085,7 @@
         "value": "(?!.*acier).*?grand.*?messer.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_2m_fer"
+    "target_item_def": "herobrine:weapons/messer_2m_fer"
   },
   {
     "item": "iron_sword",
@@ -4095,7 +4095,7 @@
         "value": "messer_2m_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_2m_fer"
+    "target_item_def": "herobrine:weapons/messer_2m_fer"
   },
   {
     "item": "iron_sword",
@@ -4105,7 +4105,7 @@
         "value": "messer_2m"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/messer_2m_fer"
+    "target_item_def": "herobrine:weapons/messer_2m_fer"
   },
   {
     "item": "iron_axe",
@@ -4115,7 +4115,7 @@
         "value": "*nodachi*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/nodachi_acier"
+    "target_item_def": "herobrine:weapons/nodachi_acier"
   },
   {
     "item": "iron_axe",
@@ -4125,7 +4125,7 @@
         "value": "nodachi_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/nodachi_acier"
+    "target_item_def": "herobrine:weapons/nodachi_acier"
   },
   {
     "item": "diamond_axe",
@@ -4135,7 +4135,7 @@
         "value": "*nodachi*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/nodachi_adamantin"
+    "target_item_def": "herobrine:weapons/nodachi_adamantin"
   },
   {
     "item": "diamond_axe",
@@ -4145,7 +4145,7 @@
         "value": "nodachi_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/nodachi_adamantin"
+    "target_item_def": "herobrine:weapons/nodachi_adamantin"
   },
   {
     "item": "iron_axe",
@@ -4155,7 +4155,7 @@
         "value": "(?!.*acier).*?nodachi.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/nodachi_fer"
+    "target_item_def": "herobrine:weapons/nodachi_fer"
   },
   {
     "item": "iron_axe",
@@ -4165,7 +4165,7 @@
         "value": "nodachi_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/nodachi_fer"
+    "target_item_def": "herobrine:weapons/nodachi_fer"
   },
   {
     "item": "iron_sword",
@@ -4175,7 +4175,7 @@
         "value": "*sabre*acier*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/sabre_acier"
+    "target_item_def": "herobrine:weapons/sabre_acier"
   },
   {
     "item": "iron_sword",
@@ -4185,7 +4185,7 @@
         "value": "sabre_acier"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/sabre_acier"
+    "target_item_def": "herobrine:weapons/sabre_acier"
   },
   {
     "item": "diamond_sword",
@@ -4195,7 +4195,7 @@
         "value": "*sabre*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/sabre_adamantin"
+    "target_item_def": "herobrine:weapons/sabre_adamantin"
   },
   {
     "item": "diamond_sword",
@@ -4205,7 +4205,7 @@
         "value": "sabre_adamantin"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/sabre_adamantin"
+    "target_item_def": "herobrine:weapons/sabre_adamantin"
   },
   {
     "item": "iron_sword",
@@ -4215,7 +4215,7 @@
         "value": "(?!.*acier).*?sabre.*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/sabre_fer"
+    "target_item_def": "herobrine:weapons/sabre_fer"
   },
   {
     "item": "iron_sword",
@@ -4225,7 +4225,7 @@
         "value": "sabre_fer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/sabre_fer"
+    "target_item_def": "herobrine:weapons/sabre_fer"
   },
   {
     "item": "bow",
@@ -4235,7 +4235,7 @@
         "value": "*arc*long*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/arc_long"
+    "target_item_def": "herobrine:weapons/arc_long"
   },
   {
     "item": "bow",
@@ -4245,7 +4245,7 @@
         "value": "arc_long"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/arc_long"
+    "target_item_def": "herobrine:weapons/arc_long"
   },
   {
     "item": "bow",
@@ -4255,7 +4255,7 @@
         "value": ".*?arc.*?renforc[\\u00e9e].*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/arc_renforce"
+    "target_item_def": "herobrine:weapons/arc_renforce"
   },
   {
     "item": "bow",
@@ -4265,7 +4265,7 @@
         "value": "arc_renforce"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/arc_renforce"
+    "target_item_def": "herobrine:weapons/arc_renforce"
   },
   {
     "item": "bow",
@@ -4275,7 +4275,7 @@
         "value": "arc"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/arc_renforce"
+    "target_item_def": "herobrine:weapons/arc_renforce"
   },
   {
     "item": "iron_sword",
@@ -4285,7 +4285,7 @@
         "value": "*couteau*lancer*"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/couteau_lancer"
+    "target_item_def": "herobrine:weapons/couteau_lancer"
   },
   {
     "item": "iron_sword",
@@ -4295,7 +4295,7 @@
         "value": "couteau_lancer"
       }
     },
-    "target_item_def": "herobrine:combat/weapons/couteau_lancer"
+    "target_item_def": "herobrine:weapons/couteau_lancer"
   },
   {
     "item": "iron_boots",
