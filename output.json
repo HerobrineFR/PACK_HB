@@ -5651,7 +5651,7 @@
         "value": "drogue_base"
       }
     },
-    "target_item_def": "herobrine:drogue_base"
+    "target_item_def": "dementium:drogue_base"
   },
   {
     "item": "bowl",
@@ -5661,7 +5661,7 @@
         "value": "chenielle"
       }
     },
-    "target_item_def": "herobrine:chenielle"
+    "target_item_def": "dementium:chenielle"
   },
   {
     "item": "stick",
@@ -5681,7 +5681,7 @@
         "value": "fiole"
       }
     },
-    "target_item_def": "herobrine:filled_drug_flask"
+    "target_item_def": "dementium:filled_drug_flask"
   },
   {
     "item": "glass_bottle",
@@ -5691,7 +5691,7 @@
         "value": "fiole"
       }
     },
-    "target_item_def": "herobrine:empty_drug_flask"
+    "target_item_def": "dementium:empty_drug_flask"
   },
   {
     "item": "bowl",
@@ -5701,7 +5701,7 @@
         "value": "sapiere"
       }
     },
-    "target_item_def": "herobrine:sapiere"
+    "target_item_def": "dementium:sapiere"
   },
   {
     "item": "potion",
@@ -5811,7 +5811,7 @@
         "value": ".*Flasque.*"
       }
     },
-    "target_item_def": "herobrine:empty_flask"
+    "target_item_def": "herobrine:filled_flask"
   },
   {
     "item": "potion",
@@ -5821,7 +5821,7 @@
         "value": "flasque"
       }
     },
-    "target_item_def": "herobrine:empty_flask"
+    "target_item_def": "herobrine:filled_flask"
   },
   {
     "item": "glass_bottle",

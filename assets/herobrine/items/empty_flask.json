@@ -1,12 +1,6 @@
 {
   "model": {
     "type": "model",
-    "model": "herobrine:item/flasque",
-    "tints": [
-      {
-        "type": "minecraft:potion",
-        "default": 16448250
-      }
-    ]
+    "model": "herobrine:item/flasque_vide_from_glass_bottle"
   }
 }
