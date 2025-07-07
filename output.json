@@ -905,7 +905,7 @@
         "value": "(?!.*(?:b[\\u00e2a]tarde|longue)).*?fourreau.*?[\\u00e9e]p[\\u00e9e]e.*"
       }
     },
-    "target_item_def": "herobrine:sword_fourreau"
+    "target_item_def": "herobrine:sword_sheath"
   },
   {
     "item": "wooden_sword",
@@ -915,7 +915,7 @@
         "value": "fourreau"
       }
     },
-    "target_item_def": "herobrine:sword_fourreau"
+    "target_item_def": "herobrine:sword_sheath"
   },
   {
     "item": "leather",
