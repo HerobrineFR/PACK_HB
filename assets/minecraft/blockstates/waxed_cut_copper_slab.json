@@ -4,7 +4,7 @@
       "model": "minecraft:block/waxed_cut_copper_slab"
     },
     "type=double": {
-      "model": "minecraft:block/waxed_cut_copper"
+      "model": "minecraft:block/raw_gold_block"
     },
     "type=top": {
       "model": "minecraft:block/waxed_cut_copper_slab_top"
