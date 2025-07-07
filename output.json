@@ -385,7 +385,7 @@
         "value": "jaspe_rouge"
       }
     },
-    "target_item_def": "herobrine:red_jasper_jem"
+    "target_item_def": "herobrine:red_jasper_gem"
   },
   {
     "item": "lapis_lazuli",
@@ -4365,7 +4365,9 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:steel_boots"
+    "target_item_def": "herobrine:steel_boots",
+    "target_armor_def": "herobrine:full_steel",
+    "target_armor_slot": "feet"
   },
   {
     "item": "iron_helmet",
@@ -4387,7 +4389,9 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:steel_helmet"
+    "target_item_def": "herobrine:steel_helmet",
+    "target_armor_def": "herobrine:full_steel",
+    "target_armor_slot": "head"
   },
   {
     "item": "iron_leggings",
@@ -4409,7 +4413,9 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:steel_leggings"
+    "target_item_def": "herobrine:steel_leggings",
+    "target_armor_def": "herobrine:full_steel",
+    "target_armor_slot": "legs"
   },
   {
     "item": "iron_chestplate",
@@ -4431,7 +4437,9 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:steel_chestplate"
+    "target_item_def": "herobrine:steel_chestplate",
+    "target_armor_def": "herobrine:full_steel",
+    "target_armor_slot": "chest"
   },
   {
     "item": "iron_boots",
@@ -4441,7 +4449,9 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:steel_boots"
+    "target_item_def": "herobrine:steel_boots",
+    "target_armor_def": "herobrine:full_steel",
+    "target_armor_slot": "feet"
   },
   {
     "item": "iron_helmet",
@@ -4451,7 +4461,9 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:steel_helmet"
+    "target_item_def": "herobrine:steel_helmet",
+    "target_armor_def": "herobrine:full_steel",
+    "target_armor_slot": "head"
   },
   {
     "item": "iron_leggings",
@@ -4461,7 +4473,9 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:steel_leggings"
+    "target_item_def": "herobrine:steel_leggings",
+    "target_armor_def": "herobrine:full_steel",
+    "target_armor_slot": "legs"
   },
   {
     "item": "iron_chestplate",
@@ -4471,7 +4485,9 @@
         "value": "acier_complete"
       }
     },
-    "target_item_def": "herobrine:steel_chestplate"
+    "target_item_def": "herobrine:steel_chestplate",
+    "target_armor_def": "herobrine:full_steel",
+    "target_armor_slot": "chest"
   },
   {
     "item": "diamond_boots",
