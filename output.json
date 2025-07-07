@@ -11129,6 +11129,7 @@
       }
     },
     "target_armor_def": "collectif_radiant:lunettes1",
+    "target_item_def": "collectif_radiant:lunettes",
     "target_armor_slot": "head",
     "is_elytra": false
   },
@@ -11145,6 +11146,7 @@
       }
     },
     "target_armor_def": "collectif_radiant:lunettes2",
+    "target_item_def": "collectif_radiant:lunettes",
     "target_armor_slot": "head",
     "is_elytra": false
   },
