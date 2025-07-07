@@ -1,0 +1,1 @@
+{"textures":{"0":"bettermodel:item/player_limb/one_pixel","particle":"bettermodel:item/player_limb/one_pixel"},"elements":[{"from":[8.0,9.875,10.125],"to":[9.0,10.9375,10.125],"faces":{"south":{"uv":[0,0,16,16],"tintindex":0,"texture":"#0"}}}]}

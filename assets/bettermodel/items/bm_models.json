@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","fallback":{"type":"minecraft:model","model":"minecraft:item/leather_horse_armor"},"entries":[]}}
