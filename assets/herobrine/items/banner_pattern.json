@@ -12,6 +12,13 @@
         }
       },
       {
+        "when": "#herobrine:villages",
+        "model": {
+          "type": "minecraft:model",
+          "model": "herobrine:item/banner_pattern/villages"
+        }
+      },
+      {
         "when": "#minecraft:pattern_item/globe",
         "model": {
           "type": "minecraft:model",
