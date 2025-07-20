@@ -35,5 +35,12 @@
     "showInDenseFog": true
     },
   "sunSkyTint": true
-}
+},
+"conditions": {
+      "worlds": {
+          "entries": [
+                  "minecraft:overworld"
+              ]
+      }
+  }
 }
