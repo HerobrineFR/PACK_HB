@@ -1,0 +1,64 @@
+name: Build Resource Pack
+on:
+  workflow_dispatch:
+
+jobs:
+  packsquash:
+    name: Optimize resource pack
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      - name: Settup Discord Webhook
+        id: webhook
+        run: echo "WEBHOOK=${{secrets.WEBHOOK}}" >> $GITHUB_ENV
+      - name: Delete unused sound
+        run: rm -rf **/hocy.ogg
+      - name: Get current date
+        id: tag
+        run: echo "tag=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
+      - name: Set release name
+        run: echo "RELEASE_NAME=HBCubemonde_${{env.date}}" >> $GITHUB_ENV
+      - name: Clone repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # A non-shallow repository clone is required
+          
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            # Optimize the pack in the root repository directory.
+            # This is the default value for pack_directory when no PackSquash options are defined
+            pack_directory = '.'
+
+            # Set a custom output file path to work with the generated ZIP file
+            # without needing to download its artifact in a separate step
+            output_file_path = "/tmp/${{env.RELEASE_NAME}}.zip"
+            
+            allow_mods = ['OptiFine']
+
+            ['assets/nuit/sky/overworld/stars.png']
+            force_include = true
+                        
+            # prettify shaders
+            ['**/*?.{fsh,vsh,glsl}']
+            shader_source_transformation_strategy = 'keep_as_is'
+            
+      - name: Tag and create release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{env.date}}
+          name: ${{env.date}}
+          files: /tmp/${{env.RELEASE_NAME}}.zip
+      
+      - name: Get Current Release
+        id: get_current_release
+        uses: joutvhu/get-release@v1
+        with:
+          latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
