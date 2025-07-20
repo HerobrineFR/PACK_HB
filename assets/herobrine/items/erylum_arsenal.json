@@ -1,0 +1,170 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "prestige",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:charge_type",
+          "cases": [
+            {
+              "when": "arrow",
+              "model": {
+                "type": "minecraft:model",
+                "model": "herobrine:item/erylum_arsenal/prestige_charged"
+              }
+            },
+            {
+              "when": "rocket",
+              "model": {
+                "type": "minecraft:model",
+                "model": "herobrine:item/erylum_arsenal/prestige_charged"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:range_dispatch",
+              "property": "minecraft:crossbow/pull",
+              "entries": [
+                {
+                  "threshold": 0.58,
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "herobrine:item/erylum_arsenal/prestige_pulling_1"
+                  }
+                },
+                {
+                  "threshold": 1,
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "herobrine:item/erylum_arsenal/prestige_pulling_2"
+                  }
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "herobrine:item/erylum_arsenal/prestige_pulling_0"
+              }
+            },
+            "on_false": {
+              "type": "minecraft:model",
+              "model": "herobrine:item/erylum_arsenal/prestige"
+            }
+          }
+        }
+      },
+      {
+        "when": "involved",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:charge_type",
+          "cases": [
+            {
+              "when": "arrow",
+              "model": {
+                "type": "minecraft:model",
+                "model": "herobrine:item/erylum_arsenal/involved_charged"
+              }
+            },
+            {
+              "when": "rocket",
+              "model": {
+                "type": "minecraft:model",
+                "model": "herobrine:item/erylum_arsenal/involved_charged"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:range_dispatch",
+              "property": "minecraft:crossbow/pull",
+              "entries": [
+                {
+                  "threshold": 0.58,
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "herobrine:item/erylum_arsenal/involved_pulling_1"
+                  }
+                },
+                {
+                  "threshold": 1,
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "herobrine:item/erylum_arsenal/involved_pulling_2"
+                  }
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "herobrine:item/erylum_arsenal/involved_pulling_0"
+              }
+            },
+            "on_false": {
+              "type": "minecraft:model",
+              "model": "herobrine:item/erylum_arsenal/involved"
+            }
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:charge_type",
+      "cases": [
+        {
+          "when": "arrow",
+          "model": {
+            "type": "minecraft:model",
+            "model": "herobrine:item/erylum_arsenal/default_charged"
+          }
+        },
+        {
+          "when": "rocket",
+          "model": {
+            "type": "minecraft:model",
+            "model": "herobrine:item/erylum_arsenal/default_charged"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:condition",
+        "property": "minecraft:using_item",
+        "on_true": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:crossbow/pull",
+          "entries": [
+            {
+              "threshold": 0.58,
+              "model": {
+                "type": "minecraft:model",
+                "model": "herobrine:item/erylum_arsenal/default_pulling_1"
+              }
+            },
+            {
+              "threshold": 1,
+              "model": {
+                "type": "minecraft:model",
+                "model": "herobrine:item/erylum_arsenal/default_pulling_2"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "herobrine:item/erylum_arsenal/default_pulling_0"
+          }
+        },
+        "on_false": {
+          "type": "minecraft:model",
+          "model": "herobrine:item/erylum_arsenal/default"
+        }
+      }
+    }
+  }
+}
