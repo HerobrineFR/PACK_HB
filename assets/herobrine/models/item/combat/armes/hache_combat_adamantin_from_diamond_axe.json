@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_axe",
+  "parent": "item/diamond_axe",
   "textures": {
     "layer0": "herobrine:item/combat/armes/hache_combat_adamantin"
   }

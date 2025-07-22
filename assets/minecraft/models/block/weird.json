@@ -1,8 +1,7 @@
 {
-    "parent": "minecraft:block/cube_column",
-    "textures": {
-      "end": "minecraft:block/weird",
-      "side": "minecraft:block/weird"
-    }
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "block/weird",
+    "side": "block/weird"
   }
-  
+}

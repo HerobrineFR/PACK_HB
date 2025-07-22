@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/template_orientable_trapdoor_top",
-    "textures": {
-        "texture": "minecraft:block/oak_trapdoor"
-    }
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "block/oak_trapdoor"
+  }
 }

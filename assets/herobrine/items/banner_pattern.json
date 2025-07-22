@@ -1,96 +1,96 @@
 {
   "model": {
-    "type": "minecraft:select",
-    "property": "minecraft:component",
-    "component": "minecraft:provides_banner_patterns",
+    "type": "select",
+    "property": "component",
+    "component": "provides_banner_patterns",
     "cases": [
       {
         "when": "#academie:dormitories",
         "model": {
-          "type": "minecraft:model",
+          "type": "model",
           "model": "herobrine:item/banner_pattern/dormitories"
         }
       },
       {
         "when": "#herobrine:villages",
         "model": {
-          "type": "minecraft:model",
+          "type": "model",
           "model": "herobrine:item/banner_pattern/villages"
         }
       },
       {
-        "when": "#minecraft:pattern_item/globe",
+        "when": "#pattern_item/globe",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/globe_banner_pattern"
+          "type": "model",
+          "model": "item/globe_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/flow",
+        "when": "#pattern_item/flow",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/flow_banner_pattern"
+          "type": "model",
+          "model": "item/flow_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/bordure_indented",
+        "when": "#pattern_item/bordure_indented",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/bordure_indented_banner_pattern"
+          "type": "model",
+          "model": "item/bordure_indented_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/guster",
+        "when": "#pattern_item/guster",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/guster_banner_pattern"
+          "type": "model",
+          "model": "item/guster_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/field_masoned",
+        "when": "#pattern_item/field_masoned",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/field_masoned_banner_pattern"
+          "type": "model",
+          "model": "item/field_masoned_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/mojang",
+        "when": "#pattern_item/mojang",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/mojang_banner_pattern"
+          "type": "model",
+          "model": "item/mojang_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/skull",
+        "when": "#pattern_item/skull",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/skull_banner_pattern"
+          "type": "model",
+          "model": "item/skull_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/creeper",
+        "when": "#pattern_item/creeper",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/creeper_banner_pattern"
+          "type": "model",
+          "model": "item/creeper_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/piglin",
+        "when": "#pattern_item/piglin",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/piglin_banner_pattern"
+          "type": "model",
+          "model": "item/piglin_banner_pattern"
         }
       },
       {
-        "when": "#minecraft:pattern_item/flower",
+        "when": "#pattern_item/flower",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/flower_banner_pattern"
+          "type": "model",
+          "model": "item/flower_banner_pattern"
         }
       }
     ],
     "fallback": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "herobrine:item/banner_pattern/blank"
     }
   }

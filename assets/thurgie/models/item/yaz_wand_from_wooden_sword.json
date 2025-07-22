@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/wooden_sword",
+  "parent": "item/wooden_sword",
   "textures": {
     "layer0": "thurgie:item/wand"
   }

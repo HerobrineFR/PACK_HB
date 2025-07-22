@@ -1,6 +1,6 @@
 {
   "model": {
-    "type": "minecraft:select",
+    "type": "select",
     "cases": [
       {
         "model": {
@@ -18,13 +18,13 @@
       }
     ],
     "fallback": {
-      "type": "minecraft:condition",
+      "type": "condition",
       "on_false": {
         "type": "model",
         "model": "reverence:item/armes/cross_bow_stage0_crossbow_standby"
       },
       "on_true": {
-        "type": "minecraft:range_dispatch",
+        "type": "range_dispatch",
         "entries": [
           {
             "model": {
@@ -38,17 +38,17 @@
               "type": "model",
               "model": "reverence:item/armes/cross_bow_stage3_crossbow_pulling_2"
             },
-            "threshold": 1.0
+            "threshold": 1
           }
         ],
         "fallback": {
           "type": "model",
           "model": "reverence:item/armes/cross_bow_stage1_crossbow_pulling_0"
         },
-        "property": "minecraft:crossbow/pull"
+        "property": "crossbow/pull"
       },
-      "property": "minecraft:using_item"
+      "property": "using_item"
     },
-    "property": "minecraft:charge_type"
+    "property": "charge_type"
   }
 }

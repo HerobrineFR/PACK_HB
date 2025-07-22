@@ -1,32 +1,18 @@
 {
-    "providers": [
-        {
-            "type": "ttf",
-            "file": "minecraft:eyliaren.ttf",
-            "size": 12.0,
-            "oversample": 20.0,
-	    "skip": [
-		" ",
-		",",
-		".",
-		":",
-		"(",
-		")",
-		"?",
-		"!",
-		"é",
-		"è",
-		"à",
-		"'",
-		"\""
-	    ]
-        },
-	{
-            "type": "ttf",
-            "file": "minecraft:alkhemikal.ttf",
-            "shift": [0, 0.5],
-            "size": 11.0,
-            "oversample": 6.0
-        }
-    ]
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "eyliaren.ttf",
+      "size": 12,
+      "oversample": 20,
+      "skip": [" ", ",", ".", ":", "(", ")", "?", "!", "é", "è", "à", "'", "\""]
+    },
+    {
+      "type": "ttf",
+      "file": "alkhemikal.ttf",
+      "shift": [0, 0.5],
+      "size": 11,
+      "oversample": 6
+    }
+  ]
 }

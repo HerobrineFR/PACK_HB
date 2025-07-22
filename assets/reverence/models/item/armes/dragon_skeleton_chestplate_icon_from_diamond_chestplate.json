@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_chestplate",
+  "parent": "item/diamond_chestplate",
   "textures": {
     "layer0": "reverence:item/armes/dragon_skeleton_chestplate"
   }

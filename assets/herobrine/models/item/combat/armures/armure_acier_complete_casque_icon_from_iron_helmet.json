@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_helmet",
+  "parent": "item/iron_helmet",
   "textures": {
     "layer0": "herobrine:item/combat/armures/armure_acier_complete_casque_icon"
   }

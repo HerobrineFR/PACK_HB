@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "minecraft:item/textures/block/fireflies",
+    "all": "item/textures/block/fireflies",
     "particle": "#all"
   }
 }

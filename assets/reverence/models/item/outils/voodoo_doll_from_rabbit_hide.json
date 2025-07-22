@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/rabbit_hide",
+  "parent": "item/rabbit_hide",
   "textures": {
     "layer0": "reverence:item/outils/voodoo_doll"
   }

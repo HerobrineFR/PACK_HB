@@ -1,41 +1,63 @@
 {
-	"ambientocclusion": false,
-	"textures": {
-		"particle": "block/iron_bars",
-		"bars": "block/iron_bars",
-		"edge": "block/iron_bars"
-	},
-	"elements": [
-		{
-			"from": [8, 0, 0],
-			"to": [8, 16, 8],
-			"faces": {
-				"west": {"uv": [16, 0, 8, 16], "texture": "#bars"},
-				"east": {"uv": [8, 0, 16, 16], "texture": "#bars"}
-			}
-		},
-		{
-			"from": [7, 0, 0],
-			"to": [9, 16, 7],
-			"faces": {
-				"north": {"uv": [7, 0, 9, 16], "texture": "#bars", "cullface": "north"}
-			}
-		},
-		{
-			"from": [7, 0.008, 0],
-			"to": [9, 0.008, 7],
-			"faces": {
-				"down": {"uv": [9, 0, 7, 7], "texture": "#bars"},
-				"up": {"uv": [7, 0, 9, 7], "texture": "#bars"}
-			}
-		},
-		{
-			"from": [7, 15.992, 0],
-			"to": [9, 15.992, 7],
-			"faces": {
-				"down": {"uv": [9, 0, 7, 7], "texture": "#bars"},
-				"up": {"uv": [7, 0, 9, 7], "texture": "#bars"}
-			}
-		}
-	]
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "block/iron_bars",
+    "bars": "block/iron_bars",
+    "edge": "block/iron_bars"
+  },
+  "elements": [
+    {
+      "from": [8, 0, 0],
+      "to": [8, 16, 8],
+      "faces": {
+        "west": {
+          "uv": [16, 0, 8, 16],
+          "texture": "#bars"
+        },
+        "east": {
+          "uv": [8, 0, 16, 16],
+          "texture": "#bars"
+        }
+      }
+    },
+    {
+      "from": [7, 0, 0],
+      "to": [9, 16, 7],
+      "faces": {
+        "north": {
+          "uv": [7, 0, 9, 16],
+          "texture": "#bars",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "from": [7, 0.008, 0],
+      "to": [9, 0.008, 7],
+      "faces": {
+        "down": {
+          "uv": [9, 0, 7, 7],
+          "texture": "#bars"
+        },
+        "up": {
+          "uv": [7, 0, 9, 7],
+          "texture": "#bars"
+        }
+      }
+    },
+    {
+      "from": [7, 15.992, 0],
+      "to": [9, 15.992, 7],
+      "faces": {
+        "down": {
+          "uv": [9, 0, 7, 7],
+          "texture": "#bars"
+        },
+        "up": {
+          "uv": [7, 0, 9, 7],
+          "texture": "#bars"
+        }
+      }
+    }
+  ]
 }

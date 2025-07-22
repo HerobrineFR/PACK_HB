@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/writable_book",
+  "parent": "item/writable_book",
   "textures": {
     "layer0": "phalanstere:item/livre_blanc"
   }

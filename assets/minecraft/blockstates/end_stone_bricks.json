@@ -1,7 +1,9 @@
 {
-    "variants": {
-        "": [
-            { "model": "herobrine:block/artefact" }
-        ]
-    }
+  "variants": {
+    "": [
+      {
+        "model": "herobrine:block/artefact"
+      }
+    ]
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/spider_eye",
+  "parent": "item/spider_eye",
   "textures": {
     "layer0": "reverence:item/ressources/spider_leg"
   }

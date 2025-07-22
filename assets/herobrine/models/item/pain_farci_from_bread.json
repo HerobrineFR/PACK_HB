@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/bread",
+  "parent": "item/bread",
   "textures": {
     "layer0": "herobrine:item/pain_farci"
   }

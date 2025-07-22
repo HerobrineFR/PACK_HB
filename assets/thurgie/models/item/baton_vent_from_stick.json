@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/stick",
+  "parent": "item/stick",
   "textures": {
     "layer0": "thurgie:item/baton_vent"
   }

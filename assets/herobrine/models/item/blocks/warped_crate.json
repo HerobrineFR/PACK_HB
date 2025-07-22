@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "minecraft:item/textures/block/warped_crate",
+    "all": "item/textures/block/warped_crate",
     "particle": "#all"
   }
 }

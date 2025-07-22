@@ -1,8 +1,8 @@
 {
-    "parent": "minecraft:block/stairs",
-    "textures": {
-      "bottom": "minecraft:block/weird",
-      "top": "minecraft:block/weird",
-      "side": "minecraft:block/weird"
-    }
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "block/weird",
+    "top": "block/weird",
+    "side": "block/weird"
   }
+}

@@ -1,23 +1,25 @@
-{"providers":[
-	{
-        "file":"herobrine:dormitories/glorium.png",
-        "chars":["g"],
-        "height":13,
-        "ascent":10,
-        "type":"bitmap"
+{
+  "providers": [
+    {
+      "file": "herobrine:dormitories/glorium.png",
+      "chars": ["g"],
+      "height": 13,
+      "ascent": 10,
+      "type": "bitmap"
     },
     {
-        "file":"herobrine:dormitories/vaem.png",
-        "chars":["v"],
-        "height":13,
-        "ascent":10,
-        "type":"bitmap"
+      "file": "herobrine:dormitories/vaem.png",
+      "chars": ["v"],
+      "height": 13,
+      "ascent": 10,
+      "type": "bitmap"
     },
     {
-        "file":"herobrine:dormitories/heclem.png",
-        "chars":["h"],
-        "height":13,
-        "ascent":10,
-        "type":"bitmap"
+      "file": "herobrine:dormitories/heclem.png",
+      "chars": ["h"],
+      "height": 13,
+      "ascent": 10,
+      "type": "bitmap"
     }
-]}
+  ]
+}

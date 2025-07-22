@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/feather",
+  "parent": "item/feather",
   "textures": {
     "layer0": "reverence:item/ressources/black_feather"
   }

@@ -1,28 +1,45 @@
 {
-	"format_version": "1.21.6",
-	"credit": "lily pad1 荷叶1",
-	"ambientocclusion": false,
-	"textures": {
-		"0": "block/lily_pad/lily_pad",
-		"2": "block/lily_pad/lily_pad_2",
-		"particle": "block/lily_pad/lily_pad"
-	},
-	"elements": [
-		{
-			"from": [3, 0, 3],
-			"to": [15, 0, 15],
-			"faces": {
-				"up": {"uv": [0, 0, 12, 12], "texture": "#0", "cullface": "down"},
-				"down": {"uv": [0, 0, 12, 12], "rotation": 180, "texture": "#0", "cullface": "down"}
-			}
-		},
-		{
-			"from": [6, -16, 8],
-			"to": [11, 0, 8],
-			"faces": {
-				"north": {"uv": [8, 0, 13, 16], "texture": "#2", "cullface": "down"},
-				"south": {"uv": [8, 0, 13, 16], "texture": "#2", "cullface": "down"}
-			}
-		}
-	]
+  "format_version": "1.21.6",
+  "credit": "lily pad1 荷叶1",
+  "ambientocclusion": false,
+  "textures": {
+    "0": "block/lily_pad/lily_pad",
+    "2": "block/lily_pad/lily_pad_2",
+    "particle": "block/lily_pad/lily_pad"
+  },
+  "elements": [
+    {
+      "from": [3, 0, 3],
+      "to": [15, 0, 15],
+      "faces": {
+        "up": {
+          "uv": [0, 0, 12, 12],
+          "texture": "#0",
+          "cullface": "down"
+        },
+        "down": {
+          "uv": [0, 0, 12, 12],
+          "rotation": 180,
+          "texture": "#0",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "from": [6, -16, 8],
+      "to": [11, 0, 8],
+      "faces": {
+        "north": {
+          "uv": [8, 0, 13, 16],
+          "texture": "#2",
+          "cullface": "down"
+        },
+        "south": {
+          "uv": [8, 0, 13, 16],
+          "texture": "#2",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
 }

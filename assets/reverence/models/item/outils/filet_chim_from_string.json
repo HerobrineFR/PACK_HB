@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/string",
+  "parent": "item/string",
   "textures": {
     "layer0": "reverence:item/outils/filet_chim"
   }

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/carrot_on_a_stick",
+  "parent": "item/carrot_on_a_stick",
   "textures": {
     "layer0": "collectif_radiant:item/baton_ligne"
   }

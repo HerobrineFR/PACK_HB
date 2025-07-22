@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/coal",
+  "parent": "item/coal",
   "textures": {
     "layer0": "herobrine:item/longfeu"
   }

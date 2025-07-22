@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "minecraft:block/waxed_cut_copper_slab"
+      "model": "block/waxed_cut_copper_slab"
     },
     "type=double": {
-      "model": "minecraft:block/raw_gold_block"
+      "model": "block/raw_gold_block"
     },
     "type=top": {
-      "model": "minecraft:block/waxed_cut_copper_slab_top"
+      "model": "block/waxed_cut_copper_slab_top"
     }
   }
 }

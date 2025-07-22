@@ -4,7 +4,7 @@
     "model": "herobrine:item/small_cape",
     "tints": [
       {
-        "type": "minecraft:dye",
+        "type": "dye",
         "default": -6265536
       }
     ]

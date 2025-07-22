@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_helmet",
+  "parent": "item/diamond_helmet",
   "textures": {
     "layer0": "herobrine:item/combat/armures/harnois_casque_icon"
   }
