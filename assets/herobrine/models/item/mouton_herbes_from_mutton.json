@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/mutton",
+  "parent": "item/mutton",
   "textures": {
     "layer0": "herobrine:item/mouton_herbes"
   }

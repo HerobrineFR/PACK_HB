@@ -4,7 +4,7 @@
     "model": "herobrine:item/fiole_drogue",
     "tints": [
       {
-        "type": "minecraft:potion",
+        "type": "potion",
         "default": 16448250
       }
     ]

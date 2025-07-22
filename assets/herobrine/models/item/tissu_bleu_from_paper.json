@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/paper",
+  "parent": "item/paper",
   "textures": {
     "layer0": "herobrine:item/tissu_bleu"
   }

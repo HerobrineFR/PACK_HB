@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/baked_potato",
+  "parent": "item/baked_potato",
   "textures": {
     "layer0": "herobrine:item/brochettelegume"
   }

@@ -1,12 +1,12 @@
 {
-  "parent": "minecraft:block/cube",
+  "parent": "block/cube",
   "textures": {
-    "up": "minecraft:block/oak_planks",
-    "east": "minecraft:block/oakwool",
-    "north": "minecraft:block/oakwool",
-    "particle": "minecraft:block/oakwool",
-    "south": "minecraft:block/oakwool",
-    "down": "minecraft:block/white_wool",
-    "west": "minecraft:block/oakwool"
+    "up": "block/oak_planks",
+    "east": "block/oakwool",
+    "north": "block/oakwool",
+    "particle": "block/oakwool",
+    "south": "block/oakwool",
+    "down": "block/white_wool",
+    "west": "block/oakwool"
   }
 }

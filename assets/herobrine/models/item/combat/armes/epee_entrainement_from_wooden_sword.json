@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/wooden_sword",
+  "parent": "item/wooden_sword",
   "textures": {
     "layer0": "herobrine:item/combat/armes/epee_entrainement"
   }

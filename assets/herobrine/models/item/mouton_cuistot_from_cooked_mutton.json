@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/cooked_mutton",
+  "parent": "item/cooked_mutton",
   "textures": {
     "layer0": "herobrine:item/mouton_cuistot"
   }

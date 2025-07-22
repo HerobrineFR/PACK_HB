@@ -1,52 +1,46 @@
-{"providers":[
-	{
-        "file":"herobrine:icons/eolh.png",
-        "chars":["ᛉ"],
-        "height":8,
-        "ascent":7,
-        "type":"bitmap"
+{
+  "providers": [
+    {
+      "file": "herobrine:icons/eolh.png",
+      "chars": ["ᛉ"],
+      "height": 8,
+      "ascent": 7,
+      "type": "bitmap"
     },
     {
-        "file":"herobrine:icons/montalum.png",
-        "chars":["ੈ"],
-        "height":11,
-        "ascent":10,
-        "type":"bitmap"
+      "file": "herobrine:icons/montalum.png",
+      "chars": ["ੈ"],
+      "height": 11,
+      "ascent": 10,
+      "type": "bitmap"
     },
     {
-        "type": "bitmap",
-        "file": "minecraft:font_conf/rune_isabell.png",
-        "ascent": 38,
-        "height": 75,
-        "chars":[
-            "\uE300"
-        ]
+      "type": "bitmap",
+      "file": "font_conf/rune_isabell.png",
+      "ascent": 38,
+      "height": 75,
+      "chars": [""]
     },
     {
-        "type": "bitmap",
-        "file": "minecraft:font_conf/rune_seraphin.png",
-        "ascent": 38,
-        "height": 75,
-        "chars":[
-            "\uE301"
-        ]
+      "type": "bitmap",
+      "file": "font_conf/rune_seraphin.png",
+      "ascent": 38,
+      "height": 75,
+      "chars": [""]
     },
     {
-        "type": "bitmap",
-        "file": "minecraft:font_conf/rune_takeshi.png",
-        "ascent": 37,
-        "height": 70,
-        "chars":[
-            "\uE302"
-        ]
+      "type": "bitmap",
+      "file": "font_conf/rune_takeshi.png",
+      "ascent": 37,
+      "height": 70,
+      "chars": [""]
     },
     {
-        "type": "bitmap",
-        "file": "minecraft:font_conf/rune_generique.png",
-        "ascent": 35,
-        "height": 70,
-        "chars":[
-            "\uE303"
-        ]
+      "type": "bitmap",
+      "file": "font_conf/rune_generique.png",
+      "ascent": 35,
+      "height": 70,
+      "chars": [""]
     }
-]}
+  ]
+}

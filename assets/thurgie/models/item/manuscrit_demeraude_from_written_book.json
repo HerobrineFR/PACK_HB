@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/written_book",
+  "parent": "item/written_book",
   "textures": {
     "layer0": "thurgie:item/manuscrit_demeraude"
   }

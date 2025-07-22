@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_chestplate",
+  "parent": "item/iron_chestplate",
   "textures": {
     "layer0": "confrerie:item/ecuyer_plastron_icon"
   }

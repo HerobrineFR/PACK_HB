@@ -1,66 +1,187 @@
 {
-    "variants": {
-	"instrument=harp,note=0,powered=false": { "model": "block/herobrine/dark_oak_crate" },
-	"instrument=harp,note=0,powered=true": { "model": "block/herobrine/greenschist" },
-	"instrument=harp,note=1,powered=false": { "model": "block/herobrine/greenschist_bricks" },
-	"instrument=harp,note=1,powered=true": { "model": "block/herobrine/jungle_crate" },
-	"instrument=harp,note=2,powered=false": { "model": "block/herobrine/kitchen_tile" },
-	"instrument=harp,note=2,powered=true": { "model": "block/herobrine/kyanite" },
-	"instrument=harp,note=3,powered=false": { "model": "block/herobrine/kyanite_bricks" },
-	"instrument=harp,note=4,powered=false": { "model": "block/herobrine/greenschist_pillar" },
-	"instrument=harp,note=4,powered=true": { "model": "block/herobrine/limestone" },
-	"instrument=harp,note=5,powered=false": { "model": "block/herobrine/arkose_pillar" },
-	"instrument=harp,note=5,powered=true": { "model": "block/herobrine/acacia_crate" },
-	"instrument=harp,note=6,powered=false": { "model": "block/herobrine/arkose" },
-	"instrument=harp,note=6,powered=true": { "model": "block/herobrine/arkose_bricks" },
-	"instrument=harp,note=7,powered=false": { "model": "block/herobrine/cut_chert" },
-	"instrument=harp,note=7,powered=true": { "model": "block/herobrine/birch_crate" },
-	"instrument=harp,note=8,powered=false": { "model": "block/herobrine/chert" },
-	"instrument=harp,note=8,powered=true": { "model": "block/herobrine/chert_bricks" },
-	"instrument=harp,note=9,powered=false": { "model": "block/herobrine/chiseled_arkose" },
-	"instrument=harp,note=9,powered=true": { "model": "block/herobrine/chiseled_packed_ice" },
-	"instrument=harp,note=10,powered=false": { "model": "block/herobrine/chiseled_seastone" },
-	"instrument=harp,note=10,powered=true": { "model": "block/herobrine/crimson_crate" },
-	"instrument=harp,note=11,powered=false": { "model": "block/herobrine/cut_arkoze" },
-	"instrument=harp,note=11,powered=true": { "model": "block/herobrine/cut_greenschist" },
-	"instrument=harp,note=12,powered=false": { "model": "block/herobrine/cut_kyanite" },
-	"instrument=harp,note=12,powered=true": { "model": "block/herobrine/kyanite_bricks" },
-	"instrument=harp,note=13,powered=false": { "model": "block/herobrine/limestone_bricks" },
-	"instrument=harp,note=13,powered=true": { "model": "block/herobrine/mangrove_crate" },
-	"instrument=harp,note=14,powered=false": { "model": "block/herobrine/oak_crate" },
-	"instrument=harp,note=14,powered=true": { "model": "block/herobrine/packed_ice_bricks" },
-	"instrument=harp,note=15,powered=false": { "model": "block/herobrine/polished_arkose" },
-	"instrument=harp,note=15,powered=true": { "model": "block/herobrine/polished_chert" },
-	"instrument=harp,note=16,powered=false": { "model": "block/herobrine/polished_greenschist" },
-	"instrument=harp,note=16,powered=true": { "model": "block/herobrine/polished_kyanite" },
-	"instrument=harp,note=17,powered=false": { "model": "block/herobrine/polished_limestone" },
-	"instrument=harp,note=17,powered=true": { "model": "block/herobrine/polished_packed_ice" },
-	"instrument=harp,note=18,powered=false": { "model": "block/herobrine/polished_seastone" },
-	"instrument=harp,note=18,powered=true": { "model": "block/herobrine/polished_shale" },
-	"instrument=harp,note=19,powered=true": { "model": "block/herobrine/seastone" },
-	"instrument=harp,note=20,powered=false": { "model": "block/herobrine/seastone_bricks" },
-	"instrument=harp,note=20,powered=true": { "model": "block/herobrine/shale" },
-	"instrument=harp,note=21,powered=false": { "model": "block/herobrine/shale_bricks" },
-	"instrument=harp,note=21,powered=true": { "model": "block/herobrine/snow_bricks" },
-	"instrument=harp,note=22,powered=false": { "model": "block/herobrine/spruce_crate" },
-	"instrument=harp,note=22,powered=true": { "model": "block/herobrine/warped_crate" },
-	"instrument=harp,note=23,powered=false": { "model": "block/herobrine/cut_limestone" },
-	"instrument=harp,note=23,powered=true": { "model": "block/herobrine/cut_packed_ice" },
-	"instrument=harp,note=24,powered=false": { "model": "block/herobrine/cut_seastone" },
-	"instrument=harp,note=24,powered=true": { "model": "block/herobrine/cut_shale" },
-
-	"instrument=banjo,note=0,powered=false": { "model": "block/herobrine/chiseled_greenschist" },
-	"instrument=banjo,note=0,powered=true": { "model": "block/herobrine/chiseled_chert" },
-	"instrument=banjo,note=1,powered=false": { "model": "block/herobrine/eso_cristal" },
-	"instrument=banjo,note=1,powered=true": { "model": "block/herobrine/echo_cristal" },
-	"instrument=banjo,note=2,powered=false": { "model": "block/herobrine/cristal" },
-	"instrument=banjo,note=2,powered=true": { "model": "block/herobrine/cristal" },
-	"instrument=banjo,note=3,powered=false": { "model": "block/herobrine/cristal" },
-	"instrument=banjo,note=3,powered=true": { "model": "block/herobrine/cristal" },
-	"instrument=banjo,note=4,powered=false": { "model": "block/herobrine/fireflies" },
-	"instrument=banjo,note=5,powered=false": { "model": "block/herobrine/cristal" },
-	"instrument=banjo,note=5,powered=true": { "model": "block/herobrine/dark_cristal" },
-	"instrument=banjo,note=6,powered=false": { "model": "block/herobrine/cristal" },
-	"instrument=banjo,note=6,powered=true": { "model": "block/herobrine/silver_cristal" }
+  "variants": {
+    "instrument=harp,note=0,powered=false": {
+      "model": "block/herobrine/dark_oak_crate"
+    },
+    "instrument=harp,note=0,powered=true": {
+      "model": "block/herobrine/greenschist"
+    },
+    "instrument=harp,note=1,powered=false": {
+      "model": "block/herobrine/greenschist_bricks"
+    },
+    "instrument=harp,note=1,powered=true": {
+      "model": "block/herobrine/jungle_crate"
+    },
+    "instrument=harp,note=2,powered=false": {
+      "model": "block/herobrine/kitchen_tile"
+    },
+    "instrument=harp,note=2,powered=true": {
+      "model": "block/herobrine/kyanite"
+    },
+    "instrument=harp,note=3,powered=false": {
+      "model": "block/herobrine/kyanite_bricks"
+    },
+    "instrument=harp,note=4,powered=false": {
+      "model": "block/herobrine/greenschist_pillar"
+    },
+    "instrument=harp,note=4,powered=true": {
+      "model": "block/herobrine/limestone"
+    },
+    "instrument=harp,note=5,powered=false": {
+      "model": "block/herobrine/arkose_pillar"
+    },
+    "instrument=harp,note=5,powered=true": {
+      "model": "block/herobrine/acacia_crate"
+    },
+    "instrument=harp,note=6,powered=false": {
+      "model": "block/herobrine/arkose"
+    },
+    "instrument=harp,note=6,powered=true": {
+      "model": "block/herobrine/arkose_bricks"
+    },
+    "instrument=harp,note=7,powered=false": {
+      "model": "block/herobrine/cut_chert"
+    },
+    "instrument=harp,note=7,powered=true": {
+      "model": "block/herobrine/birch_crate"
+    },
+    "instrument=harp,note=8,powered=false": {
+      "model": "block/herobrine/chert"
+    },
+    "instrument=harp,note=8,powered=true": {
+      "model": "block/herobrine/chert_bricks"
+    },
+    "instrument=harp,note=9,powered=false": {
+      "model": "block/herobrine/chiseled_arkose"
+    },
+    "instrument=harp,note=9,powered=true": {
+      "model": "block/herobrine/chiseled_packed_ice"
+    },
+    "instrument=harp,note=10,powered=false": {
+      "model": "block/herobrine/chiseled_seastone"
+    },
+    "instrument=harp,note=10,powered=true": {
+      "model": "block/herobrine/crimson_crate"
+    },
+    "instrument=harp,note=11,powered=false": {
+      "model": "block/herobrine/cut_arkoze"
+    },
+    "instrument=harp,note=11,powered=true": {
+      "model": "block/herobrine/cut_greenschist"
+    },
+    "instrument=harp,note=12,powered=false": {
+      "model": "block/herobrine/cut_kyanite"
+    },
+    "instrument=harp,note=12,powered=true": {
+      "model": "block/herobrine/kyanite_bricks"
+    },
+    "instrument=harp,note=13,powered=false": {
+      "model": "block/herobrine/limestone_bricks"
+    },
+    "instrument=harp,note=13,powered=true": {
+      "model": "block/herobrine/mangrove_crate"
+    },
+    "instrument=harp,note=14,powered=false": {
+      "model": "block/herobrine/oak_crate"
+    },
+    "instrument=harp,note=14,powered=true": {
+      "model": "block/herobrine/packed_ice_bricks"
+    },
+    "instrument=harp,note=15,powered=false": {
+      "model": "block/herobrine/polished_arkose"
+    },
+    "instrument=harp,note=15,powered=true": {
+      "model": "block/herobrine/polished_chert"
+    },
+    "instrument=harp,note=16,powered=false": {
+      "model": "block/herobrine/polished_greenschist"
+    },
+    "instrument=harp,note=16,powered=true": {
+      "model": "block/herobrine/polished_kyanite"
+    },
+    "instrument=harp,note=17,powered=false": {
+      "model": "block/herobrine/polished_limestone"
+    },
+    "instrument=harp,note=17,powered=true": {
+      "model": "block/herobrine/polished_packed_ice"
+    },
+    "instrument=harp,note=18,powered=false": {
+      "model": "block/herobrine/polished_seastone"
+    },
+    "instrument=harp,note=18,powered=true": {
+      "model": "block/herobrine/polished_shale"
+    },
+    "instrument=harp,note=19,powered=true": {
+      "model": "block/herobrine/seastone"
+    },
+    "instrument=harp,note=20,powered=false": {
+      "model": "block/herobrine/seastone_bricks"
+    },
+    "instrument=harp,note=20,powered=true": {
+      "model": "block/herobrine/shale"
+    },
+    "instrument=harp,note=21,powered=false": {
+      "model": "block/herobrine/shale_bricks"
+    },
+    "instrument=harp,note=21,powered=true": {
+      "model": "block/herobrine/snow_bricks"
+    },
+    "instrument=harp,note=22,powered=false": {
+      "model": "block/herobrine/spruce_crate"
+    },
+    "instrument=harp,note=22,powered=true": {
+      "model": "block/herobrine/warped_crate"
+    },
+    "instrument=harp,note=23,powered=false": {
+      "model": "block/herobrine/cut_limestone"
+    },
+    "instrument=harp,note=23,powered=true": {
+      "model": "block/herobrine/cut_packed_ice"
+    },
+    "instrument=harp,note=24,powered=false": {
+      "model": "block/herobrine/cut_seastone"
+    },
+    "instrument=harp,note=24,powered=true": {
+      "model": "block/herobrine/cut_shale"
+    },
+    "instrument=banjo,note=0,powered=false": {
+      "model": "block/herobrine/chiseled_greenschist"
+    },
+    "instrument=banjo,note=0,powered=true": {
+      "model": "block/herobrine/chiseled_chert"
+    },
+    "instrument=banjo,note=1,powered=false": {
+      "model": "block/herobrine/eso_cristal"
+    },
+    "instrument=banjo,note=1,powered=true": {
+      "model": "block/herobrine/echo_cristal"
+    },
+    "instrument=banjo,note=2,powered=false": {
+      "model": "block/herobrine/cristal"
+    },
+    "instrument=banjo,note=2,powered=true": {
+      "model": "block/herobrine/cristal"
+    },
+    "instrument=banjo,note=3,powered=false": {
+      "model": "block/herobrine/cristal"
+    },
+    "instrument=banjo,note=3,powered=true": {
+      "model": "block/herobrine/cristal"
+    },
+    "instrument=banjo,note=4,powered=false": {
+      "model": "block/herobrine/fireflies"
+    },
+    "instrument=banjo,note=5,powered=false": {
+      "model": "block/herobrine/cristal"
+    },
+    "instrument=banjo,note=5,powered=true": {
+      "model": "block/herobrine/dark_cristal"
+    },
+    "instrument=banjo,note=6,powered=false": {
+      "model": "block/herobrine/cristal"
+    },
+    "instrument=banjo,note=6,powered=true": {
+      "model": "block/herobrine/silver_cristal"
     }
+  }
 }

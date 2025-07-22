@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/mushroom_stew",
+  "parent": "item/mushroom_stew",
   "textures": {
     "layer0": "herobrine:item/bol_legumes"
   }

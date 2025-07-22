@@ -1,29 +1,49 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
-	"textures": {
-		"2": "block/lily_pad/lily_pad_2",
-		"3": "block/lily_pad/lily_pad_1"
-	},
-	"elements": [
-		{
-			"from": [6, -16, 8],
-			"to": [11, 0, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, -8, 8]},
-			"faces": {
-				"north": {"uv": [8, 0, 13, 16], "texture": "#2", "cullface": "down"},
-				"south": {"uv": [8, 0, 13, 16], "texture": "#2", "cullface": "down"}
-			}
-		},
-		{
-			"from": [4, 0, 4],
-			"to": [12, 0, 12],
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [9, 0, 8]},
-			"faces": {
-				"up": {"uv": [0, 8, 8, 16], "rotation": 270, "texture": "#2", "cullface": "down"},
-				"down": {"uv": [0, 0, 11, 11], "rotation": 270, "texture": "#3", "cullface": "down"}
-			}
-		}
-	]
+  "format_version": "1.21.6",
+  "ambientocclusion": false,
+  "textures": {
+    "2": "block/lily_pad/lily_pad_2",
+    "3": "block/lily_pad/lily_pad_1"
+  },
+  "elements": [
+    {
+      "from": [6, -16, 8],
+      "to": [11, 0, 8],
+      "faces": {
+        "north": {
+          "uv": [8, 0, 13, 16],
+          "texture": "#2",
+          "cullface": "down"
+        },
+        "south": {
+          "uv": [8, 0, 13, 16],
+          "texture": "#2",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "from": [4, 0, 4],
+      "to": [12, 0, 12],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [9, 0, 8]
+      },
+      "faces": {
+        "up": {
+          "uv": [0, 8, 8, 16],
+          "rotation": 270,
+          "texture": "#2",
+          "cullface": "down"
+        },
+        "down": {
+          "uv": [0, 0, 11, 11],
+          "rotation": 270,
+          "texture": "#3",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
 }

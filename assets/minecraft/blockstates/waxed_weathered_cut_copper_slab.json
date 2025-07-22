@@ -1,13 +1,13 @@
 {
-    "variants": {
-        "type=bottom": {
-            "model": "minecraft:block/weird_slab"
-        },
-        "type=double": {
-            "model": "minecraft:block/weird"
-        },
-        "type=top": {
-            "model": "minecraft:block/weird_slab_top"
-        }
+  "variants": {
+    "type=bottom": {
+      "model": "block/weird_slab"
+    },
+    "type=double": {
+      "model": "block/weird"
+    },
+    "type=top": {
+      "model": "block/weird_slab_top"
     }
+  }
 }

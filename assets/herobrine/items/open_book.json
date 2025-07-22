@@ -1,14 +1,14 @@
 {
   "model": {
-    "type": "minecraft:condition",
-    "property": "minecraft:has_component",
-    "component": "minecraft:written_book_content",
+    "type": "condition",
+    "property": "has_component",
+    "component": "written_book_content",
     "on_true": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "herobrine:item/livre_ouvert"
     },
     "on_false": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "herobrine:item/livre_ouvert_inscrivable"
     }
   }

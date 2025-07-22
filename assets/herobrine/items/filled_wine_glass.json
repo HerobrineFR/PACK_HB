@@ -4,7 +4,7 @@
     "model": "herobrine:item/verre_de_vin",
     "tints": [
       {
-        "type": "minecraft:potion",
+        "type": "potion",
         "default": 16448250
       }
     ]

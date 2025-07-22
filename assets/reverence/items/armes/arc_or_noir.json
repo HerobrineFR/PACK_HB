@@ -27,9 +27,9 @@
         "type": "model",
         "model": "reverence:item/armes/arc_or_noir_bow_pulling_0"
       },
-      "property": "minecraft:use_duration",
+      "property": "use_duration",
       "scale": 0.05
     },
-    "property": "minecraft:using_item"
+    "property": "using_item"
   }
 }

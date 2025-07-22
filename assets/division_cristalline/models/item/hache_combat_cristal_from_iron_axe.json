@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_axe",
+  "parent": "item/iron_axe",
   "textures": {
     "layer0": "division_cristalline:item/hache_combat_cristal"
   }

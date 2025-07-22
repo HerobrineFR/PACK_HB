@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_boots",
+  "parent": "item/diamond_boots",
   "textures": {
     "layer0": "reverence:item/armes/dragon_skeleton_boots"
   }

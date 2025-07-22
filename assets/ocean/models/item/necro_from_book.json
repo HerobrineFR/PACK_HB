@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/book",
+  "parent": "item/book",
   "textures": {
     "layer0": "ocean:item/necro"
   }

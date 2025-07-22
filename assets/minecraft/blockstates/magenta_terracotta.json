@@ -1,7 +1,9 @@
 {
-    "variants": {
-        "": [
-            { "model": "herobrine:block/quadrature_scroll" }
-        ]
-    }
+  "variants": {
+    "": [
+      {
+        "model": "herobrine:block/quadrature_scroll"
+      }
+    ]
+  }
 }

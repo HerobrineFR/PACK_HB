@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_boots",
+  "parent": "item/diamond_boots",
   "textures": {
     "layer0": "herobrine:item/combat/armures/harnois_bottes_icon"
   }

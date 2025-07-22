@@ -1,8 +1,7 @@
 {
-    "variants": {
-      "": {
-        "model": "minecraft:block/weird"
-      }
+  "variants": {
+    "": {
+      "model": "block/weird"
     }
   }
-  
+}

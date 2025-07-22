@@ -4,7 +4,7 @@
     "model": "herobrine:item/erlenmeyer",
     "tints": [
       {
-        "type": "minecraft:potion",
+        "type": "potion",
         "default": 16448250
       }
     ]

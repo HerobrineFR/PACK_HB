@@ -1,25 +1,25 @@
 {
   "model": {
-    "type": "minecraft:select",
-    "property": "minecraft:custom_model_data",
+    "type": "select",
+    "property": "custom_model_data",
     "cases": [
       {
         "when": "side",
         "model": {
-          "type": "minecraft:model",
+          "type": "model",
           "model": "herobrine:item/quad_side"
         }
       },
       {
         "when": "corner",
         "model": {
-          "type": "minecraft:model",
+          "type": "model",
           "model": "herobrine:item/quad_corner"
         }
       }
     ],
     "fallback": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "herobrine:item/quad_center"
     }
   }

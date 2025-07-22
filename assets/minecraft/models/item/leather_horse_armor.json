@@ -1,1 +1,7 @@
-{"overrides":[],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/leather_horse_armor"}}
+{
+  "overrides": [],
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_horse_armor"
+  }
+}

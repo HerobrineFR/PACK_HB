@@ -1,152 +1,92 @@
 {
   "ambiant.ambiance": {
-    "sounds": [
-      "minecraft:hb/ambiant/ambiance"
-    ]
+    "sounds": ["hb/ambiant/ambiance"]
   },
   "ambiant.ether": {
-    "sounds": [
-      "minecraft:hb/ambiant/ether"
-    ]
+    "sounds": ["hb/ambiant/ether"]
   },
   "ambiant.sight": {
-    "sounds": [
-      "minecraft:hb/ambiant/sight"
-    ]
+    "sounds": ["hb/ambiant/sight"]
   },
   "ambiant.wind": {
-    "sounds": [
-      "minecraft:hb/ambiant/wind"
-    ]
+    "sounds": ["hb/ambiant/wind"]
   },
   "human.breath": {
-    "sounds": [
-      "minecraft:hb/human/breath"
-    ]
+    "sounds": ["hb/human/breath"]
   },
   "human.heart": {
-    "sounds": [
-      "minecraft:hb/human/heart"
-    ]
+    "sounds": ["hb/human/heart"]
   },
   "human.rire": {
-    "sounds": [
-      "minecraft:hb/human/rire"
-    ]
+    "sounds": ["hb/human/rire"]
   },
   "human.scream": {
-    "sounds": [
-      "minecraft:hb/human/scream"
-    ]
+    "sounds": ["hb/human/scream"]
   },
   "human.souffle": {
-    "sounds": [
-      "minecraft:hb/human/souffle"
-    ]
+    "sounds": ["hb/human/souffle"]
   },
   "creature.mange": {
-    "sounds": [
-      "minecraft:hb/creature/mange"
-    ]
+    "sounds": ["hb/creature/mange"]
   },
   "creature.moan": {
-    "sounds": [
-      "minecraft:hb/creature/moan"
-    ]
+    "sounds": ["hb/creature/moan"]
   },
   "creature.monster": {
-    "sounds": [
-      "minecraft:hb/creature/monster"
-    ]
+    "sounds": ["hb/creature/monster"]
   },
   "other.bells": {
-    "sounds": [
-      "minecraft:hb/other/bells"
-    ]
+    "sounds": ["hb/other/bells"]
   },
   "other.energy": {
-    "sounds": [
-      "minecraft:hb/other/energy"
-    ]
+    "sounds": ["hb/other/energy"]
   },
   "other.hocy": {
-    "sounds": [
-      "minecraft:hb/other/hocy"
-    ]
+    "sounds": ["hb/other/hocy"]
   },
   "other.gataca": {
-    "sounds": [
-      "minecraft:hb/other/gataca"
-    ]
+    "sounds": ["hb/other/gataca"]
   },
   "pnj.chant": {
-    "sounds": [
-      "minecraft:hb/pnj/chant"
-    ]
+    "sounds": ["hb/pnj/chant"]
   },
   "pnj.laugh": {
-    "sounds": [
-      "minecraft:hb/pnj/laugh"
-    ]
+    "sounds": ["hb/pnj/laugh"]
   },
   "pnj.priere": {
-    "sounds": [
-      "minecraft:hb/pnj/priere"
-    ]
+    "sounds": ["hb/pnj/priere"]
   },
   "pnj.chasse": {
-    "sounds": [
-      "minecraft:hb/pnj/chasse"
-    ]
+    "sounds": ["hb/pnj/chasse"]
   },
   "pnj.gravity": {
-    "sounds": [
-      "minecraft:hb/pnj/gravity"
-    ]
+    "sounds": ["hb/pnj/gravity"]
   },
   "pnj.moonlight": {
-    "sounds": [
-      "minecraft:hb/pnj/moon"
-    ]
+    "sounds": ["hb/pnj/moon"]
   },
   "pnj.priro": {
-    "sounds": [
-      "minecraft:hb/pnj/chant_priro"
-    ]
+    "sounds": ["hb/pnj/chant_priro"]
   },
   "pnj.sonde": {
-    "sounds": [
-      "minecraft:hb/pnj/sonde"
-    ]
+    "sounds": ["hb/pnj/sonde"]
   },
   "pnj.oblivion": {
-    "sounds": [
-      "minecraft:hb/pnj/oblivion"
-    ]
+    "sounds": ["hb/pnj/oblivion"]
   },
   "whisper.queveuxtu": {
-    "sounds": [
-      "minecraft:hb/whisper/queveuxtu"
-    ]
+    "sounds": ["hb/whisper/queveuxtu"]
   },
   "whisper.rejoinsnous": {
-    "sounds": [
-      "minecraft:hb/whisper/rejoinsnous"
-    ]
+    "sounds": ["hb/whisper/rejoinsnous"]
   },
   "whisper.toto": {
-    "sounds": [
-      "minecraft:hb/whisper/toto"
-    ]
+    "sounds": ["hb/whisper/toto"]
   },
   "whisper.whisp": {
-    "sounds": [
-      "minecraft:hb/whisper/whisp"
-    ]
+    "sounds": ["hb/whisper/whisp"]
   },
   "other.magsyn": {
-    "sounds": [
-      "minecraft:hb/other/magsyn"
-    ]
+    "sounds": ["hb/other/magsyn"]
   }
 }

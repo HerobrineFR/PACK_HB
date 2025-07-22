@@ -1,1 +1,853 @@
-{"parent":"item/generated","textures":{"layer0":"item/clock_00"},"overrides":[{"predicate":{"time":0.0000000},"model":"item/clock"},{"predicate":{"time":0.0078125},"model":"item/clock_01"},{"predicate":{"time":0.0234375},"model":"item/clock_02"},{"predicate":{"time":0.0390625},"model":"item/clock_03"},{"predicate":{"time":0.0546875},"model":"item/clock_04"},{"predicate":{"time":0.0703125},"model":"item/clock_05"},{"predicate":{"time":0.0859375},"model":"item/clock_06"},{"predicate":{"time":0.1015625},"model":"item/clock_07"},{"predicate":{"time":0.1171875},"model":"item/clock_08"},{"predicate":{"time":0.1328125},"model":"item/clock_09"},{"predicate":{"time":0.1484375},"model":"item/clock_10"},{"predicate":{"time":0.1640625},"model":"item/clock_11"},{"predicate":{"time":0.1796875},"model":"item/clock_12"},{"predicate":{"time":0.1953125},"model":"item/clock_13"},{"predicate":{"time":0.2109375},"model":"item/clock_14"},{"predicate":{"time":0.2265625},"model":"item/clock_15"},{"predicate":{"time":0.2421875},"model":"item/clock_16"},{"predicate":{"time":0.2578125},"model":"item/clock_17"},{"predicate":{"time":0.2734375},"model":"item/clock_18"},{"predicate":{"time":0.2890625},"model":"item/clock_19"},{"predicate":{"time":0.3046875},"model":"item/clock_20"},{"predicate":{"time":0.3203125},"model":"item/clock_21"},{"predicate":{"time":0.3359375},"model":"item/clock_22"},{"predicate":{"time":0.3515625},"model":"item/clock_23"},{"predicate":{"time":0.3671875},"model":"item/clock_24"},{"predicate":{"time":0.3828125},"model":"item/clock_25"},{"predicate":{"time":0.3984375},"model":"item/clock_26"},{"predicate":{"time":0.4140625},"model":"item/clock_27"},{"predicate":{"time":0.4296875},"model":"item/clock_28"},{"predicate":{"time":0.4453125},"model":"item/clock_29"},{"predicate":{"time":0.4609375},"model":"item/clock_30"},{"predicate":{"time":0.4765625},"model":"item/clock_31"},{"predicate":{"time":0.4921875},"model":"item/clock_32"},{"predicate":{"time":0.5078125},"model":"item/clock_33"},{"predicate":{"time":0.5234375},"model":"item/clock_34"},{"predicate":{"time":0.5390625},"model":"item/clock_35"},{"predicate":{"time":0.5546875},"model":"item/clock_36"},{"predicate":{"time":0.5703125},"model":"item/clock_37"},{"predicate":{"time":0.5859375},"model":"item/clock_38"},{"predicate":{"time":0.6015625},"model":"item/clock_39"},{"predicate":{"time":0.6171875},"model":"item/clock_40"},{"predicate":{"time":0.6328125},"model":"item/clock_41"},{"predicate":{"time":0.6484375},"model":"item/clock_42"},{"predicate":{"time":0.6640625},"model":"item/clock_43"},{"predicate":{"time":0.6796875},"model":"item/clock_44"},{"predicate":{"time":0.6953125},"model":"item/clock_45"},{"predicate":{"time":0.7109375},"model":"item/clock_46"},{"predicate":{"time":0.7265625},"model":"item/clock_47"},{"predicate":{"time":0.7421875},"model":"item/clock_48"},{"predicate":{"time":0.7578125},"model":"item/clock_49"},{"predicate":{"time":0.7734375},"model":"item/clock_50"},{"predicate":{"time":0.7890625},"model":"item/clock_51"},{"predicate":{"time":0.8046875},"model":"item/clock_52"},{"predicate":{"time":0.8203125},"model":"item/clock_53"},{"predicate":{"time":0.8359375},"model":"item/clock_54"},{"predicate":{"time":0.8515625},"model":"item/clock_55"},{"predicate":{"time":0.8671875},"model":"item/clock_56"},{"predicate":{"time":0.8828125},"model":"item/clock_57"},{"predicate":{"time":0.8984375},"model":"item/clock_58"},{"predicate":{"time":0.9140625},"model":"item/clock_59"},{"predicate":{"time":0.9296875},"model":"item/clock_60"},{"predicate":{"time":0.9453125},"model":"item/clock_61"},{"predicate":{"time":0.9609375},"model":"item/clock_62"},{"predicate":{"time":0.9765625},"model":"item/clock_63"},{"predicate":{"time":0.9921875},"model":"item/clock"},{"predicate":{"time":0.0000000,"custom_model_data":100},"model":"item/watch/clock"},{"predicate":{"time":0.0078125,"custom_model_data":100},"model":"item/watch/clock_01"},{"predicate":{"time":0.0234375,"custom_model_data":100},"model":"item/watch/clock_02"},{"predicate":{"time":0.0390625,"custom_model_data":100},"model":"item/watch/clock_03"},{"predicate":{"time":0.0546875,"custom_model_data":100},"model":"item/watch/clock_04"},{"predicate":{"time":0.0703125,"custom_model_data":100},"model":"item/watch/clock_05"},{"predicate":{"time":0.0859375,"custom_model_data":100},"model":"item/watch/clock_06"},{"predicate":{"time":0.1015625,"custom_model_data":100},"model":"item/watch/clock_07"},{"predicate":{"time":0.1171875,"custom_model_data":100},"model":"item/watch/clock_08"},{"predicate":{"time":0.1328125,"custom_model_data":100},"model":"item/watch/clock_09"},{"predicate":{"time":0.1484375,"custom_model_data":100},"model":"item/watch/clock_10"},{"predicate":{"time":0.1640625,"custom_model_data":100},"model":"item/watch/clock_11"},{"predicate":{"time":0.1796875,"custom_model_data":100},"model":"item/watch/clock_12"},{"predicate":{"time":0.1953125,"custom_model_data":100},"model":"item/watch/clock_13"},{"predicate":{"time":0.2109375,"custom_model_data":100},"model":"item/watch/clock_14"},{"predicate":{"time":0.2265625,"custom_model_data":100},"model":"item/watch/clock_15"},{"predicate":{"time":0.2421875,"custom_model_data":100},"model":"item/watch/clock_16"},{"predicate":{"time":0.2578125,"custom_model_data":100},"model":"item/watch/clock_17"},{"predicate":{"time":0.2734375,"custom_model_data":100},"model":"item/watch/clock_18"},{"predicate":{"time":0.2890625,"custom_model_data":100},"model":"item/watch/clock_19"},{"predicate":{"time":0.3046875,"custom_model_data":100},"model":"item/watch/clock_20"},{"predicate":{"time":0.3203125,"custom_model_data":100},"model":"item/watch/clock_21"},{"predicate":{"time":0.3359375,"custom_model_data":100},"model":"item/watch/clock_22"},{"predicate":{"time":0.3515625,"custom_model_data":100},"model":"item/watch/clock_23"},{"predicate":{"time":0.3671875,"custom_model_data":100},"model":"item/watch/clock_24"},{"predicate":{"time":0.3828125,"custom_model_data":100},"model":"item/watch/clock_25"},{"predicate":{"time":0.3984375,"custom_model_data":100},"model":"item/watch/clock_26"},{"predicate":{"time":0.4140625,"custom_model_data":100},"model":"item/watch/clock_27"},{"predicate":{"time":0.4296875,"custom_model_data":100},"model":"item/watch/clock_28"},{"predicate":{"time":0.4453125,"custom_model_data":100},"model":"item/watch/clock_29"},{"predicate":{"time":0.4609375,"custom_model_data":100},"model":"item/watch/clock_30"},{"predicate":{"time":0.4765625,"custom_model_data":100},"model":"item/watch/clock_31"},{"predicate":{"time":0.4921875,"custom_model_data":100},"model":"item/watch/clock_32"},{"predicate":{"time":0.5078125,"custom_model_data":100},"model":"item/watch/clock_33"},{"predicate":{"time":0.5234375,"custom_model_data":100},"model":"item/watch/clock_34"},{"predicate":{"time":0.5390625,"custom_model_data":100},"model":"item/watch/clock_35"},{"predicate":{"time":0.5546875,"custom_model_data":100},"model":"item/watch/clock_36"},{"predicate":{"time":0.5703125,"custom_model_data":100},"model":"item/watch/clock_37"},{"predicate":{"time":0.5859375,"custom_model_data":100},"model":"item/watch/clock_38"},{"predicate":{"time":0.6015625,"custom_model_data":100},"model":"item/watch/clock_39"},{"predicate":{"time":0.6171875,"custom_model_data":100},"model":"item/watch/clock_40"},{"predicate":{"time":0.6328125,"custom_model_data":100},"model":"item/watch/clock_41"},{"predicate":{"time":0.6484375,"custom_model_data":100},"model":"item/watch/clock_42"},{"predicate":{"time":0.6640625,"custom_model_data":100},"model":"item/watch/clock_43"},{"predicate":{"time":0.6796875,"custom_model_data":100},"model":"item/watch/clock_44"},{"predicate":{"time":0.6953125,"custom_model_data":100},"model":"item/watch/clock_45"},{"predicate":{"time":0.7109375,"custom_model_data":100},"model":"item/watch/clock_46"},{"predicate":{"time":0.7265625,"custom_model_data":100},"model":"item/watch/clock_47"},{"predicate":{"time":0.7421875,"custom_model_data":100},"model":"item/watch/clock_48"},{"predicate":{"time":0.7578125,"custom_model_data":100},"model":"item/watch/clock_49"},{"predicate":{"time":0.7734375,"custom_model_data":100},"model":"item/watch/clock_50"},{"predicate":{"time":0.7890625,"custom_model_data":100},"model":"item/watch/clock_51"},{"predicate":{"time":0.8046875,"custom_model_data":100},"model":"item/watch/clock_52"},{"predicate":{"time":0.8203125,"custom_model_data":100},"model":"item/watch/clock_53"},{"predicate":{"time":0.8359375,"custom_model_data":100},"model":"item/watch/clock_54"},{"predicate":{"time":0.8515625,"custom_model_data":100},"model":"item/watch/clock_55"},{"predicate":{"time":0.8671875,"custom_model_data":100},"model":"item/watch/clock_56"},{"predicate":{"time":0.8828125,"custom_model_data":100},"model":"item/watch/clock_57"},{"predicate":{"time":0.8984375,"custom_model_data":100},"model":"item/watch/clock_58"},{"predicate":{"time":0.9140625,"custom_model_data":100},"model":"item/watch/clock_59"},{"predicate":{"time":0.9296875,"custom_model_data":100},"model":"item/watch/clock_60"},{"predicate":{"time":0.9453125,"custom_model_data":100},"model":"item/watch/clock_61"},{"predicate":{"time":0.9609375,"custom_model_data":100},"model":"item/watch/clock_62"},{"predicate":{"time":0.9765625,"custom_model_data":100},"model":"item/watch/clock_63"},{"predicate":{"time":0.9921875,"custom_model_data":100},"model":"item/watch/clock"}]}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/clock_00"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "time": 0
+      },
+      "model": "item/clock"
+    },
+    {
+      "predicate": {
+        "time": 0.00781
+      },
+      "model": "item/clock_01"
+    },
+    {
+      "predicate": {
+        "time": 0.02344
+      },
+      "model": "item/clock_02"
+    },
+    {
+      "predicate": {
+        "time": 0.03906
+      },
+      "model": "item/clock_03"
+    },
+    {
+      "predicate": {
+        "time": 0.05469
+      },
+      "model": "item/clock_04"
+    },
+    {
+      "predicate": {
+        "time": 0.07031
+      },
+      "model": "item/clock_05"
+    },
+    {
+      "predicate": {
+        "time": 0.08594
+      },
+      "model": "item/clock_06"
+    },
+    {
+      "predicate": {
+        "time": 0.10156
+      },
+      "model": "item/clock_07"
+    },
+    {
+      "predicate": {
+        "time": 0.11719
+      },
+      "model": "item/clock_08"
+    },
+    {
+      "predicate": {
+        "time": 0.13281
+      },
+      "model": "item/clock_09"
+    },
+    {
+      "predicate": {
+        "time": 0.14844
+      },
+      "model": "item/clock_10"
+    },
+    {
+      "predicate": {
+        "time": 0.16406
+      },
+      "model": "item/clock_11"
+    },
+    {
+      "predicate": {
+        "time": 0.17969
+      },
+      "model": "item/clock_12"
+    },
+    {
+      "predicate": {
+        "time": 0.19531
+      },
+      "model": "item/clock_13"
+    },
+    {
+      "predicate": {
+        "time": 0.21094
+      },
+      "model": "item/clock_14"
+    },
+    {
+      "predicate": {
+        "time": 0.22656
+      },
+      "model": "item/clock_15"
+    },
+    {
+      "predicate": {
+        "time": 0.24219
+      },
+      "model": "item/clock_16"
+    },
+    {
+      "predicate": {
+        "time": 0.25781
+      },
+      "model": "item/clock_17"
+    },
+    {
+      "predicate": {
+        "time": 0.27344
+      },
+      "model": "item/clock_18"
+    },
+    {
+      "predicate": {
+        "time": 0.28906
+      },
+      "model": "item/clock_19"
+    },
+    {
+      "predicate": {
+        "time": 0.30469
+      },
+      "model": "item/clock_20"
+    },
+    {
+      "predicate": {
+        "time": 0.32031
+      },
+      "model": "item/clock_21"
+    },
+    {
+      "predicate": {
+        "time": 0.33594
+      },
+      "model": "item/clock_22"
+    },
+    {
+      "predicate": {
+        "time": 0.35156
+      },
+      "model": "item/clock_23"
+    },
+    {
+      "predicate": {
+        "time": 0.36719
+      },
+      "model": "item/clock_24"
+    },
+    {
+      "predicate": {
+        "time": 0.38281
+      },
+      "model": "item/clock_25"
+    },
+    {
+      "predicate": {
+        "time": 0.39844
+      },
+      "model": "item/clock_26"
+    },
+    {
+      "predicate": {
+        "time": 0.41406
+      },
+      "model": "item/clock_27"
+    },
+    {
+      "predicate": {
+        "time": 0.42969
+      },
+      "model": "item/clock_28"
+    },
+    {
+      "predicate": {
+        "time": 0.44531
+      },
+      "model": "item/clock_29"
+    },
+    {
+      "predicate": {
+        "time": 0.46094
+      },
+      "model": "item/clock_30"
+    },
+    {
+      "predicate": {
+        "time": 0.47656
+      },
+      "model": "item/clock_31"
+    },
+    {
+      "predicate": {
+        "time": 0.49219
+      },
+      "model": "item/clock_32"
+    },
+    {
+      "predicate": {
+        "time": 0.50781
+      },
+      "model": "item/clock_33"
+    },
+    {
+      "predicate": {
+        "time": 0.52344
+      },
+      "model": "item/clock_34"
+    },
+    {
+      "predicate": {
+        "time": 0.53906
+      },
+      "model": "item/clock_35"
+    },
+    {
+      "predicate": {
+        "time": 0.55469
+      },
+      "model": "item/clock_36"
+    },
+    {
+      "predicate": {
+        "time": 0.57031
+      },
+      "model": "item/clock_37"
+    },
+    {
+      "predicate": {
+        "time": 0.58594
+      },
+      "model": "item/clock_38"
+    },
+    {
+      "predicate": {
+        "time": 0.60156
+      },
+      "model": "item/clock_39"
+    },
+    {
+      "predicate": {
+        "time": 0.61719
+      },
+      "model": "item/clock_40"
+    },
+    {
+      "predicate": {
+        "time": 0.63281
+      },
+      "model": "item/clock_41"
+    },
+    {
+      "predicate": {
+        "time": 0.64844
+      },
+      "model": "item/clock_42"
+    },
+    {
+      "predicate": {
+        "time": 0.66406
+      },
+      "model": "item/clock_43"
+    },
+    {
+      "predicate": {
+        "time": 0.67969
+      },
+      "model": "item/clock_44"
+    },
+    {
+      "predicate": {
+        "time": 0.69531
+      },
+      "model": "item/clock_45"
+    },
+    {
+      "predicate": {
+        "time": 0.71094
+      },
+      "model": "item/clock_46"
+    },
+    {
+      "predicate": {
+        "time": 0.72656
+      },
+      "model": "item/clock_47"
+    },
+    {
+      "predicate": {
+        "time": 0.74219
+      },
+      "model": "item/clock_48"
+    },
+    {
+      "predicate": {
+        "time": 0.75781
+      },
+      "model": "item/clock_49"
+    },
+    {
+      "predicate": {
+        "time": 0.77344
+      },
+      "model": "item/clock_50"
+    },
+    {
+      "predicate": {
+        "time": 0.78906
+      },
+      "model": "item/clock_51"
+    },
+    {
+      "predicate": {
+        "time": 0.80469
+      },
+      "model": "item/clock_52"
+    },
+    {
+      "predicate": {
+        "time": 0.82031
+      },
+      "model": "item/clock_53"
+    },
+    {
+      "predicate": {
+        "time": 0.83594
+      },
+      "model": "item/clock_54"
+    },
+    {
+      "predicate": {
+        "time": 0.85156
+      },
+      "model": "item/clock_55"
+    },
+    {
+      "predicate": {
+        "time": 0.86719
+      },
+      "model": "item/clock_56"
+    },
+    {
+      "predicate": {
+        "time": 0.88281
+      },
+      "model": "item/clock_57"
+    },
+    {
+      "predicate": {
+        "time": 0.89844
+      },
+      "model": "item/clock_58"
+    },
+    {
+      "predicate": {
+        "time": 0.91406
+      },
+      "model": "item/clock_59"
+    },
+    {
+      "predicate": {
+        "time": 0.92969
+      },
+      "model": "item/clock_60"
+    },
+    {
+      "predicate": {
+        "time": 0.94531
+      },
+      "model": "item/clock_61"
+    },
+    {
+      "predicate": {
+        "time": 0.96094
+      },
+      "model": "item/clock_62"
+    },
+    {
+      "predicate": {
+        "time": 0.97656
+      },
+      "model": "item/clock_63"
+    },
+    {
+      "predicate": {
+        "time": 0.99219
+      },
+      "model": "item/clock"
+    },
+    {
+      "predicate": {
+        "time": 0,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock"
+    },
+    {
+      "predicate": {
+        "time": 0.00781,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_01"
+    },
+    {
+      "predicate": {
+        "time": 0.02344,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_02"
+    },
+    {
+      "predicate": {
+        "time": 0.03906,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_03"
+    },
+    {
+      "predicate": {
+        "time": 0.05469,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_04"
+    },
+    {
+      "predicate": {
+        "time": 0.07031,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_05"
+    },
+    {
+      "predicate": {
+        "time": 0.08594,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_06"
+    },
+    {
+      "predicate": {
+        "time": 0.10156,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_07"
+    },
+    {
+      "predicate": {
+        "time": 0.11719,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_08"
+    },
+    {
+      "predicate": {
+        "time": 0.13281,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_09"
+    },
+    {
+      "predicate": {
+        "time": 0.14844,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_10"
+    },
+    {
+      "predicate": {
+        "time": 0.16406,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_11"
+    },
+    {
+      "predicate": {
+        "time": 0.17969,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_12"
+    },
+    {
+      "predicate": {
+        "time": 0.19531,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_13"
+    },
+    {
+      "predicate": {
+        "time": 0.21094,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_14"
+    },
+    {
+      "predicate": {
+        "time": 0.22656,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_15"
+    },
+    {
+      "predicate": {
+        "time": 0.24219,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_16"
+    },
+    {
+      "predicate": {
+        "time": 0.25781,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_17"
+    },
+    {
+      "predicate": {
+        "time": 0.27344,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_18"
+    },
+    {
+      "predicate": {
+        "time": 0.28906,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_19"
+    },
+    {
+      "predicate": {
+        "time": 0.30469,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_20"
+    },
+    {
+      "predicate": {
+        "time": 0.32031,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_21"
+    },
+    {
+      "predicate": {
+        "time": 0.33594,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_22"
+    },
+    {
+      "predicate": {
+        "time": 0.35156,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_23"
+    },
+    {
+      "predicate": {
+        "time": 0.36719,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_24"
+    },
+    {
+      "predicate": {
+        "time": 0.38281,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_25"
+    },
+    {
+      "predicate": {
+        "time": 0.39844,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_26"
+    },
+    {
+      "predicate": {
+        "time": 0.41406,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_27"
+    },
+    {
+      "predicate": {
+        "time": 0.42969,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_28"
+    },
+    {
+      "predicate": {
+        "time": 0.44531,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_29"
+    },
+    {
+      "predicate": {
+        "time": 0.46094,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_30"
+    },
+    {
+      "predicate": {
+        "time": 0.47656,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_31"
+    },
+    {
+      "predicate": {
+        "time": 0.49219,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_32"
+    },
+    {
+      "predicate": {
+        "time": 0.50781,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_33"
+    },
+    {
+      "predicate": {
+        "time": 0.52344,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_34"
+    },
+    {
+      "predicate": {
+        "time": 0.53906,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_35"
+    },
+    {
+      "predicate": {
+        "time": 0.55469,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_36"
+    },
+    {
+      "predicate": {
+        "time": 0.57031,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_37"
+    },
+    {
+      "predicate": {
+        "time": 0.58594,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_38"
+    },
+    {
+      "predicate": {
+        "time": 0.60156,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_39"
+    },
+    {
+      "predicate": {
+        "time": 0.61719,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_40"
+    },
+    {
+      "predicate": {
+        "time": 0.63281,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_41"
+    },
+    {
+      "predicate": {
+        "time": 0.64844,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_42"
+    },
+    {
+      "predicate": {
+        "time": 0.66406,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_43"
+    },
+    {
+      "predicate": {
+        "time": 0.67969,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_44"
+    },
+    {
+      "predicate": {
+        "time": 0.69531,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_45"
+    },
+    {
+      "predicate": {
+        "time": 0.71094,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_46"
+    },
+    {
+      "predicate": {
+        "time": 0.72656,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_47"
+    },
+    {
+      "predicate": {
+        "time": 0.74219,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_48"
+    },
+    {
+      "predicate": {
+        "time": 0.75781,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_49"
+    },
+    {
+      "predicate": {
+        "time": 0.77344,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_50"
+    },
+    {
+      "predicate": {
+        "time": 0.78906,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_51"
+    },
+    {
+      "predicate": {
+        "time": 0.80469,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_52"
+    },
+    {
+      "predicate": {
+        "time": 0.82031,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_53"
+    },
+    {
+      "predicate": {
+        "time": 0.83594,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_54"
+    },
+    {
+      "predicate": {
+        "time": 0.85156,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_55"
+    },
+    {
+      "predicate": {
+        "time": 0.86719,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_56"
+    },
+    {
+      "predicate": {
+        "time": 0.88281,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_57"
+    },
+    {
+      "predicate": {
+        "time": 0.89844,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_58"
+    },
+    {
+      "predicate": {
+        "time": 0.91406,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_59"
+    },
+    {
+      "predicate": {
+        "time": 0.92969,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_60"
+    },
+    {
+      "predicate": {
+        "time": 0.94531,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_61"
+    },
+    {
+      "predicate": {
+        "time": 0.96094,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_62"
+    },
+    {
+      "predicate": {
+        "time": 0.97656,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock_63"
+    },
+    {
+      "predicate": {
+        "time": 0.99219,
+        "custom_model_data": 100
+      },
+      "model": "item/watch/clock"
+    }
+  ]
+}

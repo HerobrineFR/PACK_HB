@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/golden_sword",
+  "parent": "item/golden_sword",
   "textures": {
     "layer0": "reverence:item/armes/dague_or"
   }

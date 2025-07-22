@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/brick",
+  "parent": "item/brick",
   "textures": {
     "layer0": "reverence:item/objets/umreilite"
   }

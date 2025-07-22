@@ -1,1 +1,6 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/watch/clock_36"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/watch/clock_36"
+  }
+}

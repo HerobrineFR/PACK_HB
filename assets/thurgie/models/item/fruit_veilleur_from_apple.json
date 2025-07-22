@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/apple",
+  "parent": "item/apple",
   "textures": {
     "layer0": "thurgie:item/fruit"
   }

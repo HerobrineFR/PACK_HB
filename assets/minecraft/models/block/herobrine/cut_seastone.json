@@ -1,6 +1,6 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/herobrine/cut_seastone"
-    }
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block/herobrine/cut_seastone"
+  }
 }

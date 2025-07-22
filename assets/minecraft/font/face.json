@@ -1,11 +1,11 @@
 {
-    "providers": [
-        {
-            "type": "ttf",
-            "file": "minecraft:face.ttf",
-            "shift": [0, 1.5],
-            "size": 8.0,
-            "oversample": 6.0
-        }
- ]
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "face.ttf",
+      "shift": [0, 1.5],
+      "size": 8,
+      "oversample": 6
+    }
+  ]
 }

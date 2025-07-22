@@ -1,13 +1,12 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "item/diamond_sword"
-	},
-	"display": {
-		"fixed": {
-			"translation": [0, 0, -0.75],
-			"scale": [1.5, 1.5, 1.5]
-		}
-	}
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+  "display": {
+    "fixed": {
+      "translation": [0, 0, -0.75],
+      "scale": [1.5, 1.5, 1.5]
+    }
+  }
 }

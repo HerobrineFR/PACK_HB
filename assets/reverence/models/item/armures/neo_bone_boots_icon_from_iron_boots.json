@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_boots",
+  "parent": "item/iron_boots",
   "textures": {
     "layer0": "reverence:item/armures/neo_bone_boots_icon"
   }

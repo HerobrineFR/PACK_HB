@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/stone_hoe",
+  "parent": "item/stone_hoe",
   "textures": {
     "layer0": "herobrine:item/melangeur"
   }

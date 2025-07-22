@@ -1,10 +1,3 @@
 {
-  "sprites": [
-    "herobrine:mantra_0",
-    "herobrine:mantra_1",
-    "herobrine:mantra_2",
-    "herobrine:mantra_3",
-    "herobrine:mantra_4"
-
-  ]
+  "sprites": ["herobrine:mantra_0", "herobrine:mantra_1", "herobrine:mantra_2", "herobrine:mantra_3", "herobrine:mantra_4"]
 }

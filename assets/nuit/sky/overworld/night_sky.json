@@ -1,42 +1,35 @@
 {
-    "schemaVersion": 1,
-    "type": "square-textured",
-    "texture": "nuit:sky/overworld/stars.png",
-    "blend": {
-        "type": "add"
+  "schemaVersion": 1,
+  "type": "square-textured",
+  "texture": "nuit:sky/overworld/stars.png",
+  "blend": {
+    "type": "add"
+  },
+  "properties": {
+    "layer": -1,
+    "fade": {
+      "keyFrames": {
+        "0": 0,
+        "12200": 0,
+        "13000": 1,
+        "23000": 1
+      }
     },
-    "properties": {
-        "layer": -1,
-        "fade": {
-            "keyFrames": {
-                "12200": 0.0,
-                "13000": 1.0,
-                "23000": 1.0,
-                "0": 0.0
-            }
-        },
-        "rotation": {
-            "axis": {"0": [
-                0.0,
-                180.0,
-                0.0
-            ]},
-            "rotationSpeedY": -0.5
-        },
-        "transitionInDuration": 20,
-        "transitionOutDuration": 20
+    "rotation": {
+      "axis": {
+        "0": [0, 180, 0]
+      },
+      "rotationSpeedY": -0.5
     },
-    "conditions": {
-        "weather": {
-            "entries": [
-                "clear",
-                "snow"
-            ]
-        },
-        "worlds": {
-            "entries": [
-                    "minecraft:overworld"
-                ]
-        }
+    "transitionInDuration": 20,
+    "transitionOutDuration": 20
+  },
+  "conditions": {
+    "weather": {
+      "entries": ["clear", "snow"]
+    },
+    "worlds": {
+      "entries": ["overworld"]
     }
+  }
 }
