@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "minecraft:item/textures/block/cut_limestone",
+    "all": "item/textures/block/cut_limestone",
     "particle": "#all"
   }
 }

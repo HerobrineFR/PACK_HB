@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond",
+  "parent": "item/diamond",
   "textures": {
     "layer0": "herobrine:item/sphalerite_verte"
   }

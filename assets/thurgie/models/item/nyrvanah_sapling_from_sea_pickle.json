@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/sea_pickle",
+  "parent": "item/sea_pickle",
   "textures": {
     "layer0": "thurgie:item/nyrvanah_sapling"
   }

@@ -1,76 +1,37 @@
 {
-  "credit": "Made with Blockbench",
-  "parent": "minecraft:block/iron_block",
+  "parent": "block/iron_block",
   "textures": {
-    "0": "minecraft:item/textures/block/chiseled_chert_side",
-    "2": "minecraft:item/textures/block/chiseled_chert_top",
-    "particle": "minecraft:item/textures/block/chiseled_chert_side"
+    "0": "item/textures/block/chiseled_chert_side",
+    "2": "item/textures/block/chiseled_chert_top",
+    "particle": "item/textures/block/chiseled_chert_side"
   },
   "elements": [
     {
-      "from": [
-        0,
-        0,
-        0
-      ],
-      "to": [
-        16,
-        16,
-        16
-      ],
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
       "faces": {
         "north": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
+          "uv": [0, 0, 16, 16],
           "texture": "#0"
         },
         "east": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
+          "uv": [0, 0, 16, 16],
           "texture": "#0"
         },
         "south": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
+          "uv": [0, 0, 16, 16],
           "texture": "#0"
         },
         "west": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
+          "uv": [0, 0, 16, 16],
           "texture": "#0"
         },
         "up": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
+          "uv": [0, 0, 16, 16],
           "texture": "#2"
         },
         "down": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
+          "uv": [0, 0, 16, 16],
           "texture": "#2"
         }
       }

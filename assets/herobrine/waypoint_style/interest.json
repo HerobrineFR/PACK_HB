@@ -1,8 +1,3 @@
 {
-  "sprites": [
-    "herobrine:interest_0",
-    "herobrine:interest_1",
-    "herobrine:interest_2",
-    "herobrine:interest_3"
-  ]
+  "sprites": ["herobrine:interest_0", "herobrine:interest_1", "herobrine:interest_2", "herobrine:interest_3"]
 }

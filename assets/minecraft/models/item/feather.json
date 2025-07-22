@@ -1,13 +1,13 @@
 {
-	"credit": "Fait par Saynos :D",
-	"parent": "item/generated",
-    "textures": {
-        "layer0": "item/feather"
-    },
-	"display": {
-		"head": {
-			"rotation": [-160, -90, -160],
-			"translation": [-6.75, 4, 1.25]
-		}
-	}
+  "credit": "Fait par Saynos :D",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/feather"
+  },
+  "display": {
+    "head": {
+      "rotation": [-160, -90, -160],
+      "translation": [-6.75, 4, 1.25]
+    }
+  }
 }

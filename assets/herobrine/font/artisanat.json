@@ -1,31 +1,25 @@
 {
-    "providers": [
-        {
-            "file": "herobrine:icons/artisanat/empty.png",
-            "chars": [
-                "e"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "herobrine:icons/artisanat/full.png",
-            "chars": [
-                "f"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "herobrine:icons/artisanat/full_bonus.png",
-            "chars": [
-                "b"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        }
-    ]
+  "providers": [
+    {
+      "file": "herobrine:icons/artisanat/empty.png",
+      "chars": ["e"],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "herobrine:icons/artisanat/full.png",
+      "chars": ["f"],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+    },
+    {
+      "file": "herobrine:icons/artisanat/full_bonus.png",
+      "chars": ["b"],
+      "height": 9,
+      "ascent": 8,
+      "type": "bitmap"
+    }
+  ]
 }

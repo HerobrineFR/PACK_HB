@@ -1,9 +1,3 @@
 {
-  "sprites": [
-    "herobrine:quest_0",
-    "herobrine:quest_1",
-    "herobrine:quest_2",
-    "herobrine:quest_3",
-    "herobrine:quest_4"
-  ]
+  "sprites": ["herobrine:quest_0", "herobrine:quest_1", "herobrine:quest_2", "herobrine:quest_3", "herobrine:quest_4"]
 }

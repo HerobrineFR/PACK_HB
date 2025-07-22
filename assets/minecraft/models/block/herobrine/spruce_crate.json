@@ -1,6 +1,6 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/herobrine/spruce_crate"
-    }
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block/herobrine/spruce_crate"
+  }
 }

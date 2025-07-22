@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_leggings",
+  "parent": "item/iron_leggings",
   "textures": {
     "layer0": "reverence:item/armures/bone_leggings_icon"
   }

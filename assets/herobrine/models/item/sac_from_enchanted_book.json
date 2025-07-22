@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/enchanted_book",
+  "parent": "item/enchanted_book",
   "textures": {
     "layer0": "herobrine:item/sac"
   }

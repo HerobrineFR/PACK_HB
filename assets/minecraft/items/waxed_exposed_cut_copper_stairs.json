@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "model",
-    "model": "minecraft:block/obsidian_stairs"
+    "model": "block/obsidian_stairs"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "block/cube_all",
   "textures": {
-    "all": "minecraft:item/textures/block/arkose",
+    "all": "item/textures/block/arkose",
     "particle": "#all"
   }
 }

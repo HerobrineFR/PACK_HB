@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_shovel",
+  "parent": "item/iron_shovel",
   "textures": {
     "layer0": "thurgie:item/pelle_pierrebandage"
   }

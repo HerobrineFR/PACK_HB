@@ -1,14 +1,14 @@
 {
   "model": {
-    "type": "minecraft:condition",
+    "type": "condition",
     "on_false": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "herobrine:item/combat/armes/netherite_tower_shield"
     },
     "on_true": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "herobrine:item/combat/armes/netherite_tower_shield_block_shield_blocking"
     },
-    "property": "minecraft:using_item"
+    "property": "using_item"
   }
 }

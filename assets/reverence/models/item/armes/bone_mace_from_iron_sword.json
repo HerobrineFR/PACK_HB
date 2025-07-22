@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_sword",
+  "parent": "item/iron_sword",
   "textures": {
     "layer0": "reverence:item/armes/bone_mace"
   }

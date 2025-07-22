@@ -1,6 +1,6 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/herobrine/kitchen_tile"
-    }
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block/herobrine/kitchen_tile"
+  }
 }

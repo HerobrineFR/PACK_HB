@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/shears",
+  "parent": "item/shears",
   "textures": {
     "layer0": "herobrine:item/ciseaux_couture"
   }

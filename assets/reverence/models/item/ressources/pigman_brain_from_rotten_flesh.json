@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/rotten_flesh",
+  "parent": "item/rotten_flesh",
   "textures": {
     "layer0": "reverence:item/ressources/pigman_brain"
   }

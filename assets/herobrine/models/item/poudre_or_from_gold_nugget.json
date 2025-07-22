@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/gold_nugget",
+  "parent": "item/gold_nugget",
   "textures": {
     "layer0": "herobrine:item/poudre_or"
   }

@@ -1,14 +1,14 @@
 {
   "model": {
-    "type": "minecraft:condition",
+    "type": "condition",
     "on_false": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "division_cristalline:item/bouclier_long_cristal"
     },
     "on_true": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "division_cristalline:item/bloquage_bouclier_long_cristal_shield_blocking"
     },
-    "property": "minecraft:using_item"
+    "property": "using_item"
   }
 }

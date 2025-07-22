@@ -1,3 +1,3 @@
 {
-    "parent": "minecraft:block/weird_stairs"
+  "parent": "block/weird_stairs"
 }

@@ -795,7 +795,7 @@
         "value": "lingot_cuivre"
       }
     },
-    "target_item_def": "minecraft:copper_ingot"
+    "target_item_def": "copper_ingot"
   },
   {
     "item": "iron_ingot",
@@ -805,7 +805,7 @@
         "value": "*cuivre*"
       }
     },
-    "target_item_def": "minecraft:copper_ingot"
+    "target_item_def": "copper_ingot"
   },
   {
     "item": "iron_ingot",

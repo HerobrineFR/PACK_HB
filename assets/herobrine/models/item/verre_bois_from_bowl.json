@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/bowl",
+  "parent": "item/bowl",
   "textures": {
     "layer0": "herobrine:item/verre_bois"
   }

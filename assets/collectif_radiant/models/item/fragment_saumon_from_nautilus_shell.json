@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/nautilus_shell",
+  "parent": "item/nautilus_shell",
   "textures": {
     "layer0": "collectif_radiant:item/fragment_saumon"
   }

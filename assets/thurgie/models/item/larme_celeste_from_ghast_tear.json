@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/ghast_tear",
+  "parent": "item/ghast_tear",
   "textures": {
     "layer0": "thurgie:item/larme_celeste"
   }

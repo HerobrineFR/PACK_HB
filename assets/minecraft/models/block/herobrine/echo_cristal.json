@@ -1,6 +1,6 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/herobrine/echo_cristal"
-    }
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block/herobrine/echo_cristal"
+  }
 }

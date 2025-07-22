@@ -1,14 +1,14 @@
 {
   "model": {
-    "type": "minecraft:condition",
+    "type": "condition",
     "on_false": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "division_cristalline:item/bocle_cristal"
     },
     "on_true": {
-      "type": "minecraft:model",
+      "type": "model",
       "model": "division_cristalline:item/bocle_cristal_shield_blocking"
     },
-    "property": "minecraft:using_item"
+    "property": "using_item"
   }
 }

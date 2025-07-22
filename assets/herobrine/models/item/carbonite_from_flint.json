@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/flint",
+  "parent": "item/flint",
   "textures": {
     "layer0": "herobrine:item/carbonite"
   }

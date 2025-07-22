@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/iron_boots",
+  "parent": "item/iron_boots",
   "textures": {
     "layer0": "confrerie:item/pretorien_bottes_icon"
   }

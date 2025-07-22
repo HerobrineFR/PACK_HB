@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/diamond_hoe",
+  "parent": "item/diamond_hoe",
   "textures": {
     "layer0": "thurgie:item/serpe_diamant"
   }

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/rabbit_stew",
+  "parent": "item/rabbit_stew",
   "textures": {
     "layer0": "herobrine:item/potage"
   }
