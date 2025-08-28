@@ -4,7 +4,8 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "block/orange_stained_glass_all"
+		"1": "block/orange_stained_glass_all",
+		"particle": "block/orange_stained_glass_all"
 	},
 	"elements": [
 		{
