@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "concile:item/nacre_crossbow_charged"
+        },
+        "when": "arrow"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "concile:item/nacre_crossbow_charged"
+        },
+        "when": "rocket"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "concile:item/nacre_crossbow"
+    },
+    "property": "minecraft:charge_type"
+  }
+}
