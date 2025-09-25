@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "model",
-    "model": "herobrine:item/umbrella_black"
+    "model": "herobrine:item/umbrella",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 2829099
+      }
+    ]
   }
 }
