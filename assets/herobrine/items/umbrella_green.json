@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "herobrine:item/umbrella",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 3777617
+      }
+    ]
+  }
+}
