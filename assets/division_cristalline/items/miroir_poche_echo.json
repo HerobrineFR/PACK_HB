@@ -1,6 +1,12 @@
 {
   "model": {
-    "type": "model",
-    "model": "division_cristalline:item/miroir_poche_echo"
+    "type": "minecraft:model",
+    "model": "division_cristalline:item/pocket_mirror",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 5467846
+      }
+    ]
   }
 }
