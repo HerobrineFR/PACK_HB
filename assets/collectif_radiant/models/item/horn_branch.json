@@ -1,0 +1,71 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by Ink-cana",
+	"textures": {
+		"0": "collectif_radiant:item/horn_branch",
+		"particle": "collectif_radiant:item/horn_branch"
+	},
+	"elements": [
+		{
+			"from": [10.5, 0, 8],
+			"to": [14.5, 14, 8],
+			"rotation": {"angle": -17.5, "axis": "y", "origin": [11.5, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 14], "texture": "#0"},
+				"south": {"uv": [4, 0, 0, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.5, 0, 8],
+			"to": [5.5, 7, 8],
+			"rotation": {"angle": 17.5, "axis": "y", "origin": [4.5, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 7, 1, 14], "texture": "#0"},
+				"south": {"uv": [4, 0, 0, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 0, 7],
+			"to": [7.5, 4, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5.5, 0, 7]},
+			"faces": {
+				"north": {"uv": [4, 8, 6, 12], "texture": "#0"},
+				"south": {"uv": [6, 8, 4, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.5, 0, 7],
+			"to": [10.5, 3, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 0, 7]},
+			"faces": {
+				"north": {"uv": [6, 9, 4, 12], "texture": "#0"},
+				"south": {"uv": [4, 9, 6, 12], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [0, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5.75, 0]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [-17, 38, 0],
+			"translation": [0, 1.5, 0]
+		},
+		"head": {
+			"rotation": [10, 0, 0],
+			"translation": [0, 15.25, -2.75],
+			"scale": [1.28, 1.28, 1.28]
+		},
+		"fixed": {
+			"rotation": [-79, 0, 0],
+			"translation": [0, -8.75, -15],
+			"scale": [1.96, 1.96, 1.96]
+		}
+	}
+}
