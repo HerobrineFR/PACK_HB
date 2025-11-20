@@ -1,0 +1,7 @@
+{
+  "parent": "herobrine:parent/lantern",
+  "textures": {
+    "particle": "minecraft:block/oxidized_copper_lantern",
+    "texture": "minecraft:block/oxidized_copper_lantern"
+  }
+}
