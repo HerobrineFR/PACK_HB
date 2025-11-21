@@ -1,0 +1,6 @@
+{
+  "parent": "item/brush",
+  "textures": {
+    "layer0": "phalanstere:item/pinceau_pulsionnel"
+  }
+}
