@@ -1,0 +1,79 @@
+{
+	"format_version": "1.21.6",
+	"parent": "item/head",
+	"texture_size": [64, 64],
+	"textures": {
+		"layer0": "herobrine:item/massilia_head"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#layer0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#layer0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#layer0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#layer0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#layer0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#layer0"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [3.5, -0.5, 3.5],
+			"to": [12.5, 8.5, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 2, 12, 4], "texture": "#layer0"},
+				"east": {"uv": [8, 2, 10, 4], "texture": "#layer0"},
+				"south": {"uv": [14, 2, 16, 4], "texture": "#layer0"},
+				"west": {"uv": [12, 2, 14, 4], "texture": "#layer0"},
+				"up": {"uv": [12, 2, 10, 0], "texture": "#layer0"},
+				"down": {"uv": [14, 0, 12, 2], "texture": "#layer0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5.75, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5.75, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 63, 180],
+			"translation": [0, 7.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 63, -180],
+			"translation": [0, 7.5, 0]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"gui": {
+			"rotation": [-172, 18, -180],
+			"translation": [0, 4.25, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"head": {
+			"translation": [0, 6.4, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, 6.5, -4.5],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "head",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
