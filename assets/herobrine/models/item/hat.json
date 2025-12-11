@@ -674,8 +674,8 @@
       "scale": [0.3, 0.3, 0.3]
     },
     "head": {
-      "rotation": [14, 0, 0],
-      "translation": [0, 10.25, 2.25],
+      "rotation": [5, 0, 0],
+      "translation": [0, 9.1, 0.25],
       "scale": [0.8, 0.8, 0.8]
     },
     "fixed": {
