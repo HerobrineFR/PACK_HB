@@ -1,0 +1,36 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by Letutout for Herobrine.fr",
+	"parent": "item/generated",
+	"textures": {
+		"particle": "phalanstere:item/karma",
+		"layer0": "phalanstere:item/karma"
+	},
+	"gui_light": "front",
+	"display": {
+		"firstperson_righthand": {
+			"translation": [0, 3, 0],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3, 0],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"scale": [3.6, 3.6, 1.5]
+		},
+		"gui": {
+			"scale": [1.3, 1.3, 1]
+		},
+		"head": {
+			"translation": [0, 23, 0],
+			"scale": [3.6, 3.6, 1.5]
+		},
+		"fixed": {
+			"scale": [3.6, 3.6, 1.5]
+		},
+		"on_shelf": {
+			"scale": [1.3, 1.3, 1.3]
+		}
+	}
+}
