@@ -228,5 +228,11 @@
   "block.minecraft.banner.herobrine.goyan.purple": "Goyan (Violet)",
   "block.minecraft.banner.herobrine.goyan.red": "Goyan (Rouge)",
   "block.minecraft.banner.herobrine.goyan.white": "Goyan (Blanc)",
-  "block.minecraft.banner.herobrine.goyan.yellow": "Goyan (Jaune)"
+  "block.minecraft.banner.herobrine.goyan.yellow": "Goyan (Jaune)",
+  "item.herobrine.lotus_pearl": "Perle du Lotus",
+  "item.herobrine.barracuda": "Barracuda",
+  "item.herobrine.cuttlefish": "Seiche",
+  "item.herobrine.sole": "Sole",
+  "item.herobrine.hake": "Colin",
+  "item.herobrine.monkfish": "Lotte"
 }
