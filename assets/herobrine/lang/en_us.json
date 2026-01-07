@@ -229,10 +229,36 @@
   "block.minecraft.banner.herobrine.goyan.red": "Goyan (Rouge)",
   "block.minecraft.banner.herobrine.goyan.white": "Goyan (Blanc)",
   "block.minecraft.banner.herobrine.goyan.yellow": "Goyan (Jaune)",
+
   "item.herobrine.lotus_pearl": "Perle du Lotus",
   "item.herobrine.barracuda": "Barracuda",
   "item.herobrine.cuttlefish": "Seiche",
   "item.herobrine.sole": "Sole",
   "item.herobrine.hake": "Colin",
-  "item.herobrine.monkfish": "Lotte"
+  "item.herobrine.monkfish": "Lotte",
+
+  "item.herobrine.lotus_pearl.lore_1": "Poisson très rare vivant dans le lac du Lotus,",
+  "item.herobrine.lotus_pearl.lore_2": "il possède de magnifiques écailles roses aux",
+  "item.herobrine.lotus_pearl.lore_3": "couleurs des fleurs des nénuphars,",
+  "item.herobrine.lotus_pearl.lore_4": "aux couleurs des lotus.",
+
+  "item.herobrine.barracuda.lore_1": "Long poisson d'eau douce à",
+  "item.herobrine.barracuda.lore_2": "à grande bouche et aux",
+  "item.herobrine.barracuda.lore_3": "dents acérées, attention",
+  "item.herobrine.barracuda.lore_4": "à ne pas se planter.",
+
+  "item.herobrine.cuttlefish.lore_1": "Petit mollusque d'eau douce blanc",
+  "item.herobrine.cuttlefish.lore_2": "qui est capable de cracher de l'encre, ses ",
+  "item.herobrine.cuttlefish.lore_3": "petits tentacules lui permettent de se déplacer.",
+
+  "item.herobrine.sole.lore_1": "Poisson plat d'eau douce avec ses",
+  "item.herobrine.sole.lore_2": "deux yeux du même côté, il se",
+  "item.herobrine.sole.lore_3": "cache dans les fonds des rivières et des lacs.",
+  
+  "item.herobrine.hake.lore_1": "Poisson commun vivant dans les eaux douces",
+  "item.herobrine.hake.lore_2": "des rivères et des lacs des plaines.",
+  
+  "item.herobrine.monkfish.lore_1": "Poisson étrange d'eau douce dont",
+  "item.herobrine.monkfish.lore_2": "le corps un peu gonflé lui",
+  "item.herobrine.monkfish.lore_3": "donne une certaine laideur."
 }
