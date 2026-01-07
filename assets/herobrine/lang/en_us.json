@@ -237,6 +237,12 @@
   "item.herobrine.hake": "Colin",
   "item.herobrine.monkfish": "Lotte",
 
+  "item.herobrine.cooked_barracuda": "Barracuda cuit",
+  "item.herobrine.cooked_cuttlefish": "Seiche cuite",
+  "item.herobrine.cooked_sole": "Sole cuit",
+  "item.herobrine.cooked_hake": "Colin cuit",
+  "item.herobrine.cooked_monkfish": "Lotte cuite",
+
   "item.herobrine.lotus_pearl.lore_1": "Poisson très rare vivant dans le lac du Lotus,",
   "item.herobrine.lotus_pearl.lore_2": "il possède de magnifiques écailles roses aux",
   "item.herobrine.lotus_pearl.lore_3": "couleurs des fleurs des nénuphars,",
