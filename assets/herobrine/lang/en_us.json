@@ -234,6 +234,7 @@
   "item.herobrine.barracuda": "Barracuda",
   "item.herobrine.cuttlefish": "Seiche",
   "item.herobrine.sole": "Sole",
+  "item.herobrine.mutated_hake": "Colin aberrant",
   "item.herobrine.hake": "Colin",
   "item.herobrine.monkfish": "Lotte",
 
@@ -242,6 +243,8 @@
   "item.herobrine.cooked_sole": "Sole cuit",
   "item.herobrine.cooked_hake": "Colin cuit",
   "item.herobrine.cooked_monkfish": "Lotte cuite",
+
+  "item.herobrine.mutated_hake.lore_1": "Mais qu'est-ce que c'est que ça ?",
 
   "item.herobrine.lotus_pearl.lore_1": "Poisson très rare vivant dans le lac du Lotus,",
   "item.herobrine.lotus_pearl.lore_2": "il possède de magnifiques écailles roses aux",
