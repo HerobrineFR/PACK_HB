@@ -230,6 +230,45 @@
   "block.minecraft.banner.herobrine.goyan.white": "Goyan (Blanc)",
   "block.minecraft.banner.herobrine.goyan.yellow": "Goyan (Jaune)",
 
+  "item.herobrine.ice_cube": "Glaçon",
+
+  "item.herobrine.cautious_lamprey": "Lamproie Attentive",
+  "item.herobrine.cautious_lamprey.lore_1": "Il y a des mondes, aux conditions tellement extrêmes qu’il",
+  "item.herobrine.cautious_lamprey.lore_2": "en nait des choses dont on ne saurait réellement",
+  "item.herobrine.cautious_lamprey.lore_3": "définir de quoi elles ont l’air...", 
+
+  "item.herobrine.ghost_anglerfish": "Baudroie Fantôme",
+  "item.herobrine.ghost_anglerfish.lore_1": "Cette chose vient des profondeurs gelées d’un monde glacial,",
+  "item.herobrine.ghost_anglerfish.lore_2": "le petit appendice sur sa tête produit de la chaleur, ce",
+  "item.herobrine.ghost_anglerfish.lore_3": "qui permet de faire un peu de lumière mais surtout de",
+  "item.herobrine.ghost_anglerfish.lore_4": "provoquer un choc thermique à ses proies !",
+  "item.herobrine.ghost_anglerfish.lore_5": "Et hop, le diner est servi.",
+
+  "item.herobrine.ice_scorpionfish": "Rascasse de Glace",
+  "item.herobrine.ice_scorpionfish.lore_1": "Une Rascasse provenant d’une eau particulièrement froide, à",
+  "item.herobrine.ice_scorpionfish.lore_2": "un tel point que la rascasse a abandonné ses pics de poisons",
+  "item.herobrine.ice_scorpionfish.lore_3": "pour des pics de glace.",
+  "item.herobrine.ice_scorpionfish.lore_4": "Attention, ça reste dangereux.",
+
+  "item.herobrine.cold_jellyfish": "Méduse",
+  "item.herobrine.cold_jellyfish.lore_1": "Une méduse au chapeau quasi gelé, quasiment solide,",
+  "item.herobrine.cold_jellyfish.lore_2": "ses tentacules joliement colorés sont très dangereux. Même",
+  "item.herobrine.cold_jellyfish.lore_3": "la plus mignonne des créatures est dangereuse ici. ",
+
+  "item.herobrine.keldereau": "Keldereau",
+  "item.herobrine.keldereau.lore_1": "Petit poisson d’eau gelée, habitué",
+  "item.herobrine.keldereau.lore_2": "aux températures extrêmes, ses petits",
+  "item.herobrine.keldereau.lore_3": "pics sur sa nageoire dorsale servent de brise glace",
+  "item.herobrine.keldereau.lore_4": "s’il remonte trop proche de la surface ou si",
+  "item.herobrine.keldereau.lore_5": "l’eau gèle autour de lui..",
+
+  "item.herobrine.lamprey": "Lamproie",
+  "item.herobrine.lamprey.lore_1": "Cette horreur possède des dents bien plus",
+  "item.herobrine.lamprey.lore_2": "longues que la normale. Les températures étant extrêmes,",
+  "item.herobrine.lamprey.lore_3": "les animaux du coins ont une surcouche de graisse, ses",
+  "item.herobrine.lamprey.lore_4": "longues dents acérées permettant de passer",
+  "item.herobrine.lamprey.lore_5": "outre et de sucer le sang de sa victime.",
+
   "item.herobrine.lotus_pearl": "Perle du Lotus",
   "item.herobrine.barracuda": "Barracuda",
   "item.herobrine.cuttlefish": "Seiche",
