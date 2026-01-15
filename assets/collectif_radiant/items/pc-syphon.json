@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "model",
-        "model": "collectif_radiant:item/pc-syphon_model"
+        "model": "collectif_radiant:item/pc-syphon"
     }
 }
