@@ -1,0 +1,23 @@
+{
+	"textureSize": [256, 256],
+	"models": [
+		{
+			"part": "saddle",
+			"id": "saddle",
+			"invertAxis": "xy",
+			"translate": [0, -20, -10.5],
+			"attach": true,
+			"texture": "textures/entity/equipment/camel_saddle/taurmouth_saddle.png",
+			"textureSize": [256, 256],
+			"boxes": [
+				{"coordinates": [-10.5, 10, -15.5, 21, 22, 18], "textureOffset": [0, 131], "sizeAdd": 0.1},
+				{"coordinates": [-9.5, 12, -10.5, 19, 18, 27], "textureOffset": [80, 132], "sizeAdd": 0.1}
+			],
+			"animations": [
+				{
+					"saddle.ty": "if(is_sitting, -6, 0)"
+				}
+			]
+		}
+	]
+}
