@@ -1,0 +1,1 @@
+{"textures":{"0":"bettermodel:item/t_jellygreen_t_jellygreen","1":"bettermodel:item/t_jellygreen_t_jellygreen_e","particle":"bettermodel:item/t_jellygreen_t_jellygreen"},"elements":[{"from":[5.49,1.99,10.49],"to":[10.51,8.01,10.51],"faces":{"north":{"uv":[8.0,0.0,10.5,3.0],"tintindex":0,"texture":"#0"},"south":{"uv":[10.5,0.0,8.0,3.0],"tintindex":0,"texture":"#0"}}}]}

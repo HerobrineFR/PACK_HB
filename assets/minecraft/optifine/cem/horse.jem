@@ -1,0 +1,185 @@
+{
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -22, 9],
+			"attach": true,
+			"texture": "textures/entity/horse/druisson.png",
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [-3, 29, -10, 6, 5, 6], "textureOffset": [52, 40]}
+			],
+			"submodels": [
+				{
+					"id": "feather_crown1",
+					"invertAxis": "xy",
+					"translate": [0, 33, -5],
+					"rotate": [45, 0, 0],
+					"boxes": [
+						{"coordinates": [-5, -1.6, 0, 10, 7, 0], "textureOffset": [44, 66]}
+					]
+				},
+				{
+					"id": "feather_crown2",
+					"invertAxis": "xy",
+					"translate": [0, 29, -5],
+					"rotate": [-25, 0, 0],
+					"boxes": [
+						{"coordinates": [-6, -1, 0, 12, 5, 0], "textureOffset": [44, 79]}
+					]
+				}
+			]
+		},
+		{
+			"part": "mouth",
+			"id": "mouth",
+			"invertAxis": "xy",
+			"translate": [0, -22, 9],
+			"attach": true,
+			"texture": "textures/entity/horse/druisson.png",
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [-2, 29, -14, 4, 3, 4], "textureOffset": [42, 54]}
+			]
+		},
+		{
+			"part": "neck",
+			"id": "neck",
+			"invertAxis": "xy",
+			"translate": [0, -22, 9],
+			"attach": true,
+			"texture": "textures/entity/horse/druisson.png",
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [-1.95, 16, -8, 4, 13, 3], "textureOffset": [16, 54]},
+				{"coordinates": [-3, 15, -9, 6, 7, 5], "textureOffset": [17, 14]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -6],
+			"attach": true,
+			"texture": "textures/entity/horse/druisson.png",
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [-5, 11, -8, 10, 10, 19], "textureOffset": [0, 0], "sizeAdd": 0.05}
+			],
+			"submodels": [
+				{
+					"id": "wings",
+					"invertAxis": "xy",
+					"translate": [0, 13, 7],
+					"rotate": [-7.5, 0, 0],
+					"boxes": [
+						{"coordinates": [-6, -2, -13, 0, 11, 17], "textureOffset": [0, 75]},
+						{"coordinates": [6, -2, -13, 0, 11, 17], "textureOffset": [0, 75]},
+						{"coordinates": [-6, 0, -13, 12, 8, 14], "textureOffset": [0, 29]}
+					]
+				},
+				{
+					"id": "front_right_leg2",
+					"invertAxis": "xy",
+					"translate": [0, 13, 6],
+					"submodels": [
+						{
+							"id": "claws",
+							"invertAxis": "xy",
+							"translate": [4.5, -21.2, -10],
+							"submodels": [
+								{
+									"id": "right_claw2",
+									"invertAxis": "xy",
+									"translate": [6, 0, 0],
+									"boxes": [
+										{"coordinates": [-9.7, 8.2, 1, 5, 0, 4], "textureOffset": [66, 1]}
+									]
+								}
+							]
+						},
+						{
+							"id": "front_right_leg_upper",
+							"invertAxis": "xy",
+							"translate": [10.5, -6.2, -7.1],
+							"rotate": [-25, 0, 0],
+							"boxes": [
+								{"coordinates": [-9.25, -2.73215, 4.38108, 4, 10, 4], "textureOffset": [0, 0]}
+							]
+						},
+						{
+							"id": "front_right_leg_lower",
+							"invertAxis": "xy",
+							"translate": [10.5, -7.2, -7.5],
+							"rotate": [20, 0, 0],
+							"boxes": [
+								{"coordinates": [-8.75, -4.72606, 4.28092, 3, 9, 3], "textureOffset": [0, 29]}
+							]
+						}
+					]
+				},
+				{
+					"id": "front_left_leg2",
+					"invertAxis": "xy",
+					"translate": [0, 13, 6],
+					"submodels": [
+						{
+							"id": "front_left_leg_upper",
+							"invertAxis": "xy",
+							"translate": [4, -21.2, -7.1],
+							"rotate": [-25, 0, 0],
+							"boxes": [
+								{"coordinates": [-9.25, 10.86247, 10.72035, 4, 10, 4], "textureOffset": [0, 54]}
+							]
+						},
+						{
+							"id": "front_left_leg_lower",
+							"invertAxis": "xy",
+							"translate": [4, -21.2, -4.5],
+							"rotate": [20, 0, 0],
+							"boxes": [
+								{"coordinates": [-8.75, 7.56933, -3.34938, 3, 9, 3], "textureOffset": [30, 54]}
+							]
+						},
+						{
+							"id": "claws2",
+							"invertAxis": "xy",
+							"translate": [4.5, -21.2, -11],
+							"submodels": [
+								{
+									"id": "left_claw2",
+									"invertAxis": "xy",
+									"translate": [6, 0, 0],
+									"boxes": [
+										{"coordinates": [-16.2, 8.2, 2.1, 5, 0, 4], "textureOffset": [66, 1]}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"front_right_leg2.rx": "front_right_leg.rx",
+					"front_left_leg2.rx": "front_left_leg.rx"
+				}
+			]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [0, -21, -11],
+			"attach": true,
+			"texture": "textures/entity/horse/druisson.png",
+			"textureSize": [128, 128],
+			"boxes": [
+				{"coordinates": [-5.5, 2, 14, 11, 19, 0], "textureOffset": [39, 0]}
+			]
+		}
+	]
+}
