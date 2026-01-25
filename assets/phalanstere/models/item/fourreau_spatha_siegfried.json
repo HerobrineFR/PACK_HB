@@ -9,13 +9,13 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [67.35, -3.99, 44.84],
-			"translation": [-1, -6.75, 6.05],
+			"rotation": [67.33, -2.22, 45.58],
+			"translation": [-1, -6.25, 8.05],
 			"scale": [1.7, 1.7, 0.7]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [63.53, 0.2, -44.92],
-			"translation": [-1, -6.75, 6.05],
+			"rotation": [65.28, 0.2, -44.92],
+			"translation": [-1, -6.25, 8.05],
 			"scale": [1.7, 1.7, 0.7]
 		},
 		"firstperson_righthand": {
