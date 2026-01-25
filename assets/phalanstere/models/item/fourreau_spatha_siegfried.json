@@ -3,8 +3,8 @@
 	"credit": "Retextured and enhanced by Letutout",
 	"parent": "item/handheld",
 	"textures": {
-		"particle": "phalanstere:item/fourreau_spatha_benheent",
-		"layer0": "phalanstere:item/fourreau_spatha_benheent"
+		"particle": "phalanstere:item/fourreau_spatha_siegfried",
+		"layer0": "phalanstere:item/fourreau_spatha_siegfried"
 	},
 	"gui_light": "front",
 	"display": {

@@ -1,6 +1,6 @@
 {
   "parent": "herobrine:item/combat/armes/epee_longue",
   "textures": {
-    "layer0": "phalanstere:item/spatha_brise_benheent"
+    "layer0": "phalanstere:item/spatha_siegfried"
   }
 }
