@@ -1,0 +1,1 @@
+{"textures":{"0":"bettermodel:item/vfx_ice_knight_blood_impact_vfx_blood_impact","particle":"bettermodel:item/vfx_ice_knight_blood_impact_vfx_blood_impact"},"elements":[{"from":[0.0,-2.5,8.0],"to":[16.0,18.5,8.0],"faces":{"north":{"uv":[0.0,0.0,8.0,10.5],"tintindex":0,"texture":"#0"},"south":{"uv":[8.0,0.0,0.0,10.5],"tintindex":0,"texture":"#0"}}}]}
