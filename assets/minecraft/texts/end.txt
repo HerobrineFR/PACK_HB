@@ -1,0 +1,451 @@
+§b** Votre regard se pose sur des écritures gravées sur la pierre, notées dans des carnets, de part et d'autre.
+
+§8HRP » §7Pour accélérer la lecture, enfoncez la touche espace.
+§8HRP » §7Pour fermer la fenêtre, appuyez sur la touche "Echap".
+
+
+Au revoir, mon amie, ma mentore. 
+
+Aujourd'hui encore, tu m'apprends une magnifique leçon.
+
+C'est riche de ton dernier adieu que je me tourne, sereine, vers demain.
+
+§4-Flarian
+-----------------------------------------
+
+Puisque le ciel s'allume pour nous guider vers demain, tu es devenue, parmi ces phares d'espoir, celle qui rayonne avec le plus d'éclat.
+
+§4-Le Crépuscule
+-----------------------------------------
+
+Il n'y avait que l'Incorruptible pour graver  d'une pierre blanche, au sein des annales de l'Univers, sa révolte.
+
+Qu'il en soit ainsi - l'Alliée de la remortalité. Puisse sa légende être contée dans les recoins les plus  profonds de l'existence
+
+§4-Pâle Aldia
+
+-----------------------------------------
+
+Sage, vous voilà donc au bout de votre Evolution.
+Qu'elle fût grande.
+Désormais c'est à nous de leur faire gravir les marches de la grandeur
+
+§4-Ehlyn
+
+-----------------------------------------
+
+Il y a des milliards de points blancs dans le ciel noir. 
+Mais partout dans l'univers, il n'y a désormais plus la moindre étoile.
+
+§4-Aleiksei
+
+-----------------------------------------
+
+L'on dit que l'on perçoit la valeur d'une personne et de son importance quand elle nous quitte. Et cela n'a jamais été autant plus vrai qu'aujourd'hui.
+
+Je n'étais pas l'une de vos proches, mais je vis avec le regret de ne pas avoir fait en sorte de mieux vous connaître quand vous étiez encore parmis-nous. 
+
+En vérité, madame, vous m'avez toujours quelques peu intimidée, aussi fière et orgueilleuse que je suis. 
+
+Vous déteniez cette prestance, cette aura que très peu peuvent se targuer d'avoir.. 
+
+Ce petit quelque chose forçant respect sans que l'on ai besoin de lever le petit doigt. 
+Et c'est sans aucune honte que je vous dirais que vous avez toujours été ma fierté. 
+
+Du jour où vous m'avez donnée le bleu,faites Héritière d'une Légende, octroyée ma position de Sergente au sein des Protecteurs..
+à jusqu'à maintenant, où vous avez donnée votre vie pour nous autres, où vous avez portée la dignité du Peuple Remortels jusqu'aux confins du Cosmos.. 
+
+Dame Antanaclase Valendias, puissiez-vous trouver la paix désormais après tout ce que vous avez enduré. Vous avez été la plus grande d'entre-nous.. et plus jamais nous ne reverrons semblable à vous.
+
+Merci pour tout.
+
+§9-Présage
+
+-----------------------------------------
+
+Encore une fois, tu nous as appris à tenir debout quand tout devait nous briser.  Même lorsque la nuit recouvre le cosmos, certaines traces refusent de s’effacer. 
+
+La tienne brillera d’une lumière pure et inaltérable tant que nos regards se porteront vers le ciel. 
+
+§4-Soffie
+
+-----------------------------------------
+
+Toi et moi, cela fait un moment qu'on se connait... Je t'ai vu arriver sur nos terres, devenir profane, apprentie, membre... Maîtresse... Sage... C'est clair qu'on était au départ pas... particulièrement proches mais les souffrances que nous avons vécus nous ont permis de nous comprendre, nous apprécier et même de rire de choses... Dont nous aurions très clairement pas dû rire, eh !
+
+Tu fais... Tu faisais partis de ces vieilles personnes qu'on qualifie d'antiquité, dont je fais aussi partie d'ailleurs mais... J'avoue que je pensais, visiblement, un peu naïvement, que tu n'aurais clairement pas été la première de nous deux à partir.
+
+Tu étais une des rares et seules personnes avec qui, même si nous n'échangions pas souvent, je me sentais libre d'échanger sans aucune retenue. Une des rares en qui j'ai pleinement confiance et que je respecte.
+
+J'espère que je saurai donner raison, un cyclame, à l'idée que tu te faisais de moi.
+
+§9-Rukia
+
+-----------------------------------------
+
+Je me souviens encore du cyclame où nous nous sommes rencontrée, sur l'île Académique. Arrivées à quelques cyclame d'intervalles, nous avons grandi et appris ensembles, guidées par le même mentor mais des choix différents ont été fait et nos chemins se sont séparés.
+
+Je t'ai aussi fait souffrir, un acte que je continuerai encore de regretter.
+
+Maintenant que je prends du recul et que j'observe tous le chemin que tu as parcouru, la Lumière que tu es devenue et tout ce qu'elle a éclairé dans son sillon, comment ne pas être fière et peinée d'avoir eu la chance de te connaître.
+
+Je prierai et je serai de celles qui maintiendront le souvenir de ton existence en vie.
+
+Merci, pour tout ce que tu as fait, pour nous, pour les remortels et... Aurevoir, mon amie.
+
+§9-Rydiel
+
+-----------------------------------------
+
+Antanaclase était une grande âme, fière et fidèle a elle même, c'est un honneur de l'avoir cotoyé et un privilège sans nom d'avoir été élévé dans l'ordre par sa personne.
+
+§9-Maxine
+
+-----------------------------------------
+
+C'est à sa dernière seconde de vie qu'une étoile brille le plus fort. Et, Sage Antanaclase, vous avez rayonné votre liberté  sur ces mondes enchainés.
+
+Nous porterons votre voix : que les cieux tremblent,  car les Remortels sont libres !
+
+§4-Iridius
+
+-----------------------------------------
+
+Aux confins des mondes, j'entend encore ton écho. 
+
+L'Existence que tu as mené et qui s'est éteinte avec toi renaitra dans de nouvelles Vies, nourries par les graines que tu as planté. 
+
+Ton corps se repose enfin, après tant de luttes, car rien ne saurait durer éternellement. Puisses-tu vivre par la Mémoire de ceux qui t'ont connu... et de ceux qui entendront ton nom.
+
+Tu vivras dans mon rêve, dans le Temps de ma propre Existence.
+
+Adieu, mon Amie.
+
+§4-Na'Kaar
+
+-----------------------------------------
+
+Dame Antanaclase, du peu de temps que j’ai pu passer avec vous, vous étiez une personne formidable et admirable, toujours prête à me montrer le chemin que je devais emprunter ou les choses que je devais savoir lors de mon arrivée aux Lotus.
+
+Vous dirigiez les Remortels avec tant de simplicité et de sagesse, cela était fascinant. 
+
+Je vous ai toujours admirée et cela continuera jusqu’à ce que moi-même je m’éteigne.
+
+Hélas, je n’ai pas eu la joie de passer plus de temps avec vous.
+
+Votre devoir prenait la majeure partie de votre temps, c’est l’un de mes nombreux regrets de ne pas avoir passé assez de temps avec vous pour mieux apprendre à vous connaître.
+
+Je vous dis adieu, Dame Antanaclase. Puissiez-vous enfin trouver du repos après tout ce que vous avez pu faire pour nous.
+
+Merci pour tout.
+
+§9-Avalon
+
+-----------------------------------------
+
+On a traversé un sacré bout de chemin, toi et moi, mentore.
+
+Tu pars devant... Et sans moi, qui plus est. J'espère que là où tu es à présent, tu as droit au repos que tu méritais. Pour moi, le combat continu... Toujours. À jamais.
+
+Tu n'imagines pas la fierté que j'éprouve à avoir été ton apprentie. Comme je te l'ai dit, si je pouvais remonter le temps, j'aimerais revivre à nouveau ces instants à tes côtés.
+
+Toutes ces aventures, ces combats, ces espoirs et ces larmes... 
+
+Merci d'avoir été à mes côtés.
+
+Merci d'avoir été une amie, une sœur, une confidente et une mère pour moi.
+
+J'aurais voulu faire plus pour toi... De rendre au  centuple tout ce que j'ai acquis grâce à toi.
+
+Malheureusement, le destin ne me laisse pas cette occasion.
+
+D'ici à ce qu'on se revoit toi et moi...
+Car on se reverra, j'en suis certaine...
+
+Prends soin de toi, quel que soit l'endroit où tu te trouves à présent.
+
+Je te le promets, on se reverra.
+
+Paix, Antanaclase. Tu es la plus grande remortelle de tout le cosmos.
+Ah et... Sacré croche patte que t'as fais
+au Discordieux, ça restera écrit dans l'histoire !
+
+§9-Aurora
+
+-----------------------------------------
+
+Antanaclase, chère amie. Elle te remercie pour tout.
+
+Elle se rappellera pour toujours de notre "première" rencontre.
+Tu as demandé aux Apprentis comme elle, Isabell, d'explorer les environs des Monts-Lotus, peu de temps après notre arrivée en cette nouvelle région.
+
+Grâce à toi, Isabell s'est ouverte au monde à ce moment-là, a rencontré d'innombrables personnes qui ont fini par être d'excellents amis, et frères et sœurs de cœur. 
+
+Dyhleyt, Alena, Thórgestr… toi.
+
+.. Nous avons réellement commencé à parler quand tu lui as donné de tes propres mains cette cape rouge qu'Arnhild  portera avec fierté et courage pour le restant de ses cyclames. Ta confiance ne sera pas en vain.
+
+Tu l'as encouragé, tu l'as guidé, tu l'as consolé, tu  l'as accepté. Même avec ce qui rend sa Nature aujourd'hui un monstre, tu lui as souri et tu as apporté ta confiance entière en elle.
+
+Nous avons tant parlé. Nous avons combattu ensemble, nous avons bu du thé ensemble, nous avons dansé ensemble, tu lui as appris à jouer du violon, tu lui as tant donné, puis tu l'as invité à te suivre jusqu'où l'impossible est réalisable.
+
+Merci pour tout, Antanaclase. Nous nous reverrons le cyclame où notre Rêve sera accompli.
+
+Ton Phoenix et ton Rempart,
+Étoiles du Soir et du Matin, 
+s'assureront de son succès.
+
+Pax tecum, Antanaclase Valendias. »
+
+§b-Arnhild
+
+-----------------------------------------
+
+...J'ai...reçu ta lettre.
+
+Tu as raison...Malgré tout ce que l'on se racontait,  nos chemins se sont séparés il y a déjà bien des années...Pourtant... Pourtant je sais que depuis que tu n'es plus, je sens un vide.
+ 
+Ce chemin que tu parcourais n'était plus le miens, mais je te voyais encore avancer... Au loin...C'était...C'était rassurant. Je suppose... Inspirant...j'en suis certaine... 
+
+Tu me manquera. Tu me manque déjà.
+
+Maintenant j'irais seule. Mais tu as ma parole.
+
+Antanaclase Valendias.. Gardienne..Prétorienne,  ma soeur d'arme, Honneur des remortelles.
+
+Ta voix a porté.
+Et je te donne raison.
+
+§4-Gabrielle "Sylkabe" Mindst'
+
+-----------------------------------------
+
+Tu auras eu le dernier mot, finalement.
+
+Je suis... Si désolé. Je sais que tu ne veux pas de mes excuses pour cela, je sais que nous en avons déjà parlé. Pourtant, je suis désolé. J'aurais dû être là à ton réveil, alors. Cela sera, toujours, un regret.
+
+Je suis content de voir que, sans moi, tu as continuée de déployer tes ailes. De protéger les tiens, tempête après tempête. Tu as accomplie plus que j'aurais jamais osé l'imaginer, lors de ces premières années ensembles.
+
+Je suis fier, si fier. Tu m'as demandé... De suivre  l'embrun et le courant. Je le ferai. Toujours, je porterai...
+
+Ces souvenirs le long de notre navire. Je tâcherai, comme tu me l'as demandé, d'être heureux.
+
+Et, Anta'... Tu n'as pas à t'excuser de ne pas pouvoir revenir.
+
+J'aurais aimé que tu le puisses, bien sûr. 
+
+Mais... Je te l'avais écrit, non ? Même si j'aurais préféré te voir Oracle, j'avais du mal à te voir prendre cette voie.
+
+Tu es restée toi-même jusqu'au bout,  et je ne peux pas t'en demander plus.
+
+J'espère malgré tout. J'espère qu'un cycle, je te reverrai, dans un coin de notre Univers. Alors, à la prochaine, Anta'
+
+§9-Ghosti
+
+-----------------------------------------
+
+Anta... Je n'ai pas vraiment les mots. On ne s'est pas beaucoup parlé vous et moi et... les circonstances n'ont pas aidés. J'aurais... aimé apprendre à vous connaître un peu plus, mais le temps n'était pas de notre côté. Il ne l'a jamais été... j'aurais voulu qu'il soit clément, juste pour cette fois-ci.
+
+Je ne reviens toujours pas que vous m'avez offert la remortalité. Je sais que c'était mon objectif au départ mais... pour être honnête, ce n'était plus ma priorité. Je voulais simplement sauver des vies Mortels et me battre... Mais quand on m'a parlé de vos rêves et de vos espoirs... ça m'a stupéfait. Ca m'a aidé à choisir et à prendre conscience de ce que vous vouliez m'offrir. Un héritage. Et quand j'ai réouvert les yeux ce soir là, après avoir absorbé l'étoile, j'ai... eu la sensation d'être dans un monde inconnu. Un monde à la fois familier mais avec une vision nouvelle. Une... vision plus large de l'avenir et moins fataliste ? Une vision d'espoir ? C'est ce qui vous a guidé jusque là... pas vrai ?
+
+... En verité, je suis terrifié. Mon cœur tremble... J'ai le même souhait que vous et... devant cet océan d'infinité, je me sens écrasé. Mais il faut avancer et garder la tête haute. Vous nous l'avez appris et montré ! Vous avez été incroyable, alors hors de questions de me morfondre plus longtemps. Mais j'espère, de tout cœur, vous faire honneur et... être aussi incroyable et inspirante que vous. L'héritage que vous me donnez ne se perdra pas.
+
+Enfin, pardon, je parle peut être un peu trop ! Je vais aller arroser les plantes de l'Abbaye juste après. Ca me ferait trop de mal de les voir fâner alors que vous vous en êtes occuper depuis si longtemps ! Tout ça pour dire... vous pouvez vous reposer maintenant. Et vous pourrez voir nos progrès, depuis là-haut, avec un grand sourire fier.
+
+Merci beaucoup Anta'. Je ferais de mon mieux et... je vous promets d'être un exemple. Pour les Mortels... mais aussi les Remortels. C'est un serment que je vous fais.
+
+Vous allez nous manquer.
+
+§9-Kara
+
+-----------------------------------------
+
+Voici le monde pour lequel tu t’es battue,
+Voici l'étincelle que tu as protégée,
+De tes deux mains, de toutes tes forces, à travers  les cauchemars jusqu'à l'aube. 
+
+Le pouls figé de la vie bat à nouveau tandis que la brise chante ta foi à travers les plaines vibrantes. 
+
+Les Remortels n'oublieront pas, Antanaclase.
+
+Plus qu'une éminente membre de notre ordre,  nous avons aujourd'hui perdu une guide, une camarade, une amie. 
+
+Nous leur compterons tes exploits pour entretenir cette étincelle, cette flamme que tu nous lègues.
+
+Notre Liberté. 
+
+Sois en assurée, notre peuple perpétuera ton héritage.
+Je te remercie de tout mon être, 
+Antanaclase Valendias, Gardienne dévouée. 
+
+§4-Nocturne
+
+-----------------------------------------
+
+Que votre souvenir traverse les âges : celui d'une Remortelle qui s'est dressée face aux Cieux.
+
+§4-Lellion
+
+-----------------------------------------
+
+Je vois le ciel s'ériger dans leurs yeux. L'éternelle grisaille, les plus chargés des nuages. Moins un ciel d'azur, qu'un ciel d'orage.
+
+Le genre sous lequel on se glisse, pour cacher les larmes qui coulent le long de son visage.
+
+Je suis triste, moi aussi, comme chacun. Mais je suis heureux. Car il n'y a rien de mieux, que d'être triste ensemble.
+
+Je suis heureux, car tu as quitté un Ordre uni. Un Ordre qui n'a jamais existé, sinon dans quelques rêvasseries nostalgiques.
+
+Cet Ordre est un Ordre nouveau, une Abbaye construite sur une montagne lointaine. Mais, tu sais, ceux-là.
+
+Savent-ils à quel point nous sommes fiers d'eux ?
+Savent-ils à quel point ils sont drôles, forts, inspirants ?
+Savent-ils comment nous serions seuls, sans eux ? Comment nous n'aurions nulle raison de nous battre, s'ils n'en valaient pas la peine.
+
+La grisaille les hante. Mais ça ne durera pas.
+
+Savent-ils tout ce qu'ils vivront ? Toutes les larmes qu'ils vont verser, tous les ouvrages qu'ils écriront ?
+
+Savent-ils qu'ils riront tant, que leur voix résonnera jusqu'à ton paradis ?
+
+Sais-tu à quel point tu leur es importante ? À quel point ils veilleront sur toi, pendant ton éternelle absence ?
+
+Merci pour tout. Pour cette ère, pour ce monde. La neige fond sur les branches, devient eau. Comme si elles aussi, pleuraient ton départ.
+
+À demain.
+
+§5-Yazor
+
+-----------------------------------------
+
+Nous n'avons jamais eu le temps de nous connaître en détail. Pour moi vous étiez la représentante de la justice, d'un pouvoir grand, trop grand pour ne pas m'inquiéter. J'ai eu peur de vous pendant bien des mois, peur de tout perdre de nouveau à la moindre action mal perçue. 
+
+Et puis j'ai appris à vous faire confiance, à comprendre pourquoi vous étiez là. Et là j'ai eu peur de ne pas être assez bien pour vous prendre de votre temps. Je n'ai jamais osé vous déranger, vous parler autour d'un thé, et apprendre à vous connaître. Je me suis inventée toute sorte d'excuses allant du "Elle est occupée" au "tu iras plus tard" car en réalité je ne me sentais pas légitime. Et je ne sais si je le suis actuellement mais je voulais terminer cette conversation que nous avions commencée alors.. merci Antanaclase pour tout, ton sacrifice, tout ce que tu as fait et a été pour Ghosti et merci de m'avoir redonné espoir. 
+
+Je donnerais le meilleur de moi-même, je vous en fais la promesse.
+
+§9-Tsuki
+-----------------------------------------
+
+Nuls mots ne sauraient décrire ce que vous avez fait pour la Remortalité, 
+
+Les générations futures apprendront vos exploits et votre histoire, elles s’en inspireront comme une promesse de liberté et de pérennité pour elles.
+
+Je vous remercie, l’Ordre d’Herobrine vous remercie et la Remortalité vous remercie
+
+§5-Lam Bartohrn
+
+-----------------------------------------
+
+Je crois n'avoir jamais vu de parcours si  parsemé de souffrances, si jonché d'obstacles. 
+
+Depuis que vous étiez profane, l'univers s'amusait à vous faire souffrir. 
+
+Félicitations Antanaclase, vous l'avez fait payer.
+
+§5-Azur
+
+-----------------------------------------
+
+Antanaclase.
+
+J'ai eu la chance de pouvoir te l'exprimer de ton vivant. Mais déjà à ce moment, les mots me manquaient pour te partager tout ce par quoi tu m'as fait traverser. 
+
+Je suis fier de ce que tu as accompli. Fier d'avoir bâti avec toi. Fier d'avoir appris de toi. Honoré d'avoir été à tes côtés jusqu'aux confins de notre monde. 
+
+Toi, dont le dernier coup d'éclat fit trembler les fondations même du Cosmos. Tes desseins n'ont jamais été si proches de s'accomplir. Ton héritage se poursuivra.
+
+Toi, dont les mots firent se figer et se taire Ahaes tout entier. A jamais, ton souvenir brillera comme la plus lumineuse des étoiles au travers de nos mémoires.
+
+Voici mes derniers souhaits à l'attention de la plus grande Remortelle de notre Histoire. Voici mes derniers mots à l'égard d'un être cher.
+
+Que tu reposes enfin en paix. Là où nous ne pourrons plus t'importuner.
+
+Merci, Antanaclase Valendias.
+
+§b-Thorgestr
+
+-----------------------------------------
+
+Depuis si longtemps…
+
+Depuis si longtemps tes pas arpentent nos Terres.
+
+Depuis si longtemps, mes sens, sur toi, se posent et suivent ton évolution.
+
+Depuis si longtemps tu distilles ton essence dans nos esprits.
+
+Depuis si longtemps tu t’éveilles. TU t’éveilles et Nous éveilles à tes côtés.
+
+Essence de connaissances. Essence d’amitié. Essence de confiance. Essence de liberté.
+
+Car oui, c’est de toi, de nous qu’est né ton Eveil. De toi seule, pas d’Eux.
+
+Haut et fort tu brandis l’étendard de l’indépendance, de la croyance en notre capacité, NOTRE capacité à disposer de notre destin. Un étendard tel un phare illuminant nos esprits, une puissance que nul ne pouvait pressentir et qui, maintenant, affirme haut et fort, aux yeux de tous, Petites Fourmis comme Entités Cosmiques, la puissance des Remortels, leur résilience, leur union dans les temps troublés du doute. 
+
+Ainsi t’es tu Eveillée, en dehors de leurs carcans, en dehors de leur volonté, pour le seul but de libérer tes frères et sœurs du joug des Oracles et autres Éveillés, en ce jour maudit ou béni de ton Élévation.
+
+Un mal pour un bien.
+
+Un deuil pour des lendemains.
+
+Je ne  m'éléverai pas. Je mourrai là-bas s'il le faut mais je réécrirai l'ordre des choses. Et si je dois crever la gueule ouverte pour créer les possibles de demain pour les miens, je le ferai, Antanaclase
+
+A bientôt Sylest
+
+§9-DrungYig
+
+-----------------------------------------
+
+Hey, Antanaclase, comment vont les choses ?
+
+Ici, la vie reprend doucement son cours, la neige commence à fondre, les soleils nous illumine.
+Même si une violente tempête arrive vers nous, mais...
+...Ouais, tu manques ça.
+
+Non, sérieusement, nous allons bien. 
+
+Les liens avec chaque remortels se font plus fort, pour le meilleur comme pour le pire.
+L'Ordre, les Arbitres... La remortalité en général n'arrête pas de grandir, le travail s'accumule. 
+Mais c'est mieux d'être occupée, pas vrai ?
+
+...
+
+Je veux seulement te dire, merci, pour ce que tu as pu faire pour les remortels et pour moi.
+
+Je serais probablement bien plus perdu que les horribles dévots du Samyuga si t'avais pas eu
+§k petit malin qui regarde le fichier text
+
+...
+
+Repose toi, laisse le monde propagé ta légende.
+
+§4-Drak-Lacrima
+
+-----------------------------------------
+
+Tu craignais que je perde mon humanité,  mais rien ne m'a préparé à ressentir tant de chagrin.
+Nous sommes fiers de toi, qui fut  Incorruptible jusqu'au dernier instant.
+
+§6-Yarkane
+
+-----------------------------------------
+
+Sur cette longue route sinueuse que nous avons  ouverte ensemble. Une seule pouvait atteindre sa destination, et c'était toi.
+
+Merci pour tout.
+
+§4-Fenitis
+
+-----------------------------------------
+
+§6Félicitation et merci infiniment à Antanaclase qui termine son jeu, marquant l'histoire d'une  légende, que le Cosmos chantera !
+
+§6Gloire à la Remortalité libre !
+
+
+§lÀ toi, Antanaclase.
+
+§lÀ vous, Joueurs.
+
+§lMerci d'avoir joué !
