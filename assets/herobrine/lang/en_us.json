@@ -284,6 +284,42 @@
   "item.herobrine.lamprey.lore_3": "les animaux du coins ont une surcouche de graisse, ses",
   "item.herobrine.lamprey.lore_4": "longues dents acérées permettant de passer",
   "item.herobrine.lamprey.lore_5": "outre et de sucer le sang de sa victime.",
+  
+  "item.herobrine.moray_eel": "Murène",
+  "item.herobrine.moray_eel.lore_1": "La Murène est un long poisson serpentin,",
+  "item.herobrine.moray_eel.lore_2": "avec une longue nageoire dorsale.",
+  "item.herobrine.moray_eel.lore_3": "Elle se cache dans des crevasses pour",
+  "item.herobrine.moray_eel.lore_4": "se nourrir de petits poissons qui",
+  "item.herobrine.moray_eel.lore_5": "se perdent devant sa tanière.",
+
+  "item.herobrine.mutated_moray_eel": "Murène nébuleuse",
+  "item.herobrine.mutated_moray_eel.lore_1": "Cette murène semble presque venir d'un",
+  "item.herobrine.mutated_moray_eel.lore_2": "autre monde. On trouve parfois de",
+  "item.herobrine.mutated_moray_eel.lore_3": "ces choses bizarre dans l'eau...",
+  
+  "item.herobrine.blind_tetra": "Tetra aveugle",
+  "item.herobrine.blind_tetra.lore_1": "Poisson aux couleurs pâles dont les yeux",
+  "item.herobrine.blind_tetra.lore_2": "ne réagissent pas, habitués aux zones sans",
+  "item.herobrine.blind_tetra.lore_3": "lumière, ce poisson est particulièrement agile.",
+  
+  "item.herobrine.jumpy_goby": "Gobie sauteur",
+  "item.herobrine.jumpy_goby.lore_1": "Les nageoires avants de ce poisson lui permettent",
+  "item.herobrine.jumpy_goby.lore_2": "de sauter hors de l'eau et de se maintenir",
+  "item.herobrine.jumpy_goby.lore_3": "quelques instants sur de la terre humide. Il peut",
+  "item.herobrine.jumpy_goby.lore_4": "s'y nourrir d'insectes notamment et échapper",
+  "item.herobrine.jumpy_goby.lore_5": "aux Murènes en préférant parfois le sol à l'eau.",
+  
+  "item.herobrine.glittery_fish": "L'Etincelant",
+  "item.herobrine.glittery_fish.lore_1": "Poisson aux grandes nageoires belles et reluisantes,",
+  "item.herobrine.glittery_fish.lore_2": "ses écailles ont durcit et sont plus denses,",
+  "item.herobrine.glittery_fish.lore_3": "renvoyant la couleur similaire à celle des",
+  "item.herobrine.glittery_fish.lore_4": "améthystes où l'étincelant se cache.",
+  
+  "item.herobrine.cave_snail": "Escargot Cavernicole",
+  "item.herobrine.cave_snail.lore_1": "Cet escargot à la carapace blanchâtre et pointue",
+  "item.herobrine.cave_snail.lore_2": "vit dans les cavernes et se plait dans l'eau. Ils",
+  "item.herobrine.cave_snail.lore_3": "sont parfois le malheureux repas d'une murène qu'ils",
+  "item.herobrine.cave_snail.lore_4": "ont un peu trop approché.",
 
   "item.herobrine.lotus_pearl": "Perle du Lotus",
   "item.herobrine.barracuda": "Barracuda",
