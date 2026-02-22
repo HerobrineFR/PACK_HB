@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "herobrine:item/persos/lunaris",
-		"particle": "herobrine:item/persos/lunaris"
+		"0": "reverence:item/cosmetics/lunaris",
+		"particle": "reverence:item/cosmetics/lunaris"
 	},
 	"elements": [
 		{
