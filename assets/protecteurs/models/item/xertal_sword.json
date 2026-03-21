@@ -1,5 +1,5 @@
 {
-  "parent": "item/iron_sword",
+  "parent": "herobrine:item/combat/armes/epee_longue",
   "textures": {
     "layer0": "protecteurs:item/xertal_sword"
   }
