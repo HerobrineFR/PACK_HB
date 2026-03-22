@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "model",
-    "model": "herobrine:item/bouteille_fee"
+    "model": "herobrine:item/bouteille_fee",
+    "tints": [
+      {
+        "type": "potion",
+        "default": 16448250
+      }
+    ]
   }
 }
