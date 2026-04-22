@@ -266,9 +266,9 @@
   "item.herobrine.ice_cube": "Glaçon",
 
   "item.herobrine.cautious_lamprey": "Lamproie Attentive",
-  "item.herobrine.cautious_lamprey.lore_1": "Il y a des mondes, aux conditions tellement extrêmes qu’il",
-  "item.herobrine.cautious_lamprey.lore_2": "en nait des choses dont on ne saurait réellement",
-  "item.herobrine.cautious_lamprey.lore_3": "définir de quoi elles ont l’air...", 
+  "item.herobrine.cautious_lamprey.lore_1": "Le corps boursouflé de la lamproie tient entre vos",
+  "item.herobrine.cautious_lamprey.lore_2": "mains, tandis qu'un oeil luisant pulse dans",
+  "item.herobrine.cautious_lamprey.lore_3": "les ombres d'une bouche sans fond.", 
 
   "item.herobrine.ghost_anglerfish": "Baudroie Fantôme",
   "item.herobrine.ghost_anglerfish.lore_1": "Cette chose vient des profondeurs gelées d’un monde glacial,",
@@ -351,6 +351,32 @@
   "item.herobrine.cooked_sole": "Sole cuit",
   "item.herobrine.cooked_hake": "Colin cuit",
   "item.herobrine.cooked_monkfish": "Lotte cuite",
+
+  "item.herobrine.piranha": "Piranha",
+  "item.herobrine.piranha.lore_1": "Un petit prédateur des eaux tropicales, aux petites",
+  "item.herobrine.piranha.lore_2": "dents acérées et à l'appétit étonnant.",
+
+  "item.herobrine.jungle_lamprey": "Lamproie",
+  "item.herobrine.jungle_lamprey.lore_1": "Un vertébré étonnant à la bouche hérissées de",
+  "item.herobrine.jungle_lamprey.lore_2": "dents. Sa petite taille le rend moins",
+  "item.herobrine.jungle_lamprey.lore_3": "impressionnant mais pas moins inquiétant.",
+
+  "item.herobrine.alligator_gar": "Garpique alligator",
+  "item.herobrine.alligator_gar.lore_1": "Un colosse des eaux douces dont la silhouette",
+  "item.herobrine.alligator_gar.lore_2": "silhouette ressemble à un grand reptile. Il",
+  "item.herobrine.alligator_gar.lore_3": "est couvert d'écailles en kératine très solides.",
+
+  "item.herobrine.arampaima": "Arapaïma",
+  "item.herobrine.arampaima.lore_1": "Un grand poisson résistant aux morsures de",
+  "item.herobrine.arampaima.lore_2": "Piranhas grâce à ses écailles colorées. Il",
+  "item.herobrine.arampaima.lore_3": "remonte parfois à la surface",
+  "item.herobrine.arampaima.lore_4": "pour prendre son souffle.",
+
+  "item.herobrine.waterlily_sole": "Sole-nénuphar",
+  "item.herobrine.waterlily_sole.lore_1": "Un sole dont les écailles se sont fusionnées à",
+  "item.herobrine.waterlily_sole.lore_2": "un nénuphar. Il rôde à la surface des",
+  "item.herobrine.waterlily_sole.lore_3": "eaux vaseuses et mange ce qui",
+  "item.herobrine.waterlily_sole.lore_4": "se trouve à sous les autres nénuphars.",
 
   "item.herobrine.mutated_hake.lore_1": "Mais qu'est-ce que c'est que ça ?",
 
