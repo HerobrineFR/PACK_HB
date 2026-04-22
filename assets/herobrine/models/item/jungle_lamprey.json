@@ -1,6 +1,0 @@
-{
-  "parent": "item/cod",
-  "textures": {
-    "layer0": "herobrine:item/jungle_lamprey"
-  }
-}
