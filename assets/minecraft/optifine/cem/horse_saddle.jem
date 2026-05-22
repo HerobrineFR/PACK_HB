@@ -1,0 +1,65 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "headpiece",
+			"id": "headpiece",
+			"invertAxis": "xy",
+			"translate": [0, -22, 8.9],
+			"attach": true,
+			"texture": "textures/entity/equipment/horse_saddle/druisson_saddle.png",
+			"textureSize": [64, 64],
+			"boxes": [
+				{"coordinates": [-3, 29, -9.8, 6, 5, 6], "textureOffset": [1, 1], "sizeAdd": 0.2}
+			]
+		},
+		{
+			"part": "noseband",
+			"id": "noseband",
+			"invertAxis": "xy",
+			"translate": [0, -22, 9],
+			"attach": true,
+			"texture": "textures/entity/equipment/horse_saddle/druisson_saddle.png",
+			"textureSize": [64, 64],
+			"boxes": [
+				{"coordinates": [-2, 29, -12, 4, 3, 2], "textureOffset": [19, 1], "sizeAdd": 0.2}
+			]
+		},
+		{
+			"part": "left_rein",
+			"id": "left_rein",
+			"invertAxis": "xy",
+			"translate": [0, -25.5, 5.5],
+			"attach": true,
+			"texture": "textures/entity/equipment/horse_saddle/druisson_saddle.png",
+			"textureSize": [64, 64],
+			"boxes": [
+				{"coordinates": [-2.35, 25.5, -15.5, 0, 7, 16], "textureOffset": [32, 2]}
+			]
+		},
+		{
+			"part": "right_rein",
+			"id": "right_rein",
+			"invertAxis": "xy",
+			"translate": [0, -25.5, 5.5],
+			"attach": true,
+			"texture": "textures/entity/equipment/horse_saddle/druisson_saddle.png",
+			"textureSize": [64, 64],
+			"boxes": [
+				{"coordinates": [2.35, 25.5, -15.5, 0, 7, 16], "textureOffset": [32, 2]}
+			]
+		},
+		{
+			"part": "saddle",
+			"id": "saddle",
+			"invertAxis": "xy",
+			"translate": [0, -13, -6],
+			"attach": true,
+			"texture": "textures/entity/equipment/horse_saddle/druisson_saddle.png",
+			"textureSize": [64, 64],
+			"boxes": [
+				{"coordinates": [-5, 12, -3, 10, 9, 9], "textureOffset": [26, 0], "sizeAdd": 0.5}
+			]
+		}
+	]
+}

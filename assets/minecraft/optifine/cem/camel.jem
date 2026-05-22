@@ -1,0 +1,161 @@
+{
+	"credit": "Made by Letutout for Herobrine.fr",
+	"textureSize": [256, 256],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -20, -10.5],
+			"attach": true,
+			"texture": "textures/entity/camel/taurmouth_blanc.png",
+			"textureSize": [256, 256],
+			"submodels": [
+				{
+					"id": "fullbody",
+					"invertAxis": "xy",
+					"translate": [0, 20, 10.5],
+					"submodels": [
+						{
+							"id": "body2",
+							"invertAxis": "xy",
+							"translate": [0, -3, -4],
+							"boxes": [
+								{"coordinates": [-10, -7, -22, 20, 22, 18], "textureOffset": [0, 1]},
+								{"coordinates": [-9, -5, -4, 18, 18, 14], "textureOffset": [3, 42]}
+							]
+						},
+						{
+							"id": "leg1b",
+							"invertAxis": "xy",
+							"translate": [7.1, 0, 2.5],
+							"boxes": [
+								{"coordinates": [-3, -20, -2.5, 6, 18, 6], "textureOffset": [0, 99]},
+								{"coordinates": [-4, -8, -3.5, 8, 11, 8], "textureOffset": [29, 91]}
+							]
+						},
+						{
+							"id": "leg2b",
+							"invertAxis": "xy",
+							"translate": [-7.1, 0, 2.5],
+							"boxes": [
+								{"coordinates": [-3, -20, -2.5, 6, 18, 6], "textureOffset": [96, 0]},
+								{"coordinates": [-4, -8, -3.5, 8, 11, 8], "textureOffset": [63, 0]}
+							]
+						},
+						{
+							"id": "leg3b",
+							"invertAxis": "xy",
+							"translate": [8, 3, -22],
+							"boxes": [
+								{"coordinates": [-3, -23, -3, 6, 18, 6], "textureOffset": [87, 91]},
+								{"coordinates": [-4, -10, -5, 8, 14, 10], "textureOffset": [75, 31]}
+							]
+						},
+						{
+							"id": "leg4b",
+							"invertAxis": "xy",
+							"translate": [-8, 3, -22],
+							"boxes": [
+								{"coordinates": [-4, -10, -5, 8, 14, 10], "textureOffset": [0, 74]},
+								{"coordinates": [-3, -23, -3, 6, 18, 6], "textureOffset": [62, 91]}
+							]
+						},
+						{
+							"id": "head2",
+							"invertAxis": "xy",
+							"translate": [0, 3, -25.5],
+							"boxes": [
+								{"coordinates": [-7, -8, -14.5, 14, 16, 14], "textureOffset": [59, 60]},
+								{"coordinates": [-4, -8, -16.5, 8, 8, 2], "textureOffset": [37, 74]}
+							],
+							"submodels": [
+								{
+									"id": "horns",
+									"invertAxis": "xy",
+									"translate": [5, 1, -9.5],
+									"rotate": [-65, 0, 0],
+									"boxes": [
+										{"coordinates": [1, 8.43785, 5.46429, 4, 4, 10], "textureOffset": [102, 46]},
+										{"coordinates": [0, 1.43785, 2.46429, 4, 10, 4], "textureOffset": [55, 41]}
+									],
+									"submodels": [
+										{
+											"id": "body_sub_3",
+											"invertAxis": "xy",
+											"translate": [0, 0, 0],
+											"boxes": [
+												{"coordinates": [-14, 1.43785, 2.46429, 4, 10, 4], "textureOffset": [0, 41]},
+												{"coordinates": [-15, 8.43785, 5.46429, 4, 4, 10], "textureOffset": [102, 25]}
+											]
+										}
+									]
+								},
+								{
+									"id": "tusks",
+									"invertAxis": "xy",
+									"translate": [0, -23, -7],
+									"rotate": [70, 0, 0],
+									"boxes": [
+										{"coordinates": [6, -6, -18.5, 3, 14, 4], "textureOffset": [113, 87]}
+									],
+									"submodels": [
+										{
+											"id": "body_sub_5",
+											"invertAxis": "xy",
+											"translate": [0, 0, 0],
+											"boxes": [
+												{"coordinates": [-9, -6, -18.5, 3, 14, 4], "textureOffset": [42, 111]}
+											]
+										},
+										{
+											"id": "tuskupper",
+											"invertAxis": "xy",
+											"translate": [0, -23, -3.5],
+											"rotate": [60, 0, 0],
+											"boxes": [
+												{"coordinates": [5, -15, -24, 2, 14, 4], "textureOffset": [27, 111]}
+											],
+											"submodels": [
+												{
+													"id": "body_sub_7",
+													"invertAxis": "xy",
+													"translate": [0, 0, 0],
+													"boxes": [
+														{"coordinates": [-7, -15, -24, 2, 14, 4], "textureOffset": [0, 0]}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"head2.rx": "head.rx",
+					"head2.ry": "head.ry",
+					"head2.rz": "head.rz",
+					"leg1b.rx": "if(is_sitting, back_right_leg.rx+pi/32, back_right_leg.rx)",
+					"leg1b.rz": "back_right_leg.rz",
+					"leg2b.rx": "if(is_sitting, back_left_leg.rx+pi/32, back_left_leg.rx)",
+					"leg2b.rz": "back_left_leg.rz",
+					"leg3b.rx": "if(is_sitting, front_right_leg.rx+pi/32, front_right_leg.rx)",
+					"leg3b.tx": "if(is_sitting, -8.1, -8)",
+					"leg3b.rz": "front_right_leg.rz",
+					"leg4b.rx": "if(is_sitting, front_left_leg.rx+pi/32, front_left_leg.rx)",
+					"leg4b.tx": "if(is_sitting, 8.1, 8)",
+					"leg4b.rz": "front_left_leg.rz",
+					"fullbody.ty": "if(is_sitting, -26, -20)",
+					"leg1b.ty": "if(is_sitting, 2, 0)",
+					"leg2b.ty": "if(is_sitting, 2, 0)",
+					"leg3b.ty": "if(is_sitting, 2, -3)",
+					"leg4b.ty": "if(is_sitting, 2, -3)"
+				}
+			]
+		}
+	]
+}
