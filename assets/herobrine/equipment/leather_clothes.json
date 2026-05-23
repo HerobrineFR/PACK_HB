@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "herobrine:leather_clothes",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "herobrine:leather_clothes",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      }
+    ]
+  }
+}

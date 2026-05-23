@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "herobrine:golden_accessories"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "herobrine:golden_accessories"
+      }
+    ]
+  }
+}
