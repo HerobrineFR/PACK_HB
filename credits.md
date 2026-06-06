@@ -21,7 +21,7 @@ Catching the Sky by Bernard Asselin<br>
 ### Resourcepack maintainers
 
 - Inposa
-- Lelion
+- Lelionletutout
 - Aerhin / Cynrid
 - Yazor
 - Kryfulli
