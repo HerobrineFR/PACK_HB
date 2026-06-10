@@ -1,10 +1,10 @@
 {
   "textures": {
-    "0": "item/textures/block/iron_block",
-    "1": "block/cyan_terracotta",
+    "0": "atlas_compatibility:item/iron_block",
+    "1": "atlas_compatibility:item/cyan_terracotta",
     "2": "collectif_radiant:item/aur_dust",
-    "3": "block/light_gray_stained_glass",
-    "particle": "block/spruce_planks"
+    "3": "atlas_compatibility:item/light_gray_stained_glass",
+    "particle": "#0"
   },
   "elements": [
     {

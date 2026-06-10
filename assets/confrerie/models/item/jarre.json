@@ -3,13 +3,13 @@
   "credit": "Made by Letutout, for Herobrine.fr",
   "textures": {
     "0": "confrerie:item/bronze_patine",
-    "1": "block/yellow_stained_glass",
+    "1": "atlas_compatibility:item/yellow_stained_glass",
     "2": "confrerie:item/white_stained_glass",
     "3": "confrerie:item/red_stained_glass",
-    "4": "block/blue_stained_glass",
-    "5": "block/pink_stained_glass",
+    "4": "atlas_compatibility:item/blue_stained_glass",
+    "5": "atlas_compatibility:item/pink_stained_glass",
     "6": "confrerie:item/green_stained_glass",
-    "7": "block/magenta_stained_glass",
+    "7": "atlas_compatibility:item/magenta_stained_glass",
     "8": "confrerie:item/orange_stained_glass",
     "particle": "confrerie:item/bronze_patine"
   },

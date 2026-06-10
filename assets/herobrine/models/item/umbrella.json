@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "herobrine:item/umbrella"
+		"2": "herobrine:item/umbrella",
+		"particle": "#2"
 	},
 	"elements": [
 		{

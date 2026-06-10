@@ -1,8 +1,8 @@
 {
   "textures": {
     "1": "collectif_radiant:item/tablo",
-    "2": "block/oak_log",
-    "3": "block/oak_planks",
+    "2": "atlas_compatibility:item/oak_log",
+    "3": "atlas_compatibility:item/oak_planks",
     "particle": "#1"
   },
   "elements": [
