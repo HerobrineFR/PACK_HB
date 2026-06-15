@@ -1,0 +1,6 @@
+{
+    "parent": "herobrine:parent/tall_sword",
+    "textures": {
+        "layer0": "herobrine:item/katraz_fanahr"
+    }
+}
