@@ -48,6 +48,13 @@
       "height": 16,
       "ascent": -80,
       "type": "bitmap"
+    },
+    {
+      "file": "herobrine:gui/playerlist_banner.png",
+      "chars": ["b"],
+      "height": 40,
+      "ascent": 30,
+      "type": "bitmap"
     }
   ]
 }
