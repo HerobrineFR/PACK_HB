@@ -2,6 +2,6 @@
   "parent": "block/cube_column",
   "textures": {
     "end": "block/stone_bricks",
-    "side": "block/yellow_terracotta"
+    "side": "herobrine:block/engraved_stone_bricks"
   }
 }

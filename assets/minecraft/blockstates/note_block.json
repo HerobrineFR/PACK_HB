@@ -182,6 +182,9 @@
     },
     "instrument=banjo,note=6,powered=true": {
       "model": "block/herobrine/silver_cristal"
+    },
+    "instrument=banjo,note=7,powered=false": {
+      "model": "herobrine:block/engraved_stone_bricks"
     }
   }
 }
