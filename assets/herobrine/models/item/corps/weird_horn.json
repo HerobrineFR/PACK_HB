@@ -2,7 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "herobrine:item/corps/bull_silver_gold"
+		"2": "herobrine:item/corps/bull_silver_gold",
+		"particle": "#2"
 	},
 	"elements": [
 		{

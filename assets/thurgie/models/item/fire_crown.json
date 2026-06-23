@@ -6,10 +6,10 @@
 		"1": "thurgie:item/fire_crown2",
 		"2": "thurgie:item/fire_crown3",
 		"3": "thurgie:item/fire_crown4",
-		"5": "block/gold_block",
+		"5": "division_cristalline:item/gold_border",
 		"6": "thurgie:item/fg",
-		"7": "block/raw_gold_block",
-		"8": "block/yellow_concrete",
+		"7": "thurgie:item/raw_gold_block",
+		"8": "thurgie:item/yellow_concrete_powder",
 		"particle": "thurgie:item/fire_crown1"
 	},
 	"elements": [

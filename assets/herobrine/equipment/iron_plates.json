@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "herobrine:iron_plates"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "herobrine:iron_plates"
+      }
+    ]
+  }
+}

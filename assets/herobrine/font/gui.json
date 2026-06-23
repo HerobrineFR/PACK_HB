@@ -22,6 +22,20 @@
       "type": "bitmap"
     },
     {
+      "file": "herobrine:gui/category_container.png",
+      "chars": ["p"],
+      "height": 80,
+      "ascent": 20,
+      "type": "bitmap"
+    },
+    {
+      "file": "herobrine:gui/skins_list.png",
+      "chars": [","],
+      "height": 100,
+      "ascent": 22,
+      "type": "bitmap"
+    },
+    {
       "file": "herobrine:icons/icon_right_blue.png",
       "chars": ["x"],
       "height": 16,
@@ -40,6 +54,13 @@
       "chars": ["l"],
       "height": 16,
       "ascent": -80,
+      "type": "bitmap"
+    },
+    {
+      "file": "herobrine:gui/playerlist_banner.png",
+      "chars": ["b"],
+      "height": 40,
+      "ascent": 30,
       "type": "bitmap"
     }
   ]

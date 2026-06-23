@@ -4,7 +4,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "herobrine:item/neylann_casque",
-		"particle": "bedrock"
+		"particle": "#1"
 	},
 	"elements": [
 		{
