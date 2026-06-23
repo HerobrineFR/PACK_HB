@@ -436,5 +436,6 @@
   
   "item.herobrine.monkfish.lore_1": "Poisson étrange d'eau douce dont",
   "item.herobrine.monkfish.lore_2": "le corps un peu gonflé lui",
-  "item.herobrine.monkfish.lore_3": "donne une certaine laideur."
+  "item.herobrine.monkfish.lore_3": "donne une certaine laideur.",
+  "chat.deleted_marker": "Message supprimé"
 }
