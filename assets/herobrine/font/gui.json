@@ -29,6 +29,13 @@
       "type": "bitmap"
     },
     {
+      "file": "herobrine:gui/skins_list.png",
+      "chars": [","],
+      "height": 100,
+      "ascent": 22,
+      "type": "bitmap"
+    },
+    {
       "file": "herobrine:icons/icon_right_blue.png",
       "chars": ["x"],
       "height": 16,
