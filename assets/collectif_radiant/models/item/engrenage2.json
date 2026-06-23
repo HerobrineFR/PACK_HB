@@ -1,10 +1,10 @@
 {
   "format_version": "1.21.6",
   "textures": {
-    "0": "block/copper_block",
-    "1": "block/cut_copper",
-    "2": "block/polished_andesite",
-    "particle": "block/copper_block"
+    "0": "atlas_compatibility:item/copper_block",
+    "1": "atlas_compatibility:item/cut_copper",
+    "2": "atlas_compatibility:item/polished_andesite",
+    "particle": "atlas_compatibility:item/copper_block"
   },
   "elements": [
     {

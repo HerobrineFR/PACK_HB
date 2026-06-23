@@ -3,7 +3,8 @@
   "ambientocclusion": false,
   "textures": {
     "2": "block/lily_pad/lily_pad_2",
-    "3": "block/lily_pad/lily_pad_1"
+    "3": "block/lily_pad/lily_pad_1",
+    "particle": "#2"
   },
   "elements": [
     {

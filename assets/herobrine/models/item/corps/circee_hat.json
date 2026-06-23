@@ -1,0 +1,1192 @@
+{
+	"format_version": "1.21.6",
+	"credit": "made by missokamii",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "herobrine:item/corps/circee_hat",
+		"particle": "herobrine:item/corps/circee_hat"
+	},
+	"elements": [
+		{
+			"name": "WingsScapularRight",
+			"from": [11.61788, 7.25209, 8.28413],
+			"to": [12.34748, 10.17049, 9.74333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [12.5, 10.25, 12.625, 11], "texture": "#1"},
+				"east": {"uv": [7.5, 8.25, 7.875, 9], "texture": "#1"},
+				"south": {"uv": [12.5, 11, 12.625, 11.75], "texture": "#1"},
+				"west": {"uv": [11.25, 4.25, 11.625, 5], "texture": "#1"},
+				"up": {"uv": [13.125, 9.875, 13, 9.5], "texture": "#1"},
+				"down": {"uv": [10.125, 13, 10, 13.375], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginalRight",
+			"from": [12.18243, 5.64401, 4.17325],
+			"to": [12.42563, 10.39441, 8.55085],
+			"rotation": {"angle": -5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [4.75, 7.25, 4.875, 8.5], "texture": "#1"},
+				"east": {"uv": [7.5, 1.5, 8.625, 2.75], "texture": "#1"},
+				"south": {"uv": [0.25, 11.75, 0.375, 13], "texture": "#1"},
+				"west": {"uv": [8, 0, 9.125, 1.25], "texture": "#1"},
+				"up": {"uv": [3.375, 13.125, 3.25, 12], "texture": "#1"},
+				"down": {"uv": [3.625, 12, 3.5, 13.125], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginal2Right",
+			"from": [12.44663, 5.17517, 2.90911],
+			"to": [12.65943, 9.89517, 5.84831],
+			"rotation": {"angle": 10, "axis": "x", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [0.5, 11.75, 0.625, 13], "texture": "#1"},
+				"east": {"uv": [9.25, 9.25, 10, 10.5], "texture": "#1"},
+				"south": {"uv": [1.5, 11.75, 1.625, 13], "texture": "#1"},
+				"west": {"uv": [0, 9.5, 0.75, 10.75], "texture": "#1"},
+				"up": {"uv": [12.625, 12.5, 12.5, 11.75], "texture": "#1"},
+				"down": {"uv": [12.625, 12.5, 12.5, 13.25], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsAlulaRight",
+			"from": [8.46254, 7.05867, 3.0475],
+			"to": [12.47934, 11.74827, 3.2299],
+			"rotation": {"angle": -10, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [8, 2.75, 9.125, 4], "texture": "#1"},
+				"east": {"uv": [1.75, 11.75, 1.875, 13], "texture": "#1"},
+				"south": {"uv": [8, 4, 9.125, 5.25], "texture": "#1"},
+				"west": {"uv": [11.75, 4.25, 11.875, 5.5], "texture": "#1"},
+				"up": {"uv": [12.875, 5.625, 11.75, 5.5], "texture": "#1"},
+				"down": {"uv": [12.875, 5.75, 11.75, 5.875], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsFlightFeathersRight",
+			"from": [5.78148, 6.23766, 2.98888],
+			"to": [10.06788, 10.89686, 3.14088],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [8, 5.25, 9.125, 6.5], "texture": "#1"},
+				"east": {"uv": [6, 11.75, 6.125, 13], "texture": "#1"},
+				"south": {"uv": [8, 6.5, 9.125, 7.75], "texture": "#1"},
+				"west": {"uv": [6.25, 11.75, 6.375, 13], "texture": "#1"},
+				"up": {"uv": [12.875, 6.125, 11.75, 6], "texture": "#1"},
+				"down": {"uv": [12.875, 6.25, 11.75, 6.375], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsScapularLeft",
+			"from": [9.51683, 12.04316, 3.9496],
+			"to": [10.89623, 12.73286, 6.7084],
+			"rotation": {"angle": -25, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [13, 9, 13.375, 9.125], "texture": "#1"},
+				"east": {"uv": [6, 3.75, 6.75, 3.875], "texture": "#1"},
+				"south": {"uv": [13, 10, 13.375, 10.125], "texture": "#1"},
+				"west": {"uv": [8, 1.25, 8.75, 1.375], "texture": "#1"},
+				"up": {"uv": [11.625, 5.75, 11.25, 5], "texture": "#1"},
+				"down": {"uv": [11.625, 5.75, 11.25, 6.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginalLeft",
+			"from": [7.20901, 11.99771, 3.61573],
+			"to": [10.04721, 12.22761, 8.67353],
+			"rotation": {"angle": -20, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [12.25, 1.75, 13, 1.875], "texture": "#1"},
+				"east": {"uv": [11.5, 7.75, 12.75, 7.875], "texture": "#1"},
+				"south": {"uv": [12.25, 4.5, 13, 4.625], "texture": "#1"},
+				"west": {"uv": [11.5, 8, 12.75, 8.125], "texture": "#1"},
+				"up": {"uv": [6.75, 10.75, 6, 9.5], "texture": "#1"},
+				"down": {"uv": [7.5, 9.5, 6.75, 10.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginal2Left",
+			"from": [7.85594, 11.19707, 3.74755],
+			"to": [10.1654, 11.39824, 8.57662],
+			"rotation": {"angle": 27, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [12.75, 4.25, 13.375, 4.375], "texture": "#1"},
+				"east": {"uv": [11.5, 8.25, 12.75, 8.375], "texture": "#1"},
+				"south": {"uv": [12.75, 9.25, 13.375, 9.375], "texture": "#1"},
+				"west": {"uv": [11.75, 0, 13, 0.125], "texture": "#1"},
+				"up": {"uv": [3.375, 11.25, 2.75, 10], "texture": "#1"},
+				"down": {"uv": [10.625, 2.75, 10, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsAlulaLeft",
+			"from": [5.00789, 10.95001, 3.77083],
+			"to": [6.68862, 11.12243, 8.37116],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [8.75, 2.5, 9.25, 2.625], "texture": "#1"},
+				"east": {"uv": [11.75, 0.25, 13, 0.375], "texture": "#1"},
+				"south": {"uv": [13, 3.25, 13.5, 3.375], "texture": "#1"},
+				"west": {"uv": [11.75, 0.5, 13, 0.625], "texture": "#1"},
+				"up": {"uv": [6.75, 8.25, 6.25, 7], "texture": "#1"},
+				"down": {"uv": [2, 10.5, 1.5, 11.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsFlightFeathersLeft",
+			"from": [2.74603, 9.51579, 3.78519],
+			"to": [4.29801, 9.65948, 7.65678],
+			"rotation": {"angle": -25, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [13, 3.5, 13.5, 3.625], "texture": "#1"},
+				"east": {"uv": [12, 9.75, 13, 9.875], "texture": "#1"},
+				"south": {"uv": [13, 3.75, 13.5, 3.875], "texture": "#1"},
+				"west": {"uv": [12, 10, 13, 10.125], "texture": "#1"},
+				"up": {"uv": [8, 3.75, 7.5, 2.75], "texture": "#1"},
+				"down": {"uv": [2.5, 9, 2, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsScapularRight",
+			"from": [2.26064, 7.94863, 8.14716],
+			"to": [2.75226, 9.91511, 9.1304],
+			"rotation": {"angle": 42.5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [13, 5.5, 13.125, 6], "texture": "#1"},
+				"east": {"uv": [5, 6, 5.25, 6.5], "texture": "#1"},
+				"south": {"uv": [6, 13, 6.125, 13.5], "texture": "#1"},
+				"west": {"uv": [3.5, 6.25, 3.75, 6.75], "texture": "#1"},
+				"up": {"uv": [9.875, 10.75, 9.75, 10.5], "texture": "#1"},
+				"down": {"uv": [11.375, 13, 11.25, 13.25], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginalRight",
+			"from": [4.8032, 7.57645, 12.03889],
+			"to": [7.75291, 11.18165, 12.20277],
+			"rotation": {"angle": 25, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [0.75, 10.5, 1.5, 11.375], "texture": "#1"},
+				"east": {"uv": [12.25, 10.75, 12.375, 11.625], "texture": "#1"},
+				"south": {"uv": [7.5, 10.5, 8.25, 11.375], "texture": "#1"},
+				"west": {"uv": [11.5, 12.25, 11.625, 13.125], "texture": "#1"},
+				"up": {"uv": [13, 9.625, 12.25, 9.5], "texture": "#1"},
+				"down": {"uv": [13.25, 6.75, 12.5, 6.875], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginal2Right",
+			"from": [6.39057, 7.32601, 12.15876],
+			"to": [8.87979, 10.91073, 12.30215],
+			"rotation": {"angle": -5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [4.5, 11, 5.125, 11.875], "texture": "#1"},
+				"east": {"uv": [11.75, 12.25, 11.875, 13.125], "texture": "#1"},
+				"south": {"uv": [5.25, 11, 5.875, 11.875], "texture": "#1"},
+				"west": {"uv": [12.25, 11.75, 12.375, 12.625], "texture": "#1"},
+				"up": {"uv": [13.625, 1.125, 13, 1], "texture": "#1"},
+				"down": {"uv": [1.875, 13, 1.25, 13.125], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsAlulaRight",
+			"from": [7.80313, 7.73528, 12.27544],
+			"to": [10.18388, 11.29952, 12.39834],
+			"rotation": {"angle": -27.5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [0, 10.75, 0.625, 11.75], "texture": "#1"},
+				"east": {"uv": [6, 8.5, 6.125, 9.5], "texture": "#1"},
+				"south": {"uv": [10.75, 1.5, 11.375, 2.5], "texture": "#1"},
+				"west": {"uv": [4.5, 8.75, 4.625, 9.75], "texture": "#1"},
+				"up": {"uv": [13.625, 1.375, 13, 1.25], "texture": "#1"},
+				"down": {"uv": [13.625, 1.5, 13, 1.625], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsFlightFeathersRight",
+			"from": [9.74358, 6.75122, 12.32585],
+			"to": [11.92784, 10.29497, 12.42828],
+			"rotation": {"angle": -10, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [10.75, 2.5, 11.375, 3.5], "texture": "#1"},
+				"east": {"uv": [10, 12, 10.125, 13], "texture": "#1"},
+				"south": {"uv": [6, 10.75, 6.625, 11.75], "texture": "#1"},
+				"west": {"uv": [12, 10.25, 12.125, 11.25], "texture": "#1"},
+				"up": {"uv": [13.625, 1.875, 13, 1.75], "texture": "#1"},
+				"down": {"uv": [13.625, 3, 13, 3.125], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsScapularLeft",
+			"from": [10.20803, 8.03731, 10.11632],
+			"to": [10.76668, 10.27194, 11.23364],
+			"rotation": {"angle": -42.5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [13, 6, 13.125, 6.5], "texture": "#1"},
+				"east": {"uv": [5, 6.5, 5.25, 7], "texture": "#1"},
+				"south": {"uv": [6.25, 13, 6.375, 13.5], "texture": "#1"},
+				"west": {"uv": [3.5, 6.75, 3.75, 7.25], "texture": "#1"},
+				"up": {"uv": [13.125, 11.5, 13, 11.25], "texture": "#1"},
+				"down": {"uv": [13.125, 11.5, 13, 11.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginalLeft",
+			"from": [4.54492, 7.05668, 12.05514],
+			"to": [7.39686, 11.1535, 12.24135],
+			"rotation": {"angle": 5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [10.25, 6.5, 11, 7.5], "texture": "#1"},
+				"east": {"uv": [12, 11.25, 12.125, 12.25], "texture": "#1"},
+				"south": {"uv": [10.25, 7.5, 11, 8.5], "texture": "#1"},
+				"west": {"uv": [0.75, 12.25, 0.875, 13.25], "texture": "#1"},
+				"up": {"uv": [13.25, 7.125, 12.5, 7], "texture": "#1"},
+				"down": {"uv": [13.5, 0.75, 12.75, 0.875], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginal2Left",
+			"from": [3.70717, 6.8383, 12.34843],
+			"to": [5.53583, 10.91184, 12.51138],
+			"rotation": {"angle": -7.5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [0.75, 9.5, 1.25, 10.5], "texture": "#1"},
+				"east": {"uv": [12.25, 0.75, 12.375, 1.75], "texture": "#1"},
+				"south": {"uv": [11, 6.5, 11.5, 7.5], "texture": "#1"},
+				"west": {"uv": [1, 12.25, 1.125, 13.25], "texture": "#1"},
+				"up": {"uv": [13.5, 4.125, 13, 4], "texture": "#1"},
+				"down": {"uv": [13.5, 4.5, 13, 4.625], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsAlulaLeft",
+			"from": [2.07557, 7.72198, 7.24688],
+			"to": [2.21523, 11.77225, 10.55227],
+			"rotation": {"angle": 27.5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [12, 3.5, 12.125, 4.625], "texture": "#1"},
+				"east": {"uv": [2.5, 7.5, 3.375, 8.625], "texture": "#1"},
+				"south": {"uv": [3.75, 12, 3.875, 13.125], "texture": "#1"},
+				"west": {"uv": [9.25, 5.5, 10.125, 6.625], "texture": "#1"},
+				"up": {"uv": [12.125, 13.125, 12, 12.25], "texture": "#1"},
+				"down": {"uv": [12.625, 0.75, 12.5, 1.625], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsFlightFeathersLeft",
+			"from": [2.50115, 7.80879, 6.88079],
+			"to": [2.61754, 11.83577, 10.1629],
+			"rotation": {"angle": -2.5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [4, 12, 4.125, 13.125], "texture": "#1"},
+				"east": {"uv": [9.25, 6.75, 10.125, 7.875], "texture": "#1"},
+				"south": {"uv": [4.25, 12, 4.375, 13.125], "texture": "#1"},
+				"west": {"uv": [9.25, 8, 10.125, 9.125], "texture": "#1"},
+				"up": {"uv": [12.625, 4.375, 12.5, 3.5], "texture": "#1"},
+				"down": {"uv": [12.625, 8.5, 12.5, 9.375], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsScapularRight",
+			"from": [5.81869, 8.83731, 11.1825],
+			"to": [6.37735, 11.07194, 12.29982],
+			"rotation": {"angle": 42.5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [6.5, 13, 6.625, 13.5], "texture": "#1"},
+				"east": {"uv": [9, 9.75, 9.25, 10.25], "texture": "#1"},
+				"south": {"uv": [13, 7.25, 13.125, 7.75], "texture": "#1"},
+				"west": {"uv": [2, 12.25, 2.25, 12.75], "texture": "#1"},
+				"up": {"uv": [13.125, 12, 13, 11.75], "texture": "#1"},
+				"down": {"uv": [13.125, 12, 13, 12.25], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginalRight",
+			"from": [9.59714, 7.85668, 11.91759],
+			"to": [11.64908, 11.9535, 12.10381],
+			"rotation": {"angle": -5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [11, 7.5, 11.5, 8.5], "texture": "#1"},
+				"east": {"uv": [2.25, 12.25, 2.375, 13.25], "texture": "#1"},
+				"south": {"uv": [11, 10.75, 11.5, 11.75], "texture": "#1"},
+				"west": {"uv": [2.5, 12.25, 2.625, 13.25], "texture": "#1"},
+				"up": {"uv": [8, 13.125, 7.5, 13], "texture": "#1"},
+				"down": {"uv": [13.5, 7.75, 13, 7.875], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginal2Right",
+			"from": [11.05937, 7.49073, 12.34843],
+			"to": [12.88803, 11.56428, 12.51138],
+			"rotation": {"angle": 7.5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [2, 11.25, 2.5, 12.25], "texture": "#1"},
+				"east": {"uv": [2.75, 12.25, 2.875, 13.25], "texture": "#1"},
+				"south": {"uv": [2.5, 11.25, 3, 12.25], "texture": "#1"},
+				"west": {"uv": [12.25, 3.5, 12.375, 4.5], "texture": "#1"},
+				"up": {"uv": [8.5, 13.125, 8, 13], "texture": "#1"},
+				"down": {"uv": [13.5, 8, 13, 8.125], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsAlulaRight",
+			"from": [12.83765, 7.55291, 10.90268],
+			"to": [12.97731, 11.60318, 12.40807],
+			"rotation": {"angle": 7.5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [4.5, 12, 4.625, 13.125], "texture": "#1"},
+				"east": {"uv": [6.75, 10.75, 7.25, 11.875], "texture": "#1"},
+				"south": {"uv": [4.75, 12, 4.875, 13.125], "texture": "#1"},
+				"west": {"uv": [9.75, 10.75, 10.25, 11.875], "texture": "#1"},
+				"up": {"uv": [13.125, 8.75, 13, 8.25], "texture": "#1"},
+				"down": {"uv": [8.625, 13, 8.5, 13.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsFlightFeathersRight",
+			"from": [13.09559, 8.60879, 7.71959],
+			"to": [13.21198, 12.63577, 10.10169],
+			"rotation": {"angle": -10, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [5, 12, 5.125, 13.125], "texture": "#1"},
+				"east": {"uv": [10, 1.5, 10.75, 2.625], "texture": "#1"},
+				"south": {"uv": [5.25, 12, 5.375, 13.125], "texture": "#1"},
+				"west": {"uv": [2, 10, 2.75, 11.125], "texture": "#1"},
+				"up": {"uv": [12.875, 1.75, 12.75, 1], "texture": "#1"},
+				"down": {"uv": [2.125, 12.75, 2, 13.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsScapularLeft",
+			"from": [3.65252, 6.65209, 8.58413],
+			"to": [4.38212, 9.57049, 10.04333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [12.75, 3.5, 12.875, 4.25], "texture": "#1"},
+				"east": {"uv": [11.25, 8.5, 11.625, 9.25], "texture": "#1"},
+				"south": {"uv": [7.25, 12.75, 7.375, 13.5], "texture": "#1"},
+				"west": {"uv": [11.25, 9.25, 11.625, 10], "texture": "#1"},
+				"up": {"uv": [10.375, 13.375, 10.25, 13], "texture": "#1"},
+				"down": {"uv": [13.125, 10.25, 13, 10.625], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginalLeft",
+			"from": [3.54603, 3.74401, 4.5225],
+			"to": [3.78923, 9.09441, 8.9001],
+			"rotation": {"angle": 5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [7.25, 10.75, 7.375, 12.125], "texture": "#1"},
+				"east": {"uv": [0, 6.75, 1.125, 8.125], "texture": "#1"},
+				"south": {"uv": [1.25, 11.5, 1.375, 12.875], "texture": "#1"},
+				"west": {"uv": [6.75, 0, 7.875, 1.375], "texture": "#1"},
+				"up": {"uv": [5.625, 13.125, 5.5, 12], "texture": "#1"},
+				"down": {"uv": [5.875, 12, 5.75, 13.125], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginal2Left",
+			"from": [3.34057, 3.34702, 3.43029],
+			"to": [3.55337, 8.66702, 6.36949],
+			"rotation": {"angle": 10, "axis": "x", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [7.5, 11.5, 7.625, 12.875], "texture": "#1"},
+				"east": {"uv": [3.75, 8.75, 4.5, 10.125], "texture": "#1"},
+				"south": {"uv": [7.75, 11.5, 7.875, 12.875], "texture": "#1"},
+				"west": {"uv": [1.25, 9, 2, 10.375], "texture": "#1"},
+				"up": {"uv": [12.875, 8.5, 12.75, 7.75], "texture": "#1"},
+				"down": {"uv": [12.875, 8.5, 12.75, 9.25], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsAlulaLeft",
+			"from": [3.25147, 4.48285, 3.4475],
+			"to": [7.56827, 9.77245, 3.6299],
+			"rotation": {"angle": 5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [6.75, 3.75, 7.875, 5.125], "texture": "#1"},
+				"east": {"uv": [8, 11.5, 8.125, 12.875], "texture": "#1"},
+				"south": {"uv": [6.75, 5.25, 7.875, 6.625], "texture": "#1"},
+				"west": {"uv": [8.25, 11.5, 8.375, 12.875], "texture": "#1"},
+				"up": {"uv": [13.125, 2.125, 12, 2], "texture": "#1"},
+				"down": {"uv": [13.125, 2.25, 12, 2.375], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsFlightFeathersLeft",
+			"from": [7.0706, 4.47876, 3.38888],
+			"to": [11.957, 9.73796, 3.54088],
+			"rotation": {"angle": -15, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [3.75, 4.5, 5.125, 5.875], "texture": "#1"},
+				"east": {"uv": [8.5, 11.5, 8.625, 12.875], "texture": "#1"},
+				"south": {"uv": [5.25, 4, 6.625, 5.375], "texture": "#1"},
+				"west": {"uv": [8.75, 11.5, 8.875, 12.875], "texture": "#1"},
+				"up": {"uv": [12.875, 3.125, 11.5, 3], "texture": "#1"},
+				"down": {"uv": [12.875, 3.25, 11.5, 3.375], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsScapularRight",
+			"from": [11.61788, 5.65209, 5.95667],
+			"to": [12.34748, 8.57049, 7.41587],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [12.75, 10.25, 12.875, 11], "texture": "#1"},
+				"east": {"uv": [11.25, 10, 11.625, 10.75], "texture": "#1"},
+				"south": {"uv": [12.75, 11, 12.875, 11.75], "texture": "#1"},
+				"west": {"uv": [0.75, 11.5, 1.125, 12.25], "texture": "#1"},
+				"up": {"uv": [10.625, 13.375, 10.5, 13], "texture": "#1"},
+				"down": {"uv": [10.875, 13, 10.75, 13.375], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginalRight",
+			"from": [12.18242, 2.74401, 7.14915],
+			"to": [12.42562, 8.09441, 11.52675],
+			"rotation": {"angle": 5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [9, 11.5, 9.125, 12.875], "texture": "#1"},
+				"east": {"uv": [6.75, 6.75, 7.875, 8.125], "texture": "#1"},
+				"south": {"uv": [9.25, 11.5, 9.375, 12.875], "texture": "#1"},
+				"west": {"uv": [5, 7, 6.125, 8.375], "texture": "#1"},
+				"up": {"uv": [6.875, 13.125, 6.75, 12], "texture": "#1"},
+				"down": {"uv": [7.125, 12, 7, 13.125], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginal2Right",
+			"from": [12.44663, 2.31011, 9.4523],
+			"to": [12.65943, 7.63011, 12.3915],
+			"rotation": {"angle": -10, "axis": "x", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [9.5, 11.5, 9.625, 12.875], "texture": "#1"},
+				"east": {"uv": [9.25, 2.5, 10, 3.875], "texture": "#1"},
+				"south": {"uv": [10.25, 11.5, 10.375, 12.875], "texture": "#1"},
+				"west": {"uv": [9.25, 4, 10, 5.375], "texture": "#1"},
+				"up": {"uv": [12.875, 12.5, 12.75, 11.75], "texture": "#1"},
+				"down": {"uv": [12.375, 12.75, 12.25, 13.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsAlulaRight",
+			"from": [8.51669, 3.53704, 12.3701],
+			"to": [12.83349, 8.82664, 12.5525],
+			"rotation": {"angle": -5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [3.5, 7.25, 4.625, 8.625], "texture": "#1"},
+				"east": {"uv": [10.5, 11.5, 10.625, 12.875], "texture": "#1"},
+				"south": {"uv": [1.25, 7.5, 2.375, 8.875], "texture": "#1"},
+				"west": {"uv": [10.75, 11.5, 10.875, 12.875], "texture": "#1"},
+				"up": {"uv": [13.125, 2.625, 12, 2.5], "texture": "#1"},
+				"down": {"uv": [13.125, 2.75, 12, 2.875], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsFlightFeathersRight",
+			"from": [3.76448, 3.3632, 12.45912],
+			"to": [8.65088, 8.6224, 12.61112],
+			"rotation": {"angle": 15, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [5.25, 5.5, 6.625, 6.875], "texture": "#1"},
+				"east": {"uv": [11.5, 10.75, 11.625, 12.125], "texture": "#1"},
+				"south": {"uv": [6, 2.25, 7.375, 3.625], "texture": "#1"},
+				"west": {"uv": [0, 11.75, 0.125, 13.125], "texture": "#1"},
+				"up": {"uv": [12.875, 7.375, 11.5, 7.25], "texture": "#1"},
+				"down": {"uv": [12.875, 7.5, 11.5, 7.625], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsScapularLeft",
+			"from": [3.65252, 7.25209, 5.95667],
+			"to": [4.38212, 10.17049, 7.41587],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [12.75, 12.5, 12.875, 13.25], "texture": "#1"},
+				"east": {"uv": [11.5, 0.75, 11.875, 1.5], "texture": "#1"},
+				"south": {"uv": [13, 0, 13.125, 0.75], "texture": "#1"},
+				"west": {"uv": [11.5, 1.5, 11.875, 2.25], "texture": "#1"},
+				"up": {"uv": [13.125, 11.125, 13, 10.75], "texture": "#1"},
+				"down": {"uv": [11.125, 13, 11, 13.375], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginalLeft",
+			"from": [3.57218, 5.64401, 7.09875],
+			"to": [3.81538, 10.39441, 11.47635],
+			"rotation": {"angle": -5, "axis": "y", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [6.5, 11.75, 6.625, 13], "texture": "#1"},
+				"east": {"uv": [8, 7.75, 9.125, 9], "texture": "#1"},
+				"south": {"uv": [11.75, 8.5, 11.875, 9.75], "texture": "#1"},
+				"west": {"uv": [0, 8.25, 1.125, 9.5], "texture": "#1"},
+				"up": {"uv": [12.125, 9.625, 12, 8.5], "texture": "#1"},
+				"down": {"uv": [9.875, 12, 9.75, 13.125], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsMarginal2Left",
+			"from": [3.34057, 5.17517, 9.85169],
+			"to": [3.55337, 9.89517, 12.79089],
+			"rotation": {"angle": -10, "axis": "x", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [11.75, 9.75, 11.875, 11], "texture": "#1"},
+				"east": {"uv": [4.5, 9.75, 5.25, 11], "texture": "#1"},
+				"south": {"uv": [11, 11.75, 11.125, 13], "texture": "#1"},
+				"west": {"uv": [5.25, 9.75, 6, 11], "texture": "#1"},
+				"up": {"uv": [0.375, 13.75, 0.25, 13], "texture": "#1"},
+				"down": {"uv": [0.625, 13, 0.5, 13.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsAlulaLeft",
+			"from": [3.51187, 6.95828, 12.4701],
+			"to": [7.52867, 11.64788, 12.6525],
+			"rotation": {"angle": 10, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [6.25, 8.25, 7.375, 9.5], "texture": "#1"},
+				"east": {"uv": [11.75, 11, 11.875, 12.25], "texture": "#1"},
+				"south": {"uv": [4.75, 8.5, 5.875, 9.75], "texture": "#1"},
+				"west": {"uv": [11.25, 11.75, 11.375, 13], "texture": "#1"},
+				"up": {"uv": [13.125, 4.875, 12, 4.75], "texture": "#1"},
+				"down": {"uv": [13.125, 5, 12, 5.125], "texture": "#1"}
+			}
+		},
+		{
+			"name": "WingsFlightFeathersLeft",
+			"from": [5.88811, 6.45891, 12.55912],
+			"to": [10.17451, 11.11811, 12.71112],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7.71093, 8.50107, 7.85]},
+			"faces": {
+				"north": {"uv": [8.75, 1.25, 9.875, 2.5], "texture": "#1"},
+				"east": {"uv": [12, 0.75, 12.125, 2], "texture": "#1"},
+				"south": {"uv": [2.5, 8.75, 3.625, 10], "texture": "#1"},
+				"west": {"uv": [3, 12, 3.125, 13.25], "texture": "#1"},
+				"up": {"uv": [13.125, 5.375, 12, 5.25], "texture": "#1"},
+				"down": {"uv": [13.125, 6.5, 12, 6.625], "texture": "#1"}
+			}
+		},
+		{
+			"name": "head_2nd_layer",
+			"from": [3.455, 1.955, 3.455],
+			"to": [12.545, 11.045, 12.545],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.71093, 9.38577, 10.58754]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.25, 2.25], "texture": "#1"},
+				"east": {"uv": [0, 2.25, 2.25, 4.5], "texture": "#1"},
+				"south": {"uv": [2.25, 0, 4.5, 2.25], "texture": "#1"},
+				"west": {"uv": [2.25, 2.25, 4.5, 4.5], "texture": "#1"},
+				"up": {"uv": [2.25, 6.75, 0, 4.5], "texture": "#1"},
+				"down": {"uv": [6.75, 0, 4.5, 2.25], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.20896, 10.34066, 11.51367],
+			"to": [9.79104, 13.72786, 14.52039],
+			"rotation": {"angle": -22.25, "axis": "x", "origin": [7.71093, 9.38577, 10.58754]},
+			"faces": {
+				"north": {"uv": [3.5, 10.25, 4.375, 11.125], "texture": "#1"},
+				"east": {"uv": [8.25, 10.5, 9, 11.375], "texture": "#1"},
+				"south": {"uv": [10.25, 5.5, 11.125, 6.375], "texture": "#1"},
+				"west": {"uv": [9, 10.5, 9.75, 11.375], "texture": "#1"},
+				"up": {"uv": [2.125, 7.5, 1.25, 6.75], "texture": "#1"},
+				"down": {"uv": [11.125, 8.5, 10.25, 9.25], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.15436, 14.70342, 11.06498],
+			"to": [8.84564, 16.3947, 14.00906],
+			"rotation": {"angle": 40, "axis": "x", "origin": [7.71093, 9.38577, 10.58754]},
+			"faces": {
+				"north": {"uv": [10.75, 3.5, 11.125, 3.875], "texture": "#1"},
+				"east": {"uv": [4.5, 4, 5.25, 4.375], "texture": "#1"},
+				"south": {"uv": [12, 6.75, 12.375, 7.125], "texture": "#1"},
+				"west": {"uv": [9.25, 0.75, 10, 1.125], "texture": "#1"},
+				"up": {"uv": [11.875, 3, 11.5, 2.25], "texture": "#1"},
+				"down": {"uv": [11.875, 6.5, 11.5, 7.25], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.65548, 11.89047, 16.64121],
+			"to": [8.34452, 12.57951, 18.58305],
+			"rotation": {"angle": 15, "axis": "x", "origin": [7.71093, 9.38577, 10.58754]},
+			"faces": {
+				"north": {"uv": [13, 12.25, 13.125, 12.375], "texture": "#1"},
+				"east": {"uv": [8.75, 13, 9.25, 13.125], "texture": "#1"},
+				"south": {"uv": [13, 12.5, 13.125, 12.625], "texture": "#1"},
+				"west": {"uv": [13, 8.75, 13.5, 8.875], "texture": "#1"},
+				"up": {"uv": [9.375, 13.5, 9.25, 13], "texture": "#1"},
+				"down": {"uv": [9.625, 13, 9.5, 13.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.40492, 8.19328, 16.87983],
+			"to": [8.59508, 10.13512, 18.06999],
+			"rotation": {"angle": -17.5, "axis": "x", "origin": [7.71093, 9.38577, 10.58754]},
+			"faces": {
+				"north": {"uv": [7.25, 12.25, 7.5, 12.75], "texture": "#1"},
+				"east": {"uv": [12.25, 8.5, 12.5, 9], "texture": "#1"},
+				"south": {"uv": [12.25, 9, 12.5, 9.5], "texture": "#1"},
+				"west": {"uv": [12.25, 10.25, 12.5, 10.75], "texture": "#1"},
+				"up": {"uv": [3.75, 10.25, 3.5, 10], "texture": "#1"},
+				"down": {"uv": [9.25, 10.25, 9, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.62192, 12.22734, 12.29873],
+			"to": [9.37808, 14.73294, 15.30545],
+			"rotation": {"angle": 2.22376, "axis": "x", "origin": [7.71093, 9.38577, 10.58754]},
+			"faces": {
+				"north": {"uv": [11, 0, 11.75, 0.625], "texture": "#1"},
+				"east": {"uv": [3, 11.25, 3.75, 11.875], "texture": "#1"},
+				"south": {"uv": [11.25, 3.5, 12, 4.125], "texture": "#1"},
+				"west": {"uv": [3.75, 11.25, 4.5, 11.875], "texture": "#1"},
+				"up": {"uv": [7.5, 2.25, 6.75, 1.5], "texture": "#1"},
+				"down": {"uv": [11, 10.75, 10.25, 11.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.11392, 8.96387, 6.12653],
+			"to": [10.88608, 11.21427, 12.94269],
+			"rotation": {"angle": 22.75, "axis": "x", "origin": [7.71093, 9.38577, 10.58754]},
+			"faces": {
+				"north": {"uv": [7.5, 9.75, 9, 10.375], "texture": "#1"},
+				"east": {"uv": [7.5, 9, 9.25, 9.625], "texture": "#1"},
+				"south": {"uv": [10, 0.75, 11.5, 1.375], "texture": "#1"},
+				"west": {"uv": [9.25, 0, 11, 0.625], "texture": "#1"},
+				"up": {"uv": [3.75, 6.25, 2.25, 4.5], "texture": "#1"},
+				"down": {"uv": [6, 2.25, 4.5, 4], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.60316, 10.51537, 7.17722],
+			"to": [10.39684, 13.0193, 12.0869],
+			"rotation": {"angle": 30.25, "axis": "x", "origin": [7.71093, 9.38577, 10.58754]},
+			"faces": {
+				"north": {"uv": [10, 4, 11.25, 4.625], "texture": "#1"},
+				"east": {"uv": [10, 4.75, 11.25, 5.375], "texture": "#1"},
+				"south": {"uv": [10, 9.25, 11.25, 9.875], "texture": "#1"},
+				"west": {"uv": [10, 10, 11.25, 10.625], "texture": "#1"},
+				"up": {"uv": [5, 7.25, 3.75, 6], "texture": "#1"},
+				"down": {"uv": [3.5, 6.25, 2.25, 7.5], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [71, 140, 0],
+			"translation": [0, -0.5, -2.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [71, 140, 0],
+			"translation": [0, -0.5, -2.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [-8, 85, 0],
+			"translation": [7.25, -1.5, -6],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-8, 85, 0],
+			"translation": [7.25, -1.5, -6],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"rotation": [20, -0.07, -0.73],
+			"translation": [0, 3.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [0, -124, 0],
+			"translation": [0.75, -0.5, 0]
+		},
+		"head": {
+			"translation": [0, 1.75, 0],
+			"scale": [1.61922, 1.63094, 1.58211]
+		},
+		"fixed": {
+			"rotation": [-50, -180, 0],
+			"translation": [0, -0.75, -4]
+		},
+		"on_shelf": {
+			"rotation": [0, 90, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "hat",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [
+				{
+					"name": "wings",
+					"origin": [11, 32, -6],
+					"scope": 0,
+					"color": 0,
+					"children": [
+						{
+							"name": "WingsScapularLeftGROUP",
+							"origin": [11, 32, -6],
+							"scope": 0,
+							"color": 4,
+							"children": [
+								{
+									"name": "WingsScapularLeft",
+									"origin": [11, 32, -6],
+									"rotation": [0, -90, 0],
+									"scope": 0,
+									"color": 5,
+									"children": [
+										0,
+										{
+											"name": "WingsMarginalLeft",
+											"origin": [10.06426, 32.03145, -5.82569],
+											"scope": 0,
+											"color": 6,
+											"children": [
+												1,
+												{
+													"name": "WingsMarginal2Left",
+													"origin": [8.23553, 32.14887, -5.06392],
+													"scope": 0,
+													"color": 7,
+													"children": [
+														2,
+														{
+															"name": "WingsAlulaLeft",
+															"origin": [4.74183, 31.93495, -5.91298],
+															"scope": 0,
+															"color": 8,
+															"children": [
+																3,
+																{
+																	"name": "WingsFlightFeathersLeft",
+																	"origin": [1.56723, 31.59458, -6.0708],
+																	"scope": 0,
+																	"color": 9,
+																	"children": [4]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "WingsScapularLeftGROUP",
+							"origin": [11, 32, -6],
+							"scope": 0,
+							"color": 4,
+							"children": [
+								{
+									"name": "WingsScapularLeft",
+									"origin": [11, 32, -6],
+									"rotation": [0, -90, 0],
+									"scope": 0,
+									"color": 5,
+									"children": [
+										5,
+										{
+											"name": "WingsMarginalLeft",
+											"origin": [10.06426, 32.03145, -5.82569],
+											"scope": 0,
+											"color": 6,
+											"children": [
+												6,
+												{
+													"name": "WingsMarginal2Left",
+													"origin": [8.23553, 32.14887, -5.06392],
+													"scope": 0,
+													"color": 7,
+													"children": [
+														7,
+														{
+															"name": "WingsAlulaLeft",
+															"origin": [4.74183, 31.93495, -5.91298],
+															"scope": 0,
+															"color": 8,
+															"children": [
+																8,
+																{
+																	"name": "WingsFlightFeathersLeft",
+																	"origin": [1.56723, 31.59458, -6.0708],
+																	"scope": 0,
+																	"color": 9,
+																	"children": [9]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "WingsScapularLeftGROUP",
+							"origin": [11, 32, -6],
+							"scope": 0,
+							"color": 4,
+							"children": [
+								{
+									"name": "WingsScapularLeft",
+									"origin": [11, 32, -6],
+									"rotation": [0, -90, 0],
+									"scope": 0,
+									"color": 5,
+									"children": [
+										10,
+										{
+											"name": "WingsMarginalLeft",
+											"origin": [10.06426, 32.03145, -5.82569],
+											"scope": 0,
+											"color": 6,
+											"children": [
+												11,
+												{
+													"name": "WingsMarginal2Left",
+													"origin": [8.23553, 32.14887, -5.06392],
+													"scope": 0,
+													"color": 7,
+													"children": [
+														12,
+														{
+															"name": "WingsAlulaLeft",
+															"origin": [4.74183, 31.93495, -5.91298],
+															"scope": 0,
+															"color": 8,
+															"children": [
+																13,
+																{
+																	"name": "WingsFlightFeathersLeft",
+																	"origin": [1.56723, 31.59458, -6.0708],
+																	"scope": 0,
+																	"color": 9,
+																	"children": [14]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "WingsScapularLeftGROUP",
+							"origin": [11, 32, -6],
+							"scope": 0,
+							"color": 4,
+							"children": [
+								{
+									"name": "WingsScapularLeft",
+									"origin": [11, 32, -6],
+									"rotation": [0, -90, 0],
+									"scope": 0,
+									"color": 5,
+									"children": [
+										15,
+										{
+											"name": "WingsMarginalLeft",
+											"origin": [10.06426, 32.03145, -5.82569],
+											"scope": 0,
+											"color": 6,
+											"children": [
+												16,
+												{
+													"name": "WingsMarginal2Left",
+													"origin": [8.23553, 32.14887, -5.06392],
+													"scope": 0,
+													"color": 7,
+													"children": [
+														17,
+														{
+															"name": "WingsAlulaLeft",
+															"origin": [4.74183, 31.93495, -5.91298],
+															"scope": 0,
+															"color": 8,
+															"children": [
+																18,
+																{
+																	"name": "WingsFlightFeathersLeft",
+																	"origin": [1.56723, 31.59458, -6.0708],
+																	"scope": 0,
+																	"color": 9,
+																	"children": [19]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "WingsScapularLeft",
+									"origin": [11, 32, -6],
+									"rotation": [0, -90, 0],
+									"scope": 0,
+									"color": 5,
+									"children": [
+										20,
+										{
+											"name": "WingsMarginalLeft",
+											"origin": [10.06426, 32.03145, -5.82569],
+											"scope": 0,
+											"color": 6,
+											"children": [
+												21,
+												{
+													"name": "WingsMarginal2Left",
+													"origin": [8.23553, 32.14887, -5.06392],
+													"scope": 0,
+													"color": 7,
+													"children": [
+														22,
+														{
+															"name": "WingsAlulaLeft",
+															"origin": [4.74183, 31.93495, -5.91298],
+															"scope": 0,
+															"color": 8,
+															"children": [
+																23,
+																{
+																	"name": "WingsFlightFeathersLeft",
+																	"origin": [1.56723, 31.59458, -6.0708],
+																	"scope": 0,
+																	"color": 9,
+																	"children": [24]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "WingsScapularLeftGROUP",
+							"origin": [11, 32, -6],
+							"scope": 0,
+							"color": 4,
+							"children": [
+								{
+									"name": "WingsScapularLeft",
+									"origin": [11, 32, -6],
+									"rotation": [0, -90, 0],
+									"scope": 0,
+									"color": 5,
+									"children": [
+										25,
+										{
+											"name": "WingsMarginalLeft",
+											"origin": [10.06426, 32.03145, -5.82569],
+											"scope": 0,
+											"color": 6,
+											"children": [
+												26,
+												{
+													"name": "WingsMarginal2Left",
+													"origin": [8.23553, 32.14887, -5.06392],
+													"scope": 0,
+													"color": 7,
+													"children": [
+														27,
+														{
+															"name": "WingsAlulaLeft",
+															"origin": [4.74183, 31.93495, -5.91298],
+															"scope": 0,
+															"color": 8,
+															"children": [
+																28,
+																{
+																	"name": "WingsFlightFeathersLeft",
+																	"origin": [1.56723, 31.59458, -6.0708],
+																	"scope": 0,
+																	"color": 9,
+																	"children": [29]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "WingsScapularLeftGROUP",
+							"origin": [11, 32, -6],
+							"scope": 0,
+							"color": 4,
+							"children": [
+								{
+									"name": "WingsScapularLeft",
+									"origin": [11, 32, -6],
+									"rotation": [0, -90, 0],
+									"scope": 0,
+									"color": 5,
+									"children": [
+										30,
+										{
+											"name": "WingsMarginalLeft",
+											"origin": [10.06426, 32.03145, -5.82569],
+											"scope": 0,
+											"color": 6,
+											"children": [
+												31,
+												{
+													"name": "WingsMarginal2Left",
+													"origin": [8.23553, 32.14887, -5.06392],
+													"scope": 0,
+													"color": 7,
+													"children": [
+														32,
+														{
+															"name": "WingsAlulaLeft",
+															"origin": [4.74183, 31.93495, -5.91298],
+															"scope": 0,
+															"color": 8,
+															"children": [
+																33,
+																{
+																	"name": "WingsFlightFeathersLeft",
+																	"origin": [1.56723, 31.59458, -6.0708],
+																	"scope": 0,
+																	"color": 9,
+																	"children": [34]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "WingsScapularLeftGROUP",
+							"origin": [11, 32, -6],
+							"scope": 0,
+							"color": 4,
+							"children": [
+								{
+									"name": "WingsScapularLeft",
+									"origin": [11, 32, -6],
+									"rotation": [0, -90, 0],
+									"scope": 0,
+									"color": 5,
+									"children": [
+										35,
+										{
+											"name": "WingsMarginalLeft",
+											"origin": [10.06426, 32.03145, -5.82569],
+											"scope": 0,
+											"color": 6,
+											"children": [
+												36,
+												{
+													"name": "WingsMarginal2Left",
+													"origin": [8.23553, 32.14887, -5.06392],
+													"scope": 0,
+													"color": 7,
+													"children": [
+														37,
+														{
+															"name": "WingsAlulaLeft",
+															"origin": [4.74183, 31.93495, -5.91298],
+															"scope": 0,
+															"color": 8,
+															"children": [
+																38,
+																{
+																	"name": "WingsFlightFeathersLeft",
+																	"origin": [1.56723, 31.59458, -6.0708],
+																	"scope": 0,
+																	"color": 9,
+																	"children": [39]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				40,
+				{
+					"name": "top_hat2",
+					"origin": [-0.23929, 5.76722, 1.22224],
+					"scope": 0,
+					"color": 0,
+					"children": [
+						{
+							"name": "top_hat3",
+							"origin": [0.1387, 7.97, 2.15024],
+							"rotation": [0, 0, 22.5],
+							"scope": 0,
+							"color": 0,
+							"children": [
+								41,
+								{
+									"name": "top_hat4",
+									"origin": [1.19743, 8.36325, 2.34782],
+									"scope": 0,
+									"color": 0,
+									"children": [
+										42,
+										{
+											"name": "top_hat5",
+											"origin": [2.87226, 7.09668, 2.38812],
+											"scope": 0,
+											"color": 0,
+											"children": [
+												{
+													"name": "top_hat6",
+													"origin": [4.34554, 6.67958, 2.70886],
+													"scope": 0,
+													"color": 0,
+													"children": [43]
+												},
+												44
+											]
+										}
+									]
+								},
+								45
+							]
+						},
+						46,
+						47
+					]
+				}
+			]
+		}
+	]
+}

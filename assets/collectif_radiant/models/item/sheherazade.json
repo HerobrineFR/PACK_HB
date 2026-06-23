@@ -3,8 +3,8 @@
   "texture_size": [32, 32],
   "textures": {
     "0": "collectif_radiant:item/wing",
-    "1": "item/textures/block/gold_block",
-    "2": "block/stone",
+    "1": "division_cristalline:item/gold_border",
+    "2": "atlas_compatibility:item/stone",
     "particle": "#0"
   },
   "elements": [

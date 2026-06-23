@@ -3,7 +3,8 @@
 	"credit": "Made by Ink-Cana",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "collectif_radiant:item/pc-syphon"
+		"1": "collectif_radiant:item/pc-syphon",
+		"particle": "#1"
 	},
 	"elements": [
 		{

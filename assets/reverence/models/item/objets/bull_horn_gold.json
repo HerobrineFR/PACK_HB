@@ -15,8 +15,7 @@
 				"east": {"uv": [6, 0, 4, 1], "texture": "#0"},
 				"south": {"uv": [3.925, 0, 3, 1], "texture": "#0"},
 				"west": {"uv": [2, 0, 0, 1], "texture": "#0"},
-				"up": {"uv": [7.925, 4, 7, 6], "texture": "#0"},
-				"down": {"uv": [0.925, 0, 0, 2], "texture": "#missing"}
+				"up": {"uv": [7.925, 4, 7, 6], "texture": "#0"}
 			}
 		},
 		{
@@ -53,8 +52,7 @@
 				"east": {"uv": [6, 4, 4, 8], "texture": "#0"},
 				"south": {"uv": [2, 4, 4, 8], "texture": "#0"},
 				"west": {"uv": [2, 4, 0, 8], "texture": "#0"},
-				"up": {"uv": [10, 4, 8, 6], "rotation": 180, "texture": "#0"},
-				"down": {"uv": [2.5, 0, 0, 2.25], "texture": "#missing"}
+				"up": {"uv": [10, 4, 8, 6], "rotation": 180, "texture": "#0"}
 			}
 		},
 		{
@@ -66,8 +64,7 @@
 				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
 				"south": {"uv": [3, 0, 3.925, 1], "texture": "#0"},
 				"west": {"uv": [4, 0, 6, 1], "texture": "#0"},
-				"up": {"uv": [7, 4, 7.925, 6], "texture": "#0"},
-				"down": {"uv": [0, 0, 0.925, 2], "texture": "#missing"}
+				"up": {"uv": [7, 4, 7.925, 6], "texture": "#0"}
 			}
 		},
 		{
@@ -91,8 +88,7 @@
 				"east": {"uv": [0, 4, 2, 8], "texture": "#0"},
 				"south": {"uv": [4, 4, 2, 8], "texture": "#0"},
 				"west": {"uv": [4, 4, 6, 8], "texture": "#0"},
-				"up": {"uv": [8, 4, 10, 6], "rotation": 180, "texture": "#0"},
-				"down": {"uv": [0, 0, 2.5, 2.25], "texture": "#missing"}
+				"up": {"uv": [8, 4, 10, 6], "rotation": 180, "texture": "#0"}
 			}
 		},
 		{
@@ -127,12 +123,14 @@
 		{
 			"name": "Corne fine D",
 			"origin": [3.45, 6.25, 6.15],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2, 3]
 		},
 		{
 			"name": "Corne fine G",
 			"origin": [12.55, 6.25, 6.15],
+			"scope": 0,
 			"color": 0,
 			"children": [4, 5, 6, 7]
 		}

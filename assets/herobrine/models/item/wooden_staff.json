@@ -1,0 +1,6 @@
+{
+  "parent": "item/wooden_sword",
+  "textures": {
+    "layer0": "herobrine:item/wooden_staff"
+  }
+}

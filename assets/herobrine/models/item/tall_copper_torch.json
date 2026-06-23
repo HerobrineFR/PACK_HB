@@ -1,0 +1,6 @@
+{
+  "parent": "herobrine:item/grande_torche",
+  "textures": {
+    "layer0": "herobrine:item/tall_copper_torch"
+  }
+}

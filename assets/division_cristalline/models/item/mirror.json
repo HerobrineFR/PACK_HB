@@ -3,10 +3,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "block/gold_block",
-		"2": "block/spruce_log",
+		"1": "division_cristalline:item/gold_border",
+		"2": "division_cristalline:item/spruce_log",
 		"4": "division_cristalline:item/miroir2",
-		"particle": "block/gold_block"
+		"particle": "division_cristalline:item/gold_border"
 	},
 	"elements": [
 		{
@@ -116,6 +116,10 @@
 			"rotation": [-90, 0, 0],
 			"translation": [2, -2, -31.25],
 			"scale": [2.5, 2.5, 2.5]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.75, 0, 0]
 		}
 	}
 }

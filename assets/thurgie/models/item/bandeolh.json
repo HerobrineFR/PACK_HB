@@ -1,9 +1,9 @@
 {
   "format_version": "1.21.6",
   "textures": {
-    "0": "block/stripped_dark_oak_log",
+    "0": "thurgie:item/stripped_dark_oak_log",
     "1": "thurgie:item/bande_eolh",
-    "particle": "block/stripped_dark_oak_log"
+    "particle": "thurgie:item/stripped_dark_oak_log"
   },
   "elements": [
     {
