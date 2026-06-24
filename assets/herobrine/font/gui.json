@@ -60,7 +60,7 @@
       "file": "herobrine:gui/playerlist_banner.png",
       "chars": ["b"],
       "height": 40,
-      "ascent": 30,
+      "ascent": 16,
       "type": "bitmap"
     }
   ]
