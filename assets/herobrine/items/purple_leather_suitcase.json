@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "herobrine:item/leather_suitcase",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 13850622
+      }
+    ]
+  }
+}
