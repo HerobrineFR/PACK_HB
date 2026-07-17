@@ -1,0 +1,43 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by Letutout for Herobrine.fr",
+	"parent": "item/generated",
+	"textures": {
+		"particle": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt",
+		"layer0": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-112, 0, 0],
+			"translation": [-1.65, -7, 8.25],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-112, 0, 0],
+			"translation": [-2.15, -7, 8.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-112, 0, 0],
+			"translation": [-7.15, -7, 8.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-112, 0, 0],
+			"translation": [-7.15, -7, 8.25],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [1.5, 1.5, 1]
+		},
+		"gui": {
+			"translation": [1, 1.5, -10],
+			"scale": [1.7, 1.7, 1]
+		},
+		"fixed": {
+			"translation": [1, 1, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

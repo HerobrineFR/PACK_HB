@@ -1,14 +1,66 @@
 {
   "model": {
-    "type": "condition",
-    "on_false": {
-      "type": "model",
-      "model": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt"
-    },
-    "on_true": {
-      "type": "model",
-      "model": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt_shield_blocking"
-    },
-    "property": "using_item"
+    "type": "minecraft:select",
+    "property": "minecraft:main_hand",
+    "cases": [
+      {
+        "when": "right",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "thirdperson_righthand",
+                "firstperson_righthand"
+              ],
+              "model": {
+                "type": "model",
+                "model": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt_on_back"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "model",
+            "model": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt"
+          }
+        }
+      },
+      {
+        "when": "left",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "thirdperson_lefthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "model",
+                "model": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt_on_back"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "model",
+            "model": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "condition",
+      "on_false": {
+        "type": "model",
+        "model": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt"
+      },
+      "on_true": {
+        "type": "model",
+        "model": "herobrine:item/combat/boucliers/bouclier_rond_bois_alt_shield_blocking"
+      },
+      "property": "using_item"
+    }
   }
 }
