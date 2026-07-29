@@ -41,6 +41,13 @@
       "ascent": 35,
       "height": 70,
       "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "font_conf/rune_mraun.png",
+      "ascent": 37,
+      "height": 70,
+      "chars": [""]
     }
   ]
 }
