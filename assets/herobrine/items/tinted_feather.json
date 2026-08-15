@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "model",
+    "model": "minecraft:item/feather",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": [
+          -255,
+          -255,
+          -255
+        ]
+      }
+    ]
+  }
+}
