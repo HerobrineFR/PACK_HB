@@ -1,6 +1,29 @@
 {
-  "parent": "item/wooden_sword",
+  "gui_light": "front",
+  "parent": "item/generated",
   "textures": {
     "layer0": "thurgie:item/wand"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [ -20, -90, 50 ],
+      "translation": [ 3.13, 2.0, 0.13],
+      "scale": [ 1.0, 1.0, 0.68 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ -20, -90, -50 ],
+      "translation": [ 3.13, 2.0, 0.13],
+      "scale": [ 1.36, 1.36, 0.8 ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [ 5, 270, 0 ],
+      "translation": [ 0, 2, 6 ],
+      "scale": [1.0, 1.0, 0.8 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 5, -270, 0 ],
+      "translation": [ 0, 2, 6 ],
+      "scale": [1.0, 1.0, 0.8 ]
+    }
   }
 }
