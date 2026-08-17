@@ -52,7 +52,7 @@
     {
       "type": "bitmap",
       "file": "font_conf/rune_pascal.png",
-      "ascent": 37,
+      "ascent": 32,
       "height": 70,
       "chars": [""]
     }
