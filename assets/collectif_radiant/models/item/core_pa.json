@@ -1,0 +1,6 @@
+{
+  "parent": "item/gold_nugget",
+  "textures": {
+    "layer0": "collectif_radiant:item/canette_pa"
+  }
+}

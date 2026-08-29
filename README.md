@@ -16,3 +16,7 @@ Contributions on the project are open via pull request :
 **master branch is only for release purpose**
 
 **Please fork and open pull request on **dev** branch.**
+
+Les ajouts au pack ne doivent PAS être mergés avant d'avoir été déposés dans le salon approprié au sein des canaux de discussion du Staff.
+
+Pour que la transmission des informations aille plus vite, prière de joindre un screen à la PR si le staff n'en dispose pas déjà.
