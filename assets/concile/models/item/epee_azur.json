@@ -1,0 +1,53 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by Inkcana for Herobrine.fr",
+	"parent": "item/handheld",
+	"textures": {
+		"particle": "concile:item/epee_azur",
+		"layer0": "concile:item/epee_azur"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [18, -90, 62.5],
+			"translation": [0, 7.5, 1.75],
+			"scale": [1.4, 1.4, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [18, 90, -62.5],
+			"translation": [0, 7.5, 1.75],
+			"scale": [1.4, 1.4, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-36, -90, 25],
+			"translation": [3, 6.75, -2.25],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-36, 90, -25],
+			"translation": [3, 6.75, -2.25],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"translation": [2.75, 11.5, 0],
+			"scale": [1.4, 1.4, 0.97]
+		},
+		"gui": {
+			"translation": [0, 0.75, 0],
+			"scale": [0.99, 0.99, 0.99]
+		},
+		"head": {
+			"rotation": [0.72, 39.54, -169.49],
+			"translation": [2, 10.5, -2],
+			"scale": [1.49, 1.49, 1.49]
+		},
+		"fixed": {
+			"translation": [9, 9, 0],
+			"scale": [3.6, 3.6, 1.5]
+		},
+		"on_shelf": {
+			"translation": [5.5, 3.5, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}
